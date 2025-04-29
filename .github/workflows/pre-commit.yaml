@@ -21,7 +21,7 @@ jobs:
       - uses: actions/cache@v4
         with:
           path: ~/.cache/pre-commit
-          key: pre-commit|${{ env.PY }}|${{ hashFiles('.pre-commit-config.yaml') }}
+          key: pre-commit|${{ env.PY }}|${{ hashFiles('.pre-commit-config.yaml', 'pre_commit_hooks/**') }}
       - name: Install pre-commit
         run: pip install pre-commit
       - name: Run pre-commit
