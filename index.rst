@@ -1,4 +1,4 @@
-Curq
+CURQ
 ====
 
 Add your content using ``reStructuredText`` syntax. See the

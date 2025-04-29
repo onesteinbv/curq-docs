@@ -20,3 +20,11 @@ repos:
         additional_dependencies:
           - rstcheck==6.2.4
           - rstcheck[sphinx]==6.2.4
+      - id: check-brand-names
+        name: Check brand names
+        language: python
+        entry: python pre_commit_hooks/check_brand_names.py
+        files: \.rst$
+        args:
+          - -b
+          - CURQ,GitHub
