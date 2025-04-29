@@ -3,10 +3,20 @@ repos:
     rev: v5.0.0
     hooks:
       - id: check-case-conflict
+      - id: end-of-file-fixer
+      - id: trailing-whitespace
   - repo: local
     hooks:
-      - id: test
-        name: test
+      - id: check-file-names
+        name: Check file names
         language: python
         entry: python pre_commit_hooks/check_file_names.py
         files: ^docs/
+      - id: check-rst
+        name: Lint reStructuredText files
+        language: python
+        entry: rstcheck
+        files: ^docs/
+        additional_dependencies:
+          - rstcheck==6.2.4
+          - rstcheck[sphinx]==6.2.4
