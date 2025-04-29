@@ -12,6 +12,11 @@ repos:
         language: python
         entry: python pre_commit_hooks/check_file_names.py
         files: ^docs/
+      - id: detect-empty-files
+        name: Detect empty files
+        language: python
+        entry: python pre_commit_hooks/detect_empty_files.py
+        files: ^docs/.*\.rst$
       - id: check-rst
         name: Lint reStructuredText files
         language: python
