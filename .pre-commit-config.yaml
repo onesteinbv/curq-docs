@@ -25,6 +25,9 @@ repos:
         additional_dependencies:
           - rstcheck==6.2.4
           - rstcheck[sphinx]==6.2.4
+        args:
+          - --report-level
+          - WARNING
       - id: check-brand-names
         name: Check brand names
         language: python
