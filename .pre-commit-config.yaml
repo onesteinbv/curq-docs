@@ -1,0 +1,12 @@
+repos:
+  - repo: https://github.com/pre-commit/pre-commit-hooks
+    rev: v5.0.0
+    hooks:
+      - id: check-case-conflict
+  - repo: local
+    hooks:
+      - id: test
+        name: test
+        language: python
+        entry: python pre_commit_hooks/check_file_names.py
+        files: ^docs/
