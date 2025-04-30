@@ -36,3 +36,8 @@ repos:
         args:
           - -b
           - CURQ,GitHub
+      - id: check-media-directory
+        name: Check all media is in media directory
+        language: python
+        entry: python pre_commit_hooks/check_media_directory.py
+        files: ^docs/.*(\.png|.jpg)$
