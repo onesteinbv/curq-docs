@@ -25,7 +25,7 @@ msgstr ""
 
 #: ../../index.rst:2
 msgid "CURQ"
-msgstr "KURK"
+msgstr "CURQ"
 
 #: ../../index.rst:4
 msgid ""

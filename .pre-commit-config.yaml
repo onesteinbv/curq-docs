@@ -32,7 +32,7 @@ repos:
         name: Check brand names
         language: python
         entry: python pre_commit_hooks/check_brand_names.py
-        files: \.rst$
+        files: (\.rst|\.po)$
         args:
           - -b
           - CURQ,GitHub

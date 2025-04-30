@@ -20,12 +20,13 @@ def check_brand_names(argv = None):
     patterns = {}
     for brand_name in args.brand_names:
         patterns[brand_name] = (
-            re.compile(rf"\b{brand_name}\b", re.IGNORECASE)
+            re.compile(rf"(?<!\/\/)\b{brand_name}\b", re.IGNORECASE)
         )
 
     exit_code = 0
+    exts = (".rst", ".md", ".po")
     for filename in args.filenames:
-        if not filename.endswith(".rst") and not filename.endswith(".md"):
+        if not filename.endswith(exts):
             continue
 
         with open(filename) as fh:
