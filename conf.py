@@ -4,16 +4,17 @@ author = "Onestein"
 
 extensions = []
 
-templates_path = ["_templates"]
-exclude_patterns = []
+templates_path = ["templates"]
+exclude_patterns = [".venv", "build"]
 locale_dirs = ["locale/"]
-gettext_compact = False
-
+gettext_compact = True
+gettext_uuid = True
+figure_language_filename = "{root}.{language}{ext}"
 language = "nl"
 
 # Theme options
 html_theme = "furo"
-html_static_path = ["_static"]
+html_static_path = ["static"]
 html_css_files = ["custom.css"]
 html_theme_options = {
     "sidebar_hide_name": True,
