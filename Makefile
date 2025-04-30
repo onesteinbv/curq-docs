@@ -2,6 +2,7 @@ SPHINXOPTS    ?=
 SPHINXBUILD   ?= sphinx-build
 SOURCEDIR     = .
 BUILDDIR      = build
+LOCALEDIR     = locale
 
 .PHONY: help Makefile
 help:
@@ -20,6 +21,9 @@ html:
 	mv "$(BUILDDIR)/nl/html" "$(BUILDDIR)/html"
 	mv "$(BUILDDIR)/en/html" "$(BUILDDIR)/html/en"
 
+.PHONY: update-po Makefile
+update-po:
+	$(MAKE) gettext && sphinx-intl update -p $(BUILDDIR)/gettext -l en -j 1
 
 # Catch-all target: route all unknown targets to Sphinx using the new
 # "make mode" option.  $(O) is meant as a shortcut for $(SPHINXOPTS).
