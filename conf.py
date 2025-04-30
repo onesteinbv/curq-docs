@@ -1,4 +1,4 @@
-project = "Curq"
+project = "CURQ"
 copyright = "2025, Onestein"
 author = "Onestein"
 
@@ -8,8 +8,8 @@ templates_path = ["templates"]
 exclude_patterns = [".venv", "build"]
 locale_dirs = ["locale/"]
 gettext_compact = True
-gettext_uuid = True
-figure_language_filename = "{root}.{language}{ext}"
+gettext_uuid = False
+figure_language_filename = "/locale/{language}/LC_MESSAGES/{docpath}{root}{ext}"
 language = "nl"
 
 # Theme options
