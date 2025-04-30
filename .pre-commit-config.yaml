@@ -11,17 +11,17 @@ repos:
         name: Check file names
         language: python
         entry: python pre_commit_hooks/check_file_names.py
-        files: ^docs/
+        files: ^docs\/
       - id: detect-empty-files
         name: Detect empty files
         language: python
         entry: python pre_commit_hooks/detect_empty_files.py
-        files: ^docs/.*\.rst$
+        files: ^docs\/.*\.rst$
       - id: check-rst
         name: Lint reStructuredText files
         language: python
         entry: rstcheck
-        files: ^docs/
+        files: ^docs\/
         additional_dependencies:
           - rstcheck==6.2.4
           - rstcheck[sphinx]==6.2.4
@@ -40,4 +40,4 @@ repos:
         name: Check all media is in media directory
         language: python
         entry: python pre_commit_hooks/check_media_directory.py
-        files: ^docs/.*(\.png|.jpg)$
+        files: ^docs\/.*(\.png|\.jpg|\.jpeg)$
