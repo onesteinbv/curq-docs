@@ -11,8 +11,9 @@ def check_file_names(argv = None):
     args = parser.parse_args(argv)
 
     exit_code = 0
+    exts = (".png", ".jpg", ".jpeg")
     for filename in args.filenames:
-        if not filename.endswith(".png") and not filename.endswith(".jpg"):
+        if not filename.endswith(exts):
             continue
         file_dir = os.path.dirname(filename).split("/")[-1]
         if file_dir != "media":
