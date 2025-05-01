@@ -34,3 +34,9 @@ directe invoer door gebruikers. Deze flexibiliteit zorgt ervoor dat alle gebruik
 toegang hebben tot de servicedeskfunctionaliteiten.
 
 In het onderdeel Helpdesk Advanced gaan wij verder in op de inrichting van de helpdeskmodule.
+
+
+.. toctree::
+    :maxdepth: 2
+
+    helpdesk-advanced

@@ -101,8 +101,6 @@ door de rekening handmatig op te zoeken.
    :width: 6.69306in
    :height: 3.08125in
 
-.. image:: media/image11.png
-
 Scenario 2: klant betaalt bijna de gehele factuur, maar een bedrag van een paar cent blijft open staan.
 Indien dit vaker voor komt dan kun je ervoor kiezen het standaard aflettermodel 'perfecte matching' iets aan te vullen.
 Wanneer je de tolerantie iets aanpast en vervolgens ook een grootboekrekening toevoegt aan het model,

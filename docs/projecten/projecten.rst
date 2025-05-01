@@ -72,3 +72,10 @@ eenheid als uren worden ingesteld om de opgegeven uren te verkopen.
 
 Wanneer het product is aangemaakt, worden ook meteen de geselecteerde opties aangemaakt met de naam die aan het product is gegeven.
 Wanneer er uren op het project worden geschreven, kunnen deze gefactureerd worden via de verkoopmodule.
+
+.. toctree::
+    :maxdepth: 2
+
+    projecten-taken
+    urenstaten-gebruiker
+    urenstaten-goedkeuren

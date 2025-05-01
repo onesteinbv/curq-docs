@@ -111,3 +111,4 @@ Inkoopmodule.
     inkoop-inkoopovereenkomst
     inkoop-inkoop-in-verschillende-maateenheden
     inkoop-aanvulopdrachten
+    inkoop-extra-kosten-voor-producten-logistieke-kosten

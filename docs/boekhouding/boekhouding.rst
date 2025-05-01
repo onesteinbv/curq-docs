@@ -72,3 +72,6 @@ jij nog geld verschuldigd bent, wat valt onder kortlopende leningen.
     prijslijsten
     valuta
     kilometerregistratie
+    leveranciersfacturen-preview
+    rapportages-boekhoudkundig
+    verkoopfacturen-incoterms
