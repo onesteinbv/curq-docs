@@ -1,5 +1,5 @@
 Agenda
-====================================================================
+======
 
 De Kalender functionaliteit kom je op veel plaatsen tegen in CURQ. De module registreert en beheert alle afspraken,
  urenstaten en andere gerelateerde informatie.

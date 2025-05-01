@@ -1,5 +1,5 @@
 Zoek- en filterfunctie
-====================================================================
+======================
 
 Binnen CURQ zijn drie opties beschikbaar om specifiekere informatie te kunnen vinden: filteren, groeperen en de zoekbalk.
 Deze functionaliteit vind je bij alle menu's binnen CURQ terug en helpt je om sneller de uiste informatie te kunnen terugvinden.

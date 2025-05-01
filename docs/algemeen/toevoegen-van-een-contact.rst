@@ -1,5 +1,5 @@
 Contacten
-====================================================================
+=========
 
 In CURQ vind je alle relaties terug onder 1 hoofdmenu 'Contacten'. Het gaat niet alleen om bedrijven (zowel klanten als leveranciers),
 personen, maar ook de interne medewerkers.
@@ -10,7 +10,7 @@ Om een contact onder een bedrijf aan te maken, ga naar de Contacten en klik op d
 .. image:: media/toevoegen-van-een-contact002.png
 
 Vul de relevante informatie in
----------------------------------------------------------------------------------------------------
+------------------------------
 
 Voer alle benodigde informatie van het hoofdveld in voor de nieuwe klant, zoals naam, type (individu of bedrijf), adres, contactgegevens,
 de website, de taal waarmee het contact wordt benaderd en labels om contacten te identificeren en groeperen. Ook kun je een foto toevoegen.
@@ -20,7 +20,7 @@ ingeeft.
 .. image:: media/toevoegen-van-een-contact003.png
 
 Contacten en adressen
----------------------------------------------------------------------------------------------------
+---------------------
 
 Om een contactpersoon of extra adres aan een bedrijf toe te voegen, selecteer 'Toevoegen' in het venster Contacten & Adressen, onderaan
 het scherm. Je kan meerdere types kiezen, bijvoorbeeld als er verschillende  afleveradressen zijn.
@@ -29,12 +29,12 @@ het scherm. Je kan meerdere types kiezen, bijvoorbeeld als er verschillende  afl
 
 
 Verkoop en inkoop
----------------------------------------------------------------------------------------------------
+-----------------
 
 .. image:: media/toevoegen-van-een-contact005.png
 
 Verkoop
----------------------------------------------------------------------------------------------------
+-------
 
 * **Verkoper**. Gebruik dit veld om de klant verantwoordelijke aan te geven. Let op dat je (verkoop)rapportages kan baseren op dit veld.
   Wijzigingen op dit veld heeft dus direct gevolg op deze rapportages.
@@ -45,14 +45,14 @@ Verkoop
   eventueel te wijzigen). Voor meer informatie over het aanmaken van prijslijsten, raadpleeg de prijslijst documentatie.
 
 Fiscale informatie
----------------------------------------------------------------------------------------------------
+------------------
 
 Met de fiscale positie bepaalt CURQ de te gebruiken BTW code op een factuur regel. De fiscale positie wordt via de standaard instellingen
 van menu 'Fiscale posities' berekend, dus je hoeft hier alleen een waarde in te geven als die afwijkt van de standaard.
 
 
 Inkoop
----------------------------------------------------------------------------------------------------
+------
 
 * **Betaalcondities:** Die door de leverancier zijn ingesteld.
 * **Betaalwijze:** Betaalwijze aan de leverancier. Vul hier bijvoorbeeld SEPA in als je de inkoopfacturen altijd met een SEPA batch betaalt.
@@ -61,7 +61,7 @@ Inkoop
 * **Valuta leverancier** Instelling van de valuta die de leverancier accepteert.
 
 Overige
----------------------------------------------------------------------------------------------------
+-------
 * **Ondernemingsnummer:** Voor wanneer er een registratie nummer is dat afwijkt van het BTW nummer
 * **Referentie:** Dit veld kan gebruikt worden voor het snel zoeken naar het contact.
 * **Website:** Wanneer je meerdere websites binnen CURQ hebt, dan kun je hier aangeven tot welke website het contact toegang heeft
@@ -69,7 +69,8 @@ Overige
 * **Industrie:** Het type industrie waar het bedrijf onder valt (alleen zichtbaar wanneer het contact een bedrijf is).
 
 Facturatie:
----------------------------------------------------------------------------------------------------
+-----------
+
 Onder Facturatie kun je de bankrekening van het contact invullen.
 
 Je kan meerdere bankrekeningen invullen, per bank geef je aan of deze rekening gebruikt mag worden bij betalingen. Let op dat de
@@ -83,7 +84,8 @@ Hier kun je aanvullende interne informatie over de klant ingeven.
 .. image:: media/toevoegen-van-een-contact007.png
 
 Abonnementen (module afhankelijk)
----------------------------------------------------------------------------------------------------
+---------------------------------
+
 Onder het abonnementen veld staan alle abonnementen waar het contact op geabonneerd is met de volgende onderdelen
 
 * **Abonnementen:** Hier worden de namen van de abonnementen weergegeven
@@ -97,7 +99,7 @@ Onder het abonnementen veld staan alle abonnementen waar het contact op geabonne
 .. image:: media/toevoegen-van-een-contact008.png
 
 Partnertoekenning (module afhankelijk)
----------------------------------------------------------------------------------------------------
+--------------------------------------
 
 .. image:: media/toevoegen-van-een-contact009.png
 
