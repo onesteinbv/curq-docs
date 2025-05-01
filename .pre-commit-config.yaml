@@ -5,6 +5,12 @@ repos:
       - id: check-case-conflict
       - id: end-of-file-fixer
       - id: trailing-whitespace
+  - repo: https://github.com/PyCQA/doc8
+    rev: v1.1.2
+    hooks:
+      - id: doc8
+        args: [--max-line-length=140]
+        files: \.rst$
   - repo: local
     hooks:
       - id: check-file-names
