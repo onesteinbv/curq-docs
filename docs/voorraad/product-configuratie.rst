@@ -23,14 +23,14 @@ In dit voorbeeld maak ik gebruik van toegang via de Voorraad app. Als je
 deze procedure volgt, krijg je een overzicht te zien van enkele
 'standaard' geïnstalleerde producten.
 
-.. image:: product-configuratie-media/image2.png
+.. image:: media/image2.png
    :width: 6.26806in
    :height: 1.18056in
 
 
 Rechtsboven (foto onder)vind je de zoekbalk:
 
-.. image:: product-configuratie-media/image3.png
+.. image:: media/image3.png
    :width: 6.45347in
    :height: 1.49028in
 
@@ -93,7 +93,7 @@ Dit veld wordt gebruikt om de voorraad te waarderen en om marges op
 verkooporders te berekenen. De voorraadwaardering stel je in op
 productcategorie. Bij gemiddelde kostprijs en FIFO wordt de kostprijs automatisch berekend.
 
-.. image:: product-configuratie-media/image4.png
+.. image:: media/image4.png
    :width: 6.05764in
    :height: 3.46111in
 
@@ -134,7 +134,7 @@ gewogen gemiddelde waarde van het product.
 **Voorraadwaardering:** hierbij de keuze om de voorraadberekening
 (boekingen) handmatig uit te voeren of geautomatiseerd.
 
-.. image:: product-configuratie-media/image5.png
+.. image:: media/image5.png
    :width: 7.08194in
    :height: 2.34097in
 
@@ -154,7 +154,7 @@ filteren op basis van deze kenmerken.
 Tab Kenmerken en varianten
 ---------------------------------------------------------------------------------------------------
 
-.. image:: product-configuratie-media/image6.png
+.. image:: media/image6.png
    :width: 6.26806in
    :height: 2.48611in
 
@@ -173,14 +173,14 @@ aangemaakt wanneer ze daadwerkelijk worden verkocht, wat geen invloed
 heeft op de database prestaties.
 *
 
-.. image:: product-configuratie-media/image7.png
+.. image:: media/image7.png
    :width: 4.39028in
    :height: 2.77222in
 
 Tab Verkoop
 ---------------------------------------------------------------------------------------------------
 
-.. image:: product-configuratie-media/image8.png
+.. image:: media/image8.png
    :width: 6.26806in
    :height: 4.40278in
 
@@ -209,7 +209,7 @@ Tab Verkoop
 Tab Inkoop
 ---------------------------------------------------------------------------------------------------
 
-.. image:: product-configuratie-media/image9.png
+.. image:: media/image9.png
    :width: 6.26806in
    :height: 3.29167in
 
@@ -217,7 +217,7 @@ In dit overzicht kun je één of meerdere leveranciers koppelen met de
 bijbehorende inkoopprijzen en levertijden. Via de filterknop zijn
 meerdere 'standaard' velden zichtbaar te maken (zie onder).
 
-.. image:: product-configuratie-media/image10.png
+.. image:: media/image10.png
    :width: 2.71319in
    :height: 1.98681in
 
@@ -233,7 +233,7 @@ voor het inkoopproces.
 Tab Voorraad
 ---------------------------------------------------------------------------------------------------
 
-.. image:: product-configuratie-media/image11.png
+.. image:: media/image11.png
    :width: 6.26806in
    :height: 3.75in
 
@@ -263,7 +263,7 @@ Tab Voorraad
 Tab Boekhouding
 ---------------------------------------------------------------------------------------------------
 
-.. image:: product-configuratie-media/image12.png
+.. image:: media/image12.png
    :width: 6.26806in
    :height: 2.31944in
 
@@ -276,7 +276,7 @@ Slimme Knoppen
 Met de slimme knoppen aan de bovenkant van het productblad heb je direct
 inzicht in overige productinformatie:
 
-.. image:: product-configuratie-media/image13.png
+.. image:: media/image13.png
    :width: 6.26806in
    :height: 2.125in
 

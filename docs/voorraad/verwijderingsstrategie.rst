@@ -8,7 +8,7 @@ Wanneer een product moet worden verplaatst, vindt Curq beschikbare producten die
 
 Om de verwijderingsstrategie te wijzigen, ga naar Configuratie -> Locaties of Productcategorieën. Klik op een Locatie of Productcategorie en klik vervolgens op Bewerken. Wijzig de verplichte verwijderingsstrategie van de productcategorie of de verwijderingsstrategie van de locatie door op het vervolgkeuzemenu te klikken en de gewenste verwijderingsstrategie te selecteren. Nadat de nieuwe verwijderingsstrategie is geselecteerd, klik op Opslaan.
 
-.. image:: product-configuratie-media/image104.png
+.. image:: media/image104.png
 
 Wat gebeurt er binnen in het magazijn?
 --------------------------------------
@@ -17,13 +17,13 @@ De meeste magazijnen delen dezelfde belangrijke gebieden: ontvangst- en sorteerp
 
 In het onderstaande voorbeeld lossen leveranciersvrachtwagens pallets met goederen bij de ontvangstplatforms. Vervolgens scannen operators de producten op het ontvangstgebied, met de ontvangst- en vervaldatum. Daarna worden de producten opgeslagen op hun respectieve opslaglocaties.
 
-.. image:: product-configuratie-media/image105.png
+.. image:: media/image105.png
 
 In Curq kun je producten ontvangen door naar de Voorraad Dashboard te gaan en in de kanban-weergave te klikken op ofwel de kop 'Ontvangsten' of de knop '# TE VERWERKEN'. Op het dashboard 'Ontvangsten' zoek je en klik je op de individuele ontvangst, wat het formulier voor het ontvangen van de goederen opent. Klik op Bewerken en voer vervolgens de ontvangen hoeveelheid in de kolom 'Gereed' in. Klik om af te ronden op Valideren om de producten te ontvangen en ze te registreren in de Curq database.
 
 Vervolgens, in hetzelfde voorbeeld hieronder, stel je je voor dat er verschillende verkooporders worden gemaakt voor de eerder ontvangen producten, waarbij vervaldatums worden gebruikt. In dit voorbeeld zijn de producten niet op dezelfde dag ontvangen en hebben ze niet dezelfde vervaldatum. In deze situatie heeft het logischerwijs de voorkeur om producten met de dichtstbijzijnde vervaldatum te verzenden, in plaats van producten die als eerste of als laatste zijn ontvangen. Met gebruik van de gekozen verwijderingsstrategie geconfigureerd voor die producten (in dit voorbeeld, FEFO), genereert Curq een overdracht voor de producten met de eerstvolgende vervaldatum naar het pickgebied, vervolgens naar het verpakkingsgebied, en ten slotte naar de verzendplatforms voor levering aan de klant.
 
-.. image:: product-configuratie-media/image106.png
+.. image:: media/image106.png
 
 Hoe elke verwijderingsstrategie werkt
 -------------------------------------
@@ -40,7 +40,7 @@ Partij 00001 kwam op 23 mei binnen, partij 00002 op 25 mei, en partij 00003 op 1
 
 Met gebruik van de FIFO verwijderingsstrategie zal een overdrachtsaanvraag eerst de vijf dozen uit partij 00001 selecteren, en vervolgens uit de dozen in partij 00002, omdat partij 00001 als eerste in de voorraad kwam. De doos uit partij 00002 wordt vervolgens genomen omdat deze de oudste ontvangstdatum heeft na partij 00001.
 
-.. image:: product-configuratie-media/image107.png
+.. image:: media/image107.png
 
 Last In, First Out (LIFO)
 -------------------------
@@ -55,7 +55,7 @@ Bijvoorbeeld, stel je voor dat er drie partijen dozen schroeven in het magazijn 
 Partij 10001 kwam op 1 juni in voorraad, partij 10002 op 3 juni en partij 10003 op 6 juni. Een klant bestelt op 8 juni zeven dozen.
 Met gebruik van de LIFO-verwijderingsstrategie wordt een overdracht aangevraagd voor zeven dozen schroeven uit partij 10003 omdat dat lot het laatste is dat in voorraad is gekomen.
 
-.. image:: product-configuratie-media/image108.png
+.. image:: media/image108.png
 
 First Expired, First Out (FEFO)
 -------------------------------
@@ -70,16 +70,16 @@ Partij 20001 kwam op 1 juli in voorraad en verloopt op 15 juli, partij 20002 kwa
 
 Met gebruik van de FEFO-methode wordt een overdracht aangevraagd voor de vijf dozen uit partij 20002 en één uit partij 20001. Alle dozen in partij 20002 worden overgebracht omdat ze de vroegste vervaldatum hebben. De overdracht vraagt ook één doos uit partij 20001 omdat deze de eerstvolgende vervaldatum heeft na partij 20002.
 
-.. image:: product-configuratie-media/image109.png
+.. image:: media/image109.png
 
 Gebruik van verwijderingsstrategieën
 ------------------------------------
 
 Om sommige eenheden van producten te onderscheiden van andere, moeten de eenheden worden bijgehouden, hetzij per lotnummer of serienummer. Ga hiervoor naar Voorraad ‣ Configuratie ‣ Instellingen. Activeer vervolgens de instellingen voor Opslaglocaties, Meerstapsroutes en Lotnummers & Serienummers. Klik op Opslaan.
 
-.. image:: product-configuratie-media/image110.png
+.. image:: media/image110.png
 
-.. image:: product-configuratie-media/image111.png
+.. image:: media/image111.png
 
 *Note: Om de FEFO (First Expired, First Out) verwijderingsstrategie te gebruiken, moet ook de instelling voor Vervaldatums worden geactiveerd. Ga hiervoor naar de Voorraad-app ‣ Configuratie ‣ Instellingen, scrol omlaag naar de sectie Traceerbaarheid en klik op het selectievakje naast Vervaldatums. Vergeet niet op Opslaan te klikken om alle wijzigingen op te slaan.*
 
@@ -104,6 +104,6 @@ Lot/Serienummers
 ----------------
 Om alle producten te bekijken waarbij lot- of serienummers aan hen zijn toegewezen, navigeer je naar de Voorraad-app ‣ Producten ‣ Lots/Serienummers. Hiermee wordt een pagina geopend met vervolgkeuzemenu's van alle producten met toegewezen lot- of serienummers, standaard gefilterd op product. Om de categorie te wijzigen waarop deze producten zijn gefilterd, klik je op Product (in de zoekbalk, rechtsboven op de pagina) om het standaardfilter te verwijderen, en selecteer je indien gewenst een nieuw filter.
 
-.. image:: product-configuratie-media/image112.png
+.. image:: media/image112.png
 
 Om de serienummers te bekijken die worden geselecteerd voor een verkooporder, ga naar de Verkoop-app en selecteer de betreffende verkooporder. Klik in de verkooporder op de knop Aflevering in de rechterbovenhoek. In het tabblad Handelingen klik je op het ⦙≣ (Gedetailleerde Handelingen) icoon helemaal rechts voor het desbetreffende product. Het venster Gedetailleerde Handelingen verschijnt en toont de lot- of serienummers die zijn geselecteerd voor dat specifieke product voor de afleveringsorder.

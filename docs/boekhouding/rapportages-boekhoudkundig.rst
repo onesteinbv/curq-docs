@@ -22,15 +22,13 @@ Filter opties
 Je kan het rapport filteren zodat bijvoorbeeld alleen de debiteuren of crediteuren getoond worden.
 Het is ook mogelijk het rapport via aanvullende filter regels samen te stellen. Je doet dit op het tabblad 'Aanvullende filters'. Via de knop 'Domein' kun je meerdere selectieregels opgeven.
 
-
-
-.. image:: my-ponto-bank-feed-media/boekhoudrapportages-grootboek.png
+.. image:: rapportages/media/boekhoudrapportages-grootboek.png
        :width: 6.3in
        :height: 2.93264in
 
 Na maken van de selectie kun je vervolgens de detailinformatie van de regels inzien door op de velden te klikken die blauw gekleurd zijn.
 
-.. image:: my-ponto-bank-feed-media/boekhoudrapportages-grootboek-resultaat.png
+.. image:: rapportages/media/boekhoudrapportages-grootboek-resultaat.png
        :width: 6.3in
        :height: 2.93264in
 

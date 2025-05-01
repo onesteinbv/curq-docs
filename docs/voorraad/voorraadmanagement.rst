@@ -12,13 +12,13 @@ Product categorieën
 -------------------
 Door het configureren van productcategorieën kun je producten onderbrengen en groeperen in verschillende categorieën. Het vaststellen van deze categorieën is een cruciale stap om verschillende handelingen met betrekking tot uw producten te beheren. Bovendien biedt deze functie de mogelijkheid om producten te filteren op basis van hun categorieën. Je vindt de optie Productcategorieën in het configuratiemenu van de voorraadmodule.
 
-.. image:: product-configuratie-media/image14.png
+.. image:: media/image14.png
 
 In dit overzicht vind je een aantal productcategorieën die standaard zijn geconfigureerd in de voorraadmodule. Met de knop *Nieuw* kun je gemakkelijk een nieuwe categorie aanmaken.
 
-.. image:: product-configuratie-media/image15.png
+.. image:: media/image15.png
 
-.. image:: product-configuratie-media/image16.png
+.. image:: media/image16.png
 
 Stel een naam in voor de nieuwe categorie in de daarvoor bestemde ruimte. Indien deze categorie onder een hoofdcategorie valt, kun je deze in het betreffende veld specificeren. De verwijderingsstrategie definieert de strategie om een product van de bronlocatie te verwijderen. We bespreken de verwijderingsstrategie in een aparte handleiding.
 
@@ -32,7 +32,7 @@ De rekeningen die worden gebruikt bij het valideren van een klantfactuur en leve
 
 De voorraadwaardering kan worden ingesteld als **Handmatig** en **Geautomatiseerd**. Wanneer je de optie *handmatig* selecteert, dienen de boekingen voor het waarderen van de inventaris handmatig te worden ingevoerd. Echter, bij de *automatische* voorraadwaardering wordt automatisch een boekhoudkundige boeking aangemaakt voor de waardering van de inventaris zodra een product de inventaris binnenkomt of verlaat. Wanneer je kiest voor *automatische* voorraadwaardering, worden er extra velden beschikbaar gesteld om de grootboekrekeningen en dagboek te definiëren.
 
-.. image:: product-configuratie-media/image17.png
+.. image:: media/image17.png
 
 **Voorraadwaarde rekening**: Als geautomatiseerde voorraadwaardering is ingeschakeld voor een product, zal deze rekening de actuele waarde van de producten bevatten.
 
@@ -56,36 +56,36 @@ Serienummers daarentegen worden gebruikt voor individuele producten in de voorra
 
 Om de volledige functionaliteit van traceerbaarheid in de Voorraad module te activeren, ga je naar het menu Instellingen. Daar vind je onder het tabblad *Traceerbaarheid* de optie om Partijen & serienummers te activeren.
 
-.. image:: product-configuratie-media/image27.png
+.. image:: media/image27.png
 
 Nadat deze functie is geactiveerd, vind je een extra submenu *Partij/serienummers* onder het menu *Producten* van de Voorraadmodule.
 
-.. image:: product-configuratie-media/image28.png
+.. image:: media/image28.png
 
 Bij het openen zie je vooraf de geconfigureerde lijst met partij- en serienummers. In de lijstweergave worden details weergegeven zoals het partij/serienummer, het interne referentienummer, het product en de aanmaakdatum.
 
 Om de traceerbaarheid van een product te bepalen, navigeer je naar het tabblad **Voorraad** in de weergave van het product formulier.
 
-.. image:: product-configuratie-media/image29.png
+.. image:: media/image29.png
 
 
 Je kunt de traceerbaarheid instellen op basis van unieke serienummers of partijen. Als je geen traceerbaarheid voor het product wilt instellen, kun je de optie *Geen tracering* selecteren.
 
 Wanneer je een nieuw product ontvangt in de voorraad, kun je een nieuw lot/serienummer toewijzen aan dat product. Dit kan worden gedaan voor een bevestigde inkooporder.
 
-.. image:: product-configuratie-media/image30.png
+.. image:: media/image30.png
 
 Om een nieuw lot/serienummer aan een product toe te kennen, kun je klikken op de knop *Detail* op de inkooporder.
 
-.. image:: product-configuratie-media/image31.png
+.. image:: media/image31.png
 
 In de pop-upvenster kan het lot/serienummer voor dit product worden toegevoegd. Er is een mogelijkheid om serienummers automatisch toe te wijzen, of deze handmatig in te stellen (regel toevoegen).
 
-.. image:: product-configuratie-media/image32.png
+.. image:: media/image32.png
 
 
 Op het productblad is er een smartbutton *Partijen/serienummers* beschikbaar waarbij je de voorraad op serienummer kan bekijken.
 
-.. image:: product-configuratie-media/image33.png
+.. image:: media/image33.png
 
-.. image:: product-configuratie-media/image34.png
+.. image:: media/image34.png

@@ -4,22 +4,22 @@ Kortingen, Loyaliteit & Cadeaubonnen
 
 Het gebruik van promoties, kortingsbonnen en cadeaubonnen kan de zichtbaarheid van je product vergroten en de verkoop stimuleren. Om deze functie te activeren, ga je naar menu **Instellingen** in de configuratie en schakel je *Kortingen, loyaliteit & cadeaubonnen* in onder het gedeelte Prijzen.
 
-.. image:: verkoop-media/035.png
+.. image:: media/035.png
 
 Deze update voegt twee nieuwe keuzemogelijkheden toe aan de vervolgkeuzelijst van het tabblad Producten: *Korting & loyaliteit* en *Cadeaubonnen & eWallet*.
 
-.. image:: verkoop-media/036.png
+.. image:: media/036.png
 
 Korting & loyaliteit
 --------------------
 
 Deze functionaliteit helpt bij het beheren van kortingen en het aanbieden van speciale deals aan loyale klanten. Binnen het venster *Korting & loyaliteit* worden bestaande promotieprogramma's weergegeven, inclusief de bijbehorende kortingen, coupons en klantenkaarten.
 
-.. image:: verkoop-media/037.png
+.. image:: media/037.png
 
 Hier zijn de details beschikbaar, zoals de naam van het programma, het programma type, items, en website. Je kunt gebruik maken van *Filters* en *Groeperen op* om deze gegevens te sorteren en te categoriseren op verschillende criteria. Met de *Favorieten* optie kun je de meest gebruikte filters en groepen opslaan voor gemakkelijke toegang. Klik op de knop *Nieuw* om een nieuw programma toe te voegen aan de lijst.
 
-.. image:: verkoop-media/038.png
+.. image:: media/038.png
 
 Geef het nieuwe programma een naam in het veld *Programmanaam*. In de vervolgkeuzelijst *Programmatype* vind je opties zoals *Kortingsbonnen, Klantenkaarten, Promoties, Kortingscodes, Koop X Krijg Y en Kortingsbonnen volgende bestelling*, waaruit je het toepasselijke type kan selecteren voor de record. Hierbij een korte uitleg:
 
@@ -41,13 +41,13 @@ De Programmatrigger wordt automatisch bijgewerkt op basis van het *Programmatype
 
 Op het tabblad Regels & beloningen kun je de voorwaarden definiëren waaronder klanten gebruik kunnen maken van de beloningen. Om regels voor het toekennen van punten te maken en te beheren, klik je op *Toevoegen* onder *Voorwaardelijke regels*.
 
-.. image:: verkoop-media/039.png
+.. image:: media/039.png
 
 Onder *Voorwaarden*, geef je de minimale hoeveelheid en minimale aankoop (tarief) op. In het gedeelte *Tussen* kun je details invoeren met betrekking tot de klanten waarop de regel van toepassing is. Definieer Product Domein, Producten, Categorieën en Product label. Je kunt de beloningspunten en hun details instellen in de sectie Punt(en). Geef het aantal punten op in het veld *Toekennen* samen met de bijbehorende voorwaarden, zoals *per bestelling*, *per € uitgegeven* of *per stuk betaald*. Klik na het invoeren van deze gegevens op *Opslaan en sluiten*.
 
 De sectie *Beloningen* helpt je bij het instellen van extra voordelen (zoals korting) in ruil voor beloningspunten. Klik op *Toevoegen* onder *Beloningen* om deze transactievoordelen te beheren.
 
-.. image:: verkoop-media/040.png
+.. image:: media/040.png
 
 Selecteer het juiste type uit de vervolgkeuzelijst *Beloningstype*. Met dit attribuut kun je kiezen uit twee opties: *Gratis product* en *korting*. Laten we *Korting* als voorbeeld nemen. Zoals hierboven beschreven, kun je een specifieke kortingswaarde instellen op Bestelling, Goedkoopste producten of Specifieke producten. Geef de maximale korting op in het veld Max. korting.
 
@@ -60,7 +60,7 @@ In Curq heb je een functionaliteit om cadeaubonnen en eWallets aan te maken en t
 
 Zodra je op de knop 'Nieuw' klikt, wordt een nieuwe formulierweergave geopend.
 
-.. image:: verkoop-media/041.png
+.. image:: media/041.png
 
 Vul de programmanaam en het programmatype in de daarvoor bestemde velden in. Het programmatype kan Cadeaubonnen of eWallets zijn. Je kunt cadeaubonnen handmatig of automatisch genereren wanneer een klant een product bestelt dat onder de categorie cadeaubonproduct valt. Deze kunnen per e-mail worden verzonden en de klant kan ze later gebruiken om bestellingen te betalen. Voeg de cadeaubonproducten toe in het overeenkomstige veld. Stel een e-mailsjabloon in het daarvoor bestemde veld in om de cadeaubon naar de gekwalificeerde klant te sturen.
 
@@ -68,21 +68,21 @@ Voor beide opties staat de programmatrigger op *automatisch* waardoor een beloni
 
 Zodra je de configuratie hebt voltooid, kun je op de knop *Cadeaubonnen genereren* klikken. Er verschijnt dan een pop-up zoals hieronder weergegeven.
 
-.. image:: verkoop-media/042.png
+.. image:: media/042.png
 
 Je kunt cadeaubonnen aanmaken voor zowel anonieme als geselecteerde klanten. Voor geselecteerde klanten kun je hun naam en labels specificeren in de daarvoor bestemde velden. Geef het aantal cadeaubonnen dat je wilt aanmaken op in het veld *aan te maken hoeveelheid*. De punten die worden toegekend per cadeaubon kunnen worden toegevoegd in het veld *Waarde cadeaubon*. Gebruik het veld *Geldig tot* om de geldigheidsduur van de gegenereerde cadeaubonnen in te stellen.
 
 Klik vervolgens op de knop *Genereren Cadeaubon*. Hiermee worden het aangegeven aantal cadeaubonnen gegenereerd en verzonden naar de geselecteerde klanten. Vanuit de formulierweergave kun je de nieuw aangemaakte cadeaubonnen bekijken met behulp van de slimme knop.
 
-.. image:: verkoop-media/043.png
+.. image:: media/043.png
 
 Hiermee krijg je het overzicht met de cadeaubonnen voorzien van een unieke code.
 
-.. image:: verkoop-media/044.png
+.. image:: media/044.png
 
 Je kunt de knop *Delen* gebruiken om de cadeaubon op verschillende platforms te delen. Als je op de knop *Verzenden* klikt, kun je de cadeaubon naar een specifieke klant sturen.
 
-.. image:: verkoop-media/045.png
+.. image:: media/045.png
 
 
 

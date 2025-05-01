@@ -10,7 +10,7 @@ Set-up Curq
 
 Via Website - Configuratie - Instellingen, kom je bij de settings om je website(s) te beheren.
 
-.. image:: webdomein-instellen/webdomein-instellen001.png
+.. image:: media/webdomein-instellen001.png
 
 1. Geef hier het domein op van je website. **Doe dit pas als de wijziging  is doorgevoerd in de DNS settings van je domein!**
 2. Je kunt een startpagina aangeven die geopend moet worden als een bezoeker de website bezoekt. Gebruikelijk staat deze altijd op 'Homepage'  = / (teken)
@@ -18,7 +18,7 @@ Via Website - Configuratie - Instellingen, kom je bij de settings om je website(
 4. Geef de naam in van je website
 5. De Favicon die je gebruikt wordt zichtbaar in de Tab van de browser. Voorbeeld zie onder:
 
-.. image:: webdomein-instellen/webdomein-instellen002.png
+.. image:: media/webdomein-instellen002.png
 
 Redirect oude URL
 ---------------------------------------------------------------------------------------------------
@@ -32,7 +32,7 @@ Klik op **+Nieuw**
 
 Onderstaand een voorbeeld hoe een doorverwijzing kan worden ingesteld. **Belangrijk! Zet de redirect op INACTIEF!**
 
-.. image:: webdomein-instellen/webdomein-instellen003.png
+.. image:: media/webdomein-instellen003.png
 
 Bij actie heb je een 4-tal mogelijkheden:
 
@@ -48,7 +48,7 @@ Set-up DNS Server
 
 Als je inlogt bij je eigen domeinprovider, dan heb je een optie om je DNS gegevens in te stellen of te wijzigen.  Onderstaand heb ik een voorbeeld genomen van 'mijndomein'.
 
-.. image:: webdomein-instellen/webdomein-instellen004.png
+.. image:: media/webdomein-instellen004.png
 
 In bovenstaand voorbeeld dien je het IP adres van Curq in te stellen > **217.20.194.215**
 Klik vervolgens op 'Opslaan' om de wijziging te bewaren. De omzetting kan normaliter maximaal 1 uur duren voordat het is omgezet.
@@ -59,7 +59,7 @@ De laatste stappen
 1. Vul nu het domein in zoals beschreven in **Set-up Curq.**
 2. Exporteer alle redirect regels om deze in 1 x op 'Actief' te zetten. Als het goed is staan er geen regels bij redirects. Deze staan op 'Gearchiveerd'
 
-.. image:: webdomein-instellen/webdomein-instellen005.png
+.. image:: media/webdomein-instellen005.png
 
 3. Selecteer alle regels en klik op Actie - Exporteer
 4. Vinkje aanzetten 'Ik wil gegevens bijwerken' en exporteer

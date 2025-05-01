@@ -8,11 +8,11 @@ Instellingen
 
 Om de instellingen aan te passen, ga naar Configuratie > Instellingen. Hier ziet u het scherm waar de belangrijkste instellingen kunnen worden aangepast. Bovenaan het scherm ziet u instellingen van de website met de website naam. Hierachter staat "+ nieuwe website", waarmee meerdere websites kunnen worden aangemaakt. Met het dropdownmenu waar de naam wordt getoond, kunnen de verschillende websites worden gekozen.
 
-.. image:: website-configuratie/website-configuratie001.png
+.. image:: media/website-configuratie001.png
 
 Onder de websitekiezer staat website-info, hier kan de basisinformatie worden aangepast. Dit omvat het aanpassen van het domein (normaal is dit de domeinnaam van de Curq-omgeving), de URL voor de startpagina, welke talen de website biedt (de website moet zelf vertaald worden), de naam van de website voor intern gebruik, het bedrijf waar de website onder valt wanneer er een multi-company omgeving wordt gebruikt, en als laatste de favicon (dit is het icoontje dat wordt weergegeven in het tabbladvenster).
 
-.. image:: website-configuratie/website-configuratie002.png
+.. image:: media/website-configuratie002.png
 
 Onder Winkelbetaling kunnen de betalingsmogelijkheden voor de eCommerce-webshop worden ingesteld.
 
@@ -30,7 +30,7 @@ Onder SEO kunnen de opties voor het optimaliseren van de website voor zoekmachin
 
 Met de social media opties kan gekozen worden welke social media knoppen toegestaan zijn op de website.
 
-.. image:: website-configuratie/website-configuratie003.png
+.. image:: media/website-configuratie003.png
 
 Configuratie
 ---------------------------------------------------------------------------------------------------
@@ -42,4 +42,4 @@ Developer Mode
 
 Wanneer Developer Mode aangezet wordt, zijn meer opties aanwezig onder de configuratietab. Dit zijn websites, doorverwijzingen en menu's. In 'Websites' kunnen alle actieve websites bekeken, verwijderd en gewijzigd worden. Onder 'Doorverwijzingen' kunnen pagina's worden doorverwezen naar andere pagina's. In 'Menu's' kunnen alle menu's per website bekeken en aangepast worden door onderliggende menu's toe te voegen, de URL's aan te passen, de gekoppelde pagina aan te passen, te selecteren of het menu-item een megamenu is, de bovenliggende pagina's aan te passen, te selecteren of het menu-item een nieuw venster moet openen, op welke positie het menu-item in de menubalk staat, in welke website het menu-item staat, en wat de onderliggende menu's zijn.
 
-.. image:: website-configuratie/website-configuratie004.png
+.. image:: media/website-configuratie004.png

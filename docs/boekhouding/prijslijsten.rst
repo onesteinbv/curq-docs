@@ -5,17 +5,17 @@ Prijslijsten zijn noodzakelijk wanneer groepen klanten aangepaste prijzen moeten
 
 Om prijslijsten te gebruiken, moeten deze eerst worden ingeschakeld in de instellingen van verkoop.
 
-.. image:: prijslijsten/prijslijsten001.png
+.. image:: media/prijslijsten001.png
 
 In de verkoopmodule ga je naar Configuratie > Instellingen. Onder de sectie Prijzen, vink Prijslijsten aan. Onder Prijslijsten zijn er twee opties: Meerdere prijzen per product en Geavanceerde prijsstelling
 
-.. image:: prijslijsten/prijslijsten002.png
+.. image:: media/prijslijsten002.png
 
 Om naar de pagina met prijslijsten te gaan, selecteer je in de instellingen de -> Prijslijsten-knop of ga je naar het kopje Producten > Prijslijsten. Op de prijslijstpagina selecteer je de +Nieuw-knop. Hierna kom je op de pagina voor het aanmaken van een nieuwe prijslijst.
 
-.. image:: prijslijsten/prijslijsten003.png
+.. image:: media/prijslijsten003.png
 
-.. image:: prijslijsten/prijslijsten004.png
+.. image:: media/prijslijsten004.png
 
 Meerdere prijzen per product
 ---------------------------------------------------------------------------------------------------
@@ -23,7 +23,7 @@ De optie Meerdere prijzen per product is ideaal wanneer er eenvoudig en snel tij
 Op de nieuwe prijslijstpagina zijn verschillende opties aanwezig. Geef de prijslijst een naam; dit is verplicht om de prijslijst op te slaan. Selecteer hierna de valuta waarin de prijslijst wordt weergegeven; dit is voorgeselecteerd als de standaard valuta.
 Onder het kopje Prijsregels kunnen de artikelen worden geselecteerd waarvoor een andere prijs moet worden ingesteld.
 
-.. image:: prijslijsten/prijslijsten005.png
+.. image:: media/prijslijsten005.png
 
 Selecteer eerst Regel toevoegen, kies hierna het product dat een nieuwe prijs moet krijgen. Kies vervolgens de minimumhoeveelheid van het product die gekocht moet worden om de nieuwe prijs in te laten gaan. Vul hierna onder Prijs de nieuwe prijs voor het product in. Achter Prijs staan de start- en einddatum; hier kun je de datums aangeven gedurende welke tijd het product de aangepaste prijs moet hebben. Wanneer deze leeg gelaten wordt, geldt de prijs tot de prijslijst verwijderd wordt.
 Onder Configuratie zijn enkele opties aanwezig. Onder Beschikbaarheid staat de optie Landgroepen; hier kun je selecteren voor welke groepen de prijslijst geldt, zoals Europa, Noord-Amerika, SEPA-landen of enige andere die te selecteren en aan te maken zijn.
@@ -41,7 +41,7 @@ of de klant de prijslijst in de webshop kan selecteren.
 
 de code die een klant kan invullen op de webshop om toegang te krijgen tot de prijslijst.
 
-.. image:: prijslijsten/prijslijsten006.png
+.. image:: media/prijslijsten006.png
 
 Geavanceerde prijsstelling
 ---------------------------------------------------------------------------------------------------
@@ -54,11 +54,11 @@ Prijsberekening
 
 De bewerkingsoptie bepaalt wat de regel aan de prijs aanpast. Er zijn drie opties: vaste prijs, korting en formule. Onder Vaste prijs wordt de prijs aangepast naar de opgegeven prijs, hetzelfde als bij de Meerdere prijzen per product-optie.
 
-.. image:: prijslijsten/prijslijsten007.png
+.. image:: media/prijslijsten007.png
 
 Wanneer korting wordt geselecteerd, wordt het ingevoerde percentage van de prijs afgetrokken. Ook kan er een negatief getal worden ingevoerd om een percentage aan de prijs toe te voegen.
 
-.. image:: prijslijsten/prijslijsten008.png
+.. image:: media/prijslijsten008.png
 
 De Formule-knop is complexer en bevat meerdere velden die de prijs beïnvloeden.
 
@@ -78,7 +78,7 @@ Het vierde veld is de afrondmethode. Dit is de manier waarop de berekening wordt
 
 Het laatste veld, marges, kan een minimum- en maximumwinstmarge worden ingesteld, gebaseerd op de kostprijs
 
-.. image:: prijslijsten/prijslijsten009.png
+.. image:: media/prijslijsten009.png
 
 Voorwaarden
 ---------------------------------------------------------------------------------------------------

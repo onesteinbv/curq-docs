@@ -15,13 +15,13 @@ Bij het aanmaken kun je de volgende velden vullen:
 - Productcategorie
 - Verpakkingstype
 
-.. image:: product-configuratie-media/image85.png
+.. image:: media/image85.png
 
 - Opslaan naar sublocatie
 - Categorie hebben
 - Bedrijf
 
-.. image:: product-configuratie-media/image86.png
+.. image:: media/image86.png
 
 Het systeem verplaatst het product naar de locatie die is aangegeven in *Opslaan naar sublocatie* zodra het de locatie bereikt die is opgegeven in het veld *Wanneer product aankomt in*.
 Zie onderstaand voorbeeld:
@@ -35,7 +35,7 @@ WH/Stock/Laptops
 Als beide artikelen binnenkomen op WH/Stock, dan worden deze automatisch opgeslagen op de sublocatie.
 Je kunt dit dus per product doen, maar ook per productcategorie.
 
-.. image:: product-configuratie-media/image99.png
+.. image:: media/image99.png
 
 Prioriteit van wegzetregels
 ---------------------------
@@ -62,7 +62,7 @@ Voor product Volla Phone 22 zijn de volgende wegzetregels geconfigureerd:
 
 5. Items in de productcategorie All/Smartphones worden omgeleid naar WH/Stock/Stelling A2.
 
-.. image:: product-configuratie-media/image100.png
+.. image:: media/image100.png
 
 Opslag Categorieën
 ------------------
@@ -70,7 +70,7 @@ De functie *Opslag Categorieën* biedt de meest efficiënte manier om opslagloca
 
 Om deze functie te activeren, ga je naar het menu **Instellingen** en vink je de optie *Opslag Categorieën* aan onder *Magazijn*.
 
-.. image:: product-configuratie-media/image83.png
+.. image:: media/image83.png
 
 Klik op de knop *Nieuw* om een nieuwe opslagcategorie toe te voegen. Geef het nieuwe record een naam in het veld *Opslagcategorie*. Kies vervolgens een van de drie opties:
 
@@ -78,7 +78,7 @@ Klik op de knop *Nieuw* om een nieuwe opslagcategorie toe te voegen. Geef het ni
 - Als alle producten hetzelfde zijn
 - Gemengde producten toestaan, om aan te geven onder welke omstandigheden je een nieuw product wilt toestaan.
 
-.. image:: product-configuratie-media/image84.png
+.. image:: media/image84.png
 
 Onder *Capaciteit per verpakking* kun je attributen zoals het type verpakking en de hoeveelheid definiëren.
 
@@ -92,12 +92,12 @@ Selecteer *Als alle producten hetzelfde zijn* in het veld *Nieuw product toestaa
 
 Tevens stellen we de verpakkingscapaciteit in het tabblad *Capaciteit per verpakking*, waarbij het aantal verpakkingen voor het aangewezen verpakkingstype wordt gespecificeerd en een maximum van 2 pallets wordt ingesteld voor een specifieke locatie.
 
-.. image:: product-configuratie-media/image101.png
+.. image:: media/image101.png
 
 Nadat de instellingen voor de opslagcategorie zijn opgeslagen, kan de opslagcategorie worden gekoppeld aan een locatie.
 Ga hiervoor naar de locatie (Configuratie -> Locaties), en selecteer de specifieke locatie. Klik op Bewerken en selecteer de aangemaakte categorie in het veld Opslagcategorie.
 
-.. image:: product-configuratie-media/image102.png
+.. image:: media/image102.png
 
 Opslagcategorieën in wegzetregels
 ---------------------------------
@@ -111,4 +111,4 @@ Stel dat er één pallet met Volla Phones 22 wordt ontvangen:
 
 - Als PAL1 en PAL2 vol zijn, wordt de pallet omgeleid naar WH/Stock/Pallets.
 
-.. image:: product-configuratie-media/image103.png
+.. image:: media/image103.png

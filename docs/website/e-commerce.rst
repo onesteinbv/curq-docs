@@ -9,7 +9,7 @@ Daarnaast biedt de e-commerce module krachtige functionaliteiten voor het beheer
 
 Met een focus op gebruiksvriendelijkheid en klanttevredenheid, maakt deze module het mogelijk om webshops te ontwikkelen die gemakkelijk navigeerbaar zijn en een naadloze winkelervaring bieden aan klanten. Door gebruik te maken van geavanceerde categorisering, tagging en filteropties kunnen gebruikers snel en efficiënt vinden wat ze zoeken, waardoor de conversieratio's worden verhoogd.
 
-.. image:: ecommerce/ecommerce001.png
+.. image:: media/ecommerce001.png
 
 Bovendien biedt de e-commerce module de flexibiliteit om de webshop aan te passen aan de specifieke behoeften van het bedrijf. Met een uitgebreide reeks aanpasbare instellingen kunnen bedrijven de prijsstructuur, belastingregels, verzendopties en facturatieprocessen naar wens configureren, waardoor ze volledige controle hebben over hun online verkoopomgeving.
 

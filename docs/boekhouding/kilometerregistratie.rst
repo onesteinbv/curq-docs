@@ -13,19 +13,19 @@ Om met de module te kunnen werken dien je de volgende zaken in te richten:
 
 - Via Menu > Werknemers maak je een werknemer aan en koppel je je gebruikersaccount (tab Personeelsbeheer instellingen) aan de werknemer.
 
-.. image:: kilometerregistratie/km-invulscherm-medewerker.png
+.. image:: media/km-invulscherm-medewerker.png
        :width: 6.3in
        :height: 2.93264in
 
 - Om de geregistreerde kilometers te kunnen declareren, ga naar Menu > Declaraties > Configuratie > Declaratiecategorieën. In de onkostencategorie Kilometerstand (of maak een nieuwe categorie aan) moet het selectievakje ‘Kan gebruikt worden in de wagenpark module’ aangevinkt staan en bij **FACTURATIE** de optie ‘Verkoopprijs’ geselecteerd worden. Bij **BOEKHOUDING** is het ook mogelijk om een specifieke kostenrekening (grootboek) of analytisch account (kostenplaats) toe te voegen. Bij **ALGEMENE INFORMATIE** kun je ook de kilometervergoeding (Verkoopprijs) ingeven en kiezen voor de maateenheid km (kilometer) of mi (miles).
 
-.. image:: kilometerregistratie/km-invulscherm-declaratie.png
+.. image:: media/km-invulscherm-declaratie.png
        :width: 6.3in
        :height: 2.93264in
 
 - Bij Menu > Wagenpark dien je een auto aan te maken. Merk en Kentekenplaat zijn verplichte velden. Ook kan de standaard onkostencategorie worden toegevoegd (Declaratie categorie), dit vereenvoudigt de invoer van je kilometer registratie.
 
-.. image:: kilometerregistratie/km-invulscherm-auto.png
+.. image:: media/km-invulscherm-auto.png
        :width: 6.3in
        :height: 2.93264in
 
@@ -60,7 +60,7 @@ We hebben nieuwe velden toegevoegd aan het menu 'Kilometerregistratie'.
 
 Invoerscherm kilometer registratie
 
-.. image:: kilometerregistratie/km-invulscherm-kilometers.png
+.. image:: media/km-invulscherm-kilometers.png
        :width: 6.3in
        :height: 2.93264in
 
@@ -69,6 +69,6 @@ Kilometers doorbelasten
 
 Via Menu > Wagenpark > Wagenpark > Kilometertellers kun je vanuit de lijstweergave de regels doorbelasten die de status ‘Te declareren’ hebben. Je selecteert deze regels, en declareert ze vervolgens via de actieknop. De status van de kilometer regels verandert vervolgens naar ‘Gedeclareerd’. Als het veld status in de lijstweergave staat dan zie je aangepaste status staan.
 
-.. image:: kilometerregistratie/km-kilometer-declaratie.png
+.. image:: media/km-kilometer-declaratie.png
        :width: 6.3in
        :height: 2.93264in

@@ -6,11 +6,11 @@ teams.
 
 Open de chat-app om individueel te chatten door op het + (plus) pictogram naast **"Directe Berichten"** te klikken, waarmee je **een gesprek zoeken of starten**. Om een groepschat te maken, klik op het + pictogram naast **"Kanalen"** in het linker menu van het dashboard, waar je **een kanaal kunt zoeken of aanmaken** door een kanaalnaam in te voeren.
 
-.. image:: chat-media/chat001.png
+.. image:: media/chat001.png
 
 Het stelt gebruikers in staat om berichten te sturen, bestanden te delen, te reageren met emoji's en zelfs audio- en videogesprekken te voeren. Gebruikers kunnen iemand in een groepschat vermelden door @ gevolgd door de gebruikersnaam te gebruiken.
 
-.. image:: chat-media/chat002.png
+.. image:: media/chat002.png
 
 Open een chat, en je ziet vijf pictogrammen in de rechterbovenhoek:
 
@@ -24,20 +24,20 @@ Open een chat, en je ziet vijf pictogrammen in de rechterbovenhoek:
 
 5. **Oproepinstellingen weergeven** - Hiermee kun je de oproepinstellingen aanpassen.
 
-.. image:: chat-media/chat003.png
+.. image:: media/chat003.png
 
 Je kunt ook **voeg een reactie toe** in de vorm van een emoji, **bewerken**, **beantwoorden**, **markeren als nog Te Doen** en een reeds verzonden bericht **verwijderen**.
 
-.. image:: chat-media/chat004.png
+.. image:: media/chat004.png
 
 Door **"Markeren als nog te doen"** op een bericht te klikken, wordt het toegevoegd aan de **"Met Ster"** pagina, die in de linkerbovenhoek te vinden is, samen met het aantal gemarkeerde berichten.
 
-.. image:: chat-media/chat005.png
+.. image:: media/chat005.png
 
 Je kunt ook een audio- of videogesprek starten zonder **kanalen** of **directe berichten** te openen door op de knop **een afspraak Starten** in de rechterbovenhoek te klikken.
 Bij het klikken verschijnt er een oproepvenster op het scherm, samen met een dialoogvenster om **mensen uitnodigen** die je wilt laten deelnemen aan de oproep.
 
-.. image:: chat-media/chat006.png
+.. image:: media/chat006.png
 
 Je kunt ook de status van gebruikers bekijken onder de lijst met **Directe Berichten** in de linkerzijbalk. De status wordt weergegeven door verschillende kleuren en iconen:
 
@@ -46,7 +46,7 @@ Je kunt ook de status van gebruikers bekijken onder de lijst met **Directe Beric
 - **Wit** = Offline
 - **Vliegtuig** = Niet op kantoor
 
-.. image:: chat-media/chat007.png
+.. image:: media/chat007.png
 
 In de linkerbovenhoek zie je een gesprekken spictogram. Door erop te klikken, worden drie opties weergegeven: **Alle, Chat en Kanalen**.
 
@@ -54,4 +54,4 @@ In de linkerbovenhoek zie je een gesprekken spictogram. Door erop te klikken, wo
 - **Chat**: Bekijk alleen directe bericht-chats.
 - **Kanalen**: Bekijk groepschats.
 
-.. image:: chat-media/chat008.png
+.. image:: media/chat008.png

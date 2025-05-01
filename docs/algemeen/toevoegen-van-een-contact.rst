@@ -4,28 +4,28 @@ Contacten
 In Curq vind je alle relaties terug onder 1 hoofdmenu 'Contacten'. Het gaat niet alleen om bedrijven (zowel klanten als leveranciers), personen, maar ook de interne medewerkers.
 Om een contact onder een bedrijf aan te maken, ga naar de Contacten en klik op de knop 'Nieuw' in de linkerbovenhoek van het scherm.
 
-.. image:: contact/toevoegen-van-een-contact001.png
+.. image:: media/toevoegen-van-een-contact001.png
 
-.. image:: contact/toevoegen-van-een-contact002.png
+.. image:: media/toevoegen-van-een-contact002.png
 
 Vul de relevante informatie in
 ---------------------------------------------------------------------------------------------------
 Voer alle benodigde informatie van het hoofdveld in voor de nieuwe klant, zoals naam, type (individu of bedrijf), adres, contactgegevens, de website, de taal waarmee het contact wordt benaderd en labels om contacten te identificeren en groeperen. Ook kun je een foto toevoegen.
 Let op land- of type specifieke velden zoals het KvK- of BTW-nummer. Het KvK nummer veld is alleen zichtbaar als je Nederland als land ingeeft.
 
-.. image:: contact/toevoegen-van-een-contact003.png
+.. image:: media/toevoegen-van-een-contact003.png
 
 Contacten en adressen
 ---------------------------------------------------------------------------------------------------
 Om een contactpersoon of extra adres aan een bedrijf toe te voegen, selecteer 'Toevoegen' in het venster Contacten & Adressen, onderaan het scherm. Je kan meerdere types kiezen, bijvoorbeeld als er verschillende  afleveradressen zijn.
 
-.. image:: contact/toevoegen-van-een-contact004.png
+.. image:: media/toevoegen-van-een-contact004.png
 
 
 Verkoop en inkoop
 ---------------------------------------------------------------------------------------------------
 
-.. image:: contact/toevoegen-van-een-contact005.png
+.. image:: media/toevoegen-van-een-contact005.png
 
 Verkoop
 ---------------------------------------------------------------------------------------------------
@@ -60,12 +60,12 @@ Onder Facturatie kun je de bankrekening van het contact invullen.
 
 Je kan meerdere bankrekeningen invullen, per bank geef je aan of deze rekening gebruikt mag worden bij betalingen. Let op dat de bovenste rekening wordt gebruikt in het e-mail sjabloon dat hoort bij versturen van klantfacturen.
 
-.. image:: contact/toevoegen-van-een-contact006.png
+.. image:: media/toevoegen-van-een-contact006.png
 
 Notities:
 Hier kun je aanvullende interne informatie over de klant ingeven.
 
-.. image:: contact/toevoegen-van-een-contact007.png
+.. image:: media/toevoegen-van-een-contact007.png
 
 Abonnementen (module afhankelijk)
 ---------------------------------------------------------------------------------------------------
@@ -78,12 +78,12 @@ Onder het abonnementen veld staan alle abonnementen waar het contact op geabonne
 * **Volgende betalingsdatum:** Hier zie je de volgende betalingsdatum staan. Dit kan een perodieke betaling zijn of een betaling om het abonnement te vernieuwen.
 * **Status:** De status van het abonnement.
 
-.. image:: contact/toevoegen-van-een-contact008.png
+.. image:: media/toevoegen-van-een-contact008.png
 
 Partnertoekenning (module afhankelijk)
 ---------------------------------------------------------------------------------------------------
 
-.. image:: contact/toevoegen-van-een-contact009.png
+.. image:: media/toevoegen-van-een-contact009.png
 
 Dit veld bevat drie secties voor effectief partnermanagement:
 
@@ -123,7 +123,7 @@ In het tweede vak staat onder welke sectie het contact valt, of het contact de s
 
 In het laatste vak wordt weergegeven of het contact in een commissie zit en zo ja, in welke. Voor meer informatie over leden ga naar onze leden documentatie.
 
-.. image:: contact/toevoegen-van-een-contact010.png
+.. image:: media/toevoegen-van-een-contact010.png
 
 Chat functie:
 ---------------------------------------------------------------------------------------------------
@@ -133,7 +133,7 @@ Alle belangrijke wijzigingen met betrekking tot het contact worden hier bijgehou
 * **Log notitie:** Dit is een interne notitie die alleen intern zichtbaar is. Voor het contact is deze niet zichtbaar.
 * **Activiteiten:** Je kunt een bepaalde activiteit inplannen voor iemand. Dit kan een to-do zijn, maar ook een afspraak.
 
-.. image:: contact/toevoegen-van-een-contact011.png
+.. image:: media/toevoegen-van-een-contact011.png
 
 * **Volgers:** Contacten en medewerkers kunnen volgers zijn van het document. Afhankelijk van hun aanmelding worden deze volgers op de hoogte gehouden van wijzigingen in verbant met het contact.
 
@@ -155,7 +155,7 @@ Bovenaan het scherm zijn sneltoetsen te vinden die toegang bieden tot essentiël
 * **Mass mailing groepen:** Bekijk de mass mailing groepen waar het contact aan is gekoppeld.
 * **Websitepagina van het contact:** Navigeer naar de specifieke pagina van het contact op de website.
 
-.. image:: contact/toevoegen-van-een-contact012.png
+.. image:: media/toevoegen-van-een-contact012.png
 
 Automatische opslag van de klantgegevens:
 ---------------------------------------------------------------------------------------------------

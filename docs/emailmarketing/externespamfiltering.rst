@@ -18,7 +18,7 @@ E-mail blijft een essentieel communicatie en marketingmiddel voor bedrijven. De 
 
 Van legitieme e-mails die als spam worden gemarkeerd tot problemen met zwarte lijsten deze uitdagingen belemmeren het bereiken van klanten, verminderen de effectiviteit van marketinginspanningen en zorgen voor onnodige operationele lasten.
 
-.. image:: bigtech-media/bigtech003.png
+.. image:: media/bigtech003.png
 
 Hier volgt hoe deze verborgen mechanismen kleine bedrijven beïnvloeden:
 
@@ -83,7 +83,7 @@ Terwijl grote bedrijven profiteren van gevestigde reputaties en whitelist-voorde
 5) **Hoe Spamfiltering Werkt?**
 --------------------------------
 
-.. image:: bigtech-media/bigtech001.png
+.. image:: media/bigtech001.png
 
 .. list-table::
    :widths: 25 25
@@ -216,7 +216,7 @@ Kleine bedrijven hebben vaak te maken met bezorgproblemen als gevolg van verschi
 
 Om de e-mailbezorging te verbeteren en te voorkomen dat berichten als spam worden gemarkeerd, moeten kleine bedrijven de volgende strategieën toepassen:
 
-.. image:: bigtech-media/bigtech002.png
+.. image:: media/bigtech002.png
 
 • **Gebruik een statisch IP-adres** – Vermijd gedeelde IP’s om meer controle te behouden over de afzenderreputatie.
 • **Warm e-mailverzending geleidelijk op** – Begin met kleinere e-mailbatches om vertrouwen op te bouwen bij e-mailproviders

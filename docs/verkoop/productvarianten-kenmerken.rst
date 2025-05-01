@@ -10,17 +10,17 @@ Om van deze functie gebruik te kunnen maken, dien je de optie *Varianten* te act
 
 Ons advies is om wel goed na te denken of je product catalogus aansluit bij het werken met varianten. Wij zien bijvoorbeeld dat bij handelsmaatschappijen die volledige en specifieke inkoop- en verkoop informatie per product nodig hebben dat men de varianten optie niet gebruikt. Neem contact op met onze helpdesk als je vragen hebt over dit onderdeel.
 
-.. image:: verkoop-media/030.png
+.. image:: media/030.png
 
 Door deze functie te activeren, krijg je toegang tot een nieuwe optie onder het menu *Producten: Productvarianten*. Hiermee kun je producten verkopen met verschillende kenmerken.
 
 Om de kenmerken van een productvariant te definiëren, kun je naar het menu *Configuratie* van de module gaan. Hier vind je de optie *Kenmerken*. Wanneer je op deze optie klikt, kom je op een nieuw scherm zoals hieronder weergegeven, waar je een lijst ziet met **Kenmerk, Soort weergave, Variant aanmaken** en **E-commerce Filter Zichtbaarheid**.
 
-.. image:: verkoop-media/032.png
+.. image:: media/032.png
 
 Klik op *Nieuw* om een nieuw kenmerk aan te maken.
 
-.. image:: verkoop-media/033.png
+.. image:: media/033.png
 
 Geef de kenmerk een naam en selecteer het weergavetype dat wordt gebruikt in de productconfigurator van eCommerce. Dit kan een **keuzerondje, vierkant selectievakje, selecteer** of **kleur** zijn.
 Op de manier hoe de varianten worden aangemaakt heb je 3 opties:
@@ -38,9 +38,9 @@ Configuratie
 
 Via de productkaart kunnen kenmerken worden toegevoegd aan het product. Indien er een prijsverschil moet worden ingesteld, dan kun je naar *configureren*. Per kenmerk kan een extra prijsstijging worden ingesteld in veld *Waarde extra prijs*.
 
-.. image:: verkoop-media/034.png
+.. image:: media/034.png
 
 Zodra de kenmerken zijn toegevoegd op de producten dan kun je een overzicht ophalen van alle aangemaakte *Productvarianten*. In dit overzicht staan alle producten, dus ook de producten zonder kenmerk.
 Het voorbeeld van de lijst bevat de **Interne referentie, Naam, Website, Variant Waarden, Verkoopprijs, Kosten, Hoeveelheid in voorraad, Verwachte hoeveelheid** en **Maateenheid**.
 
-.. image:: verkoop-media/031.png
+.. image:: media/031.png

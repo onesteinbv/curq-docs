@@ -59,7 +59,7 @@ Klik eerst op **Nieuw**, en vul vervolgens de verschillende velden in op het for
 
 12) **Notities...**: Voer eventuele notities in die nodig zijn om de uitgave te verduidelijken.
 
-.. image:: declaraties-media/declaraties001.png
+.. image:: media/declaraties001.png
 
 
 **Voeg een bonnetje toe**
@@ -67,7 +67,7 @@ Klik eerst op **Nieuw**, en vul vervolgens de verschillende velden in op het for
 
 Nadat de uitgave is aangemaakt, is de volgende stap het toevoegen van een bonnetje. Klik op de knop Voeg bonnetje toe, en een verkenner verschijnt. Navigeer naar het bonnetje dat je wilt toevoegen en klik op Openen. Het nieuwe bonnetje wordt geregistreerd in de chatter, en het aantal bonnetjes verschijnt naast het 📎 (paperclip) pictogram onder het uitgavenformulier. Er kan meer dan één bonnetje aan een individuele uitgave worden toegevoegd, indien nodig. Het aantal bonnetjes dat aan de uitgave is toegevoegd, wordt weergegeven op het paperclip-pictogram.
 
-.. image:: declaraties-media/declaraties002.png
+.. image:: media/declaraties002.png
 
 **Nieuwe uitgaven aanmaken vanuit een gescand bonnetje**
 ----------------------------------------------------------
@@ -75,7 +75,7 @@ Nadat de uitgave is aangemaakt, is de volgende stap het toevoegen van een bonnet
 In plaats van alle informatie voor een uitgave handmatig in te voeren, kunnen uitgaven worden aangemaakt door een PDF-bonnetje te scannen.
 Klik eerst in het hoofdoverzicht van de **Uitgaven**-app (dit overzicht kan ook worden geopend via **Uitgaven-app ‣ Mijn Uitgaven ‣ Mijn Uitgaven**), op **Scan**, en een verkenner verschijnt. Navigeer naar het bonnetje dat je wilt uploaden, klik erop om het te selecteren, en klik vervolgens op **Openen**.
 
-.. image:: declaraties-media/declaraties003.png
+.. image:: media/declaraties003.png
 
 Het bonnetje wordt gescand, en een nieuwe invoer wordt aangemaakt met de datum van vandaag als **Uitgavedatum**, en andere velden die automatisch worden ingevuld op basis van de gescande gegevens, zoals het totaalbedrag. Klik op de nieuwe invoer om het individuele uitgavenformulier te openen en breng de benodigde wijzigingen aan. Het gescande bonnetje verschijnt in de chatter.
 
@@ -91,17 +91,17 @@ Selecteer eerst elke individuele uitgave voor het rapport door het selectievakje
 
 Een andere manier om snel alle uitgaven die nog niet in een uitgavenrapport staan toe te voegen, is door op **Maak Rapport Aan** te klikken zonder uitgaven te selecteren. Odoo zal dan automatisch alle uitgaven met de status **Te Indienen** selecteren die nog niet op een rapport staan.
 
-.. image:: declaraties-media/declaraties004.png
+.. image:: media/declaraties004.png
 
 Zodra de uitgaven zijn geselecteerd, klik je op de knop **Maak Rapport Aan**. Het nieuwe rapport verschijnt met alle uitgaven vermeld op het tabblad **Uitgave**. Als er een bonnetje is toegevoegd aan een individuele uitgave, verschijnt een **📎 (paperclip)**-pictogram naast de kolommen **Klant om te Factureren** en **Analytische Verdeling**.
 
 Wanneer het rapport is aangemaakt, verschijnt het datumbereik voor de uitgaven standaard in het veld **Samenvatting Uitgavenrapport**. Het wordt aanbevolen om dit veld te bewerken met een korte samenvatting voor elk rapport om de uitgaven georganiseerd te houden. Vul een korte beschrijving in voor het uitgavenrapport (bijvoorbeeld **Klantreis NYC** of **Herstellingen voor Bedrijfsauto**) in het veld **Samenvatting Uitgavenrapport**. Selecteer vervolgens een **Manager** uit het keuzemenu om een manager aan te wijzen die het rapport moet beoordelen. Indien nodig kan het **Journal** worden gewijzigd. Gebruik het keuzemenu om een ander **Journal** te selecteren.
 
-.. image:: declaraties-media/declaraties005.png
+.. image:: media/declaraties005.png
 
 Als sommige uitgaven die op het rapport zouden moeten staan ontbreken, kunnen ze nog steeds worden toegevoegd. Klik op **Voeg een regel toe** onderaan het tabblad **Uitgave**. Er verschijnt een pop-up met alle beschikbare uitgaven die aan het rapport kunnen worden toegevoegd (met de status **Te Indienen**). Vink het selectievakje naast elke uitgave aan die je wilt toevoegen en klik vervolgens op **Selecteren**. De items verschijnen nu op het net aangemaakte rapport. Als er een nieuwe uitgave moet worden toegevoegd die niet op de lijst staat, klik dan op **Nieuw** om een nieuwe uitgave aan te maken en deze aan het rapport toe te voegen.
 
-.. image:: declaraties-media/declaraties006.png
+.. image:: media/declaraties006.png
 
 
 =======
@@ -121,7 +121,7 @@ De onkosten met de status **In te dienen** zijn gemakkelijk te herkennen, niet a
 
 Klik op een rapport om het te openen en klik vervolgens op Indienen bij manager. Na het indienen van een rapport is de volgende stap wachten op goedkeuring door de manager.
 
-.. image:: declaraties-media/declaraties007.png
+.. image:: media/declaraties007.png
 
 
 **Opmerking**:
@@ -157,7 +157,7 @@ Klik op een persoon om hun kaart te bekijken, die het tabblad **Toegangsrechten*
 
 • **Beheerder**: De gebruiker kan elk onkostenrapport bekijken en goedkeuren, evenals toegang krijgen tot de rapportage- en configuratiemenu's in de *Onkosten* app.
 
-.. image:: declaraties-media/declaraties008.png
+.. image:: media/declaraties008.png
 
 Gebruikers die in staat zijn om onkostenrapporten goed te keuren (meestal managers) kunnen eenvoudig alle onkostenrapporten bekijken waartoe zij toegang hebben. Ga naar **Onkostenapp ‣ Onkostenrapporten**, en er verschijnt een lijst met alle onkostenrapporten die de status **In te dienen, Ingediend, Goedgekeurd, Gepost** of **Voltooid** hebben. Onkostenrapporten met de status **Afgewezen** zijn verborgen in de standaardweergave.
 
@@ -171,19 +171,19 @@ Als een geselecteerd rapport niet kan worden goedgekeurd, verschijnt de knop **R
 
 Klik vervolgens op de knop **Rapport goedkeuren**.
 
-.. image:: declaraties-media/declaraties009.png
+.. image:: media/declaraties009.png
 
 Om een individueel rapport goed te keuren, klik je op het rapport om naar een gedetailleerd overzicht van dat rapport te gaan. In dit overzicht worden verschillende opties gepresenteerd: **Goedkeuren, Afwijzen** of **Terugzetten naar concept**. Klik op **Goedkeuren** om het rapport goed te keuren.
 
-.. image:: declaraties-media/declaraties010.png
+.. image:: media/declaraties010.png
 
 Als je op **Afwijzen** klikt, verschijnt een pop-upvenster. Voer een korte uitleg voor de afwijzing in het veld **Reden voor afwijzing** in en klik vervolgens op **Afwijzen**.
 
-.. image:: declaraties-media/declaraties011.png
+.. image:: media/declaraties011.png
 
 Teammanagers kunnen eenvoudig alle onkostenrapporten van hun teamleden bekijken. Terwijl je in de Onkostenrapporten weergave bent, klik je op de optie Filters bovenaan onder het zoekvak, en klik op Mijn team in de sectie Filters. Dit toont alle rapporten voor het team van de manager.
 
-.. image:: declaraties-media/declaraties012.png
+.. image:: media/declaraties012.png
 
 **Tip**
 
@@ -191,26 +191,26 @@ Als er meer informatie nodig is, zoals een ontbrekend ontvangstbewijs, is commun
 
 De enige mensen die getagd kunnen worden in een bericht zijn volgers. Om te zien wie een volger is, klik je op het 👤 **(persoon)** pictogram om de volgers van de onkosten weer te geven.
 
-.. image:: declaraties-media/declaraties013.png
+.. image:: media/declaraties013.png
 
 **Onkosten posten in de boekhouding**
 -------------------------------------
 
 Zodra een onkostenrapport is goedgekeurd, is de volgende stap om het rapport in het boekhoudingsjournaal te posten. Om alle onkostenrapporten te bekijken, ga naar **Onkostenapp ‣ Onkostenrapporten**. Om alleen de onkostenrapporten te bekijken die zijn goedgekeurd en gepost moeten worden, pas je de filters aan aan de linkerkant zodat alleen de status **Goedgekeurd** is ingeschakeld.
 
-.. image:: declaraties-media/declaraties014.png
+.. image:: media/declaraties014.png
 
 Net als bij goedkeuringen kunnen onkostenrapporten op twee manieren worden gepost (individueel of meerdere tegelijk). Om meerdere onkostenrapporten tegelijk te posten, blijf je in de lijstweergave. Selecteer eerst de rapporten die je wilt posten door het selectievakje naast elk rapport aan te vinken, of klik op het vakje naast **Werknemer** om alle rapporten in de lijst te selecteren. Klik vervolgens op **Boekingen posten**.
 
-.. image:: declaraties-media/declaraties015.png
+.. image:: media/declaraties015.png
 
 Om een individueel rapport te posten, klik je op het rapport om naar de gedetailleerde weergave van dat rapport te gaan. In deze weergave worden verschillende opties gepresenteerd: **Boekingen posten, Afwijzen** of **Terugzetten naar concept**. Klik op **Boekingen posten** om het rapport te posten.
 
-.. image:: declaraties-media/declaraties016.png
+.. image:: media/declaraties016.png
 
 Als je op **Afwijzen** klikt, verschijnt een pop-upvenster. Voer een korte uitleg voor de afwijzing in het veld **Reden voor afwijzing** in en klik vervolgens op **Afwijzen**. Afgewezen rapporten kunnen worden bekeken door naar **Onkostenapp ‣ Onkostenrapporten** te gaan, en vervolgens de filters aan de linkerkant aan te passen zodat alleen **Afgewezen** is geselecteerd. Dit toont alleen de afgewezen onkostenrapporten.
 
-.. image:: declaraties-media/declaraties017.png
+.. image:: media/declaraties017.png
 
 **Belangrijk**:
 
@@ -225,13 +225,13 @@ Om onkostenrapporten in een boekhoudingsjournaal te posten, moet de gebruiker de
 
 Nadat een onkostenrapport in het boekhoudingsjournaal is gepost, is de volgende stap het vergoeden van de werknemer. Om alle onkostenrapporten die betaald moeten worden te bekijken, ga naar **Onkostenapp ‣ Onkostenrapporten ‣ Rapporten om te betalen**.
 
-.. image:: declaraties-media/declaraties018.png
+.. image:: media/declaraties018.png
 
 Om een individueel rapport te betalen, klik je op een rapport in de lijstweergave om naar de gedetailleerde weergave van dat rapport te gaan. Klik op **Betaling registreren** om de werknemer te betalen.
 
-.. image:: declaraties-media/declaraties019.png
+.. image:: media/declaraties019.png
 
 Een pop-upvenster **Betaling registreren** verschijnt, met de velden **Journaal, Betaalmethode** en **Betaaldatum**, en de velden **Ontvanger Rekeningnummer, Bedrag** en **Memo**. Selecteer de bankrekening van de werknemer uit het vervolgkeuzemenu om de betaling direct op hun rekening te storten. Wanneer alle andere selecties correct zijn, klik je op **Betaling aanmaken** om de betaling naar de werknemer te sturen.
 
 
-.. image:: declaraties-media/declaraties020.png
+.. image:: media/declaraties020.png

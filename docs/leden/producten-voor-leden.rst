@@ -3,7 +3,7 @@ Producten voor leden
 
 Navigeer naar Leden > Configuratie > Producten voor leden.
 
-.. image:: producten-voor-leden/producten-voor-leden001.png
+.. image:: media/producten-voor-leden001.png
 
 Klik op Nieuw en vul de details in:
 
@@ -38,13 +38,13 @@ Een gratis lid Product
 ---------------------------------------------------------------------------------------------------
 Voor een gratis product moet de lidmaatschapskosten op 0,- worden gezet.
 
-.. image:: producten-voor-leden/producten-voor-leden002.png
+.. image:: media/producten-voor-leden002.png
 
 Betaald lid Product: eenmalige betaling
 ---------------------------------------------------------------------------------------------------
 Voor de eenmalige betaling vul de lidmaatschapskosten naar wens in.
 
-.. image:: producten-voor-leden/producten-voor-leden003.png
+.. image:: media/producten-voor-leden003.png
 
 Abonnementsproduct
 ---------------------------------------------------------------------------------------------------
@@ -57,4 +57,4 @@ Naast een gratis en betaald lidmaatschap kan ook een abonnement worden aangemaak
 
 * **Keer:** De hoeveelheid betalingen die moeten worden gemaakt om het abonnement te voltooien."
 
-.. image:: producten-voor-leden/producten-voor-leden004.png
+.. image:: media/producten-voor-leden004.png

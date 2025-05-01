@@ -16,17 +16,17 @@ Instellingen en gebruik op factuur
 ---------------------------------------------------------------------------------------------------
 Binnen Instellingen > Facturatie > Sectie Klantfacturen, heb je de mogelijkheid om de standaard Incoterm aan te geven. Deze geselecteerde Incoterm wordt automatisch ingevuld bij het opstellen van je facturen.
 
-.. image:: verkoopfacturen/verkoopfacturen-incoterms001.png
+.. image:: verkoopfacturen/media/verkoopfacturen-incoterms001.png
 
 Bij het opstellen van een factuur kun je de Incoterms vinden onder het tabblad [Overige info] bij de leveringscondities. Het is ook mogelijk om hiervan af te wijken door een andere waarde in te vullen. De geselecteerde leveringscondities verschijnen onderaan op de afgedrukte factuur.
 
-.. image:: verkoopfacturen/verkoopfacturen-incoterms002.png
+.. image:: verkoopfacturen/media/verkoopfacturen-incoterms002.png
 
 Beschikbare Incoterms (2020)
 ---------------------------------------------------------------------------------------------------
 De 11 actuele Incoterms van 2020 zijn beschikbaar in Curq. Indien het nodig is om een Incoterm aan te passen of toe te voegen, kan dit worden gedaan via Facturatie > Configuratie > Leveringscondities.
 
-.. image:: verkoopfacturen/verkoopfacturen-incoterms003.png
+.. image:: verkoopfacturen/media/verkoopfacturen-incoterms003.png
 
 **EXW - Ex Works (Af fabriek):** De verkoper levert de goederen aan de koper op het eigen bedrijf of een andere benoemde plaats (fabriek, magazijn, enz.), en is niet verantwoordelijk voor transport, verzekering of douaneafhandeling.
 

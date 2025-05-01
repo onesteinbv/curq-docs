@@ -3,7 +3,7 @@ Websitepagina-editor
 
 Met de websitebuilder kun je snel en eenvoudig verschillende pagina's aanmaken. Ga naar de pagina die aangepast moet worden en selecteer "Bewerken" rechtsboven in de hoek. Nu kun je de pagina aanpassen. In het veld dat aan de rechterzijde van het scherm is verschenen, zijn alle bouwblokken te zien. Door de blokken naar de pagina te slepen, kun je de pagina inrichten zoals jij dat wilt.
 
-.. image:: website-pagina-editor/website-pagina-editor001.png
+.. image:: media/website-pagina-editor001.png
 
 Er zijn vier typen blokken:
 
@@ -14,7 +14,7 @@ Er zijn vier typen blokken:
 
 De blokken zelf kunnen ook aangepast worden onder het tabblad "Aanpassen". Hier kan het lettertype en de grootte van de tekst aangepast worden, de grootte van de kolommen ingesteld worden, animaties toegevoegd worden en nog veel meer. Ook kan het thema aangepast worden onder het themaveld. Hier kies je de kleuren van de website en op welke manier deze worden weergegeven, en de algemene stijl van de website bepaalt met het uiterlijk van de knoppen en tekstvakken.
 
-.. image:: website-pagina-editor/website-pagina-editor002.png
+.. image:: media/website-pagina-editor002.png
 
 Wanneer een bouwblok op de website is gesleept, kan deze ook handmatig worden aangepast. Elke foto kan veranderd worden met een van de beschikbare foto's of ze kunnen geïmporteerd worden. Ook kan er via een link video's aan de website worden toegevoegd. In de tekstvakken kan de tekst zelf worden aangepast en door een '/' te gebruiken krijg je meerdere opties om de website aan te passen:
 
@@ -26,11 +26,11 @@ Wanneer een bouwblok op de website is gesleept, kan deze ook handmatig worden aa
 - Voeg snippets zoals kaarten, grafieken, badges en citaten toe.
 - Creëer een veld om handtekeningen toe te voegen.
 
-.. image:: website-pagina-editor/website-pagina-editor003.png
+.. image:: media/website-pagina-editor003.png
 
 Boven de velden is ook een optie aanwezig om de website in een telefoonweergave te zien en hier ook aanpassingen in te maken.
 
-.. image:: website-pagina-editor/website-pagina-editor004.png
+.. image:: media/website-pagina-editor004.png
 
 Wanneer alle gewenste aanpassingen aan de pagina zijn gedaan, selecteer dan rechtsboven in de hoek "Opslaan". Als de aanpassingen niet doorgevoerd moeten worden, selecteer dan "Negeren".
 
@@ -40,4 +40,4 @@ Er kan een SEO-optimalisatie uitgevoerd worden om uw website beter vindbaar te m
 
 Wanneer de HTML-code wordt aangepast, wordt de website echter niet meegenomen in de updates en dit kan voor complicaties zorgen wanneer Curq naar een nieuwe versie gaat. Ons advies is om altijd eerst contact met onze helpdesk op te nemen voordat je op deze manier de website gaat aanpassen.
 
-.. image:: website-pagina-editor/website-pagina-editor005.png
+.. image:: media/website-pagina-editor005.png

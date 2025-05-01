@@ -16,7 +16,7 @@ Kenmerken van factureringsbeleid
 
 Om de benodigde functies voor factureringsbeleid te activeren, ga je naar **Verkoop  ‣ Configuratie ‣ Instellingen**, en onder de kop Facturering, selecteer een Factureringsbeleidsregel: *Factureer wat is besteld* of *Factureer wat is geleverd*.
 
-.. image:: verkoop-media/049.png
+.. image:: media/049.png
 
 Note: Als de regel *Factureer wat is geleverd* wordt gekozen, is het niet mogelijk om de functie voor *Automatische Facturering* te activeren, die automatisch facturen genereert wanneer een online betaling is bevestigd.
 
@@ -25,7 +25,7 @@ Factureringsbeleid op productformulier
 
 Op elke productpagina kan de optie *Factureringsbeleid* onder het tabblad Algemene informatie handmatig worden gewijzigd.
 
-.. image:: verkoop-media/050.png
+.. image:: media/050.png
 
 Impact op verkoopproces
 -----------------------
@@ -38,4 +38,4 @@ Hieronder volgt een uiteenzetting van hoe factureringsbeleidsregels van invloed 
 
 - Factureren wat is geleverd: Geringe impact op het verkoopproces, omdat eerst de hoeveelheid geleverd moet worden voordat er een factuur kan worden gemaakt. Wanneer dit niet gebeurd verschijnt er een foutmelding.
 
-.. image:: verkoop-media/051.png
+.. image:: media/051.png

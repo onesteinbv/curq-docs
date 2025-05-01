@@ -17,7 +17,7 @@ Activa Groepen
 
 Om een duidelijk overzicht te behouden van de activa, is het verstandig om ze te categoriseren in groepen. Deze groepen zullen later de basis vormen voor de indeling in het activarapport. De groepen kan je aanmaken via Facturatie > Configuratie > Activa Groepen.
 
-.. image:: activa/activa-beheer001.png
+.. image:: media/activa-beheer001.png
 
 - **Naam:** Geef de groep een naam.
 - **Code:** Vul een code in.
@@ -29,7 +29,7 @@ Activa profielen
 Een activaprofiel wordt ingezet om de afschrijvingsmethode van een actief te bepalen. De afschrijvingen worden op basis van dit profiel berekend en financieel verwerkt. Bovendien kan een activaprofiel worden gekoppeld aan een grootboekrekening, zodat bij het boeken van een factuur direct een actief wordt aangemaakt.
 Een activaprofiel kan worden aangemaakt via Facturatie > Configuratie > Activa profielen.
 
-.. image:: activa/activa-beheer002.png
+.. image:: media/activa-beheer002.png
 
 - **Naam:** Geef het activaprofiel een passende naam.
 - **Activa Groepen:** Selecteer hier de juiste Activa Groep.
@@ -64,7 +64,7 @@ Activa aanmaken
 
 Een activum aanmaken kan via Facturatie > Activa > Activa.
 
-.. image:: activa/activa-beheer003.png
+.. image:: media/activa-beheer003.png
 
 - **Naam:** Geef het actief een geschikte naam.
 - **Referentie:** Voeg indien mogelijk een referentie toe aan het actief, zoals een code.
@@ -103,7 +103,7 @@ Tabblad Afschrijvingskaart
 
 Zodra alle gegevens zijn ingevoerd kan afschrijvingen berekend worden via de knop [BEREKEN].
 
-.. image:: activa/activa-beheer004.png
+.. image:: media/activa-beheer004.png
 
 Na de berekening toont Curq alle individuele afschrijvingen. Hier kun je verifiëren of de afschrijvingen correct worden uitgevoerd. De eerste regel geeft het oorspronkelijke afschrijvingsbedrag weer, gevolgd door opvolgende regels die de afzonderlijke afschrijvingen vertegenwoordigen.
 
@@ -114,15 +114,15 @@ Activa activeren
 
 Zodra alles gereed is, kan het Actief worden bevestigd via de knop [BEVESTIG ACTIVA], waarna de afschrijvingen zullen plaatsvinden.
 
-.. image:: activa/activa-beheer005.png
+.. image:: media/activa-beheer005.png
 
 Zodra de eerste afschrijving is geboekt, wordt dit weergegeven op het tabblad [Afschrijvingskaart].
 
-.. image:: activa/activa-beheer006.png
+.. image:: media/activa-beheer006.png
 
 Hier kun je de details van de afschrijving bekijken of direct de financiële journaalpost raadplegen. In geval van een onverhoopte fout, heb je de mogelijkheid om de journaalpost op dit tabblad te verwijderen of terug te draaien.
 
-.. image:: activa/activa-beheer007.png
+.. image:: media/activa-beheer007.png
 
 De individuele boekingsregels zijn te vinden onder het tabblad [Historie].
 
@@ -132,11 +132,11 @@ Bij het verkopen van een activum in de boekhouding zijn verschillende stappen va
 
 Het actief kan worden verkocht of verwijderd via de knop [VERWIJDER].
 
-.. image:: activa/activa-beheer008.png
+.. image:: media/activa-beheer008.png
 
 Het volgende scherm verschijnt.
 
-.. image:: activa/activa-beheer009.png
+.. image:: media/activa-beheer009.png
 
 - **Activa verwijderingsdatum:** Datum van verwijdering van het actief.
 - **Forceer boekhouddatum:** Als de boeking op een andere datum moet worden geboekt dan de verwijderingsdatum.
@@ -158,7 +158,7 @@ Afschrijvingen boeken
 
 Curq boekt afschrijvingen automatisch. Indien je deze boekingen handmatig wilt uitvoeren, is dat mogelijk via het menu Facturatie > Activa > Bereken activa.
 
-.. image:: activa/activa-beheer010.png
+.. image:: media/activa-beheer010.png
 
 Alle afschrijvingen tot de opgegeven datum worden financieel geboekt.
 
@@ -169,7 +169,7 @@ Een activastaat is een overzichtelijk document dat de actuele status van de acti
 
 Het Activa Rapport / Activastaat kan gegenereerd worden vanuit Facturatie > Rapportages > Finaciële activa report.
 
-.. image:: activa/activa-beheer011.png
+.. image:: media/activa-beheer011.png
 
 - **Activa rekeninggroep:** Specifieke activagroep die in het rapport wordt behandeld.
 - **Startdatum:** Startdatum van het rapport.
@@ -178,4 +178,4 @@ Het Activa Rapport / Activastaat kan gegenereerd worden vanuit Facturatie > Rapp
 
 Het rapport wordt opgeslagen als een Excel-bestand en omvat meerdere tabbladen.
 
-.. image:: activa/activa-beheer012.png
+.. image:: media/activa-beheer012.png

@@ -10,13 +10,13 @@ Magazijnen
 
 In het configuratiemenu van de voorraadmodule worden diverse opties getoond voor het beheren van magazijnen, locaties, routes, regels, bewerkingstypes, opslagcategorieën en wegzetregels. Dit alles is te vinden onder het menu *Configuratie - Magazijnbeheer*.
 
-.. image:: product-configuratie-media/image69.png
+.. image:: media/image69.png
 
 Deze mogelijkheden helpen bij het soepel laten verlopen van verschillende magazijnbeheer taken. Door de optie *Magazijnen* te selecteren in het configuratiemenu, kun je een overzicht krijgen van de magazijnen die zijn aangemaakt in Curq. Deze lijst toont de naam van het magazijn, de voorraadlocatie, het adres en het bedrijf.
 
 Wanneer je op een *Magazijn* optie klikt, wordt een formulier geopend van het magazijn en kun je de naam van het magazijn, de korte naam, het bedrijf en de locatie van het magazijn invullen in de daarvoor bestemde velden.
 
-.. image:: product-configuratie-media/image70.png
+.. image:: media/image70.png
 
 Het veld *Inkomende verzendingen* stelt je in staat om de route te kiezen die gevolgd moet worden wanneer producten naar dit specifieke magazijn worden verzonden. Je hebt de keuze uit verschillende opties. Bij de eerste optie, met één stap, komen de producten rechtstreeks in het magazijn aan. Bij de tweede optie worden de producten eerst ontvangen en vervolgens naar de juiste voorraadlocatie verplaatst. De derde optie omvat het ontvangen van de goederen, het uitvoeren van kwaliteitscontroles en het vervolgens verplaatsen naar de juiste voorraadlocatie.
 
@@ -24,7 +24,7 @@ Voor *Uitgaande zendingen* kun je de standaard route instellen die gevolgd moet 
 
 Via de tab Technische informatie kun je de magazijnlocaties instellen en de verschillende bewerkingstypes.
 
-.. image:: product-configuratie-media/image71.png
+.. image:: media/image71.png
 
 --------
 Locaties
@@ -32,13 +32,13 @@ Locaties
 
 Je kunt de opslagplaatsen in de magazijnen aanpassen via het menu *Opslaglocaties*. Met deze optie kun je meerdere opslaglocaties configureren voor de voorraden binnen hetzelfde magazijn. Om deze functionaliteit te activeren, navigeer je naar het **Instellingen** menu van de voorraadmodule en schakel je de optie *Opslaglocaties* in op het tabblad **Magazijn**, zoals aangegeven in onderstaande afbeelding.
 
-.. image:: product-configuratie-media/image72.png
+.. image:: media/image72.png
 
-.. image:: product-configuratie-media/image73.png
+.. image:: media/image73.png
 
 Wanneer je deze optie activeert, wordt het bijbehorende submenu toegevoegd onder het menu Configuratie.  In de lijstweergave wordt gedetailleerde informatie getoond over de locatie, het locatietype, de opslagcategorie en het bedrijf. Gebruik de knop *Nieuw* om een nieuwe locatie te configureren.
 
-.. image:: product-configuratie-media/image74.png
+.. image:: media/image74.png
 
 Dit is de formulierweergave van het venster voor het aanmaken van een nieuwe locatie. Voer een naam in voor de locatie in het veld *Locatienaam* en selecteer de *Bovenliggende locatie* indien nodig. In het tabblad **Aanvullende informatie** kun je een geschikte locatie *soort* selecteren voor deze locatie.
 
@@ -65,7 +65,7 @@ De datum van de volgende geplande inventarisatie op basis van een cyclisch schem
 
 De verwijderstrategie voor deze locatie kan worden ingesteld op het tabblad **Logistiek**.
 
-.. image:: product-configuratie-media/image75.png
+.. image:: media/image75.png
 
 Dit bepaalt de standaardmethode voor het suggereren van de exacte locatie waar de producten moeten worden opgehaald, inclusief het lot en andere details, voor deze specifieke locatie. Deze methode kan worden afgedwongen op het niveau van de productcategorie en zal terugvallen op de bovenliggende locaties als er geen specifieke methode is ingesteld.
 De beschikbare strategieën zijn als volgt:
@@ -83,4 +83,4 @@ De beschikbare strategieën zijn als volgt:
 
 De slimme knoppen in het venster van de locatie tonen de *Wegzet regels* en de *Huidige Voorraad* van deze specifieke locatie.
 
-.. image:: product-configuratie-media/image76.png
+.. image:: media/image76.png

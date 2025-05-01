@@ -13,14 +13,14 @@ Categorisatie in Kanban View:
 Verzoeken worden automatisch gecategoriseerd en weergegeven in een intuïtieve Kanban-weergave.
 Deze categorisatie helpt bij het prioriteren en organiseren van de verzoeken op basis van hun aard en urgentie.
 
-.. image:: helpdesk/helpdesk001.png
+.. image:: media/helpdesk001.png
 
 Ticket Creatie Onder Helpdesk Groepen:
 ---------------------------------------------------------------------------------------------------
 De Helpdesk App is voorzien van helpdesk groepen, waar onder elk van hen specifieke tickets worden aangemaakt.
 Dit maakt het mogelijk om de verzoeken gericht te verdelen over teams met de juiste expertise.
 
-.. image:: helpdesk/helpdesk002.png
+.. image:: media/helpdesk002.png
 
 Diverse Invoermogelijkheden:
 ---------------------------------------------------------------------------------------------------
