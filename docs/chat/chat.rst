@@ -1,5 +1,5 @@
 Chat
-======
+====
 
 De chat-app in CURQ is een krachtige communicatietool die de samenwerking binnen teams verbetert.
 Het stelt gebruikers in staat om gesprekken te beheren, projectupdates te volgen en efficiënt te communiceren.

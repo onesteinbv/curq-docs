@@ -1,11 +1,11 @@
-Discuss
-====================================================================
+Chat
+====
 
-De Discuss app is de manier om contact te houden met alle gebruikers en contacten binnen en buiten uw bedrijf.
+De Chat app is de manier om contact te houden met alle gebruikers en contacten binnen en buiten uw bedrijf.
 Met directe berichten en groepskanalen wordt het contact gestroomlijnd en versimpeld.
 
 Directe berichten
----------------------------------------------------------------------------------------------------
+-----------------
 
 Met directe berichten kan meteen contact worden opgenomen met alle contacten en gebruikers via de chat.
 De berichten worden direct verstuurd met interactieve berichten die te zien zijn als spraakwolkjes rechtsboven in het scherm.
@@ -27,7 +27,7 @@ geschiedenis van het gesprek worden weergegeven. Rechtsboven in de hoek zijn vie
 .. image:: media/discuss002.png
 
 Kanalen
----------------------------------------------------------------------------------------------------
+-------
 
 Met het gebruik van kanalen kunnen groepsgesprekken worden gestart en videoconferenties worden opgezet voor snelle en
 duidelijke communicatie.
@@ -50,7 +50,7 @@ worden en een afdeling de groep automatisch laten volgen. Tevens kan de naam aan
 van het kanaal. Onder de tab leden kunnen alle leden worden bekeken, nieuwe worden toegevoegd en bestaande worden verwijderd.
 
 Chatter
----------------------------------------------------------------------------------------------------
+-------
 
 Binnen de verschillende items in alle apps zoals projecttaken, producten en facturen wordt ook gebruik gemaakt van de Discuss app om
 de geschiedenis van de items te kunnen volgen.

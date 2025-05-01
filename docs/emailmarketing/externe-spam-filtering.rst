@@ -1,5 +1,9 @@
-1) **Inleiding**
-----------------
+Big Tech Spamfiltering
+======================
+
+1) Inleiding
+------------
+
 In de digitale wereld van vandaag zijn grote technologiebedrijven zoals **Google**, **Microsoft**, **Meta** en **Yahoo** de
 poortwachters geworden van online communicatie. Hun strikte spamregels, door AI aangestuurde filtersystemen en verborgen
 algoritmen maken het vrijwel onmogelijk voor kleine bedrijven om op gelijke voet te concurreren.
@@ -12,8 +16,8 @@ Daarom is het voor kleine bedrijven van essentieel belang om de onrealistische s
 begrijpen en effectieve manieren te vinden om daarmee om te gaan, zodat zij vlot en zonder onderbrekingen kunnen communiceren met
 hun doelgroep via e-mail.
 
-2) **Wat is Spam en een Spamfilter?**
---------------------------------------
+2) Wat is Spam en een Spamfilter?
+---------------------------------
 
 Spam is ongewenste e-mail of bulkmail die wordt gebruikt voor reclame of oplichting. Het vervuilt inboxen en vormt een beveiligingsrisico.
 Deze e-mails worden vaak ingezet om producten of diensten te promoten, of om frauduleuze praktijken te verspreiden. Spam kan inboxen
@@ -23,8 +27,9 @@ Spamfilters zijn hulpmiddelen of software die zijn ontworpen om spamberichten te
 combinatie van verborgen technieken, regels, kunstmatige intelligentie en authenticatiemethoden om inkomende e-mails te analyseren en
 te bepalen of ze in de inbox moeten worden afgeleverd of doorgestuurd naar de spammap.
 
-3) **Impact of Onbedoelde Gevolgen voor Kleine Bedrijven**
-------------------------------------------------------------
+3) Impact of Onbedoelde Gevolgen voor Kleine Bedrijven
+------------------------------------------------------
+
 E-mail blijft een essentieel communicatie en marketingmiddel voor bedrijven. De toenemende controle van grote technologiebedrijven over
 e-mailfiltering en bezorging heeft echter onbedoelde obstakels gecreëerd voor kleinere ondernemingen.
 
@@ -36,6 +41,7 @@ verminderen de effectiviteit van marketinginspanningen en zorgen voor onnodige o
 Hier volgt hoe deze verborgen mechanismen kleine bedrijven beïnvloeden:
 
 **Legitieme e-mails worden als spam gemarkeerd**
+
 Kleine bedrijven merken vaak dat hun transactie-e-mails, facturen en klantvragen in de spammap belanden, zelfs wanneer zij
 de best practices volgen. Dit vermindert de betrokkenheid en verstoort de bedrijfsvoering.
 
@@ -74,8 +80,8 @@ De gevolgen van agressieve spamfilterbeleidsmaatregelen door grote technologiebe
 - **Gebrek aan transparantie** – Grote technologiebedrijven geven zelden uitleg over waarom bepaalde berichten worden geblokkeerd of
   verborgen, waardoor kleine bedrijven machteloos staan.
 
-4) **Hoe Big Tech Kleine Bedrijven Onderdrukt?**
---------------------------------------------------
+4) Hoe Big Tech Kleine Bedrijven Onderdrukt?
+--------------------------------------------
 
 Grote technologiebedrijven hebben enorme controle over digitale communicatie en benadelen daarmee vaak kleine bedrijven door hun legitieme
 e-mails als spam te markeren. Deze praktijk of die nu opzettelijk is of het gevolg van te agressieve filteralgoritmes beperkt het bereik
@@ -116,8 +122,8 @@ inkomsten te verliezen.
   nieuwe bedrijven om geloofwaardigheid op te bouwen.
 - Nieuwe bedrijven hebben moeite om hun doelgroep te bereiken, omdat lage openpercentages automatisch leiden tot filtering.
 
-5) **Hoe Spamfiltering Werkt?**
---------------------------------
+5) Hoe Spamfiltering Werkt?
+---------------------------
 
 .. image:: media/bigtech001.png
 
@@ -174,8 +180,8 @@ inkomsten te verliezen.
 - De ontvanger (bijv. john@outlook.com) controleert de inbox of de spammap.
 - Als de e-mail in de spammap staat, verbetert het markeren als "Geen spam" de toekomstige bezorging.
 
-6) **De Controle van Big Tech over Spam**
-------------------------------------------
+6) De Controle van Big Tech over Spam
+-------------------------------------
 
 Om te begrijpen waarom e-mails die vanaf platforms van kleine bedrijven worden verzonden als spam worden gemarkeerd,
 is het essentieel om inzicht te hebben in het “onbetrouwbare” spambeleid van Big Tech-bedrijven zoals Google en Microsoft.
@@ -259,8 +265,8 @@ Kleine bedrijven hebben vaak te maken met bezorgproblemen als gevolg van verschi
   aan een negatieve afzenderreputatie.
 - **Gebruik van triggerwoorden** – Bepaalde zinnen zoals “Gratis Aanbieding”, “Handel Nu” of “Gegarandeerd” kunnen spamfilters activeren.
 
-7) **Hoe kleine bedrijven zich kunnen weren om de e-mailbezorging te verbeteren?**
-----------------------------------------------------------------------------------
+7) Hoe kleine bedrijven zich kunnen weren om de e-mailbezorging te verbeteren?
+------------------------------------------------------------------------------
 
 Om de e-mailbezorging te verbeteren en te voorkomen dat berichten als spam worden gemarkeerd, moeten kleine bedrijven de volgende
 strategieën toepassen:
@@ -277,8 +283,8 @@ strategieën toepassen:
 - **Optimaliseer SEO op de juiste manier** – Vermijd overmatig gebruik van zoekwoorden, dubbele inhoud en verdachte backlinks.
 - **Monitor je online reputatie** – Controleer regelmatig op zwarte lijsten en behandel klachten van klanten snel.
 
-8) **Waarom kiezen voor een kleine, onafhankelijke ESP?**
----------------------------------------------------------
+8) Waarom kiezen voor een kleine, onafhankelijke ESP?
+-----------------------------------------------------
 
 In de wereld van e-mailmarketing kan het kiezen van de juiste e-mailserviceprovider (ESP) het verschil maken in hoe effectief je
 klanten bereikt. Grote namen zoals
@@ -328,8 +334,8 @@ In tegenstelling tot grote ESPs die vertrouwen op algemene, geautomatiseerde rea
 In tegenstelling tot starre, corporate ESPs bieden onafhankelijke providers schaalbare, flexibele prijsmodellen en op maat gemaakte
 e-mailoplossingen die meegroeien met de behoeften van jouw bedrijf.
 
-**9) FOSS-oplossingen**
--------------------------
+9) FOSS-oplossingen
+-------------------
 
 Voor kleine bedrijven die klanten willen bereiken zonder vast te lopen in de spamfilters van grote techbedrijven, zijn er verschillende
 Free and Open Source Software (FOSS)-oplossingen die kunnen helpen bij het verbeteren van de afleverbaarheid, het verhogen van de
@@ -513,8 +519,8 @@ FOSS-tools die je kunt overwegen voor het filteren van e-mail spam:
        - Integratie met e-mailsystemen om inkomende en uitgaande berichten op malware te scannen.
        - Regelmatige handtekeningupdates om up-to-date te blijven met bedreigingen.
 
-**10) Essentiële Hervormingen voor een Eerlijk E-mail Ecosysteem**
-------------------------------------------------------------------
+10) Essentiële Hervormingen voor een Eerlijk E-mail Ecosysteem
+--------------------------------------------------------------
 
 Om een eerlijker, transparanter en gedecentraliseerd e-mailecosysteem te creëren, moeten overheden, Big Tech en het publiek
 samenwerken om de huidige ongelijkheden aan te pakken.
@@ -553,8 +559,8 @@ samenwerken om de huidige ongelijkheden aan te pakken.
 Door overheidsactie, bedrijfsverantwoordelijkheid en publieke belangenbehartiging te combineren, kunnen we een eerlijk, transparant en
 rechtvaardig e-mail ecosysteem voor iedereen opbouwen.
 
-**11) Conclusie**
-------------------
+11) Conclusie
+--------------
 
 **Laat Big Tech niet de communicatie controleren, steun decentralisatie!**
 
