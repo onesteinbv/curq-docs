@@ -20,7 +20,7 @@ def check_brand_names(argv = None):
     patterns = {}
     for brand_name in args.brand_names:
         patterns[brand_name] = (
-            re.compile(rf"(?<!\/\/)\b{brand_name}\b", re.IGNORECASE)
+            re.compile(rf"(?<!\/\/)\b{brand_name}\b(?!\.nl|\.com)", re.IGNORECASE)
         )
 
     exit_code = 0
