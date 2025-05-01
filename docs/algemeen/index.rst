@@ -1,6 +1,9 @@
+========
+Algemeen
+========
+
 .. toctree::
     :maxdepth: 2
-    :hidden:
 
     agenda
     discuss

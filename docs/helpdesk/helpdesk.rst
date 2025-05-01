@@ -35,9 +35,8 @@ toegang hebben tot de servicedeskfunctionaliteiten.
 
 In het onderdeel Helpdesk Advanced gaan wij verder in op de inrichting van de helpdeskmodule.
 
-
 .. toctree::
     :maxdepth: 2
-    :hidden: 
+    :hidden:
 
     helpdesk-advanced

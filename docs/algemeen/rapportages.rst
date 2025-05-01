@@ -1,5 +1,5 @@
 Rapportages
-====================================================================
+===========
 
 Binnen CURQ kan in elke applicatie gebruik worden gemaakt van de rapportagefunctionaliteit. Binnen deze functie kan met
 verschillende opties in één oogopslag de opgevraagde informatie worden waargenomen. Dit kan bijvoorbeeld handig zijn voor
@@ -9,7 +9,8 @@ project. De rapportagefunctionaliteit biedt twee manieren om de informatie te be
 .. image:: media/rapportages001.png
 
 Diagrammen
----------------------------------------------------------------------------------------------------
+----------
+
 Via de diagramfunctionaliteit kan geselecteerde informatie worden weergegeven in verschillende diagrammen:
 
 * Staafdiagram
@@ -36,7 +37,7 @@ De functie voor de taartdiagram heeft geen van deze opties.
 Onder de afmetingenknop zijn diverse methoden beschikbaar om de grafieken te interpreteren.
 
 Draaitabel
----------------------------------------------------------------------------------------------------
+----------
 
 In de draaitabel kunnen snel en specifieke spreadsheets worden gegenereerd. De draaitabel is onderverdeeld in twee assen. Wanneer de
 totaalknop wordt geselecteerd, verschijnt een dropdownmenu met verschillende opties om de velden te selecteren waarin de spreadsheet
