@@ -170,8 +170,7 @@ Tip! *Als je voor een product meerdere kenmerken en waarden instelt, wat
 resulteert in 1500 of meer varianten, overweeg dan om 'Dynamisch' te
 selecteren in de instellingen. Op deze manier worden varianten pas
 aangemaakt wanneer ze daadwerkelijk worden verkocht, wat geen invloed
-heeft op de database prestaties.
-*
+heeft op de database prestaties.*
 
 .. image:: media/image7.png
    :width: 4.39028in

@@ -82,13 +82,3 @@ Configuratie in CURQ
 .. image:: media/bankrekeningen-myponto010.png
        :width: 6.3in
        :height: 2.90069in
-
-.. image:: media/bankrekeningen-myponto011.png
-       :width: 6.3in
-       :height: 2.90069in
-
-
-
-    .. image:: Media/bankrekeningen_myponto012.png
-       :width: 5.50833in
-       :height: 0.78333in

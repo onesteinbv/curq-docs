@@ -1,30 +1,6 @@
-
-
-====================================================================
-**Uitgaven opnemen**
-====================================================================
-=======
-
-=======
-
-====================================================================
-**Uitgaven opnemen**
-====================================================================
-=======
-
-====================================================================
-**Uitgaven opnemen**
-====================================================================
-=======
-
 ===========
 Declaraties
 ===========
-
-
-
-=======
-
 
 **Handmatig een nieuwe uitgave aanmaken**
 --------------------------------------------------------------------
@@ -102,15 +78,6 @@ Wanneer het rapport is aangemaakt, verschijnt het datumbereik voor de uitgaven s
 Als sommige uitgaven die op het rapport zouden moeten staan ontbreken, kunnen ze nog steeds worden toegevoegd. Klik op **Voeg een regel toe** onderaan het tabblad **Uitgave**. Er verschijnt een pop-up met alle beschikbare uitgaven die aan het rapport kunnen worden toegevoegd (met de status **Te Indienen**). Vink het selectievakje naast elke uitgave aan die je wilt toevoegen en klik vervolgens op **Selecteren**. De items verschijnen nu op het net aangemaakte rapport. Als er een nieuwe uitgave moet worden toegevoegd die niet op de lijst staat, klik dan op **Nieuw** om een nieuwe uitgave aan te maken en deze aan het rapport toe te voegen.
 
 .. image:: media/declaraties006.png
-
-
-=======
-=======
-
-=======
-
-
-
 
 **Dien een onkostenrapport in**
 ------------------------------------

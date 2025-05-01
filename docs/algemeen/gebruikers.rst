@@ -42,8 +42,8 @@ Het is mogelijk om wachtwoord reset direct vanaf de aanmeldingspagina in te scha
 .. image:: media/006.png
 
 **Reset Instructies naar gebruikers sturen:**
-Om reset instructies voor het wachtwoord naar gebruikers te sturen, ga je naar **Instellingen ‣ Gebruikers & Bedrijven ‣ Gebruikers**. Selecteer de specifieke gebruiker uit de lijst en klik op *Actie
- - Instructies voor het resetten van wachtwoorden verzenden* op het gebruikersformulier. Hierdoor wordt automatisch een e-mail met de reset instructies naar de gebruiker verzonden.
+Om reset instructies voor het wachtwoord naar gebruikers te sturen, ga je naar **Instellingen ‣ Gebruikers & Bedrijven ‣ Gebruikers**. Selecteer de specifieke gebruiker uit de lijst en klik op
+*Actie - Instructies voor het resetten van wachtwoorden verzenden* op het gebruikersformulier. Hierdoor wordt automatisch een e-mail met de reset instructies naar de gebruiker verzonden.
 
 .. image:: media/007.png
 

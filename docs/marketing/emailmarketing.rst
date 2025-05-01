@@ -32,7 +32,11 @@ Daarnaast kan *Verzenden van* en *Antwoorden aan* apart worden ingesteld. Deze f
 
 .. image:: media/006.png
 
-Je hebt inzicht in de geplande datum van de e-mail en de status ervan wordt aangegeven als een concept in de wachtrijoptie. Op de vooraf bepaalde datum wordt de e-mail automatisch verstuurd (binnen 5 minuten zodra op *verzenden* is gedrukt). Voor het testen van een specifieke e-mail kun je gebruikmaken van het Test button. Nadat het proces van het opstellen en verzenden van de e-mail is afgerond, kun je de status bekijken, waaronder Offerte Order, Gefactureerd, en het totale percentage van ontvangers dat de e-mail respectievelijk heeft **Ontvangen, Geopend, Geklikt, Beantwoord, Gebounced, Verzonden en Genegeerd.
+Je hebt inzicht in de geplande datum van de e-mail en de status ervan wordt aangegeven als een concept in de wachtrijoptie.
+Op de vooraf bepaalde datum wordt de e-mail automatisch verstuurd (binnen 5 minuten zodra op *verzenden* is gedrukt).
+Voor het testen van een specifieke e-mail kun je gebruikmaken van het Test button. Nadat het proces van het opstellen en verzenden van de e-mail
+is afgerond, kun je de status bekijken, waaronder Offerte Order, Gefactureerd, en het totale percentage van ontvangers dat de e-mail respectievelijk
+heeft **Ontvangen, Geopend, Geklikt, Beantwoord, Gebounced, Verzonden en Genegeerd.**
 
 Wanneer je de Kanban-weergave van de betreffende mailing raadpleegt, zijn de statussen van alle e-mails beschikbaar, zoals geïllustreerd in de onderstaande schermafbeelding.
 
