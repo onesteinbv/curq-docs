@@ -24,4 +24,4 @@ staan. Wanneer deze optie is aangevinkt, ziet u verschillende nieuwe opties vers
 .. image:: media/registratie-pagina004.png
 
 Het registratie formulier kan worden gevonden door het volgen van de volgende link:
-https://{Your domain}/membership-registration
+https://{jouwdomein}/membership-registration

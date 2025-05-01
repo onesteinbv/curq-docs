@@ -31,9 +31,9 @@ Redirect oude URL
 ---------------------------------------------------------------------------------------------------
 
 Deze stap geldt enkel als je een bestaande website wilt omzetten naar CURQ. Om te zorgen dat oude 'links' van de website blijven
-werken is het verstandig om deze te koppelen aan de nieuwe URL's in CURQ. Een voorbeeld:  stel je hebt een webpagina over verkoop
-& CRM op je huidige website > https://onestein.nl/oplossingen/verkoop-en-crm.  In CURQ zou de opzet van het menu anders kunnen
-zijn waarbij de juiste pagina https://onestein.nl/solutions/crm-en-sales is.  Wat je wilt voorkomen is dat een klant die de oude
+werken is het verstandig om deze te koppelen aan de nieuwe URL's in CURQ. Een voorbeeld: stel je hebt een webpagina over verkoop
+& CRM op je huidige website. In CURQ zou de opzet van het menu anders kunnen
+zijn waarbij de juiste pagina is. Wat je wilt voorkomen is dat een klant die de oude
 website pagina heeft opgeslagen of eventueel voorkomt in een blog, etc, wordt doorgeleid naar een 404 pagina. De oplossing is om
 deze redirects alvast klaar te zetten zodat na de omzetting van de DNS server, de redirects geactiveerd kunnen worden.
 
