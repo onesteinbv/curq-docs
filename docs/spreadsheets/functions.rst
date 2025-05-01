@@ -23,7 +23,8 @@ Spreadsheetfuncties zijn verdeeld in de volgende categorieën
 .. _functions/array:
 
 Array
-=====
+-----
+
 .. list-table::
    :header-rows: 1
 
@@ -54,7 +55,7 @@ Array
 .. _functions/database:
 
 Database
-========
+--------
 
 .. list-table::
    :header-rows: 1
@@ -77,7 +78,7 @@ Database
 .. _functions/date:
 
 Date
-====
+----
 
 .. list-table::
    :header-rows: 1
@@ -121,7 +122,7 @@ Date
 .. _functions/engineering:
 
 Engineering
-===========
+-----------
 
 .. list-table::
    :header-rows: 1
@@ -133,7 +134,7 @@ Engineering
 .. _functions/filter:
 
 Filter
-======
+------
 
 .. list-table::
    :header-rows: 1
@@ -146,7 +147,7 @@ Filter
 .. _functions/financial:
 
 Financial
-=========
+---------
 
 .. list-table::
    :header-rows: 1
@@ -205,7 +206,7 @@ Financial
 .. _functions/info:
 
 Info
-====
+----
 
 .. list-table::
    :header-rows: 1
@@ -225,7 +226,7 @@ Info
 .. _functions/logical:
 
 Logical
-=======
+-------
 
 .. list-table::
    :header-rows: 1
@@ -247,7 +248,7 @@ Logical
 .. _functions/lookup:
 
 Lookup
-======
+------
 
 .. list-table::
    :header-rows: 1
@@ -274,7 +275,7 @@ Lookup
 .. _functions/math:
 
 Math
-====
+----
 
 .. list-table::
    :header-rows: 1
@@ -343,7 +344,7 @@ Math
 .. _functions/misc:
 
 Misc
-====
+----
 
 .. list-table::
    :header-rows: 1
@@ -355,7 +356,7 @@ Misc
 .. _functions/odoo:
 
 Odoo
-====
+----
 
 .. list-table::
    :header-rows: 1
@@ -378,7 +379,7 @@ Odoo
 .. _functions/operators:
 
 Operators
-=========
+---------
 
 .. list-table::
    :header-rows: 1
@@ -405,7 +406,7 @@ Operators
 .. _functions/statistical:
 
 Statistical
-===========
+-----------
 
 .. list-table::
    :header-rows: 1
@@ -470,7 +471,7 @@ Statistical
 .. _functions/text:
 
 Text
-====
+----
 
 .. list-table::
    :header-rows: 1
@@ -500,7 +501,7 @@ Text
 .. _functions/web:
 
 Web
-===
+---
 
 .. list-table::
    :header-rows: 1

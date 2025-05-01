@@ -6,6 +6,7 @@ Een spreadsheet stelt je in staat om je gegevens in tabelvorm te organiseren, an
 
 Hoe maak je een nieuw spreadsheet?
 ----------------------------------
+
 Je kunt een spreadsheet maken door op de knop "Nieuw" te klikken.
 
 .. image:: media/spreadsheet001.png
@@ -33,5 +34,6 @@ Enkele van de belangrijkste UI-elementen van de spreadsheet zijn hieronder gemar
 
 .. toctree::
     :maxdepth: 1
+    :hidden:
 
     functions
