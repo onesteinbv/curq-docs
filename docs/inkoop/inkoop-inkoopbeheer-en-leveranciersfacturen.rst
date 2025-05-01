@@ -14,7 +14,7 @@ Om een directe inkooporder aan te maken, ga je naar het menu 'Orders' in de hoof
 
 .. image:: media/inkoop022.png
 
-Het voorbeeld toont specifieke details zoals het **referentienummer, de bevestigingsdatum, de leverancier, het bedrijf, de verwachte ontvangstdatum, de inkoop vertegenwoordiger, de totale prijs en de factuurstatus** van de inkooporder. Je kunt een inkooporder selecteren om gedetailleerde informatie te bekijken of om de betreffende inkooporder te bewerken. Net als in andere Curq modules zijn er sorteeropties en verschillende weergaven van de gegevens beschikbaar.
+Het voorbeeld toont specifieke details zoals het **referentienummer, de bevestigingsdatum, de leverancier, het bedrijf, de verwachte ontvangstdatum, de inkoop vertegenwoordiger, de totale prijs en de factuurstatus** van de inkooporder. Je kunt een inkooporder selecteren om gedetailleerde informatie te bekijken of om de betreffende inkooporder te bewerken. Net als in andere CURQ modules zijn er sorteeropties en verschillende weergaven van de gegevens beschikbaar.
 
 Gebruik de knop *Nieuw* om een nieuwe inkooporder te genereren.
 
@@ -42,13 +42,13 @@ Als alternatief kun je de smart button gebruiken **Ontvangst**, om de details va
 Leveranciersfacturen
 --------------------
 
-Binnen Curq kun je leveranciersfacturen genereren op basis van de bestelde hoeveelheden en de geleverde hoeveelheden, conform het bedrijfsbeleid. Je kunt naar het menu **Instellingen** van de inkoopmodule gaan om de beleidsregels voor factuurcontrole in te stellen.
+Binnen CURQ kun je leveranciersfacturen genereren op basis van de bestelde hoeveelheden en de geleverde hoeveelheden, conform het bedrijfsbeleid. Je kunt naar het menu **Instellingen** van de inkoopmodule gaan om de beleidsregels voor factuurcontrole in te stellen.
 
 .. image:: media/inkoop027.png
 
 Onder het tabblad **Facturatie** heb je de optie *Factuurcontrole*. Hiermee kun je instellen hoe facturen voor aankopen moeten worden gegenereerd. De optie die je hier instelt, zal dienen als het standaard facturering beleid voor alle producten. Later kun je het facturering beleid van een specifiek product wijzigen vanuit de product settings.
 
-Je hebt de keuze om facturen te genereren vóór en ná levering. Als je facturen wilt genereren voor alle bestelde hoeveelheden, kun je *Bestelde hoeveelheden* selecteren als factuurcontrole. Hierdoor worden facturen gegenereerd voor alle hoeveelheden die in de inkooporder zijn vermeld. Als je echter *Ontvangen hoeveelheden* selecteert, zal Curq alleen factureren voor de hoeveelheden die daadwerkelijk zijn geleverd.
+Je hebt de keuze om facturen te genereren vóór en ná levering. Als je facturen wilt genereren voor alle bestelde hoeveelheden, kun je *Bestelde hoeveelheden* selecteren als factuurcontrole. Hierdoor worden facturen gegenereerd voor alle hoeveelheden die in de inkooporder zijn vermeld. Als je echter *Ontvangen hoeveelheden* selecteert, zal CURQ alleen factureren voor de hoeveelheden die daadwerkelijk zijn geleverd.
 
 Het is ook mogelijk om het controlebeleid in te stellen vanuit de productconfiguratie van elk product. Onder het tabblad **Inkoop** vind je de relevante optie, zoals hieronder afgebeeld.
 

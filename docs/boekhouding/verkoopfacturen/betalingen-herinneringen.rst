@@ -1,11 +1,11 @@
-Herinneringen in Curq
+Herinneringen in CURQ
 ====================================================================
 
 In het instellingen menu kun je een aantal standaard waarden bepalen voor het herinneringproces. Ga hiervoor naar Instellingen > Facturatie > Betalingsherinneringen
 
 Je kunt hier de volgende zaken aangeven:
 
-* **Checkbox Facturen bijvoegen**. Als je deze optie activeert dan stuurt Curq standaard een kopie van alle facturen met de herinnering mee.
+* **Checkbox Facturen bijvoegen**. Als je deze optie activeert dan stuurt CURQ standaard een kopie van alle facturen met de herinnering mee.
 
 * **Neem contact op om te herinneren**. Hiermee kies je wie binnen de organisatie je wil benaderen over de herinnering. Je hebt de keuze uit de contactpersoon van de laatst verstuurde herinnering, de laatst verstuurde factuur of de standaard factuurrelatie.
 
@@ -31,7 +31,7 @@ klantfacturen opvolgen.
 
 Via dit menu start je een wizard die je door het herinneringenproces heen
 helpt. In de wizard geef je aan welke klanten je wil herinneren
-(geen keuze betekent dat Curq alle in aanmerking komende relaties zal
+(geen keuze betekent dat CURQ alle in aanmerking komende relaties zal
 presenteren). Ook kun je in de wizard aangeven naar wie de herinnering
 toe wordt gestuurd.
 
@@ -58,7 +58,7 @@ tekst per klant worden aangepast.
    :width: 6.3in
    :height: 2.90069in
 
-Met de knop **VALIDEREN** verstuur je de mail en werkt Curq de status
+Met de knop **VALIDEREN** verstuur je de mail en werkt CURQ de status
 automatisch bij. Wanneer een herinnering verstuurd is dan krijgen de facturen die zijn aangemaand een volgnummer (1). Je kunt dit volgnummer ook in de lijstweergave van de facturen terugvinden.
 
 Bij de factuur zelf zie je dat deze vervallen is en op het tabblad

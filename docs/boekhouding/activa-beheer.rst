@@ -68,14 +68,14 @@ Een activum aanmaken kan via Facturatie > Activa > Activa.
 
 - **Naam:** Geef het actief een geschikte naam.
 - **Referentie:** Voeg indien mogelijk een referentie toe aan het actief, zoals een code.
-- **Afschrijvingen Basisbedrag:** Het bedrag waarop Curq de afschrijvingen baseert.
+- **Afschrijvingen Basisbedrag:** Het bedrag waarop CURQ de afschrijvingen baseert.
 - **Afschrijvingswaarde:** Het tot nu toe afgeschreven bedrag.
 - **Restwaarde:** De huidige restwaarde van het actief.
 
 Tabblad Algemeen
 
 - **Aanschafwaarde:** De waarde van de aanschaf.
-- **Activa start datum:** De datum waarop de afschrijvingen in Curq beginnen. Indien het actief eerder is afgeschreven, moet je handmatig de afschrijvingen voor die periodes zelf aanmaken.
+- **Activa start datum:** De datum waarop de afschrijvingen in CURQ beginnen. Indien het actief eerder is afgeschreven, moet je handmatig de afschrijvingen voor die periodes zelf aanmaken.
 - **Restwaarde:** De verwachte restwaarde van het actief. De berekening van de afschrijvingen houdt hier rekening mee. Bijvoorbeeld: Aanschafwaarde - Restwaarde = Te Afschrijven Waarde.
 - **Activa verwijderingsdatum:** De datum waarop het actief wordt verwijderd, zoals bij verkoop.
 - **Activa profielen:** Gekoppelde activaprofiel.
@@ -105,7 +105,7 @@ Zodra alle gegevens zijn ingevoerd kan afschrijvingen berekend worden via de kno
 
 .. image:: media/activa-beheer004.png
 
-Na de berekening toont Curq alle individuele afschrijvingen. Hier kun je verifiëren of de afschrijvingen correct worden uitgevoerd. De eerste regel geeft het oorspronkelijke afschrijvingsbedrag weer, gevolgd door opvolgende regels die de afzonderlijke afschrijvingen vertegenwoordigen.
+Na de berekening toont CURQ alle individuele afschrijvingen. Hier kun je verifiëren of de afschrijvingen correct worden uitgevoerd. De eerste regel geeft het oorspronkelijke afschrijvingsbedrag weer, gevolgd door opvolgende regels die de afzonderlijke afschrijvingen vertegenwoordigen.
 
 Het is tevens mogelijk om correcties direct op de regels uit te voeren door erop te klikken of ze te verwijderen. In de meeste gevallen is correctie echter niet noodzakelijk.
 
@@ -156,7 +156,7 @@ Na verkoop of verwijdering krijgt het actief de status "VERWIJDERD", en de Activ
 Afschrijvingen boeken
 ---------------------------------------------------------------------------------------------------
 
-Curq boekt afschrijvingen automatisch. Indien je deze boekingen handmatig wilt uitvoeren, is dat mogelijk via het menu Facturatie > Activa > Bereken activa.
+CURQ boekt afschrijvingen automatisch. Indien je deze boekingen handmatig wilt uitvoeren, is dat mogelijk via het menu Facturatie > Activa > Bereken activa.
 
 .. image:: media/activa-beheer010.png
 

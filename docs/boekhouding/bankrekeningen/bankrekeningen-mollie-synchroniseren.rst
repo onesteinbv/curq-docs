@@ -1,7 +1,7 @@
 Mollie banksynchronisatie
 ---------------------------------------------------------------------------------------------------
 
-Wanneer je klanten in Curq facturen online betalen (dat kan ofwel via de webshop ofwel vanuit het klantenportaal) en je maakt gebruik van Mollie als betalingsprovider, dan kun je de betalingen via Mollie direct synchroniseren met het Mollie dagboek in Curq.
+Wanneer je klanten in CURQ facturen online betalen (dat kan ofwel via de webshop ofwel vanuit het klantenportaal) en je maakt gebruik van Mollie als betalingsprovider, dan kun je de betalingen via Mollie direct synchroniseren met het Mollie dagboek in CURQ.
 
 Het Mollie dagboek maak je aan via menufunctie Boekhouding -> Configuratie -> Voeg een bankrekening toe. Je kunt hier gewoon de tekst Mollie gebruiken als bankrekening nummer. Het voordeel is dat alle informatie rondom het nieuwe dagboek automatisch goed ingesteld staat.
 
@@ -17,4 +17,4 @@ In dit scherm geef je ook de Mollie Organisation Access Token in. Dit is niet de
        :width: 6.3in
        :height: 2.93264in
 
-Curq staat zo ingesteld dat de afschriften iedere dag automatisch worden ingelezen.
+CURQ staat zo ingesteld dat de afschriften iedere dag automatisch worden ingelezen.

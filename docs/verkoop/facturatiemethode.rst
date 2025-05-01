@@ -7,7 +7,7 @@ Factuur op basis van geleverde of bestelde hoeveelheden
 
 Verschillende bedrijfsbeleidsregels kunnen verschillende opties voor facturering vereisen:
 
-- De regel *Bestelde Hoeveelheden* wordt gebruikt als de standaardmodus in Curq Verkoop, wat betekent dat klanten worden gefactureerd zodra de verkooporder is bevestigd.
+- De regel *Bestelde Hoeveelheden* wordt gebruikt als de standaardmodus in CURQ Verkoop, wat betekent dat klanten worden gefactureerd zodra de verkooporder is bevestigd.
 
 - De regel *Geleverde hoeveelheden* factureert klanten zodra de levering is voltooid. Deze regel wordt vaak gebruikt voor bedrijven die voorraadhoudende artikelen verkopen. In deze gevallen kan de bestelde hoeveelheid verschillen van de geleverde hoeveelheid, waardoor het de voorkeur heeft om de daadwerkelijk geleverde hoeveelheid te factureren.
 
@@ -30,7 +30,7 @@ Op elke productpagina kan de optie *Factureringsbeleid* onder het tabblad Algeme
 Impact op verkoopproces
 -----------------------
 
-In Curq Verkoop begint het basisverkoopproces met het aanmaken van een offerte. Vervolgens wordt die offerte naar een klant gestuurd. Daarna moet deze worden bevestigd, wat de offerte omzet in een verkooporder. Dit genereert op zijn beurt een factuur.
+In CURQ Verkoop begint het basisverkoopproces met het aanmaken van een offerte. Vervolgens wordt die offerte naar een klant gestuurd. Daarna moet deze worden bevestigd, wat de offerte omzet in een verkooporder. Dit genereert op zijn beurt een factuur.
 
 Hieronder volgt een uiteenzetting van hoe factureringsbeleidsregels van invloed zijn op het eerder genoemde verkoopproces:
 

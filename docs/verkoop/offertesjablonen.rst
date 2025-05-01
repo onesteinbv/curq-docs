@@ -3,7 +3,7 @@ Verkoop	Offertesjablonen
 ========================
 
 
-Het creëren van vooraf gedefinieerde formats voor verkoopoffertes is handig voor het beheren van orders met een vergelijkbaar patroon. Door gebruik te maken van deze vooraf gedefinieerde sjablonen bij het aanmaken van nieuwe offertes, worden de handelingen vereenvoudigd. Om deze functie in Curq te activeren, ga je naar het menu Instellingen in verkoop en schakel je de functie *Offertesjablonen* in.
+Het creëren van vooraf gedefinieerde formats voor verkoopoffertes is handig voor het beheren van orders met een vergelijkbaar patroon. Door gebruik te maken van deze vooraf gedefinieerde sjablonen bij het aanmaken van nieuwe offertes, worden de handelingen vereenvoudigd. Om deze functie in CURQ te activeren, ga je naar het menu Instellingen in verkoop en schakel je de functie *Offertesjablonen* in.
 
 .. image:: media/020.png
 

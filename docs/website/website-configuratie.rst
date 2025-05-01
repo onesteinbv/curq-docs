@@ -10,7 +10,7 @@ Om de instellingen aan te passen, ga naar Configuratie > Instellingen. Hier ziet
 
 .. image:: media/website-configuratie001.png
 
-Onder de websitekiezer staat website-info, hier kan de basisinformatie worden aangepast. Dit omvat het aanpassen van het domein (normaal is dit de domeinnaam van de Curq-omgeving), de URL voor de startpagina, welke talen de website biedt (de website moet zelf vertaald worden), de naam van de website voor intern gebruik, het bedrijf waar de website onder valt wanneer er een multi-company omgeving wordt gebruikt, en als laatste de favicon (dit is het icoontje dat wordt weergegeven in het tabbladvenster).
+Onder de websitekiezer staat website-info, hier kan de basisinformatie worden aangepast. Dit omvat het aanpassen van het domein (normaal is dit de domeinnaam van de CURQ-omgeving), de URL voor de startpagina, welke talen de website biedt (de website moet zelf vertaald worden), de naam van de website voor intern gebruik, het bedrijf waar de website onder valt wanneer er een multi-company omgeving wordt gebruikt, en als laatste de favicon (dit is het icoontje dat wordt weergegeven in het tabbladvenster).
 
 .. image:: media/website-configuratie002.png
 

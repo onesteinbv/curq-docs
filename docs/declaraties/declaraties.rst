@@ -133,7 +133,7 @@ De secties **Goedkeuren van onkosten, Onkosten in de boekhouding posten** en **W
 
 **Goedkeuren van onkosten**
 -----------------------------
-In Curq kan niet iedereen onkostenrapporten goedkeuren — alleen gebruikers met de benodigde rechten (of machtigingen) kunnen dat. Dit betekent dat een gebruiker minstens Team Goedkeurder rechten moet hebben voor de Onkosten app. Werknemers met de benodigde rechten kunnen onkostenrapporten bekijken, goedkeuren of afwijzen, en feedback geven dankzij de geïntegreerde communicatietool.
+In CURQ kan niet iedereen onkostenrapporten goedkeuren — alleen gebruikers met de benodigde rechten (of machtigingen) kunnen dat. Dit betekent dat een gebruiker minstens Team Goedkeurder rechten moet hebben voor de Onkosten app. Werknemers met de benodigde rechten kunnen onkostenrapporten bekijken, goedkeuren of afwijzen, en feedback geven dankzij de geïntegreerde communicatietool.
 
 Om te zien wie de rechten heeft om goed te keuren, ga naar de hoofdapp Instellingen en klik op Beheer gebruikers
 

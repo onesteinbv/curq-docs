@@ -13,11 +13,11 @@ Het indienen van een BTW-aangifte suppletie is belangrijk om de fiscale situatie
 Oude facturen meenemen in eerstvolgende aangifte
 ---------------------------------------------------------------------------------------------------
 
-Een suppletieaangifte moet worden ingediend via de belastingdienst. Binnen Curq hebben we echter de mogelijkheid om oude facturen toe te voegen aan de huidige aangifte.
+Een suppletieaangifte moet worden ingediend via de belastingdienst. Binnen CURQ hebben we echter de mogelijkheid om oude facturen toe te voegen aan de huidige aangifte.
 
 Het kan gebeuren dat je oude facturen later ontdekt of dat een zakenrelatie per ongeluk een factuur te laat verstuurt. Ondertussen is alles al verwerkt in je administratie en is de BTW-aangifte al definitief ingediend. Je wilt deze facturen echter nog op de juiste datum boeken.
 
-In Curq is het mogelijk om deze oude facturen mee te nemen in de eerstvolgende aangifte. Maak een BTW-aangifte aan voor deze periode via Facturatie > Rapportages > BTW Aangifte.
+In CURQ is het mogelijk om deze oude facturen mee te nemen in de eerstvolgende aangifte. Maak een BTW-aangifte aan voor deze periode via Facturatie > Rapportages > BTW Aangifte.
 
 Laten we een situatie als voorbeeld nemen:
 
@@ -33,6 +33,6 @@ Klik op [Bijwerken] om de gegevens van je aangifte op te halen. Op het tabblad "
 
 .. image:: media/rapportages-btw-suppletie002.png
 
-Met de **Vanaf Datum** kun je instellen vanaf wanneer Curq de facturen moet ophalen. Vervolgens kun je via de grote knop in het midden alle facturen meteen meenemen in de huidige aangifte. Als je slechts bepaalde facturen wilt toevoegen, kun je per regel op [Mutatie toevoegen] klikken. Mocht je een fout hebben gemaakt, dan kun je de factuur ook weer meteen verwijderen uit de aangifte.
+Met de **Vanaf Datum** kun je instellen vanaf wanneer CURQ de facturen moet ophalen. Vervolgens kun je via de grote knop in het midden alle facturen meteen meenemen in de huidige aangifte. Als je slechts bepaalde facturen wilt toevoegen, kun je per regel op [Mutatie toevoegen] klikken. Mocht je een fout hebben gemaakt, dan kun je de factuur ook weer meteen verwijderen uit de aangifte.
 
 Ga nu terug naar de tabblad [BTW-aangifte] en klik op [Bijwerken]. Je zult zien dat de cijfers nu worden bijgewerkt met de oude facturen. Eenmaal gecontroleerd, dan kan deze aangifte bij de belastingdienst worden ingediend.

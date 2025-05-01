@@ -1,7 +1,7 @@
 Belastingen
 ====================================================================
 
-Als ondernemer wil je dat de belastingen zo goed mogelijk worden bepaald. Curq kan je hierbij helpen. We stellen eerst de basisinstellingen goed in. De basisinstellingen vind je terug in de app Instellingen > links in het menu bij Facturatie.
+Als ondernemer wil je dat de belastingen zo goed mogelijk worden bepaald. CURQ kan je hierbij helpen. We stellen eerst de basisinstellingen goed in. De basisinstellingen vind je terug in de app Instellingen > links in het menu bij Facturatie.
 
 Belastinginstellingen
 

@@ -1,11 +1,11 @@
 BTW en Fiscale Posities
 ====================================================================
 
-Het bepalen van de juiste BTW-belastingen kan een uitdaging zijn voor jouw boekhouding. Binnen Curq maken we gebruik van BTW-codes en de Fiscale Posities om je hiermee te helpen.
+Het bepalen van de juiste BTW-belastingen kan een uitdaging zijn voor jouw boekhouding. Binnen CURQ maken we gebruik van BTW-codes en de Fiscale Posities om je hiermee te helpen.
 
-De BTW-codes zijn al voorgedefinieerd door Curq. Met de Fiscale Posities bepaalt het systeem automatisch de juiste BTW op basis van slimme regels. Deze slimme vertaling kan gebaseerd worden op de verplichting van het BTW-nummer en het land (geleverd of herkomst). De standaard BTW en Grootboekrekeningen kunnen via de regels van de Fiscale Posities vertaald worden naar een andere BTW of Grootboekrekeningen.
+De BTW-codes zijn al voorgedefinieerd door CURQ. Met de Fiscale Posities bepaalt het systeem automatisch de juiste BTW op basis van slimme regels. Deze slimme vertaling kan gebaseerd worden op de verplichting van het BTW-nummer en het land (geleverd of herkomst). De standaard BTW en Grootboekrekeningen kunnen via de regels van de Fiscale Posities vertaald worden naar een andere BTW of Grootboekrekeningen.
 
-Binnen Curq zijn de standaard Fiscale Posities al ingericht. Afhankelijk van jouw bedrijfsvoering kun je in overleg met de Accountant dit verder aanpassen specifiek voor jouw bedrijf.
+Binnen CURQ zijn de standaard Fiscale Posities al ingericht. Afhankelijk van jouw bedrijfsvoering kun je in overleg met de Accountant dit verder aanpassen specifiek voor jouw bedrijf.
 
 BTW Codes
 ---------------------------------------------------------------------------------------------------
@@ -14,7 +14,7 @@ De BTW-codes vind je terug onder Facturatie > Configuratie > BTW. Je kunt ze hie
 
 .. image:: media/belastingen-fiscale-posities001.png
 
-- **BTW naam:** Hier kun je een naam opgeven voor je BTW-code. Deze verschijnt overal binnen Curq, dus geef een herkenbare naam mee.
+- **BTW naam:** Hier kun je een naam opgeven voor je BTW-code. Deze verschijnt overal binnen CURQ, dus geef een herkenbare naam mee.
 
 - **BTW berekening:** Je krijgt hier een aantal opties.
 
@@ -23,7 +23,7 @@ De BTW-codes vind je terug onder Facturatie > Configuratie > BTW. Je kunt ze hie
 * **Percentage van prijs:** Een percentage als Belasting.
 * **Percentage van prijs, inclusief BTW:** Een percentage als Belasting die rekening houdt met het totaalbedrag inclusief BTW.
 
-- **BTW-soort:** Hiermee bepaal je waar deze BTW-code kan worden geselecteerd binnen Curq.
+- **BTW-soort:** Hiermee bepaal je waar deze BTW-code kan worden geselecteerd binnen CURQ.
 - **BTW-over:** Hiermee bepaal je tot welke soort producten je deze BTW-code kunt toepassen.
 - **Bedrag:** Afhankelijk van de instelling bij BTW berekening geef je hier het percentage of bedrag in.
 
@@ -40,14 +40,14 @@ Bij Geavanceerde opties kun je de BTW-code nog verder instellen.
 - **In de analytische kost inbegrepen?:** Moet de berekende BTW ook worden opgenomen in de kostenplaats.
 - **Land:** In welk land is deze BTW-code geldig.
 - **Inclusief BTW:** Wordt de BTW inclusief berekend.
-- **Beïnvloed grondslag van daarop volgende BTW's?:** Als er meerdere BTW-codes worden toegepast, beïnvloedt deze BTW-code de grondslag van de volgende BTW-code. Als er meerdere codes worden toegepast, houdt Curq rekening met de volgorde van de BTW-codes. De codes met een hogere volgorde worden als eerst toegepast.
+- **Beïnvloed grondslag van daarop volgende BTW's?:** Als er meerdere BTW-codes worden toegepast, beïnvloedt deze BTW-code de grondslag van de volgende BTW-code. Als er meerdere codes worden toegepast, houdt CURQ rekening met de volgorde van de BTW-codes. De codes met een hogere volgorde worden als eerst toegepast.
 
-In Curq zijn de BTW-codes al voor je ingericht. Het kan zijn dat sommige BTW-codes niet van toepassing zijn. Deactiveer deze door de optie Actief uit te zetten.
+In CURQ zijn de BTW-codes al voor je ingericht. Het kan zijn dat sommige BTW-codes niet van toepassing zijn. Deactiveer deze door de optie Actief uit te zetten.
 
 Fiscale Posities
 ---------------------------------------------------------------------------------------------------
 
-De Fiscale Posities vind je terug onder Facturatie > Configuratie > Fiscale Posities. De BTW-regio's zijn reeds ingedeeld in Curq. Bijvoorbeeld, voor zakenrelaties in de EU worden andere BTW-tarieven gehanteerd. Curq zorgt op deze manier ervoor dat de correcte BTW op de orders en facturen staat.
+De Fiscale Posities vind je terug onder Facturatie > Configuratie > Fiscale Posities. De BTW-regio's zijn reeds ingedeeld in CURQ. Bijvoorbeeld, voor zakenrelaties in de EU worden andere BTW-tarieven gehanteerd. CURQ zorgt op deze manier ervoor dat de correcte BTW op de orders en facturen staat.
 
 .. image:: media/belastingen-fiscale-posities004.png
 

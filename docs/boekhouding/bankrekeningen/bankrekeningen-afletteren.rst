@@ -1,4 +1,4 @@
-Afletteren (reconciliatie) in Curq
+Afletteren (reconciliatie) in CURQ
 =========================================================================
 Bank reconciliatie is het proces van het matchen van je
 banktransacties met je bedrijfsadministratie, zoals klantenfacturen,
@@ -8,7 +8,7 @@ Dit is niet alleen verplicht voor de meeste bedrijven, maar het biedt
 ook verschillende voordelen, zoals minder risico op fouten in financiële rapporten, detectie van frauduleuze activiteiten en
 verbetert cashflowbeheer.
 
-Dankzij de reconciliatiemodellen kan Curq de overeenkomende boekingen
+Dankzij de reconciliatiemodellen kan CURQ de overeenkomende boekingen
 automatisch vinden en afletteren.
 
 Algemeen
@@ -16,12 +16,12 @@ Algemeen
 Via het boekhoud dashboard zie je via de banktegel(s) of er af te
 letteren regels zijn. Wij adviseren om gebruik te maken van de MyPonto
 koppeling waarmee je transactieregels automatisch vanuit je
-bankomgeving naar Curq synchroniseert.
+bankomgeving naar CURQ synchroniseert.
 
 Naast automatisch synchroniseren is het ook mogelijk om een Camt bestand
-te downloaden in je bankapplicatie (Curq ondersteunt de formaten
+te downloaden in je bankapplicatie (CURQ ondersteunt de formaten
 camt.053.001.02, Camt.054.001.02). Deze download kun je vervolgens
-uploaden in het overeenkomstige bankdagboek in Curq.
+uploaden in het overeenkomstige bankdagboek in CURQ.
 
 Het importeren van een .csv of .xls bestand is ook nog een alternatief voor de eerder genoemde opties.
 
@@ -32,7 +32,7 @@ puntjes rechts in de tegel:
        :width: 6.3in
        :height: 2.93264in
 
-| Klik bij het desbetreffende dagboek in het dashboard op de knop 'Afletter regels' om alle transacties weer te geven die Curq
+| Klik bij het desbetreffende dagboek in het dashboard op de knop 'Afletter regels' om alle transacties weer te geven die CURQ
   vooraf heeft geselecteerd voor afstemming. Je kunt het standaard filter uit de zoekbalk verwijderen om ook eerder afgeletterde
   transacties weer te geven.
 |
@@ -53,7 +53,7 @@ puntjes rechts in de tegel:
 
 .. Note::
    In onderstaand schermvoorbeeld zie je dat de geselecteerde regel aangeklikt is en van kleur is veranderd. Dit
-   betekent in Curq dat de focus op de regel staat en je bijvoorbeeld de
+   betekent in CURQ dat de focus op de regel staat en je bijvoorbeeld de
    BTW code kan toevoegen. Let er dus op dat je altijd op de af te letteren regel klikt als je deze wilt verwerken.
 
 .. image:: media/focus.png
@@ -66,7 +66,7 @@ Afletter scenario's
 Afletteren van een volledig betaalde factuur
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Wanneer bij de gekozen transactieregel de klant of leverancier staat ingevuld, het bedrag overeenkomt met een openstaande post en het overeenkomstige factuurnummer vermeld staat in de label omschrijving, dan zal Curq de regel automatisch afletteren. Je kunt er voor kiezen ook deze laatste stap te automatiseren. Curq zal dan de gevonden regel direct bevestigen. Stel dit in bij de aflettermodellen, je vind deze terug bij menu Facturatie > Configuratie > Afletterregels.
+Wanneer bij de gekozen transactieregel de klant of leverancier staat ingevuld, het bedrag overeenkomt met een openstaande post en het overeenkomstige factuurnummer vermeld staat in de label omschrijving, dan zal CURQ de regel automatisch afletteren. Je kunt er voor kiezen ook deze laatste stap te automatiseren. CURQ zal dan de gevonden regel direct bevestigen. Stel dit in bij de aflettermodellen, je vind deze terug bij menu Facturatie > Configuratie > Afletterregels.
 
 .. image:: media/bank-aflettermodellen-direct-verwerken.png
        :width: 6.3in
@@ -82,7 +82,7 @@ Afletteren niet volledig betaalde factuur
 Het kan zijn dat de betaalregel niet volledig overeenkomt met een af te letteren factuur (klant betaalt voor een aantal facturen tegelijk of betaalt een deelbedrag).
 
 Scenario 1: klant betaalt minder dan het factuurbedrag.
-Curq zal het betaalde bedrag automatisch afletteren tegen de openstaande post.
+CURQ zal het betaalde bedrag automatisch afletteren tegen de openstaande post.
 
 Vervolgens kun je het restbedrag ook direct afboeken, je doet dit door de regel aan te klikken zoals je hieronder ziet in het
 schermvoorbeeld. Hiermee wordt de optie zichtbaar om de factuur op volledig betaald te zetten. Je kunt er vervolgens voor kiezen om het
@@ -99,7 +99,7 @@ restbedrag af te schrijven op een andere grootboekrekening. Je kan hier ofwel ee
 .. |image2| image:: Media/image11.png
 
 Scenario 2: klant betaalt bijna de gehele factuur, maar een bedrag van een paar cent blijft open staan.
-Indien dit vaker voor komt dan kun je ervoor kiezen het standaard aflettermodel 'perfecte matching' iets aan te vullen. Wanneer je de tolerantie iets aanpast en vervolgens ook een grootboekrekening toevoegt aan het model, dan zal Curq automatisch het restverschil wegboeken.
+Indien dit vaker voor komt dan kun je ervoor kiezen het standaard aflettermodel 'perfecte matching' iets aan te vullen. Wanneer je de tolerantie iets aanpast en vervolgens ook een grootboekrekening toevoegt aan het model, dan zal CURQ automatisch het restverschil wegboeken.
 
 .. image:: media/betalingsverschillen-afboeken.png
        :width: 6.3in
@@ -123,7 +123,7 @@ Het kan voorkomen dat er een afschriftregel is met een betaling zonder onderligg
 Afletteren betaalregel zonder factuur met BTW
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Het kan voorkomen dat er een afschriftregel is met een betaling zonder onderliggende factuur, maar wel met BTW. Na kiezen van de juiste kostenrekening is het vervolgens mogelijk om in het BTW veld de juiste BTW
-code te selecteren. Curq rekent dan automatisch de juiste bedragen uit. De extra regel die wordt aangemaakt voor verwerken van de BTW is terug te vinden op de BTW aangifte in de juiste rubriek.
+code te selecteren. CURQ rekent dan automatisch de juiste bedragen uit. De extra regel die wordt aangemaakt voor verwerken van de BTW is terug te vinden op de BTW aangifte in de juiste rubriek.
 
 .. image:: media/btw-handmatige-betaling.png
    :width: 6.69306in

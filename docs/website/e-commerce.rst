@@ -1,7 +1,7 @@
 E-commerce
 ====================================================================
 
-De e-commerce module is een geavanceerd en veelzijdig systeem van Curq dat bedrijven in staat stelt om krachtige webshops te creëren die voldoen aan de hoogste normen van de industrie. Met deze module kunnen ondernemingen snel en efficiënt online winkels opzetten en beheren, die voldoen aan essentiële certificeringen en veeleisende standaarden op het gebied van veiligheid en betrouwbaarheid.
+De e-commerce module is een geavanceerd en veelzijdig systeem van CURQ dat bedrijven in staat stelt om krachtige webshops te creëren die voldoen aan de hoogste normen van de industrie. Met deze module kunnen ondernemingen snel en efficiënt online winkels opzetten en beheren, die voldoen aan essentiële certificeringen en veeleisende standaarden op het gebied van veiligheid en betrouwbaarheid.
 
 Deze module biedt een uitgebreid scala aan functies en mogelijkheden om het volledige e-commerceproces te stroomlijnen. Het stelt gebruikers in staat om een breed assortiment producten en diensten aan te bieden, inclusief cadeaubonnen, eWallets en kortingsaanbiedingen. Met intuïtieve tools voor up- en cross-selling kunnen bedrijven eenvoudig aanbevelingen doen aan klanten en de verkoop maximaliseren.
 

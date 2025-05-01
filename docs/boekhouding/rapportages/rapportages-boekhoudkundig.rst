@@ -1,7 +1,7 @@
 Boekhoud rapportages
 =========================================================================
 
-In Curq maken we gebruik van de standaard boekhoudrapportages zoals die door de OCA (Odoo Community Organisation) worden onderhouden. De rapportages worden hieronder besproken.
+In CURQ maken we gebruik van de standaard boekhoudrapportages zoals die door de OCA (Odoo Community Organisation) worden onderhouden. De rapportages worden hieronder besproken.
 
 Grootboek
 -------------------------------------------------------------------------

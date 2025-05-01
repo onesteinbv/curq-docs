@@ -1,10 +1,10 @@
 ==================
-Gebruikers in Curq
+Gebruikers in CURQ
 ==================
 
 Gebruikers
 ----------
-Curq beschouwt een gebruiker als iemand die toegang heeft tot de database om dagelijkse taken uit te voeren. Het aantal gebruikers dat kan worden toegevoegd is onbeperkt, en om de toegang tot specifieke informatie te reguleren, kunnen regels worden toegepast. Het beheer van gebruikers en hun toegangsrechten kan op elk moment worden gewijzigd.
+CURQ beschouwt een gebruiker als iemand die toegang heeft tot de database om dagelijkse taken uit te voeren. Het aantal gebruikers dat kan worden toegevoegd is onbeperkt, en om de toegang tot specifieke informatie te reguleren, kunnen regels worden toegepast. Het beheer van gebruikers en hun toegangsrechten kan op elk moment worden gewijzigd.
 
 Om individuele gebruikers toe te voegen, navigeer je naar **Instellingen ‣ Beheer Gebruikers** en klik je op de knop *Nieuw*.
 
@@ -16,7 +16,7 @@ Vul het formulier in met de vereiste gegevens. Bovenin vind je 3 verschillende *
 
 Kies onder het tabblad *Toegangsrechten* de relevante groepen binnen elke applicatie waar de gebruiker toegang tot moet hebben. Standaard staat gebruikerstype op *Interne gebruiker*. Note: de gebruikerstype wordt zichtbaar als de *Ontwikkelaarsmodus* is geactiveerd.
 
-De opties **Portaal** en **Openbaar** bieden geen mogelijkheid om toegangsrechten te kiezen. Leden met deze specifieke rechten hebben doorgaans aangepaste privileges, zoals recordregels en beperkte menuopties, en maken doorgaans geen deel uit van de standaard Curq groepen.
+De opties **Portaal** en **Openbaar** bieden geen mogelijkheid om toegangsrechten te kiezen. Leden met deze specifieke rechten hebben doorgaans aangepaste privileges, zoals recordregels en beperkte menuopties, en maken doorgaans geen deel uit van de standaard CURQ groepen.
 
 .. image:: media/003.png
 
@@ -48,12 +48,12 @@ Om reset instructies voor het wachtwoord naar gebruikers te sturen, ga je naar *
 .. image:: media/007.png
 
 Opmerking:
-De knop *Instructies voor het resetten van wachtwoorden verzenden* verschijnt alleen als de gebruiker de Curq uitnodigingsemail al heeft bevestigd.
+De knop *Instructies voor het resetten van wachtwoorden verzenden* verschijnt alleen als de gebruiker de CURQ uitnodigingsemail al heeft bevestigd.
 
 Deze e-mail bevat alle nodige instructies om het wachtwoord opnieuw in te stellen, evenals een link die de gebruiker doorverwijst naar een inlogpagina.
 
 **Wachtwoorden van gebruikers wijzigen:**
-Om het wachtwoord van een gebruiker direct te wijzigen in Curq, ga je naar Instellingen ‣ Gebruikers & Bedrijven ‣ Gebruikers en selecteer de betreffende gebruiker om zijn formulier te openen. Klik vervolgens op de knop *Actie* en selecteer *Wachtwoord wijzigen*.
+Om het wachtwoord van een gebruiker direct te wijzigen in CURQ, ga je naar Instellingen ‣ Gebruikers & Bedrijven ‣ Gebruikers en selecteer de betreffende gebruiker om zijn formulier te openen. Klik vervolgens op de knop *Actie* en selecteer *Wachtwoord wijzigen*.
 Voer het nieuwe wachtwoord in en bevestig door op *Wachtwoord wijzigen* te klikken.
 
 Meerdere bedrijven:

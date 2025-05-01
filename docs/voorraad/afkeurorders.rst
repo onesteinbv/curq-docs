@@ -2,7 +2,7 @@
 Afkeurorders
 ============
 
-Elk bedrijf dat voorraadbeheer voert heeft te maken met *afkeur* producten en wat eigenlijk afval is met weinig tot geen economische waarde. Wanneer u een product afkeurt,  wordt het uit de voorraad van het bedrijf verwijderd. Het is van essentieel belang om beschadigde of verlopen producten zo snel mogelijk uit de voorraad te verwijderen. Je kunt de afkeur voorraad opslaan in een speciale afkeurlocatie binnen de opslaglocatie van Curq.
+Elk bedrijf dat voorraadbeheer voert heeft te maken met *afkeur* producten en wat eigenlijk afval is met weinig tot geen economische waarde. Wanneer u een product afkeurt,  wordt het uit de voorraad van het bedrijf verwijderd. Het is van essentieel belang om beschadigde of verlopen producten zo snel mogelijk uit de voorraad te verwijderen. Je kunt de afkeur voorraad opslaan in een speciale afkeurlocatie binnen de opslaglocatie van CURQ.
 
 De speciale afkeur locatie kan worden ingesteld in het menu **Locaties** van de Voorraad app.
 

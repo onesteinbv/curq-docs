@@ -39,7 +39,7 @@ Je kunt dit dus per product doen, maar ook per productcategorie.
 
 Prioriteit van wegzetregels
 ---------------------------
-Curq selecteert een wegzetregel op basis van de volgende prioriteitenlijst (van hoog naar laag) totdat een overeenkomst is gevonden:
+CURQ selecteert een wegzetregel op basis van de volgende prioriteitenlijst (van hoog naar laag) totdat een overeenkomst is gevonden:
 
 1. Verpakkingstype en product
 2. Verpakkingstype en productcategorie

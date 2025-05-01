@@ -44,7 +44,7 @@ We hebben nieuwe velden toegevoegd aan het menu 'Kilometerregistratie'.
 
 - **Is een retourrit?** Vink dit veld aan als je een heen- en een terugreis wil registreren.
 
-- **Totale km-rit**. Als het veld 'is een retourrit' niet is aangekruist dan zie je de waarde van 'enkele reis', anders verdubbelt Curq de enkele reis waarde.
+- **Totale km-rit**. Als het veld 'is een retourrit' niet is aangekruist dan zie je de waarde van 'enkele reis', anders verdubbelt CURQ de enkele reis waarde.
 
 - **Totaal km's**. Dit is een berekend veld van het totaal aantal kilometers van de rit.
 

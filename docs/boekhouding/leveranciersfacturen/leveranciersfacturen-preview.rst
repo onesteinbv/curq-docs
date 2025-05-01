@@ -1,12 +1,12 @@
 Facturen Preview
 ====================================================================
 
-Curq heeft een nieuwe functionaliteit toegevoegd waarmee facturen kunnen worden voorzien van een PDF-preview. Deze preview is bijzonder handig bij het coderen van inkoopfacturen, omdat het gebruikers in staat stelt de factuur visueel te inspecteren en snel belangrijke informatie, zoals bedragen, datums en leveranciersgegevens, te achterhalen. Deze visuele controle draagt bij aan een nauwkeuriger coderingsproces en versnelt de workflow, wat cruciaal is voor een efficiënte en foutloze financiële administratie.
+CURQ heeft een nieuwe functionaliteit toegevoegd waarmee facturen kunnen worden voorzien van een PDF-preview. Deze preview is bijzonder handig bij het coderen van inkoopfacturen, omdat het gebruikers in staat stelt de factuur visueel te inspecteren en snel belangrijke informatie, zoals bedragen, datums en leveranciersgegevens, te achterhalen. Deze visuele controle draagt bij aan een nauwkeuriger coderingsproces en versnelt de workflow, wat cruciaal is voor een efficiënte en foutloze financiële administratie.
 
 Beoordelen inkoopfactuur
 ---------------------------------------------------------------------------------------------------
 
-Een inkoopfactuur kan op verschillende manieren worden aangemaakt binnen Curq:
+Een inkoopfactuur kan op verschillende manieren worden aangemaakt binnen CURQ:
 
 1. Via een email naar facturen@uwbedrijf....curq.nl
 2. Via de knop [UPLOAD] bij de Facturatie Dashboard
@@ -37,7 +37,7 @@ Indien het PDF-bestand dit ondersteunt, kunnen ook de teksten worden geselecteer
 Controle vanuit boekingsregels
 ---------------------------------------------------------------------------------------------------
 
-De boekhouder of accountant controleert vaak de boekhouding aan de hand van de boekingsregels. In Curq is het tevens mogelijk om vanuit dit systeem een voorbeeld van de factuur op te vragen. Dit kan handig zijn om te verifiëren of bepaalde facturen correct zijn geboekt op de juiste grootboekrekening. Bijvoorbeeld, is jouw opleidingsfactuur geboekt op de juiste kostenrekening?
+De boekhouder of accountant controleert vaak de boekhouding aan de hand van de boekingsregels. In CURQ is het tevens mogelijk om vanuit dit systeem een voorbeeld van de factuur op te vragen. Dit kan handig zijn om te verifiëren of bepaalde facturen correct zijn geboekt op de juiste grootboekrekening. Bijvoorbeeld, is jouw opleidingsfactuur geboekt op de juiste kostenrekening?
 
 Je kunt het overzicht van boekingsregels vinden onder Facturatie > Boekhouding > Boekingsregels
 

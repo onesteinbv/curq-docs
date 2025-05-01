@@ -2,7 +2,7 @@
 Magazijnen & locaties
 =====================
 
-Magazijnbeheer speelt een belangrijke rol in het naadloos functioneren van voorraadbeheer én productverplaatsingen. Curq biedt een uitstekende voorraadbeheer voor het soepel afhandelen van magazijnactiviteiten binnen het bedrijf. In Curq is het mogelijk om meerdere magazijnen tegelijkertijd te beheren en te monitoren.
+Magazijnbeheer speelt een belangrijke rol in het naadloos functioneren van voorraadbeheer én productverplaatsingen. CURQ biedt een uitstekende voorraadbeheer voor het soepel afhandelen van magazijnactiviteiten binnen het bedrijf. In CURQ is het mogelijk om meerdere magazijnen tegelijkertijd te beheren en te monitoren.
 
 ----------
 Magazijnen
@@ -12,7 +12,7 @@ In het configuratiemenu van de voorraadmodule worden diverse opties getoond voor
 
 .. image:: media/image69.png
 
-Deze mogelijkheden helpen bij het soepel laten verlopen van verschillende magazijnbeheer taken. Door de optie *Magazijnen* te selecteren in het configuratiemenu, kun je een overzicht krijgen van de magazijnen die zijn aangemaakt in Curq. Deze lijst toont de naam van het magazijn, de voorraadlocatie, het adres en het bedrijf.
+Deze mogelijkheden helpen bij het soepel laten verlopen van verschillende magazijnbeheer taken. Door de optie *Magazijnen* te selecteren in het configuratiemenu, kun je een overzicht krijgen van de magazijnen die zijn aangemaakt in CURQ. Deze lijst toont de naam van het magazijn, de voorraadlocatie, het adres en het bedrijf.
 
 Wanneer je op een *Magazijn* optie klikt, wordt een formulier geopend van het magazijn en kun je de naam van het magazijn, de korte naam, het bedrijf en de locatie van het magazijn invullen in de daarvoor bestemde velden.
 
@@ -54,7 +54,7 @@ Hieronder worden de beschikbare *locatietypes* vermeld:
 
 5. **Voorraadverlies**: Deze virtuele locatie wordt gebruikt als tegenhanger voor inventarisatie bewerkingen die worden gebruikt om voorraadniveaus in balans te brengen.
 
-6. **Productie**: Dit is een virtuele tegenpartij locatie die wordt gebruikt voor productie bewerkingen. Door componenten van deze locatie te verbruiken, kunt u eindproducten produceren. (Let op!: de productie module is beschikbaar vanaf Curq Professional)
+6. **Productie**: Dit is een virtuele tegenpartij locatie die wordt gebruikt voor productie bewerkingen. Door componenten van deze locatie te verbruiken, kunt u eindproducten produceren. (Let op!: de productie module is beschikbaar vanaf CURQ Professional)
 
 7. **Transit Locatie**: De transit locatie fungeert als een tussenstation bij intercompany- of *inter* magazijn operaties.
 

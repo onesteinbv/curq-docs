@@ -1,7 +1,7 @@
 Verkoopfacturen
 ====================================================================
 
-Het opstellen van facturen is een essentieel onderdeel van een goede boekhouding. Een fraaie en professionele factuur fungeert als een soort visitekaartje. Door aan klanten te laten zien dat je zorgvuldig en professioneel bent, verklein je de kans op betalingsproblemen. Met Curq kun je eenvoudig een factuur opstellen en verzenden naar je klanten. Via Curq kun je moeiteloos jouw huisstijl toevoegen door kleuren en jouw logo te integreren. Vervolgens verstuur je deze facturen gemakkelijk met slechts een paar klikken.
+Het opstellen van facturen is een essentieel onderdeel van een goede boekhouding. Een fraaie en professionele factuur fungeert als een soort visitekaartje. Door aan klanten te laten zien dat je zorgvuldig en professioneel bent, verklein je de kans op betalingsproblemen. Met CURQ kun je eenvoudig een factuur opstellen en verzenden naar je klanten. Via CURQ kun je moeiteloos jouw huisstijl toevoegen door kleuren en jouw logo te integreren. Vervolgens verstuur je deze facturen gemakkelijk met slechts een paar klikken.
 
 Aanpassen huisstijl
 ---------------------------------------------------------------------------------------------------
@@ -16,21 +16,21 @@ Kies "Configureer documentlay-out". In het volgende scherm heb je de mogelijkhei
 - **Lay-out:** Hier zijn vier opties beschikbaar om het ontwerp van jouw facturen of andere documenten te configureren.
 - **Lettertype:** Kies hier een van de beschikbare lettertypes
 - **Bedrijfslogo:** Upload hier je Bedrijfslogo.
-- **Kleuren:** Curq stelt de kleuren voor op basis van je bedrijfslogo.
+- **Kleuren:** CURQ stelt de kleuren voor op basis van je bedrijfslogo.
 - **Achtergrond lay-out:** Kies een optie of upload je eigen achtergrond.
 - **Bedrijfsslogan:** Vul hier jouw slogan in. Dit is optioneel.
 - **Bedrijfsgegevens:** Vul hier jouw bedrijfsgegevens in.
 - **Voettekst:** Vul hier de voettekst in. Denk aan je telefoonnummer, website, mailadres, KvK, BTW-Nummer of je bankrekeningnummer.
 - **Papierformaat:** Kies het juiste formaat.
 
-Aan de rechterkant zie je meteen hoe jouw documenten in Curq eruit zullen zien. Onder dit voorbeeld kun je ook nog een PDF downloaden om te zien hoe jouw klanten jouw factuur ontvangen. Nu kunnen we verdergaan met het opstellen van jouw verkoopfactuur.
+Aan de rechterkant zie je meteen hoe jouw documenten in CURQ eruit zullen zien. Onder dit voorbeeld kun je ook nog een PDF downloaden om te zien hoe jouw klanten jouw factuur ontvangen. Nu kunnen we verdergaan met het opstellen van jouw verkoopfactuur.
 
 Aanmaken verkoopfactuur
 ---------------------------------------------------------------------------------------------------
 
-Heb je een uitgebreidere versie van Curq, dan kunnen verkoopfacturen ook worden aangemaakt vanuit bijvoorbeeld een verkooporder of een website-order. Hier volgt de handmatige procedure voor het aanmaken van een verkoopfactuur: ga naar Facturatie > Klanten > Facturen. In dit scherm zie je al jouw verkoopfacturen in een mooi overzicht. Je kunt meteen zien of een factuur openstaat of al reeds betaald is.
+Heb je een uitgebreidere versie van CURQ, dan kunnen verkoopfacturen ook worden aangemaakt vanuit bijvoorbeeld een verkooporder of een website-order. Hier volgt de handmatige procedure voor het aanmaken van een verkoopfactuur: ga naar Facturatie > Klanten > Facturen. In dit scherm zie je al jouw verkoopfacturen in een mooi overzicht. Je kunt meteen zien of een factuur openstaat of al reeds betaald is.
 
-Voor het aanmaken van een factuur klik je linksboven op [Nieuw]. Mochten de facturen vanuit een ander softwarepakket zijn verstuurd, maar je wilt ze wel in Curq bijhouden, dan kun je ook gebruikmaken van de knop [UPLOADEN].
+Voor het aanmaken van een factuur klik je linksboven op [Nieuw]. Mochten de facturen vanuit een ander softwarepakket zijn verstuurd, maar je wilt ze wel in CURQ bijhouden, dan kun je ook gebruikmaken van de knop [UPLOADEN].
 
 Het volgende scherm verschijnt wanneer je een nieuwe factuur aanmaakt.
 
@@ -50,12 +50,12 @@ Het scherm is opgebouwd uit 3 gedeeltes.
 
    De factuurregels bevatten de details van de factuur, waarin staat wat er is verkocht tegen welk bedrag en met welke BTW.
 
-- **Product:** Vul hier een product in als je gebruikmaakt van producten binnen Curq. Een product kan ook een dienst zijn; in dat geval heeft het product het type "dienst". Het is niet verplicht om gebruik te maken van producten.
+- **Product:** Vul hier een product in als je gebruikmaakt van producten binnen CURQ. Een product kan ook een dienst zijn; in dat geval heeft het product het type "dienst". Het is niet verplicht om gebruik te maken van producten.
 - **Label:** Dit verschijnt op de factuur, dus vul dit correct in. Als je producten gebruikt, wordt dit automatisch overgenomen, maar je kunt het altijd achteraf aanpassen.
-- **Rekening:** Het is verplicht om de juiste grootboekrekening op te geven. De omzet wordt geboekt op deze grootboekrekening. Curq kan deze automatisch invullen op basis van de producten.
+- **Rekening:** Het is verplicht om de juiste grootboekrekening op te geven. De omzet wordt geboekt op deze grootboekrekening. CURQ kan deze automatisch invullen op basis van de producten.
 - **Aantal:** Het aantal verkochte eenheden.
 - **Prijs:** De prijs per eenheid.
-- **BTW:** Curq stelt automatisch de meest logische BTW-code voor. Wijk hier alleen van af als er een andere BTW van toepassing is.
+- **BTW:** CURQ stelt automatisch de meest logische BTW-code voor. Wijk hier alleen van af als er een andere BTW van toepassing is.
 - **Subtotaal:** Aantal x Prijs.
 - **Algemene voorwaarden:** Links onder de factuurregels zie je de algemene voorwaarden staan. Deze tekst verschijnt op je facturen. TIP: Als je deze op je website hebt staan, kun je daarnaar verwijzen.
 - **Totalen:** Rechts onder de factuurregels zie je de totalen van de factuur, inclusief toegepaste BTW.
@@ -72,9 +72,9 @@ Tabblad [Overige Info]
 - **Verkoper:** De verkoper die gebruikt kan worden in rapportages.
 - **Verkoopteam:** Het verkoopteam dat gebruikt kan worden in rapportages.
 - **Recipient Bank:** Alleen van toepassing als je je klanten incasseert.
-- **Leveringscondities:** Als INCOTERMS van belang zijn, dan kun je die hier invullen. In Curq zijn de meest gebruikte aanwezig.
+- **Leveringscondities:** Als INCOTERMS van belang zijn, dan kun je die hier invullen. In CURQ zijn de meest gebruikte aanwezig.
 - **Fiscale Positie:** Het BTW-regime dat van toepassing is op de factuur.
-- **Automatische boeken:** Alleen op een conceptfactuur kan dit worden ingesteld. Je kunt een factuur al vooruit plannen om deze later te laten boeken, of je kunt terugkerende facturen automatisch laten boeken tot een bepaalde tijd door Curq. Dit is handig als je elke maand dezelfde factuur wilt laten aanmaken.
+- **Automatische boeken:** Alleen op een conceptfactuur kan dit worden ingesteld. Je kunt een factuur al vooruit plannen om deze later te laten boeken, of je kunt terugkerende facturen automatisch laten boeken tot een bepaalde tijd door CURQ. Dit is handig als je elke maand dezelfde factuur wilt laten aanmaken.
 - **Te controleren:** De factuur krijgt de status "te controleren". Je kunt bijvoorbeeld jouw boekhouder hiermee attenderen dat deze factuur nog een keer extra moet worden gecontroleerd.
 
 3. Logging van de factuur.
@@ -97,17 +97,17 @@ De factuur staat nu open in de boekhouding en de status verandert naar "geboekt"
 
 .. image:: media/verkoopfacturen007.png
 
-Met de knop [VERZEND & AFDRUKKEN] kun je meteen de factuur via de mail versturen. Als er een e-mailadres ontbreekt, zal Curq om deze informatie vragen. Het volgende verzendscherm verschijnt.
+Met de knop [VERZEND & AFDRUKKEN] kun je meteen de factuur via de mail versturen. Als er een e-mailadres ontbreekt, zal CURQ om deze informatie vragen. Het volgende verzendscherm verschijnt.
 
 .. image:: media/verkoopfacturen008.png
 
-In dit scherm heb je de optie om een factuur af te drukken en te mailen. Zorg dat de juiste optie is geselecteerd. Hier kun je ook de mail aanpassen en een persoonlijk tintje meegeven. Curq zal de factuur als PDF-bestand meesturen naar de klant.
+In dit scherm heb je de optie om een factuur af te drukken en te mailen. Zorg dat de juiste optie is geselecteerd. Hier kun je ook de mail aanpassen en een persoonlijk tintje meegeven. CURQ zal de factuur als PDF-bestand meesturen naar de klant.
 
 Eenmaal goed, dan kun je jouw factuur versturen via [VERZEND & AFDRUKKEN].
 
 Heb je een persoonlijke mail aangemaakt en wil je die de volgende keer weer gebruiken, dan kun je die opslaan via de knop [OPSLAAN ALS NIEUW SJABLOON].
 
-Zodra de factuur is verzonden binnen Curq, is dit meteen zichtbaar in het loggingsdeel. Je ziet jouw mail terug en aan de hand van de enveloppe kun je de status van jouw mail terugvinden. Je kunt eventueel corrigerende acties ondernemen door te klikken op de enveloppe.
+Zodra de factuur is verzonden binnen CURQ, is dit meteen zichtbaar in het loggingsdeel. Je ziet jouw mail terug en aan de hand van de enveloppe kun je de status van jouw mail terugvinden. Je kunt eventueel corrigerende acties ondernemen door te klikken op de enveloppe.
 
 .. image:: media/verkoopfacturen009.png
 

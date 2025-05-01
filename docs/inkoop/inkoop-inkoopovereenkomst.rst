@@ -2,13 +2,13 @@
 Inkoopovereenkomst
 ==================
 
-De overeengekomen voorwaarden tussen de klant en de verkoper kunnen worden vastgelegd in een inkoopovereenkomst. Voordat je een inkooporder aanmaakt, is het essentieel dat beide partijen akkoord gaan met de voorwaarden die zijn vastgelegd in de inkoopovereenkomst. Curq biedt een optie om dergelijke inkoopovereenkomsten te beheren. Deze overeenkomsten kunnen vervolgens worden gebruikt om inkooporders te genereren.
+De overeengekomen voorwaarden tussen de klant en de verkoper kunnen worden vastgelegd in een inkoopovereenkomst. Voordat je een inkooporder aanmaakt, is het essentieel dat beide partijen akkoord gaan met de voorwaarden die zijn vastgelegd in de inkoopovereenkomst. CURQ biedt een optie om dergelijke inkoopovereenkomsten te beheren. Deze overeenkomsten kunnen vervolgens worden gebruikt om inkooporders te genereren.
 
 Om deze functie te gebruiken, dien je eerst de optie *Inkoopovereenkomsten* activeren in het menu **Instellingen**. Deze optie is beschikbaar onder het tabblad **Orders**, zoals te zien is in de onderstaande schermafbeelding.
 
 .. image:: media/inkoop031.png
 
-In Curq zijn er twee soorten inkoopovereenkomsten beschikbaar, namelijk *Aanbestedingen* en *Afroeporders*. Je kunt de optie **Aanbesteding** gebruiken wanneer je offertes van meerdere leveranciers voor hetzelfde product wilt vergelijken. Deze optie wordt weergegeven wanneer je een nieuwe RFQ aanmaakt in de inkoopmodule, zoals eerder toegelicht bij de inkooporder.
+In CURQ zijn er twee soorten inkoopovereenkomsten beschikbaar, namelijk *Aanbestedingen* en *Afroeporders*. Je kunt de optie **Aanbesteding** gebruiken wanneer je offertes van meerdere leveranciers voor hetzelfde product wilt vergelijken. Deze optie wordt weergegeven wanneer je een nieuwe RFQ aanmaakt in de inkoopmodule, zoals eerder toegelicht bij de inkooporder.
 
 .. image:: media/inkoop032.png
 

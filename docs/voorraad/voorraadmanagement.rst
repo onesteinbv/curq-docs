@@ -2,7 +2,7 @@
 Voorraadmanagement
 ==================
 
-Met de voorraadmodule van Curq kun je de diverse aspecten van voorraadbeheer binnen je bedrijf gestructureerd organiseren en beheren. Deze module faciliteert niet alleen het overzicht en de opvolging van productvoorraden, maar voert ook verschillende inventarisatie taken uit. Daarnaast biedt het een eenvoudige manier om product hoeveelheden te beheren en alle bestellingen nauwlettend in de gaten te houden.
+Met de voorraadmodule van CURQ kun je de diverse aspecten van voorraadbeheer binnen je bedrijf gestructureerd organiseren en beheren. Deze module faciliteert niet alleen het overzicht en de opvolging van productvoorraden, maar voert ook verschillende inventarisatie taken uit. Daarnaast biedt het een eenvoudige manier om product hoeveelheden te beheren en alle bestellingen nauwlettend in de gaten te houden.
 
 
 Om aan de slag te gaan, dien je eerst alle producten te configureren binnen de voorraadmodule. Meer info vindt u in de handleiding **Product-Configuratie**.
@@ -48,7 +48,7 @@ Nadat de configuratie van de nieuwe productcategorie is voltooid, krijg je toega
 Traceerbaarheid van producten
 -----------------------------
 
-In Curq is het mogelijk om partijen en serienummers te gebruiken om producten te traceren. Deze traceerbaarheid functies verschillen in hun functie.
+In CURQ is het mogelijk om partijen en serienummers te gebruiken om producten te traceren. Deze traceerbaarheid functies verschillen in hun functie.
 
 Over het algemeen dienen partijen als unieke identificatienummers om een groep producten van hetzelfde type te onderscheiden. Producten die klein en lastig individueel te tellen zijn, kunnen worden samengevoegd in een enkele verpakking met een partijnummer. Deze producten worden als batches in de inventaris opgenomen.
 

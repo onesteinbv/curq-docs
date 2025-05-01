@@ -7,7 +7,7 @@ Dit is vaak het geval bij abonnementen, vooruitbetalingen voor diensten of produ
 
 Het boeken van uitgestelde opbrengsten is een manier om de timing van inkomstenherkenning in overeenstemming te brengen met de daadwerkelijke levering van goederen of diensten, wat belangrijk is voor een nauwkeurige financiële rapportage. Als de goederen of diensten eenmaal zijn geleverd, wordt het bedrag dat voorheen als uitgestelde opbrengst werd geboekt, overgebracht naar de opbrengstenrekening in de resultatenrekening.
 
-Curq helpt bedrijven om langdurige omzet te spreiden, waardoor ze de effecten van dergelijke omzet over meerdere perioden kunnen verspreiden. Dit draagt bij aan een meer gedetailleerd financieel overzicht.
+CURQ helpt bedrijven om langdurige omzet te spreiden, waardoor ze de effecten van dergelijke omzet over meerdere perioden kunnen verspreiden. Dit draagt bij aan een meer gedetailleerd financieel overzicht.
 
 Voorbeeld: Laten we aannemen dat je een jaarabonnement van €1200 vooruit factureert. Deze inkomsten zijn bedoeld voor het gebruik van het abonnement gedurende het hele jaar. Als je de volledige omzet in één maand zou boeken, lijkt het alsof het abonnement slechts geldig is voor die ene maand, wat resulteert in ongewoon hoge inkomsten voor die periode. Om een nauwkeuriger beeld te krijgen, is het raadzaam om deze omzet gelijkmatig over 12 maanden te verdelen. Op die manier registreer je elke maand €100 aan abonnementsinkomsten en boek je het totale bedrag op een vooruitgefactureerde grootboekrekening.
 
@@ -16,7 +16,7 @@ Voorbeeld: Laten we aannemen dat je een jaarabonnement van €1200 vooruit factu
 
 Sjablonen voor spreiden van omzet configureren
 ---------------------------------------------------------------------------------------------------
-Je kunt een voorgedefinieerd sjabloon voor spreiding aanmaken via het menu Facturatie > Configuratie > Spreidingsjablonen. Dit sjabloon stelt je in staat om de juiste instellingen te definiëren wanneer je een spreiding wilt uitvoeren of een factuurregel wilt koppelen. Op basis van deze instellingen berekent en boekt Curq vervolgens de juiste gegevens in.
+Je kunt een voorgedefinieerd sjabloon voor spreiding aanmaken via het menu Facturatie > Configuratie > Spreidingsjablonen. Dit sjabloon stelt je in staat om de juiste instellingen te definiëren wanneer je een spreiding wilt uitvoeren of een factuurregel wilt koppelen. Op basis van deze instellingen berekent en boekt CURQ vervolgens de juiste gegevens in.
 
 .. image:: media/verkoopfacturen-omzetspreiding001.png
 

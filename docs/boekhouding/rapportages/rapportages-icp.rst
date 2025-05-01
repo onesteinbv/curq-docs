@@ -13,7 +13,7 @@ Het indienen van zo'n ICP-opgaaf is niet alleen iets wat moet, het helpt onderne
 ICP aangifte aanmaken
 ---------------------------------------------------------------------------------------------------
 
-Nadat je een BTW-aangifte hebt ingediend in Curq (verzonden), kun je de benodigde informatie voor de ICP-opgaaf bekijken op het tabblad ICP-aangifte.
+Nadat je een BTW-aangifte hebt ingediend in CURQ (verzonden), kun je de benodigde informatie voor de ICP-opgaaf bekijken op het tabblad ICP-aangifte.
 
 .. image:: media/rapportages-icp001.png
 

@@ -1,7 +1,7 @@
 Basisbegrippen Boekhouding
 ========================================================================
 
-In dit onderdeel geven we een korte uitleg waar de balans en de verlies en winst onderdelen in Curq uit bestaan. We beschrijven de onderdelen op basis van de door Curq voorgedefineerde rekening categorieën.
+In dit onderdeel geven we een korte uitleg waar de balans en de verlies en winst onderdelen in CURQ uit bestaan. We beschrijven de onderdelen op basis van de door CURQ voorgedefineerde rekening categorieën.
 
 Introductie Balans
 ------------------------------------------------------------------------
@@ -66,7 +66,7 @@ Kort samengevat wordt het resultaat bepaalt met de volgende formule:
 Grootboek
 ------------------------------------------------------------------------
 
-Het grootboek bevat alle grootboek rekeningen van het bedrijf: zowel balansrekeningen als resultatenrekeningen. Elke transactie wordt geregistreerd door meerdere rekeningen te debiteren en crediteren in een journaalpost. Binnen Curq maken we gebruik van een gestandaardiseerd grootboekschema (RGS).
+Het grootboek bevat alle grootboek rekeningen van het bedrijf: zowel balansrekeningen als resultatenrekeningen. Elke transactie wordt geregistreerd door meerdere rekeningen te debiteren en crediteren in een journaalpost. Binnen CURQ maken we gebruik van een gestandaardiseerd grootboekschema (RGS).
 
 Elke rekening die in het grootboek staat, behoort tot een specifieke categorie. In Odoo heeft elke rekening een unieke code en behoort tot een van deze categorieën:
 

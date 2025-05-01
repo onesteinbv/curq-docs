@@ -1,7 +1,7 @@
 Agenda
 ====================================================================
 
-De Kalender functionaliteit kom je op veel plaatsen tegen in Curq. De module registreert en beheert alle afspraken, urenstaten en andere gerelateerde informatie.
+De Kalender functionaliteit kom je op veel plaatsen tegen in CURQ. De module registreert en beheert alle afspraken, urenstaten en andere gerelateerde informatie.
 
 .. image:: media/agenda001.png
 
@@ -21,4 +21,4 @@ Onder opties kan worden ingesteld of de afspraak terugkerend is, of deze  openba
 
 Onder de tab 'Uitnodigingen' zie je alle uitgenodigde contacten en kun je via de knop 'uitnodigingen versturen' deze contacten ook een mail sturen.
 
-Met de Kalender kun je niet alleen alle afspraken bijhouden die je in Curq aanmaakt, maar ook de afspraken van Nextcloud (als je de connectie maakt met Nextcloud) Let op: er kan maar een Nextcloud profiel worden gekoppeld per gebruiker.
+Met de Kalender kun je niet alleen alle afspraken bijhouden die je in CURQ aanmaakt, maar ook de afspraken van Nextcloud (als je de connectie maakt met Nextcloud) Let op: er kan maar een Nextcloud profiel worden gekoppeld per gebruiker.

@@ -3,7 +3,7 @@ Openingsbalans
 
 Als je begint met het opzetten van een boekhouding, is het gebruikelijk om te starten met een openingsbalans. Dit vormt financieel gezien het vertrekpunt van de boekhouding en wordt vaak in samenwerking met een boekhouder opgesteld.
 
-Indien je een startende ondernemer bent, is het mogelijk dat je een deel van je vermogen investeert in je bedrijf; dit wordt vervolgens opgenomen in je openingsbalans. Voor bestaande bedrijven die willen overstappen naar Curq, kan de boekhouding worden overgedragen met behulp van een openingsbalans.
+Indien je een startende ondernemer bent, is het mogelijk dat je een deel van je vermogen investeert in je bedrijf; dit wordt vervolgens opgenomen in je openingsbalans. Voor bestaande bedrijven die willen overstappen naar CURQ, kan de boekhouding worden overgedragen met behulp van een openingsbalans.
 
 Een openingsbalans wordt opgesteld in het memoriaal dagboek. Zo'n memoriaalboeking maak je via Facturatie > Boekhouding > Boekingen.
 
@@ -27,4 +27,4 @@ Op de boekingsregels geef je de details van de boeking in.
 - **Debet:** Bedrag aan de debetzijde.
 - **Credit:** Bedrag aan de creditzijde.
 
-Je kunt de openingsbalansboeking pas opslaan wanneer deze in balans is. Controleer voordat je de boeking opslaat of het totaalbedrag aan zowel de debet- als creditzijde gelijk is. Curq toont het totaal van beide kolommen onderaan.
+Je kunt de openingsbalansboeking pas opslaan wanneer deze in balans is. Controleer voordat je de boeking opslaat of het totaalbedrag aan zowel de debet- als creditzijde gelijk is. CURQ toont het totaal van beide kolommen onderaan.

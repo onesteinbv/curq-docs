@@ -5,7 +5,7 @@ Betalingskortingen zijn kortingen op het bedrag dat een klant moet betalen voor 
 
 Deze kortingen zijn meestal een percentage van het totale factuurbedrag en worden toegepast als de klant binnen een bepaalde tijd betaalt. Betalingskortingen kunnen een bedrijf helpen om een regelmatige cashflow te behouden. inkoopkorting levert direct resultaat op, het verlaagt immers het bedrag van je inkoopfactuur.
 
-Om kortingen in contanten te kunnen registreren, moet je eerst de winst- en verliesrekeningen controleren. In Curq zijn deze velden standaard ingevuld.
+Om kortingen in contanten te kunnen registreren, moet je eerst de winst- en verliesrekeningen controleren. In CURQ zijn deze velden standaard ingevuld.
 
 Configureer vervolgens de betalingsvoorwaarden en voeg een betalingskorting toe door het selectievakje Vroegtijdige korting in te schakelen en het kortingspercentage, de kortingsdagen en de velden voor belastingvermindering in te vullen. de betalingsvoorwaarden kun je voor zowel de verkoop- als ook de inkoopfacturen gebruiken.
 
@@ -23,7 +23,7 @@ Hieronder zie je hoe de snelle betalingsconditie er uit ziet. De condities vind 
 
 .. image:: media/voorbeeldbetalingskorting.png
 
-Pas een korting in contanten toe op een klantfactuur door de betalingsvoorwaarden te selecteren die je hebt gemaakt. Curq berekent automatisch de juiste bedragen, belastingbedragen, vervaldatums en boekhoudgegevens.
+Pas een korting in contanten toe op een klantfactuur door de betalingsvoorwaarden te selecteren die je hebt gemaakt. CURQ berekent automatisch de juiste bedragen, belastingbedragen, vervaldatums en boekhoudgegevens.
 
 .. image:: media/betalingsconditie-op-factuur.png
 
@@ -33,7 +33,7 @@ Op het tabblad Boekingsregels kun je de details van de korting weergeven door op
 
 Het kortingsbedrag en de vervaldatum worden ook weergegeven op de gegenereerde factuur die naar de klant wordt gestuurd. Zet hiervoor wel de optie 'Voorwaarden weergeven op de factuur' bij de desbetreffende betalingsconditie aan.
 
-Als de klant het met de korting gereduceerde bedrag overmaakt, dan zal Curq automatisch voorstellen om het verschil af te boeken op de betalingsverschillen rekening. Dit wordt alleen gedaan als de klant op tijd betaalt en je kiest voor het registreren van de betaling bij de factuur zelf.
+Als de klant het met de korting gereduceerde bedrag overmaakt, dan zal CURQ automatisch voorstellen om het verschil af te boeken op de betalingsverschillen rekening. Dit wordt alleen gedaan als de klant op tijd betaalt en je kiest voor het registreren van de betaling bij de factuur zelf.
 
 Als je direct het bedrag verwerkt vanuit de bank, dan is het aan te raden om een aflettermodel aan te maken waarmee je het betalingsverschil wegboekt.
 
@@ -42,7 +42,7 @@ Betalingskortingen en BTW
 De belastingdienst heeft een aantal richtlijnen opgesteld rondom het omgaan met BTW in het geval van snelle betalingskorting. Meer info vind je hier:
 `Belastingdienst BTW <https://www.belastingdienst.nl/wps/wcm/connect/bldcontentnl/belastingdienst/zakelijk/btw/administratie_bijhouden/facturen_maken/factuureisen/aangepaste_regels_facturen/u_geeft_korting_voor_tijdige_betalingen>`_
 
-In Curq staat standaard aangegeven dat er geen rekening moet worden gehouden met aanpassen van BTW in het geval van snelle betalingskortingen. Je kan deze instelling aanpassen als dit voor jouw bedrijf wel van toepassing is, dit doe je bij Instellingen > Facturatie > BTW
+In CURQ staat standaard aangegeven dat er geen rekening moet worden gehouden met aanpassen van BTW in het geval van snelle betalingskortingen. Je kan deze instelling aanpassen als dit voor jouw bedrijf wel van toepassing is, dit doe je bij Instellingen > Facturatie > BTW
 
 .. image:: media/verkoopfacturen-betalingskorting-btw.png
 

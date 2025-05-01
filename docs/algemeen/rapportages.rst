@@ -1,7 +1,7 @@
 Rapportages
 ====================================================================
 
-Binnen Curq kan in elke applicatie gebruik worden gemaakt van de rapportagefunctionaliteit. Binnen deze functie kan met verschillende opties in één oogopslag de opgevraagde informatie worden waargenomen. Dit kan bijvoorbeeld handig zijn voor het genereren van een diagram dat de omzet van het afgelopen jaar weergeeft, of het aantal gewerkte uren per werknemer per project. De rapportagefunctionaliteit biedt twee manieren om de informatie te bekijken: via een diagram of een draaitabel.
+Binnen CURQ kan in elke applicatie gebruik worden gemaakt van de rapportagefunctionaliteit. Binnen deze functie kan met verschillende opties in één oogopslag de opgevraagde informatie worden waargenomen. Dit kan bijvoorbeeld handig zijn voor het genereren van een diagram dat de omzet van het afgelopen jaar weergeeft, of het aantal gewerkte uren per werknemer per project. De rapportagefunctionaliteit biedt twee manieren om de informatie te bekijken: via een diagram of een draaitabel.
 
 .. image:: media/rapportages001.png
 

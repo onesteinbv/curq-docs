@@ -12,7 +12,7 @@ BTW-Aangifte aanmaken
 ---------------------------------------------------------------------------------------------------
 
 
-In Curq is het mogelijk om een BTW-aangifte aan te maken via Facturatie > Rapportages > BTW Aangifte.
+In CURQ is het mogelijk om een BTW-aangifte aan te maken via Facturatie > Rapportages > BTW Aangifte.
 
 .. image:: media/rapportages-btw001.png
 
@@ -33,4 +33,4 @@ Bovendien bestaat de mogelijkheid om de BTW-Aangifte af te drukken of te downloa
 
 .. image:: media/rapportages-btw002.png
 
-Zodra de BTW-aangifte is voltooid, kun je deze markeren als [verstuurd]. Op dit punt ga je naar de website van de belastingdienst om je BTW-aangifte in te dienen. Na voltooiing keer je terug naar Curq en klik je op [Definitief]. Nu is je aangifte ook in Curq definitief vastgelegd.
+Zodra de BTW-aangifte is voltooid, kun je deze markeren als [verstuurd]. Op dit punt ga je naar de website van de belastingdienst om je BTW-aangifte in te dienen. Na voltooiing keer je terug naar CURQ en klik je op [Definitief]. Nu is je aangifte ook in CURQ definitief vastgelegd.

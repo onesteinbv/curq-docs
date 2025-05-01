@@ -38,6 +38,6 @@ Om de menu's aan te passen, ga dan naar het website menu en selecteer daar onder
 
 Er kan een SEO-optimalisatie uitgevoerd worden om uw website beter vindbaar te maken met zoekmachines onder het "Deze pagina" veld in de website-tab. Ook kan de website aangepast worden met eigen HTML- en CSS-code en de geïntegreerde editor. Hier kan voor elke pagina en item de code worden aangepast om de puntjes op de i te zetten.
 
-Wanneer de HTML-code wordt aangepast, wordt de website echter niet meegenomen in de updates en dit kan voor complicaties zorgen wanneer Curq naar een nieuwe versie gaat. Ons advies is om altijd eerst contact met onze helpdesk op te nemen voordat je op deze manier de website gaat aanpassen.
+Wanneer de HTML-code wordt aangepast, wordt de website echter niet meegenomen in de updates en dit kan voor complicaties zorgen wanneer CURQ naar een nieuwe versie gaat. Ons advies is om altijd eerst contact met onze helpdesk op te nemen voordat je op deze manier de website gaat aanpassen.
 
 .. image:: media/website-pagina-editor005.png

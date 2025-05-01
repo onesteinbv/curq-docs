@@ -1,8 +1,8 @@
 =================
-Bedrijven in Curq
+Bedrijven in CURQ
 =================
 
-Met een gecentraliseerde beheeromgeving zoals Curq kun je meerdere bedrijven tegelijk selecteren en hun specifieke magazijnen, klanten en contactpersonen instellen. Dit biedt de mogelijkheid om bijvoorbeeld rapporten te genereren zonder van interface te hoeven wisselen, wat de dagelijkse taken en het algehele beheer proces vergemakkelijkt.
+Met een gecentraliseerde beheeromgeving zoals CURQ kun je meerdere bedrijven tegelijk selecteren en hun specifieke magazijnen, klanten en contactpersonen instellen. Dit biedt de mogelijkheid om bijvoorbeeld rapporten te genereren zonder van interface te hoeven wisselen, wat de dagelijkse taken en het algehele beheer proces vergemakkelijkt.
 
 Bedrijven en records beheren
 ----------------------------

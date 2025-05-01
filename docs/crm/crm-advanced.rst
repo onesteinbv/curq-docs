@@ -30,7 +30,7 @@ Om verkoopteams te beheren ga je naar **Configuratie - Verkoopteams**. In dit ov
 .. image:: media/018.png
 
 
-Om toegang te krijgen tot het dashboard van het verkoopteam, navigeer je naar het menu *Verkoop* en selecteer je *Teams*. In Curq worden de teams waarvan gebruikers deel uitmaken weergegeven als dashboard tegels.
+Om toegang te krijgen tot het dashboard van het verkoopteam, navigeer je naar het menu *Verkoop* en selecteer je *Teams*. In CURQ worden de teams waarvan gebruikers deel uitmaken weergegeven als dashboard tegels.
 
 .. image:: media/019.png
 
@@ -68,10 +68,10 @@ Het instellen van filters kan ook op *verkoper* niveau die toegevoegd zijn aan e
 
 Predictive Lead Scoring
 -----------------------------------------------------------------------------------------------------------
-Predictive lead scoring is een machine-learning model dat historische gegevens uit Curq CRM analyseert om open leads en kansen te beoordelen en te scoren. Terwijl een bedrijf kansen door de CRM-pijplijn verwerkt, verzamelt Curq gegevens over welke kansen worden gewonnen en verloren.
+Predictive lead scoring is een machine-learning model dat historische gegevens uit CURQ CRM analyseert om open leads en kansen te beoordelen en te scoren. Terwijl een bedrijf kansen door de CRM-pijplijn verwerkt, verzamelt CURQ gegevens over welke kansen worden gewonnen en verloren.
 
 Met behulp van de beschikbare data voorspelt predictive lead scoring de kans dat een nieuwe lead of kans succesvol zal zijn.
-Naarmate er meer kansen door de CRM-pijplijn gaan, verzamelt Curq meer gegevens, wat leidt tot nauwkeurigere voorspellingen van waarschijnlijkheid.
+Naarmate er meer kansen door de CRM-pijplijn gaan, verzamelt CURQ meer gegevens, wat leidt tot nauwkeurigere voorspellingen van waarschijnlijkheid.
 
 Wanneer je op *Kansen bijwerken* klikt (in het menu **configuratie - instellingen**), opent zich een pop-upvenster waarin je naast de standaardcriteria verschillende andere criteria kan instellen t.b.v. het voorspellen van lead scores.
 

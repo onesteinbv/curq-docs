@@ -2,9 +2,9 @@
 Dashboards
 ==========
 
-In Curq gebruiken we 'Dashboards' om allerlei info handig bij elkaar te brengen. Het idee is om belangrijke cijfers en data op een makkelijke manier te laten zien. Dat betekent dat we vaak key performance indicators (KPI's) en andere belangrijke bedrijfsinformatie op een overzichtelijke manier kunnen tonen.
+In CURQ gebruiken we 'Dashboards' om allerlei info handig bij elkaar te brengen. Het idee is om belangrijke cijfers en data op een makkelijke manier te laten zien. Dat betekent dat we vaak key performance indicators (KPI's) en andere belangrijke bedrijfsinformatie op een overzichtelijke manier kunnen tonen.
 
-Het Curq Dashboard maakt gebruik van een responsive **Bootstrap-Framework** en biedt functionaliteit voor het op maat maken van dashboards. Dashboards kent 3 verschillende opties:
+Het CURQ Dashboard maakt gebruik van een responsive **Bootstrap-Framework** en biedt functionaliteit voor het op maat maken van dashboards. Dashboards kent 3 verschillende opties:
 
 - **Standaard Dashboards**:  deze zijn aangemaakt vanuit Odoo en worden automatisch geüpdate. Er zijn filteropties aanwezig en bestaande spreadsheets kunnen worden aangepast.
 - **Mijn Dashboard**:  elke user kan eigen dashboards maken die responsive zijn maar geen filter optie hebben.

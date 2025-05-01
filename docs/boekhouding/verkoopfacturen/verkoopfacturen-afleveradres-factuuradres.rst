@@ -1,7 +1,7 @@
 Verkoopfacturen Afleveradres en Factuuradres
 ====================================================================
 
-Met Curq kun je ook jouw klanten bedienen als ze over meerdere adressen of e-mailadressen beschikken. Vaak hebben bedrijven een afwijkend afleveradres voor het magazijn in vergelijking met hun bezoekadres. Facturen en orders worden verstuurd naar andere e-mailadressen dan bijvoorbeeld het algemene of persoonlijke e-mailadres.
+Met CURQ kun je ook jouw klanten bedienen als ze over meerdere adressen of e-mailadressen beschikken. Vaak hebben bedrijven een afwijkend afleveradres voor het magazijn in vergelijking met hun bezoekadres. Facturen en orders worden verstuurd naar andere e-mailadressen dan bijvoorbeeld het algemene of persoonlijke e-mailadres.
 
 De verschillende afleveradressen en factuuradressen zijn zichtbaar bij het contact onder de tab [Contacten & Adressen].
 

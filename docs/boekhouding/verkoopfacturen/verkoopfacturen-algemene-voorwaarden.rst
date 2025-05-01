@@ -18,7 +18,7 @@ Je vindt de configuratieopties voor algemene voorwaarden onder Instellingen > Fa
 
 .. image:: media/verkoopfacturen-algemene-voorwaarden002.png
 
-- **Voeg een link naar een webpagina toe:** Deze functionaliteit is toegankelijk wanneer je de website-module van Curq gebruikt. Binnen de website-editor is er een mogelijkheid om de pagina van de algemene voorwaarden te bewerken. De URL van deze pagina wordt automatisch gegenereerd en verschijnt onderaan op jouw documenten.
+- **Voeg een link naar een webpagina toe:** Deze functionaliteit is toegankelijk wanneer je de website-module van CURQ gebruikt. Binnen de website-editor is er een mogelijkheid om de pagina van de algemene voorwaarden te bewerken. De URL van deze pagina wordt automatisch gegenereerd en verschijnt onderaan op jouw documenten.
 
 .. image:: media/verkoopfacturen-algemene-voorwaarden003.png
 

@@ -6,9 +6,9 @@ De jaarafsluiting vormt een cruciaal onderdeel van de boekhouding, waarbij alle 
 Datum gebonden boekhouding
 ---------------------------------------------------------------------------------------------------
 
-De boekhouding van Curq is gebaseerd op datums en indirect op tijdsperiodes, zoals maanden, kwartalen en jaren. Elke boeking is voorzien van een specifieke datum, die vervolgens wordt toegewezen aan een van deze vooraf gedefinieerde perioden. Deze tijdsperiodes worden veelvuldig gebruikt in de rapportages binnen Curq.
+De boekhouding van CURQ is gebaseerd op datums en indirect op tijdsperiodes, zoals maanden, kwartalen en jaren. Elke boeking is voorzien van een specifieke datum, die vervolgens wordt toegewezen aan een van deze vooraf gedefinieerde perioden. Deze tijdsperiodes worden veelvuldig gebruikt in de rapportages binnen CURQ.
 
-De periodes in Curq zijn standaard ingesteld en volgen de reguliere kalendermaanden, kwartalen en jaren. Hoewel er geen standaard ondersteuning is voor gebroken boekjaren, is het wel mogelijk om deze handmatig aan te maken als dat nodig is.
+De periodes in CURQ zijn standaard ingesteld en volgen de reguliere kalendermaanden, kwartalen en jaren. Hoewel er geen standaard ondersteuning is voor gebroken boekjaren, is het wel mogelijk om deze handmatig aan te maken als dat nodig is.
 
 De configuratie van periodes wordt uitgelegd in de handleiding voor Datumreeksen.
 
@@ -37,10 +37,10 @@ Een correcte jaarafsluiting in de boekhouding vereist verschillende stappen om e
 
 Het is belangrijk op te merken dat de specifieke stappen kunnen variëren afhankelijk van de bedrijfsomstandigheden, boekhoudmethoden en wettelijke vereisten. Het raadplegen van een boekhoudprofessional of accountant kan nuttig zijn om ervoor te zorgen dat de jaarafsluiting correct wordt uitgevoerd.
 
-Stappen Jaarafsluiting binnen Curq
+Stappen Jaarafsluiting binnen CURQ
 ---------------------------------------------------------------------------------------------------
 
-Om een correcte jaarafsluiting te bereiken binnen Curq, dien je de volgende stappen te volgen.
+Om een correcte jaarafsluiting te bereiken binnen CURQ, dien je de volgende stappen te volgen.
 
 **Afletteren financiële rekeningen:** Voer een aflettering uit aan het einde van het boekjaar voor al je bankrekeningen, creditcards, tussenrekeningen en andere financiële rekeningen. Controleer of het saldo in het grootboek overeenkomt met het saldo op de bankrekeningen.
 

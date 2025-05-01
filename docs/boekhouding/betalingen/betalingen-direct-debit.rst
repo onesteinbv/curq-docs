@@ -5,7 +5,7 @@ SEPA, de Single Euro Payments Area, is een betalingsintegratie-initiatief van de
 
 Met SEPA Direct Debit (SDD) kunnen je klanten een mandaat ondertekenen dat jou machtigt om toekomstige betalingen van hun bankrekeningen te innen. Dit is vooral handig voor terugkerende betalingen op basis van een abonnement.
 
-Je kunt klantmandaten vastleggen in Curq. Vervolgens kun je .xml-bestanden genereren op basis van te innen verkoopfacturen. Het XML bestand kun je vervolgens bij je bank uploaden.
+Je kunt klantmandaten vastleggen in CURQ. Vervolgens kun je .xml-bestanden genereren op basis van te innen verkoopfacturen. Het XML bestand kun je vervolgens bij je bank uploaden.
 
 Mandaat instellingen
 -------------------------------------------------------------------------
@@ -62,11 +62,11 @@ Na opslaan en bevestigen van het mandaat ziet de definitieve machtiging er alsvo
        :width: 6.3in
        :height: 2.93264in
 
-Zodra een factuur is gemaakt in Curq voor een klant met een mandaat actief op de factuurdatum, zal de validatie ervan de automatische betaling activeren, en je hoeft dan alleen nog maar een SEPA Direct Debit (SDD) XML-bestand te genereren met deze bewerking en het naar je bank te sturen.
+Zodra een factuur is gemaakt in CURQ voor een klant met een mandaat actief op de factuurdatum, zal de validatie ervan de automatische betaling activeren, en je hoeft dan alleen nog maar een SEPA Direct Debit (SDD) XML-bestand te genereren met deze bewerking en het naar je bank te sturen.
 
 Aanmaken verkoopfactuur
 -------------------------------------------------------------------------
-Zorg dat bij de klant als standaard incassowijze 'direct debit' staat. Wanneer je een verkoopfactuur voor de klant met machtiging ingeeft, dan neemt Curq de gegevens automatisch over naar de factuur. Je ziet dan ook de machtiging staan bij de verkoopfactuur.
+Zorg dat bij de klant als standaard incassowijze 'direct debit' staat. Wanneer je een verkoopfactuur voor de klant met machtiging ingeeft, dan neemt CURQ de gegevens automatisch over naar de factuur. Je ziet dan ook de machtiging staan bij de verkoopfactuur.
 
 .. image:: media/direct-debit-aanmaken-verkoopfactuur.png
        :width: 6.3in
@@ -74,7 +74,7 @@ Zorg dat bij de klant als standaard incassowijze 'direct debit' staat. Wanneer j
 
 Aanmaken incasso batch
 -------------------------------------------------------------------------
-Vanuit menu Boekhouding-> klanten-> betaalopdracht maak je de incassobatch aan. Je kunt binnen via de optie 'Aanmaken van betaalregels van boekingen' regels toevoegen waarbij je kunt filteren op vervaldatum. Via de knop 'Toevoegen alle mutaties' en daarna 'Aanmaken transacties'voegt Curq automatisch alle regels aan die in aanmerking komen voor incasso (zie onderstaande derde schermprint).
+Vanuit menu Boekhouding-> klanten-> betaalopdracht maak je de incassobatch aan. Je kunt binnen via de optie 'Aanmaken van betaalregels van boekingen' regels toevoegen waarbij je kunt filteren op vervaldatum. Via de knop 'Toevoegen alle mutaties' en daarna 'Aanmaken transacties'voegt CURQ automatisch alle regels aan die in aanmerking komen voor incasso (zie onderstaande derde schermprint).
 
 .. image:: media/direct-debit-aanmaken-incassobatch.png
        :width: 6.3in

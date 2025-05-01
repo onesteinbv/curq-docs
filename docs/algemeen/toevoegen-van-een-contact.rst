@@ -1,7 +1,7 @@
 Contacten
 ====================================================================
 
-In Curq vind je alle relaties terug onder 1 hoofdmenu 'Contacten'. Het gaat niet alleen om bedrijven (zowel klanten als leveranciers), personen, maar ook de interne medewerkers.
+In CURQ vind je alle relaties terug onder 1 hoofdmenu 'Contacten'. Het gaat niet alleen om bedrijven (zowel klanten als leveranciers), personen, maar ook de interne medewerkers.
 Om een contact onder een bedrijf aan te maken, ga naar de Contacten en klik op de knop 'Nieuw' in de linkerbovenhoek van het scherm.
 
 .. image:: media/toevoegen-van-een-contact001.png
@@ -37,7 +37,7 @@ Verkoop
 
 Fiscale informatie
 ---------------------------------------------------------------------------------------------------
-Met de fiscale positie bepaalt Curq de te gebruiken BTW code op een factuur regel. De fiscale positie wordt via de standaard instellingen van menu 'Fiscale posities' berekend, dus je hoeft hier alleen een waarde in te geven als die afwijkt van de standaard.
+Met de fiscale positie bepaalt CURQ de te gebruiken BTW code op een factuur regel. De fiscale positie wordt via de standaard instellingen van menu 'Fiscale posities' berekend, dus je hoeft hier alleen een waarde in te geven als die afwijkt van de standaard.
 
 
 Inkoop
@@ -51,7 +51,7 @@ Overige
 ---------------------------------------------------------------------------------------------------
 * **Ondernemingsnummer:** Voor wanneer er een registratie nummer is dat afwijkt van het BTW nummer
 * **Referentie:** Dit veld kan gebruikt worden voor het snel zoeken naar het contact.
-* **Website:** Wanneer je meerdere websites binnen Curq hebt, dan kun je hier aangeven tot welke website het contact toegang heeft via het klantenportaal.
+* **Website:** Wanneer je meerdere websites binnen CURQ hebt, dan kun je hier aangeven tot welke website het contact toegang heeft via het klantenportaal.
 * **Industrie:** Het type industrie waar het bedrijf onder valt (alleen zichtbaar wanneer het contact een bedrijf is).
 
 Facturatie:
@@ -127,7 +127,7 @@ In het laatste vak wordt weergegeven of het contact in een commissie zit en zo j
 
 Chat functie:
 ---------------------------------------------------------------------------------------------------
-Alle belangrijke wijzigingen met betrekking tot het contact worden hier bijgehouden. Je ziet hier ook de e-mails die zijn verzonden vanuit Curq. Antwoord van de klant op de verstuurde mail vind je ook terug in de Chatter.
+Alle belangrijke wijzigingen met betrekking tot het contact worden hier bijgehouden. Je ziet hier ook de e-mails die zijn verzonden vanuit CURQ. Antwoord van de klant op de verstuurde mail vind je ook terug in de Chatter.
 
 * **Verzend bericht:** Hiermee verzend je een mail naar het contact.
 * **Log notitie:** Dit is een interne notitie die alleen intern zichtbaar is. Voor het contact is deze niet zichtbaar.
@@ -168,4 +168,4 @@ Als je ervoor kiest om handmatig op te slaan, zoek dan naar het wolkpictogram en
 Controleer de nieuwe klant:
 ---------------------------------------------------------------------------------------------------
 Ga terug naar het klantenoverzicht om te bevestigen dat de nieuwe klant succesvol is toegevoegd.
-Afhangend aan welke modules op uw curq omgeving zijn geinstaleerd kunnen de kopjes en sneltoetsen die voor jou zichtbaar zijn verschillen.
+Afhangend aan welke modules op uw CURQ omgeving zijn geinstaleerd kunnen de kopjes en sneltoetsen die voor jou zichtbaar zijn verschillen.

@@ -5,4 +5,4 @@ Binnen de website kan ook de html en de css code van de website handmatig worden
 
 .. image:: media/html-editor001.png
 
-Let op: wanneer de html is aangepast kunnen er geen standaard aanpassingen worden gedaan aan de website. Ons advies is om altijd eerst contact met onze Curq helpdesk op te nemen als je overweegt om via deze methode wijzigingen door te voeren.
+Let op: wanneer de html is aangepast kunnen er geen standaard aanpassingen worden gedaan aan de website. Ons advies is om altijd eerst contact met onze CURQ helpdesk op te nemen als je overweegt om via deze methode wijzigingen door te voeren.

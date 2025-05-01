@@ -7,7 +7,7 @@ Goedkeuren van uren
 --------------------------------------------------------------------
 
 
-In veel bedrijven is het gebruikelijk dat medewerkers wekelijks hun urenregistratie indienen voor goedkeuring door hun manager. Bij Curq wordt dit proces behandeld via een formulier genaamd 'weekstaat', wat overeenkomt met een urenstaat. Je kunt op elk moment een weekstaat aanmaken door naar 'Urenstaten' te gaan, vervolgens naar 'Mijn Timesheets' te navigeren en te kiezen voor 'Mijn weekstaatformulieren'. Tijdens het aanmaken vul je de periode in waarover de weekstaat gaat. Als er al uren zijn ingevoerd, worden alle bekende uren voor die periode weergegeven.
+In veel bedrijven is het gebruikelijk dat medewerkers wekelijks hun urenregistratie indienen voor goedkeuring door hun manager. Bij CURQ wordt dit proces behandeld via een formulier genaamd 'weekstaat', wat overeenkomt met een urenstaat. Je kunt op elk moment een weekstaat aanmaken door naar 'Urenstaten' te gaan, vervolgens naar 'Mijn Timesheets' te navigeren en te kiezen voor 'Mijn weekstaatformulieren'. Tijdens het aanmaken vul je de periode in waarover de weekstaat gaat. Als er al uren zijn ingevoerd, worden alle bekende uren voor die periode weergegeven.
 
 .. image:: media/projecten-uren-goedkeuren001.png
 

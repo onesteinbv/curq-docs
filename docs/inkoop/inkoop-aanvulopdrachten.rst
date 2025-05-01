@@ -23,7 +23,7 @@ Ga naar **Voorraad app - Configuratie - Aanvulopdracht regels:**
 
 In dit overzicht staan alle aanvulopdrachten en worden er verschillende gegevens weergegeven, waaronder het **Product, Beschikbare Voorraad, Prognose, de Voorkeursroute, de Verkoper, de Minimale en Maximale hoeveelheid, Te bestellen hoeveelheid en de gebruikte maateenheid**.
 
-Er is een veld *Veelvoudige hoeveelheid* beschikbaar dat aangeeft wat de kleinste eenheid is waarin je items van de leverancier kunt kopen. Het systeem zal de inkoophoeveelheid afronden naar boven op het veelvoud dat u in dit veld hebt opgegeven. Als je bijvoorbeeld 0 invoert, zal Curq de exacte hoeveelheid gebruiken.
+Er is een veld *Veelvoudige hoeveelheid* beschikbaar dat aangeeft wat de kleinste eenheid is waarin je items van de leverancier kunt kopen. Het systeem zal de inkoophoeveelheid afronden naar boven op het veelvoud dat u in dit veld hebt opgegeven. Als je bijvoorbeeld 0 invoert, zal CURQ de exacte hoeveelheid gebruiken.
 
 Je kunt de voorkeuren voor activering instellen op *Automatisch* of *Handmatig* in het venster voor aanvulling.
 

@@ -1,7 +1,7 @@
 Activa vanuit leveranciersfactuur
 ====================================================================
 
-Binnen Curq kun je eenvoudig een activum aanmaken vanuit een leveranciersfactuur. Hiervoor dien je de factuur te boeken op een specifieke grootboekrekening voor activa. Zorg ervoor dat deze rekening is gekoppeld aan een bijbehorend activa profiel.
+Binnen CURQ kun je eenvoudig een activum aanmaken vanuit een leveranciersfactuur. Hiervoor dien je de factuur te boeken op een specifieke grootboekrekening voor activa. Zorg ervoor dat deze rekening is gekoppeld aan een bijbehorend activa profiel.
 
 .. image:: media/leveranciersfacturen-activa001.png
 

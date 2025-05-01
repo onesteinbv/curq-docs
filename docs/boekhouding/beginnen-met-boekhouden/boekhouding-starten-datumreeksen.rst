@@ -1,12 +1,12 @@
 Datumreeksen
 ====================================================================
 
-Curq is volledig gebaseerd op datums in de administratie, zonder gebruik te maken van specifieke boekhoudperiodes. In plaats daarvan worden datumreeksen ingezet om zowel de invoer als het genereren van overzichten te vergemakkelijken. Deze benadering biedt flexibiliteit en gestructureerd beheer van financiële informatie.
+CURQ is volledig gebaseerd op datums in de administratie, zonder gebruik te maken van specifieke boekhoudperiodes. In plaats daarvan worden datumreeksen ingezet om zowel de invoer als het genereren van overzichten te vergemakkelijken. Deze benadering biedt flexibiliteit en gestructureerd beheer van financiële informatie.
 
 Datumreeksen beheren
 ---------------------------------------------------------------------------------------------------
 
-Curq zal jaarlijks automatisch de datumreeksen met maanden, kwartalen en jaren bijwerken. Gebruikers hebben ook de mogelijkheid om deze reeksen handmatig te beheren. Om toegang te krijgen tot de beheersfunctie, is het noodzakelijk om eerst de ontwikkelaarsmodus in te schakelen. Datumreeksen kunnen worden aangepast via Instellingen > Technisch > Datumreeksen.
+CURQ zal jaarlijks automatisch de datumreeksen met maanden, kwartalen en jaren bijwerken. Gebruikers hebben ook de mogelijkheid om deze reeksen handmatig te beheren. Om toegang te krijgen tot de beheersfunctie, is het noodzakelijk om eerst de ontwikkelaarsmodus in te schakelen. Datumreeksen kunnen worden aangepast via Instellingen > Technisch > Datumreeksen.
 
 .. image:: media/boekhouding-starten-datumreeksen001.png
 
@@ -33,9 +33,9 @@ Via Instellingen > Technisch > Datumreekssoorten kun je verschillende soorten co
 
 - **Naam:** Geef hier de naam op voor de datumreekssoort.
 - **Overlappen toestaan:** Datumreeksen met deze soort mogen elkaar overlappen qua datum.
-- **Is fiscal month?** Niet van toepassing. Deze soorten zijn al reeds aan gemaakt in Curq en kunnen niet meer gewijzigd worden.
-- **Is fiscal quarter?** Niet van toepassing. Deze soorten zijn al reeds aan gemaakt in Curq en kunnen niet meer gewijzigd worden.
-- **Is fiscal year?** Niet van toepassing. Deze soorten zijn al reeds aan gemaakt in Curq en kunnen niet meer gewijzigd worden.
+- **Is fiscal month?** Niet van toepassing. Deze soorten zijn al reeds aan gemaakt in CURQ en kunnen niet meer gewijzigd worden.
+- **Is fiscal quarter?** Niet van toepassing. Deze soorten zijn al reeds aan gemaakt in CURQ en kunnen niet meer gewijzigd worden.
+- **Is fiscal year?** Niet van toepassing. Deze soorten zijn al reeds aan gemaakt in CURQ en kunnen niet meer gewijzigd worden.
 
 Op tabblad [Generatie] kun je de configuratie wijzigen voor het automatisch genereren van datumreeksen.
 

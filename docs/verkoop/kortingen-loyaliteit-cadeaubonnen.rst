@@ -56,7 +56,7 @@ Met *In ruil voor* kun je aangeven hoeveel Promopunten de klant moet inruilen om
 Cadeaubonnen & eWallet
 ----------------------
 
-In Curq heb je een functionaliteit om cadeaubonnen en eWallets aan te maken en te beheren. Zoals hieronder te zien is, toont het platform de programmanaam, het programmatype, de artikelen, de website, het verkooppunt en het bedrijf van alle vooraf geconfigureerde cadeaukaarten en eWallets.
+In CURQ heb je een functionaliteit om cadeaubonnen en eWallets aan te maken en te beheren. Zoals hieronder te zien is, toont het platform de programmanaam, het programmatype, de artikelen, de website, het verkooppunt en het bedrijf van alle vooraf geconfigureerde cadeaukaarten en eWallets.
 
 Zodra je op de knop 'Nieuw' klikt, wordt een nieuwe formulierweergave geopend.
 

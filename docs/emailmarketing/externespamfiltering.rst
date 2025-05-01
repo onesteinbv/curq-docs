@@ -143,7 +143,7 @@ Terwijl grote bedrijven profiteren van gevestigde reputaties en whitelist-voorde
 ------------------------------------------
 Om te begrijpen waarom e-mails die vanaf platforms van kleine bedrijven worden verzonden als spam worden gemarkeerd, is het essentieel om inzicht te hebben in het “onbetrouwbare” spambeleid van Big Tech-bedrijven zoals Google en Microsoft.
 
-Grote technologiebedrijven domineren e-mailcommunicatie door het handhaven van strikte spamregels die kleine bedrijven vaak benadelen. E-mails die worden verzonden via derde partijen of minder bekende providers zoals Curq, worden vaak geblokkeerd of als spam gemarkeerd, wat hun bereik naar klanten aanzienlijk beperkt.
+Grote technologiebedrijven domineren e-mailcommunicatie door het handhaven van strikte spamregels die kleine bedrijven vaak benadelen. E-mails die worden verzonden via derde partijen of minder bekende providers zoals CURQ, worden vaak geblokkeerd of als spam gemarkeerd, wat hun bereik naar klanten aanzienlijk beperkt.
 
 Inzicht in hoe deze spamfilters werken is cruciaal om de e-mailbezorging te verbeteren en de door Big Tech opgelegde barrières te doorbreken.
 

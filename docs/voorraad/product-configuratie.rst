@@ -4,8 +4,8 @@ Product configuratie
 
 
 Een doordachte productconfiguratie is van cruciaal belang voor een
-naadloze werking van diverse Curq modules, waaronder Inkoop, Voorraad,
-Verkoop, E-commerce en Verhuur. Met Curq kun je producten gestructureerd
+naadloze werking van diverse CURQ modules, waaronder Inkoop, Voorraad,
+Verkoop, E-commerce en Verhuur. Met CURQ kun je producten gestructureerd
 categoriseren, waardoor het gemakkelijker wordt om specifieke producten
 te identificeren en aan te passen. In deze handleiding nemen we de
 mogelijke opties met je door.
@@ -162,7 +162,7 @@ Tab Kenmerken en varianten
 Via tab Kenmerken en varianten kun je kenmerken instellen voor een
 product als deze in verschillende opties verkrijgbaar zijn. Kenmerk en
 waarde kun je zelf aanmaken via **Voorraad - configuratie - kenmerken.**
-Aan de hand van het aantal waarden maakt Curq automatisch de
+Aan de hand van het aantal waarden maakt CURQ automatisch de
 verschillende varianten aan (zie 6 Varianten). Via 'configureren' in de
 regel kun je prijsverschillen instellen per waarde die is opgegeven.
 

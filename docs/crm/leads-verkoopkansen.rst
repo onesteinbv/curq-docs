@@ -1,7 +1,7 @@
 CRM Leads & Verkoopkansen
 =====================================================================================================================
 
-De CRM-module binnen Curq is van onschatbare waarde voor het beheer van leadgeneratie en klantenwerving. Het stelt gebruikers in staat om leads van diverse bronnen te verzamelen en te organiseren, waardoor ze effectief kunnen worden omgezet in kansen. De naadloze integratie met andere modules, zoals bijvoorbeeld Verkoop, bevordert de productiviteit bij het omzetten van leads in kansen.
+De CRM-module binnen CURQ is van onschatbare waarde voor het beheer van leadgeneratie en klantenwerving. Het stelt gebruikers in staat om leads van diverse bronnen te verzamelen en te organiseren, waardoor ze effectief kunnen worden omgezet in kansen. De naadloze integratie met andere modules, zoals bijvoorbeeld Verkoop, bevordert de productiviteit bij het omzetten van leads in kansen.
 
 
 Leadgeneratie

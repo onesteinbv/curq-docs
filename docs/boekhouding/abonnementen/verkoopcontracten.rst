@@ -1,6 +1,6 @@
 Contracten
 ====================================================================
-Met de contractenmodule kun je diensten en of producten als abonnement verkopen aan klanten. Je klant kan dit abonnement zelf inzien via de klanten portal. Na aanmaken van een contract zal Curq op basis van de ingegeven startdatum automatisch de periodieke factuur genereren.
+Met de contractenmodule kun je diensten en of producten als abonnement verkopen aan klanten. Je klant kan dit abonnement zelf inzien via de klanten portal. Na aanmaken van een contract zal CURQ op basis van de ingegeven startdatum automatisch de periodieke factuur genereren.
 
 Je kunt een contract los invoeren, maar dit kan ook door eerst een sjabloon aan te maken. Heb je een vaak terugkerend abonnement dan is het aan te raden om met sjablonen te werken.
 
@@ -9,7 +9,7 @@ De werkwijze van invoeren van een contract bestaat uit de volgende stappen:
 #. Maak een contract aan, eventueel gebaseerd op een contractsjabloon
 #. Geef aan hoe vaak en voor welke periode je het abonnement wil laten lopen
 #. Voeg minimaal de verplichte velden aan en voeg de dienst(en) en /of producten die je wil gaan factureren
-#. Na ingeven van de velden zal Curq de factuur genereren via een automatisch proces. Voor de eerste factuur kun je ervoor kiezen deze meteen aan te maken via menu 'Handmatig factureren verkoopcontracten'.
+#. Na ingeven van de velden zal CURQ de factuur genereren via een automatisch proces. Voor de eerste factuur kun je ervoor kiezen deze meteen aan te maken via menu 'Handmatig factureren verkoopcontracten'.
 #. Na ingeven van alle gegevens kun je via de knop 'verzenden via mail' de klant het contract mailen.
 
 Aanmaken verkoopcontract
@@ -34,7 +34,7 @@ Verantwoordelijke
 
 facturatie instellingen
 ---------------------------------------------------------------------------------------------------
-**Herhalend op regelniveau**. Wanneer je dit vinkje aanzet, dan kun je op regelniveau de herhalingsinstellingen aanpassen. Met deze optie wordt het mogelijk om verschillende abonnementen onder 1 contract vast te leggen. Curq zal op basis van de regel een factuur genereren. In het schermvoorbeeld hieronder is een maand en een jaarabonnement op 1 contract gezet.
+**Herhalend op regelniveau**. Wanneer je dit vinkje aanzet, dan kun je op regelniveau de herhalingsinstellingen aanpassen. Met deze optie wordt het mogelijk om verschillende abonnementen onder 1 contract vast te leggen. CURQ zal op basis van de regel een factuur genereren. In het schermvoorbeeld hieronder is een maand en een jaarabonnement op 1 contract gezet.
 
 .. image:: media/verkoopcontract-voorbeeld-verschillende-periodes.png
        :width: 6.3in

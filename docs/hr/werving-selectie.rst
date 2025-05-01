@@ -1,7 +1,7 @@
 Werving en selectie
 ====================================================================
 
-Binnen Curq kan het wervings- en selectieproces worden vereenvoudigd en gestroomlijnd met de werving en selectie app. Leg de verschillende stappen binnen het wervingsproces vast en begeleid uw toekomstige werknemers door het selectieproces.
+Binnen CURQ kan het wervings- en selectieproces worden vereenvoudigd en gestroomlijnd met de werving en selectie app. Leg de verschillende stappen binnen het wervingsproces vast en begeleid uw toekomstige werknemers door het selectieproces.
 
 Vacature plaatsen
 ---------------------------------------------------------------------------------------------------
@@ -23,7 +23,7 @@ Binnen de configuratie van de vacature is bovenaan de naam te zien en deze kan h
 
 .. image:: media/werving-selectie002.png
 
-Rechtsboven aan de pagina staan drie links, met *Job applications* is te zien hoeveel mensen op de vacature hebben gereageerd en wordt u naar de pagina van de vacature gestuurd. Onder *trackers* kunnen alle locaties van de vacature gezien worden, dit is binnen en buiten Curq, zoals LinkedIn. Met *go to website* wordt u naar de webpagina van de vacature gestuurd.
+Rechtsboven aan de pagina staan drie links, met *Job applications* is te zien hoeveel mensen op de vacature hebben gereageerd en wordt u naar de pagina van de vacature gestuurd. Onder *trackers* kunnen alle locaties van de vacature gezien worden, dit is binnen en buiten CURQ, zoals LinkedIn. Met *go to website* wordt u naar de webpagina van de vacature gestuurd.
 
 Wervingsproces
 ---------------------------------------------------------------------------------------------------

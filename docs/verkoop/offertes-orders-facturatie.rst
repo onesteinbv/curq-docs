@@ -5,7 +5,7 @@ Offertes | Orders | Facturatie
 
 Offertes
 --------
-Het opstellen van offertes vormt de eerste stap in het ontwikkelen van een verkooprelatie met een klant. Wanneer een klant interesse toont in verkoopgerelateerde diensten, kun je een offerte op maat maken die alle benodigde informatie bevat. Hierbij kun je denken aan *klantgegevens, leveringsadres, betalingsvoorwaarden, prijslijst, productinformatie* en meer. Nadat je de offerte naar de klant hebt gestuurd, kun je deze, indien gewenst, omzetten in een verkooporder na bevestiging van beide partijen. Hieronder vind je een voorbeeld van hoe de lijstweergave van alle offertes in Curq eruit ziet.
+Het opstellen van offertes vormt de eerste stap in het ontwikkelen van een verkooprelatie met een klant. Wanneer een klant interesse toont in verkoopgerelateerde diensten, kun je een offerte op maat maken die alle benodigde informatie bevat. Hierbij kun je denken aan *klantgegevens, leveringsadres, betalingsvoorwaarden, prijslijst, productinformatie* en meer. Nadat je de offerte naar de klant hebt gestuurd, kun je deze, indien gewenst, omzetten in een verkooporder na bevestiging van beide partijen. Hieronder vind je een voorbeeld van hoe de lijstweergave van alle offertes in CURQ eruit ziet.
 
 .. image:: media/001.png
 
@@ -13,7 +13,7 @@ Hier kun je alle reeds aangemaakte offertes bekijken, inclusief details zoals aa
 
 .. image:: media/002.png
 
-Nadat je de klantnaam uit de lijst hebt geselecteerd, worden automatisch het factuuradres, het afleveradres, de prijslijst en de betalingsvoorwaarden weergegeven op basis van vooraf ingestelde gegevens. Als deze gegevens niet beschikbaar zijn, kun je het factuuradres en het afleveradres handmatig invoeren in de daarvoor bestemde velden. In Curq kun je verkoopordersjablonen maken via het configuratiemenu, die vervolgens kunnen worden gebruikt bij het opstellen van offertes. De vervaldatum van de offerte wordt automatisch gevuld en eventueel een geselecteerde prijslijst. Indien de prijslijst optie actief staat zal de standaard *Verkoopprijslijst* worden getoond. Betalingsvoorwaarden voor de klant kunnen worden gedefinieerd in het betreffende veld.
+Nadat je de klantnaam uit de lijst hebt geselecteerd, worden automatisch het factuuradres, het afleveradres, de prijslijst en de betalingsvoorwaarden weergegeven op basis van vooraf ingestelde gegevens. Als deze gegevens niet beschikbaar zijn, kun je het factuuradres en het afleveradres handmatig invoeren in de daarvoor bestemde velden. In CURQ kun je verkoopordersjablonen maken via het configuratiemenu, die vervolgens kunnen worden gebruikt bij het opstellen van offertes. De vervaldatum van de offerte wordt automatisch gevuld en eventueel een geselecteerde prijslijst. Indien de prijslijst optie actief staat zal de standaard *Verkoopprijslijst* worden getoond. Betalingsvoorwaarden voor de klant kunnen worden gedefinieerd in het betreffende veld.
 
 Je kunt de standaard geldigheidsduur van een offerte instellen in het instellingenmenu van de Verkoopmodule. Als dit is geconfigureerd, wordt het veld *Vervaldatum* automatisch ingevuld volgens de standaard geldigheidsduur van de offerte telkens wanneer je een nieuwe offerte maakt.
 

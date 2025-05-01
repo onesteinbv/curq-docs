@@ -2,7 +2,7 @@
 Email Marketing
 ===============
 
-Curq biedt een E-mail Marketing Module waarmee specifieke advertenties of andere marketing gerelateerde berichten naar een geselecteerde groep mensen of klanten kunnen worden gestuurd met als doel effectieve communicatie te bevorderen.
+CURQ biedt een E-mail Marketing Module waarmee specifieke advertenties of andere marketing gerelateerde berichten naar een geselecteerde groep mensen of klanten kunnen worden gestuurd met als doel effectieve communicatie te bevorderen.
 
 **Belangrijk! Om gebruik te maken van Email Marketing dient een eigen mailserver te worden gebruikt. Aan het eind van dit document bespreek ik een aantal opties**.
 

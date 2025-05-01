@@ -12,7 +12,7 @@ Om Facturen Online Betalen te activeren, ga je naar Boekhouding ‣ Configuratie
 Betaalproviders
 -------------------------------------------------------------------------
 
-Curq ondersteunt een aantal betalingsproviders, met de Mollie koppeling kun je de klant de factuur laten betalen met iDeal.
+CURQ ondersteunt een aantal betalingsproviders, met de Mollie koppeling kun je de klant de factuur laten betalen met iDeal.
 
 .. image:: media/online-betalen-betaalproviders.png
        :width: 6.3in
@@ -45,15 +45,15 @@ Vergeet niet om op het tabblad 'Configuratie' het dagboek dat je hebt aangemaakt
        :width: 6.3in
        :height: 2.93264in
 
-Klaar! je klanten kunnen nu direct betalingen doen via het klantenportaal van Curq.
+Klaar! je klanten kunnen nu direct betalingen doen via het klantenportaal van CURQ.
 
 Betaling klantenportaal en status factuur
 ---------------------------------------------------
 
-Wanneer je een factuur hebt aangemaakt en de klant vanuit Curq een e-mail stuurt, dan zit bij die e-mail een link naar het klantenportaal. De factuur kan vervolgens direct via het klantenportaal worden betaald.
+Wanneer je een factuur hebt aangemaakt en de klant vanuit CURQ een e-mail stuurt, dan zit bij die e-mail een link naar het klantenportaal. De factuur kan vervolgens direct via het klantenportaal worden betaald.
 Je klant betaalt de factuur door op de knop 'Betaal nu' te klikken en een van de eerder gedefinieerde betaalwijzes te kiezen.
 
-Mail versturen vanuit Curq:
+Mail versturen vanuit CURQ:
 
 .. image:: media/online-betalen-factuur-mailen.png
        :width: 6.3in
@@ -83,8 +83,8 @@ Na afronding van de betaling ziet je klant direct dat deze factuur is betaald.
        :width: 6.3in
        :height: 2.93264in
 
-In Curq zelf zie je ook dat de factuur op betaald is gezet. Ook zie je dat er een betalingstransactie is gekoppeld aan de betaalde factuur.
+In CURQ zelf zie je ook dat de factuur op betaald is gezet. Ook zie je dat er een betalingstransactie is gekoppeld aan de betaalde factuur.
 
-.. image:: media/online-betalen-mollie-factuur-curq-backend.png
+.. image:: media/online-betalen-mollie-factuur-CURQ-backend.png
        :width: 6.3in
        :height: 2.93264in

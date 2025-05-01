@@ -26,13 +26,13 @@ Geef een passende titel voor de nieuwe regel in het veld *Naam*. Je kunt de acti
 
 De beschikbare opties zijn:
 
-**Pull van**: Deze actie wordt ingesteld wanneer producten nodig zijn op de bestemmingslocatie, of het nu gaat om een verkooporder of een productieorder. Wanneer er vraag is naar een product op de bestemmingslocatie, genereert Curq een pick bewerking vanaf de bronlocatie om aan deze vraag te voldoen.
+**Pull van**: Deze actie wordt ingesteld wanneer producten nodig zijn op de bestemmingslocatie, of het nu gaat om een verkooporder of een productieorder. Wanneer er vraag is naar een product op de bestemmingslocatie, genereert CURQ een pick bewerking vanaf de bronlocatie om aan deze vraag te voldoen.
 
-**Push naar**: Met deze regel kun je producten van de bronlocatie naar een andere locatie verplaatsen. Zodra de producten op de bronlocatie arriveren, kun je met deze actie naar een andere locatie verplaatsen. In dit geval genereert Curq een pick operatie om de producten naar de bestemmingslocatie te sturen.
+**Push naar**: Met deze regel kun je producten van de bronlocatie naar een andere locatie verplaatsen. Zodra de producten op de bronlocatie arriveren, kun je met deze actie naar een andere locatie verplaatsen. In dit geval genereert CURQ een pick operatie om de producten naar de bestemmingslocatie te sturen.
 
 **Push & Pull**: Deze actie kan in beide scenario's worden gebruikt. Wanneer er producten nodig zijn op de bestemmingslocatie, wordt er een orderpicking gegenereerd vanaf de bronlocatie om aan deze behoefte te voldoen. Dit vereist productvereisten op de bronlocatie. Zodra de bronlocatie aan deze vereisten voldoet, worden de producten naar de bestemmingslocatie geduwd om aan de behoeften van deze locatie te voldoen.
 
-**Kopen**: Als er producten nodig zijn op de bestemmingslocatie, genereert Curq met behulp van deze actie een offerteaanvraag om het product te kopen en zo aan de behoefte te voldoen.
+**Kopen**: Als er producten nodig zijn op de bestemmingslocatie, genereert CURQ met behulp van deze actie een offerteaanvraag om het product te kopen en zo aan de behoefte te voldoen.
 
 
 Routes configureren

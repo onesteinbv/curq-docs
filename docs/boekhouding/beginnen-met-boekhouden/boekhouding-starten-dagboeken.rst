@@ -3,7 +3,7 @@ Dagboeken
 
 Dagboeken vormen essentiële onderdelen van een gedegen boekhoudsysteem, waarbij elk dagboek een specifieke subadministratie vertegenwoordigt. Het bankboek behandelt zorgvuldig alle banktransacties, het verkoopboek geeft overzichtelijke informatie over verkoopfacturen, het inkoopboek registreert gedetailleerd inkoopfacturen, en het memoriaalboek vangt alle overige transacties op die niet elders passen.
 
-De beheerfunctie voor dagboeken is te vinden onder Facturatie > Configuratie > Dagboeken. In Curq zijn de meest gangbare dagboeken alvast voor je ingesteld.
+De beheerfunctie voor dagboeken is te vinden onder Facturatie > Configuratie > Dagboeken. In CURQ zijn de meest gangbare dagboeken alvast voor je ingesteld.
 
 .. image:: media/boekhouding-starten-dagboeken001.png
 
@@ -78,7 +78,7 @@ Op het tabblad "Geavanceerde instellingen" kun je de volgende instellingen confi
 - **Blokkeer datum:** Vergrendelt het dagboek volledig, zodat niemand wijzigingen kan aanbrengen na de opgegeven datum.
 - **Blokkeerdatum voor standaard gebruiker:** Alleen de facturatiebeheerder kan nog wijzigingen aanbrengen in dit dagboek. Dit is handig als de boekhouder wel wijzigingen mag aanbrengen, maar een standaard gebruiker niet.
 - **Vergrendel ingevoerde gegevens met hash:** Zodra een factuur wordt geboekt, wordt deze vergrendeld. Achteraf aanpassingen maken op de factuur is hierdoor niet mogelijk.
-- **E-mailservers configureren:** Hiermee kun je een mailbox koppelen aan je verkoopfacturen. Curq leest dan automatisch je e-mails uit en maakt de factuur automatisch aan. Je hoeft de PDF dan niet apart in Curq te uploaden.
+- **E-mailservers configureren:** Hiermee kun je een mailbox koppelen aan je verkoopfacturen. CURQ leest dan automatisch je e-mails uit en maakt de factuur automatisch aan. Je hoeft de PDF dan niet apart in CURQ te uploaden.
 Dit is handig als je verkoopfacturen elders worden aangemaakt.
 - **Elektronische facturatie:** Je kunt een factuur ook via XML of EDI versturen. Je hebt de keuze tussen NLCIUS of Peppol BIS Billing 3.0 formaat. De ontvangende partij kan hierdoor sneller jouw factuur invoeren als ze hiervan gebruik maken. Alle factuurgegevens zijn dan opgeslagen in het XML- of EDI-formaat.
 - **Communicatiesoort:** Bepaalt hoe de referentie op de factuur zal verschijnen, zodat de klant beter zijn betaling kan uitvoeren.
@@ -106,7 +106,7 @@ De configuratie van het verkoopboek ziet er als volgt uit.
 - **Blokkeer datum:** Vergrendelt het dagboek volledig, zodat niemand wijzigingen kan aanbrengen na de opgegeven datum.
 - **Blokkeerdatum voor standaard gebruiker:** Alleen de facturatiebeheerder kan nog wijzigingen aanbrengen in dit dagboek. Dit is handig als de boekhouder wel wijzigingen mag aanbrengen, maar een standaard gebruiker niet.
 - **Vergrendel ingevoerde gegevens met hash:** Zodra een factuur wordt geboekt, wordt deze vergrendeld. Achteraf aanpassingen maken op de factuur is hierdoor niet mogelijk.
-- **E-mailservers configureren:** Hiermee kun je een mailbox koppelen aan je inkoopfacturen. Curq leest dan automatisch je e-mails uit en maakt de factuur automatisch aan. Je hoeft de PDF dan niet apart in Curq te uploaden.
+- **E-mailservers configureren:** Hiermee kun je een mailbox koppelen aan je inkoopfacturen. CURQ leest dan automatisch je e-mails uit en maakt de factuur automatisch aan. Je hoeft de PDF dan niet apart in CURQ te uploaden.
 
 
 Diversen / Memoriaal
