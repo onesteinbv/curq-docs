@@ -4,17 +4,11 @@ CURQ **Kalender** is een planningsapp die gebruikers in staat stelt om de bedrij
 
 Bij het openen van de *Kalender-app* hebben gebruikers een overzicht van hun huidige vergaderingen. De geselecteerde weergave-optie verschijnt als een dropdownmenu voor **Dag, Week, Maand of Jaar**. Onder het dropdownmenu voor weergave-opties kunnen gebruikers ook de optie **'Toon weekenden'** in- of uitschakelen.
 
-.. image:: agenda-media/agenda001.png
+.. image:: media/agenda001.png
 
-
-
-
-
-.. image:: agenda-media/agenda002.png
-
+.. image:: media/agenda002.png
 
 **Tip** - Afhankelijk van de geselecteerde weergave-optie kunnen gebruikers op de (links of rechts pijltje) knoppen klikken om tussen dagen, weken, enzovoort te schakelen, en terug te schakelen naar de       huidige dag met de knop Vandaag.
-
 
 1.2 Een evenement maken en bewerken
 ====================================
@@ -28,18 +22,18 @@ CURQ Calendar stelt je in staat om een evenement op twee manieren te maken:
 
 Door op een specifiek tijdslot te dubbelklikken, verschijnt er een nieuw evenement venster op het scherm. Voer **Onderwerp afspraak** en klik op de knop **'Maken'**.
 
-.. image:: agenda-media/agenda003.png
+.. image:: media/agenda003.png
 
 Nadat je hebt geklikt, wordt het nieuwe evenement aangemaakt en zichtbaar in de kalender overzichtsectie. Om het evenement te bewerken, plaats je de cursor op het nieuw aangemaakte evenement, klik je erop en klik je vervolgens op de kn op **"Bewerken"**. Dit opent een formulier waarin je de evenementgegevens kunt invoerenof bewerken.
 
-.. image:: agenda-media/agenda004.png
+.. image:: media/agenda004.png
 
 1.2.2 Van de 'Nieuw' knop in de overzichtsectie
 ------------------------------------------------
 
 Klik op de knop "Nieuw" in de linkerbovenhoek van de overzichtsectie.
 
-.. image:: agenda-media/agenda005.png
+.. image:: media/agenda005.png
 
 - Een nieuw **Afspraken formulier** verschijnt op het scherm. Voer eerst het **'Afspraak onderwerp'** in het lege veld in.
 - Selecteer vervolgens de mensen die de bijeenkomst zullen bijwonen.
@@ -53,24 +47,24 @@ Klik op de knop "Nieuw" in de linkerbovenhoek van de overzichtsectie.
 - Stel een **herinnering** in als je wilt, en voer de **locatie** van het evenement in indien van toepassing.
 - Voer de **URL voor videogesprek** in het daarvoor bestemde tekstvak in, en voeg **Labels** toe voor het evenement indien gewenst.
 
-.. image:: agenda-media/agenda006.png
+.. image:: media/agenda006.png
 
 Onder het tabblad **Opties**, als het selectievakje voor **'Terugkerend'** is geselecteerd, Het stelt je in staat om het evenement voor een willekeurig aantal **weken** te herhalen en je kunt ook de **dagen** selecteren waarop de vergadering herhaald moet worden. Je kunt ook het **aantal herhalingen** kiezen, een **einddatum**, of **voor altijd** vanuit de **'T/m'** optie. Selecteer of het **openbaar**, **privé**, of voor **alleen interne gebruikers** is vanuit het **privacy** dropdownmenu. Selecteer of het **beschikbaar** of **bezet** is vanuit het **Tonen als** dropdownmenu.
 
-.. image:: agenda-media/agenda007.png
+.. image:: media/agenda007.png
 
 Klik tenslotte op het opslaan-icoon, weergegeven door een wolk met een omhoog wijzende pijl.
 
-.. image:: agenda-media/agenda008.png
+.. image:: media/agenda008.png
 
 Klik op de **e-mail** knop om de e-mail naar de geselecteerde vergaderingdeelnemer te sturen.
 
-.. image:: agenda-media/agenda009.png
+.. image:: media/agenda009.png
 
 Er verschijnt een nieuw dialoogvenster met de **Afspraken details**. Klik op de knop **'verzenden'** om de e-mail te verzenden, en deze wordt automatisch naar de geselecteerde **ontvangers** gestuurd.
 
-.. image:: agenda-media/agenda010.png
+.. image:: media/agenda010.png
 
 Om de **status** van het evenement te controleren, ga naar het tabblad **Uitnodigingen**.
 
-.. image:: agenda-media/agenda011.png
+.. image:: media/agenda011.png

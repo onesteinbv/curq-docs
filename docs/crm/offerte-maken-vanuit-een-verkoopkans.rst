@@ -58,12 +58,3 @@ Als er geen activiteit is gepland, zie je de klok pictogram in de Kanban-weergav
 In dit venster zie je velden zoals Activiteitstype, Vervaldatum, Samenvatting en Toegewezen aan. U kunt ook een beschrijving toevoegen in *Log een notitie*. Vul deze gegevens in en klik op *Inplannen*. De specifieke activiteit is nu ingepland.
 
 .. image:: media/017.png
-
-.. toctree::
-    :maxdepth: 2
-    :hidden:
-
-    Leads & verkoopkansen
-    Offerte maken vanuit een verkoopkans
-    CRM Advanced
-    CRM Reports

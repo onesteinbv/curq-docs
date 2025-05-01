@@ -44,6 +44,6 @@ Weet je niet zeker welke methode je moet gebruiken, overleg dan met je accountan
     :hidden:
 
     belastingen-vies
-    belastingen-fiscale_posities
+    belastingen-fiscale-posities
     belastingen-b2b-b2c
     belastingen-afstandsverkopen-eu

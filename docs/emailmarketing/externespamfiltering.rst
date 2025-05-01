@@ -441,7 +441,7 @@ Er zijn verschillende gratis en open-source (FOSS) oplossingen beschikbaar voor 
 
 Om een eerlijker, transparanter en gedecentraliseerd e-mailecosysteem te creëren, moeten overheden, Big Tech en het publiek samenwerken om de huidige ongelijkheden aan te pakken.
 
-.. image:: bigtech-media/bigtech004.png
+.. image:: media/bigtech004.png
 
 **Belangrijke hervormingen omvatten**:
 

@@ -85,6 +85,6 @@ Na afronding van de betaling ziet je klant direct dat deze factuur is betaald.
 
 In CURQ zelf zie je ook dat de factuur op betaald is gezet. Ook zie je dat er een betalingstransactie is gekoppeld aan de betaalde factuur.
 
-.. image:: media/online-betalen-mollie-factuur-CURQ-backend.png
+.. image:: media/online-betalen-mollie-factuur-curq-backend.png
        :width: 6.3in
        :height: 2.93264in

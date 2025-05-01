@@ -6,7 +6,7 @@ CURQ
     :glob:
     :hidden:
 
-    docs/support/support_proces
+    docs/support/support-proces
     docs/boekhouding/boekhouding
     docs/crm/leads-verkoopkansen
     docs/declaraties/declaraties

@@ -9,7 +9,6 @@ Na registratie op de pagina en het verifiëren van hun e-mail, worden leden door
     :maxdepth: 2
     :hidden:
 
-    introductie
     leden-secties
     producten-voor-leden
     registratie-pagina

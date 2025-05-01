@@ -14,11 +14,7 @@ Een inkoopfactuur kan op verschillende manieren worden aangemaakt binnen CURQ:
 
 Bij optie 3 moet de PDF-factuur apart worden geüpload via de bijlage-optie boven de logging.
 
-.. image:: media/leveranciersfacturen-preview001.png
-
 Na het uploaden wordt de PDF aan de rechterkant getoond. Het tonen hiervan is afhankelijk van jouw schermgrootte. Als het scherm te klein is, wordt de PDF-preview niet weergegeven.
-
-.. image:: media/leveranciersfacturen-preview002.png
 
 We zullen de volgende veelgebruikte knoppen bespreken:
 
@@ -35,7 +31,5 @@ Controle vanuit boekingsregels
 De boekhouder of accountant controleert vaak de boekhouding aan de hand van de boekingsregels. In CURQ is het tevens mogelijk om vanuit dit systeem een voorbeeld van de factuur op te vragen. Dit kan handig zijn om te verifiëren of bepaalde facturen correct zijn geboekt op de juiste grootboekrekening. Bijvoorbeeld, is jouw opleidingsfactuur geboekt op de juiste kostenrekening?
 
 Je kunt het overzicht van boekingsregels vinden onder Facturatie > Boekhouding > Boekingsregels
-
-.. image:: media/leveranciersfacturen-preview003.png
 
 In de kolom “Preview” kun je op de gekoppelde PDF klikken. Zodra je dit doet, verschijnt de PDF-factuur aan de rechterkant.

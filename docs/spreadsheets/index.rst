@@ -1,5 +1,5 @@
 .. toctree::
     :maxdepth: 1
 
-    spreadsheets
+    spreadsheet
     functions
