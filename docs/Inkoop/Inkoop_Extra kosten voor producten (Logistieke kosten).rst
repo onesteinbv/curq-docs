@@ -1,0 +1,50 @@
+========================================================
+Inkoop | Extra kosten voor producten (Logistieke kosten)
+========================================================
+
+De grondprijs van een product is de totale kosten die aan de koper worden doorberekend na aftrek van verschillende gerelateerde uitgaven, zoals de kosten van het product zelf, verzendkosten,
+leveringskosten en andere relevante kosten. Deze uitgaven bepalen de initiële verkoopprijs van het product. Omdat de *Logistieke kosten* van een product kan variëren op basis van het bedrijfsbeleid
+en de bedrijfsactiviteiten, is het mogelijk dat twee bedrijven verschillende *Logistieke kosten* hebben voor hetzelfde product.
+
+Om *Logistieke kosten* te activeren, ga je naar de *Waarde* sectie in het venster **Instellingen**.
+
+.. image:: Media/inkoop050.png
+
+Nu wordt het menu *Logistieke kosten* weergegeven in de vervolgkeuzelijst van het tabblad Bewerkingen. Klik erop om het menu te openen.
+In dit venster worden alle *Logistieke kosten* weergegeven die aan de module zijn toegevoegd. Standaard worden alle details in een lijstweergave getoond, maar je kunt ook
+overschakelen naar een Kanban-weergave door op de bijbehorende pictogrammen in de rechterbovenhoek van het venster te klikken. Gebruik de opties *Filters* en *Groeperen op* om de records
+snel te identificeren, sorteren en categoriseren. Als je een filter of criterium hebt dat u vaak gebruikt, voeg het dan toe aan *Favorieten*.
+
+Voordat je nieuwe *Logistieke kosten* aanmaakt, ga je naar *Productcategorieën* op het tabblad **Configuratie**. Selecteer een categorie uit de lijst die verschijnt.
+
+.. image:: Media/inkoop051.png
+
+Het product waarop de grondprijs wordt toegepast, moet een productcategorie hebben die is ingesteld op een FIFO- of een AVCO-methode. Stel dus de *Kostenprijsbepaling* in als *First In First Out (FIFO)*
+of *Gemiddelde kostprijs (AVCO)*. Als je de goederen verkoopt in dezelfde volgorde als ze zijn geleverd, kies dan *FIFO* als de kosten berekeningsmethode. Bij *Gemiddelde kostprijs* worden de
+kosten die aan de producten worden toegewezen berekend door de kosten van alle benodigde materialen te delen door het totale aantal artikelen.
+
+Ga nu naar *Producten* en klik op *Nieuw* om een nieuw artikel aan te maken. Stel *Productsoort* in als *Dienst* om een service te configureren die *Logistieke kosten* definieert.
+
+.. image:: Media/inkoop052.png
+
+Activeer de optie *Zijn logistieke kosten* onder het tabblad **Inkoop** om de kosten berekeningsmethoden toe te wijzen aan deze service. In het veld **Standaard Splitsingsmethode**
+kunt u aangeven hoe u de kosten wilt splitsen.
+
+.. image:: Media/inkoop053.png
+
+Om een nieuwe *Logistieke kosten* aan te maken, klikt u op de knop *Nieuw*.
+Geef de velden op zoals **Datum, Verplaatsingen, Dagboek** en eventueel **Leveranciersfactuur**. De keuze van *verplaatsing* bepaalt op welke domeinen je de *Logistieke* kosten wilt toepassen.
+
+.. image:: Media/inkoop054.png
+
+Klik onder *Aanvullende kosten* op de knop Regel toevoegen. Je kunt het product selecteren uit de vervolgkeuzelijst in het veld Product. Voeg de details toe zoals
+**Omschrijving, Rekening, Splitsingsmethode** (hoe de logistieke kosten worden gesplitst) en **Kostprijs**.
+Wanneer u op *Bevestigen* klikt, ziet u verschillende waarden op het tabblad **Voorraadwaarde aanpassingen**.
+
+
+Planner uitvoeren
+-----------------
+Odoo maakt gebruik van een scheduler om in- en verkoop transacties van jouw bedrijf te automatiseren. De planner draait automatisch 1 x per dag en kan handmatig gestart worden.
+Om toegang te krijgen tot deze functie, klik je op *Planner uitvoeren* in het menu **Bewerkingen**. Vervolgens verschijnt er een pop-upvenster. Klik op *Planner uitvoeren*.
+
+.. image:: Media/inkoop055.png
