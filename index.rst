@@ -31,7 +31,7 @@ Supportvragen CURQ
 CURQ biedt ondersteuning via support tickets, waarmee gebruikers vragen kunnen stellen en hulp kunnen ontvangen voor hun
 specifieke problemen. Deze handleiding geeft stapsgewijze instructies voor het indienen van een support ticket via e-mail of telefoon.
 
-Optie 1: Support Ticket indienen via E-mail
+**Optie 1:** Support Ticket indienen via E-mail
 
 1. Open je e-mailclient: Start je e-mailprogramma op je computer, tablet of smartphone.
 2. Stel een nieuwe e-mail op: Maak een nieuwe e-mail en adresseer deze aan support@curq.nl.
@@ -40,7 +40,7 @@ Optie 1: Support Ticket indienen via E-mail
    informatie verstrekt om het supportproces soepel te laten verlopen.
 5. Versturen: Klik op de knop om de e-mail te versturen. Je ontvangt een bevestigingsmail van CURQ dat je ticket is ontvangen.
 
-Optie 2: Support Ticket indienen via Telefoon
+**Optie 2:** Support Ticket indienen via Telefoon
 
 1. Bel het supportnummer: Kies het telefoonnummer 00 om contact op te nemen met het CURQ-ondersteuningsteam.
 2. Leg je vraag uit: Wanneer verbonden, leg je vraag of probleem zo duidelijk mogelijk uit aan de medewerker. Zorg ervoor dat je alle
