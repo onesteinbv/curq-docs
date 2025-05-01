@@ -9,7 +9,7 @@ repos:
     rev: v1.1.2
     hooks:
       - id: doc8
-        args: [--max-line-length=100]
+        args: [--max-line-length=140]
         files: \.rst$
   - repo: local
     hooks:

@@ -1,9 +1,13 @@
 Online betalen facturen
 =========================================================================
 
-Om het voor je klanten nog gemakkelijker te maken om openstaande facturen te betalen, kun je de functie 'Factuur online betalen' activeren. Deze functie voegt een knop 'Nu betalen' toe aan het klantenportaal. Klanten kunnen hun facturen online bekijken en direct betalen met hun favoriete betaalmethode, waardoor het betalingsproces veel eenvoudiger wordt.
+Om het voor je klanten nog gemakkelijker te maken om openstaande facturen te betalen,
+kun je de functie 'Factuur online betalen' activeren. Deze functie voegt een knop 'Nu betalen'
+toe aan het klantenportaal. Klanten kunnen hun facturen online bekijken en direct betalen met
+hun favoriete betaalmethode, waardoor het betalingsproces veel eenvoudiger wordt.
 
-Om Facturen Online Betalen te activeren, ga je naar Boekhouding ‣ Configuratie ‣ Instellingen ‣ Klantbetalingen, schakel 'Betaal facturen online' en klik op Opslaan.
+Om Facturen Online Betalen te activeren, ga je naar Boekhouding ‣ Configuratie ‣ Instellingen ‣ Klantbetalingen,
+schakel 'Betaal facturen online' en klik op Opslaan.
 
 .. image:: media/online-betalen-instellingen.png
        :width: 6.3in
@@ -33,13 +37,16 @@ Voer de API keys en de credentials in (je vind deze op je Mollie dashboard).
        :width: 6.3in
        :height: 2.93264in
 
-Klik op de 'Mollie Payment Methods' tab and klik op de 'Sync payment method' knop. De beschikbare betaalmethodes zijn nu zichtbaar (waaronder iDeal).
+Klik op de 'Mollie Payment Methods' tab and klik op de 'Sync payment method' knop. De beschikbare betaalmethodes zijn nu zichtbaar
+(waaronder iDeal).
 
 .. image:: media/online-betalen-mollie-sync-betalingswijze.png
        :width: 6.3in
        :height: 2.93264in
 
-Vergeet niet om op het tabblad 'Configuratie' het dagboek dat je hebt aangemaakt voor Mollie te koppelen aan de betaalprovider. Op dit tabblad kun je ook aangeven welke betaaliconen je ondersteunt, in welke landen de betalingswijze gedaan kan worden. Ook kun je hier een maximum bedrag ingeven waarvoor deze provider beschikbaar is. Laat leeg voor geen maximum.
+Vergeet niet om op het tabblad 'Configuratie' het dagboek dat je hebt aangemaakt voor Mollie te koppelen aan de betaalprovider.
+Op dit tabblad kun je ook aangeven welke betaaliconen je ondersteunt, in welke landen de betalingswijze gedaan kan worden.
+Ook kun je hier een maximum bedrag ingeven waarvoor deze provider beschikbaar is. Laat leeg voor geen maximum.
 
 .. image:: media/online-betalen-mollie-dagboek.png
        :width: 6.3in
@@ -50,7 +57,8 @@ Klaar! je klanten kunnen nu direct betalingen doen via het klantenportaal van CU
 Betaling klantenportaal en status factuur
 ---------------------------------------------------
 
-Wanneer je een factuur hebt aangemaakt en de klant vanuit CURQ een e-mail stuurt, dan zit bij die e-mail een link naar het klantenportaal. De factuur kan vervolgens direct via het klantenportaal worden betaald.
+Wanneer je een factuur hebt aangemaakt en de klant vanuit CURQ een e-mail stuurt, dan zit bij die e-mail een link naar het klantenportaal.
+De factuur kan vervolgens direct via het klantenportaal worden betaald.
 Je klant betaalt de factuur door op de knop 'Betaal nu' te klikken en een van de eerder gedefinieerde betaalwijzes te kiezen.
 
 Mail versturen vanuit CURQ:

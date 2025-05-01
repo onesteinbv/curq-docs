@@ -78,9 +78,9 @@ nadat de pakbon volledig of gedeeltelijk is afgehandeld.
 
 **Maateenheid & inkoopmaateenheid:**
 
-Staat standaard op stuks. Meerdere categorieën zijn beschikbaar zoals
-lengte, volume, werktijd, enz.
-De maateenheid van een product kan anders zijn dan de inkoopmaateenheid. Voorbeeld: ik kan een kabel verkopen van 50cm en deze inkopen per 10m.
+Staat standaard op stuks. Meerdere categorieën zijn beschikbaar zoals lengte, volume, werktijd, enz.
+De maateenheid van een product kan anders zijn dan de inkoopmaateenheid. Voorbeeld: ik kan een kabel verkopen van 50cm en deze inkopen
+per 10m.
 
 **Verkoopprijs & Verkoop BTW:**
 

@@ -66,7 +66,10 @@ Afletter scenario's
 Afletteren van een volledig betaalde factuur
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Wanneer bij de gekozen transactieregel de klant of leverancier staat ingevuld, het bedrag overeenkomt met een openstaande post en het overeenkomstige factuurnummer vermeld staat in de label omschrijving, dan zal CURQ de regel automatisch afletteren. Je kunt er voor kiezen ook deze laatste stap te automatiseren. CURQ zal dan de gevonden regel direct bevestigen. Stel dit in bij de aflettermodellen, je vind deze terug bij menu Facturatie > Configuratie > Afletterregels.
+Wanneer bij de gekozen transactieregel de klant of leverancier staat ingevuld, het bedrag overeenkomt met een openstaande post
+en het overeenkomstige factuurnummer vermeld staat in de label omschrijving, dan zal CURQ de regel automatisch afletteren.
+Je kunt er voor kiezen ook deze laatste stap te automatiseren. CURQ zal dan de gevonden regel direct bevestigen. Stel dit in
+bij de aflettermodellen, je vind deze terug bij menu Facturatie > Configuratie > Afletterregels.
 
 .. image:: media/bank-aflettermodellen-direct-verwerken.png
        :width: 6.3in
@@ -79,14 +82,16 @@ Wanneer bij de gekozen transactieregel de klant of leverancier staat ingevuld, h
 
 Afletteren niet volledig betaalde factuur
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-Het kan zijn dat de betaalregel niet volledig overeenkomt met een af te letteren factuur (klant betaalt voor een aantal facturen tegelijk of betaalt een deelbedrag).
+Het kan zijn dat de betaalregel niet volledig overeenkomt met een af te letteren factuur (klant betaalt voor een aantal
+facturen tegelijk of betaalt een deelbedrag).
 
 Scenario 1: klant betaalt minder dan het factuurbedrag.
 CURQ zal het betaalde bedrag automatisch afletteren tegen de openstaande post.
 
 Vervolgens kun je het restbedrag ook direct afboeken, je doet dit door de regel aan te klikken zoals je hieronder ziet in het
 schermvoorbeeld. Hiermee wordt de optie zichtbaar om de factuur op volledig betaald te zetten. Je kunt er vervolgens voor kiezen om het
-restbedrag af te schrijven op een andere grootboekrekening. Je kan hier ofwel een aflettermodel voor gebruiken ofwel je doet dit door de rekening handmatig op te zoeken.
+restbedrag af te schrijven op een andere grootboekrekening. Je kan hier ofwel een aflettermodel voor gebruiken ofwel je doet dit
+door de rekening handmatig op te zoeken.
 
 .. image:: media/rest-afboeken-1.png
    :width: 6.69306in
@@ -99,14 +104,19 @@ restbedrag af te schrijven op een andere grootboekrekening. Je kan hier ofwel ee
 .. image:: media/image11.png
 
 Scenario 2: klant betaalt bijna de gehele factuur, maar een bedrag van een paar cent blijft open staan.
-Indien dit vaker voor komt dan kun je ervoor kiezen het standaard aflettermodel 'perfecte matching' iets aan te vullen. Wanneer je de tolerantie iets aanpast en vervolgens ook een grootboekrekening toevoegt aan het model, dan zal CURQ automatisch het restverschil wegboeken.
+Indien dit vaker voor komt dan kun je ervoor kiezen het standaard aflettermodel 'perfecte matching' iets aan te vullen.
+Wanneer je de tolerantie iets aanpast en vervolgens ook een grootboekrekening toevoegt aan het model,
+dan zal CURQ automatisch het restverschil wegboeken.
 
 .. image:: media/betalingsverschillen-afboeken.png
        :width: 6.3in
        :height: 2.93264in
 
 Scenario 3: klant betaalt meerdere facturen in 1 bedrag.
-in dit geval kun je de klant opzoeken en meerdere facturen achter elkaar aanklikken. Het kan zijn dat de klant ook een factuur betaalt die op een andere naam staat. Je kan een andere klant opzoeken en de openstaande post(en) toevoegen. In onderstaand schermvoorbeeld is eerst de factuur 1 voor klant 1 toegevoegd. Vervolgens is bij 'filter' gezocht op klant 2 en is een deel van factuur 2 aan de transactieregel toegevoegd.
+in dit geval kun je de klant opzoeken en meerdere facturen achter elkaar aanklikken. Het kan zijn dat de klant ook een factuur
+betaalt die op een andere naam staat. Je kan een andere klant opzoeken en de openstaande post(en) toevoegen. In onderstaand
+schermvoorbeeld is eerst de factuur 1 voor klant 1 toegevoegd. Vervolgens is bij 'filter' gezocht op klant 2 en is een deel
+van factuur 2 aan de transactieregel toegevoegd.
 
 .. image:: media/meerdere-facturen.png
        :width: 6.3in
@@ -114,7 +124,8 @@ in dit geval kun je de klant opzoeken en meerdere facturen achter elkaar aanklik
 
 Afletteren betaalregel zonder factuur
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-Het kan voorkomen dat er een afschriftregel is met een betaling zonder onderliggende factuur. In dit scenario kun je op het tabblad handmatige werking zelf een grootboekrekening opzoeken.
+Het kan voorkomen dat er een afschriftregel is met een betaling zonder onderliggende factuur. In dit scenario kun je op het
+tabblad handmatige werking zelf een grootboekrekening opzoeken.
 
 .. image:: media/handmatig-afletteren.png
    :width: 6.69306in
@@ -122,8 +133,10 @@ Het kan voorkomen dat er een afschriftregel is met een betaling zonder onderligg
 
 Afletteren betaalregel zonder factuur met BTW
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-Het kan voorkomen dat er een afschriftregel is met een betaling zonder onderliggende factuur, maar wel met BTW. Na kiezen van de juiste kostenrekening is het vervolgens mogelijk om in het BTW veld de juiste BTW
-code te selecteren. CURQ rekent dan automatisch de juiste bedragen uit. De extra regel die wordt aangemaakt voor verwerken van de BTW is terug te vinden op de BTW aangifte in de juiste rubriek.
+Het kan voorkomen dat er een afschriftregel is met een betaling zonder onderliggende factuur, maar wel met BTW. Na kiezen van de
+juiste kostenrekening is het vervolgens mogelijk om in het BTW veld de juiste BTW code te selecteren. CURQ rekent dan automatisch
+de juiste bedragen uit. De extra regel die wordt aangemaakt voor verwerken van de BTW is terug te vinden op de BTW aangifte
+in de juiste rubriek.
 
 .. image:: media/btw-handmatige-betaling.png
    :width: 6.69306in
@@ -131,7 +144,8 @@ code te selecteren. CURQ rekent dan automatisch de juiste bedragen uit. De extra
 
 Afletteren verstuurde SEPA betaalbatch
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-Wanneer je gebruikt maakt van de SEPA functionaliteit (waarmee je direct een set van inkoopfacturen aan de bank kan aanbieden), dan kun je de afschriftregel van deze betaling kiezen om alle inkoopfacturen van de batch in 1 keer af te handelen.
+Wanneer je gebruikt maakt van de SEPA functionaliteit (waarmee je direct een set van inkoopfacturen aan de bank kan aanbieden),
+dan kun je de afschriftregel van deze betaling kiezen om alle inkoopfacturen van de batch in 1 keer af te handelen.
 Na selecteren van de transactieregel zoek je de juiste betaalbatch op en lettert hierop af.
 
 .. image:: media/sepa-bankstatementline.png
@@ -152,7 +166,9 @@ Overige functionaliteit
 
 Chatter
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-De chatter fuctionaliteit is beschikbaar bij het afletteren van een regel. Hierdoor kun je direct een collega of een klant een bericht sturen bij een vraag over de betaalregel. Ook kun je in de chatter documenten koppelen. Denk hierbij bijvoorbeeld aan een gedownload bestand van je banktransacties.
+De chatter fuctionaliteit is beschikbaar bij het afletteren van een regel. Hierdoor kun je direct een collega of een
+klant een bericht sturen bij een vraag over de betaalregel. Ook kun je in de chatter documenten koppelen. Denk hierbij
+bijvoorbeeld aan een gedownload bestand van je banktransacties.
 
 .. image:: media/chatter-afletteren.png
    :width: 6.69306in

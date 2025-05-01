@@ -1,21 +1,27 @@
 Bankrekening en My Ponto Bank Feed
 ====================================================================
 
-In CURQ kunnen bankafschriften worden gesynchroniseerd met je bank via de MyPonto verbinding. Maak eerst je bank aan in CURQ en koppel dit dagboek vervolgens aan my Ponto.
+In CURQ kunnen bankafschriften worden gesynchroniseerd met je bank via de MyPonto verbinding.
+Maak eerst je bank aan in CURQ en koppel dit dagboek vervolgens aan my Ponto.
 
-**Koppelen banknummer**: Standaard hebben we 1 bank geconfigureerd in CURQ. Voeg je bankrekening toe, zoals getoond in onderstaand voorbeeld. Activeer ook de optie (OCA)Online, hiermee activeer je de optie voor bank synchronisatie.
+**Koppelen banknummer**: Standaard hebben we 1 bank geconfigureerd in CURQ. Voeg je bankrekening toe,
+zoals getoond in onderstaand voorbeeld. Activeer ook de optie (OCA)Online, hiermee activeer je de
+optie voor bank synchronisatie.
 
 .. image:: media/bankrekeningen-myponto001.png
        :width: 6.3in
        :height: 2.93264in
 
-Wanneer je extra banknummers wil toevoegen, doe dit dan via menufunctie 'Facturatie'-> 'Configuratie'-> 'Voeg een bankrekening toe'. Je hoeft alleen je banknummer in te geven, CURQ zal bij opslaan een nieuw dagboek aanmaken en alle gegevens direct goed invullen. Er is wel een controle of het IBAN nummer dat wordt ingevoerd, correct is, maar dit is alleen een controle.
+Wanneer je extra banknummers wil toevoegen, doe dit dan via menufunctie 'Facturatie'-> 'Configuratie'-> 'Voeg een bankrekening toe'.
+Je hoeft alleen je banknummer in te geven, CURQ zal bij opslaan een nieuw dagboek aanmaken en alle gegevens direct goed invullen.
+Er is wel een controle of het IBAN nummer dat wordt ingevoerd, correct is, maar dit is alleen een controle.
 
 .. image:: media/bankrekeningen-myponto002.png
        :width: 6.3in
        :height: 2.93264in
 
-Wanneer je een bankrekening hebt met een andere valuta dan EUR (de basisvaluta in CURQ), dan kun je een bankjournaal koppelen aan de andere valuta. Activeer eerst de valuta via onderstaand menu.
+Wanneer je een bankrekening hebt met een andere valuta dan EUR (de basisvaluta in CURQ), dan kun je een bankjournaal koppelen aan
+de andere valuta. Activeer eerst de valuta via onderstaand menu.
 
 .. image:: media/bankrekeningen-myponto003.png
 

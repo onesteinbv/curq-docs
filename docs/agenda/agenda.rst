@@ -1,14 +1,20 @@
 **Kalender**
 ============
-CURQ **Kalender** is een planningsapp die gebruikers in staat stelt om de bedrijfsstroom van een bedrijf te integreren in één beheersplatform. Door integratie met de andere apps in het ecosysteem van CURQ stelt **Kalender** gebruikers in staat om vergaderingen te plannen en te organiseren, evenementen in te plannen, beoordelingsgesprekken voor werknemers te plannen, projecten te coördineren en meer – alles vanuit hetzelfde platform.
+CURQ **Kalender** is een planningsapp die gebruikers in staat stelt om de bedrijfsstroom van een bedrijf te integreren in één
+beheersplatform. Door integratie met de andere apps in het ecosysteem van CURQ stelt **Kalender** gebruikers in staat om
+vergaderingen te plannen en te organiseren, evenementen in te plannen, beoordelingsgesprekken voor werknemers te plannen,
+projecten te coördineren en meer – alles vanuit hetzelfde platform.
 
-Bij het openen van de *Kalender-app* hebben gebruikers een overzicht van hun huidige vergaderingen. De geselecteerde weergave-optie verschijnt als een dropdownmenu voor **Dag, Week, Maand of Jaar**. Onder het dropdownmenu voor weergave-opties kunnen gebruikers ook de optie **'Toon weekenden'** in- of uitschakelen.
+Bij het openen van de *Kalender-app* hebben gebruikers een overzicht van hun huidige vergaderingen. De geselecteerde
+weergave-optie verschijnt als een dropdownmenu voor **Dag, Week, Maand of Jaar**. Onder het dropdownmenu voor
+weergave-opties kunnen gebruikers ook de optie **'Toon weekenden'** in- of uitschakelen.
 
 .. image:: media/agenda001.png
 
 .. image:: media/agenda002.png
 
-**Tip** - Afhankelijk van de geselecteerde weergave-optie kunnen gebruikers op de (links of rechts pijltje) knoppen klikken om tussen dagen, weken, enzovoort te schakelen, en terug te schakelen naar de       huidige dag met de knop Vandaag.
+**Tip** - Afhankelijk van de geselecteerde weergave-optie kunnen gebruikers op de (links of rechts pijltje) knoppen
+klikken om tussen dagen, weken, enzovoort te schakelen, en terug te schakelen naar de       huidige dag met de knop Vandaag.
 
 1.2 Een evenement maken en bewerken
 ====================================
@@ -20,11 +26,14 @@ CURQ Calendar stelt je in staat om een evenement op twee manieren te maken:
 1.2.1 Dubbelklik op een tijdslot
 --------------------------------
 
-Door op een specifiek tijdslot te dubbelklikken, verschijnt er een nieuw evenement venster op het scherm. Voer **Onderwerp afspraak** en klik op de knop **'Maken'**.
+Door op een specifiek tijdslot te dubbelklikken, verschijnt er een nieuw evenement venster op het scherm. Voer
+**Onderwerp afspraak** en klik op de knop **'Maken'**.
 
 .. image:: media/agenda003.png
 
-Nadat je hebt geklikt, wordt het nieuwe evenement aangemaakt en zichtbaar in de kalender overzichtsectie. Om het evenement te bewerken, plaats je de cursor op het nieuw aangemaakte evenement, klik je erop en klik je vervolgens op de kn op **"Bewerken"**. Dit opent een formulier waarin je de evenementgegevens kunt invoerenof bewerken.
+Nadat je hebt geklikt, wordt het nieuwe evenement aangemaakt en zichtbaar in de kalender overzichtsectie. Om het evenement te bewerken,
+plaats je de cursor op het nieuw aangemaakte evenement, klik je erop en klik je vervolgens op de kn op **"Bewerken"**.
+Dit opent een formulier waarin je de evenementgegevens kunt invoerenof bewerken.
 
 .. image:: media/agenda004.png
 
@@ -49,7 +58,11 @@ Klik op de knop "Nieuw" in de linkerbovenhoek van de overzichtsectie.
 
 .. image:: media/agenda006.png
 
-Onder het tabblad **Opties**, als het selectievakje voor **'Terugkerend'** is geselecteerd, Het stelt je in staat om het evenement voor een willekeurig aantal **weken** te herhalen en je kunt ook de **dagen** selecteren waarop de vergadering herhaald moet worden. Je kunt ook het **aantal herhalingen** kiezen, een **einddatum**, of **voor altijd** vanuit de **'T/m'** optie. Selecteer of het **openbaar**, **privé**, of voor **alleen interne gebruikers** is vanuit het **privacy** dropdownmenu. Selecteer of het **beschikbaar** of **bezet** is vanuit het **Tonen als** dropdownmenu.
+Onder het tabblad **Opties**, als het selectievakje voor **'Terugkerend'** is geselecteerd, Het stelt je in staat om het evenement
+voor een willekeurig aantal **weken** te herhalen en je kunt ook de **dagen** selecteren waarop de vergadering herhaald moet worden.
+Je kunt ook het **aantal herhalingen** kiezen, een **einddatum**, of **voor altijd** vanuit de **'T/m'** optie. Selecteer of
+het **openbaar**, **privé**, of voor **alleen interne gebruikers** is vanuit het **privacy** dropdownmenu. Selecteer
+of het **beschikbaar** of **bezet** is vanuit het **Tonen als** dropdownmenu.
 
 .. image:: media/agenda007.png
 
@@ -61,7 +74,8 @@ Klik op de **e-mail** knop om de e-mail naar de geselecteerde vergaderingdeelnem
 
 .. image:: media/agenda009.png
 
-Er verschijnt een nieuw dialoogvenster met de **Afspraken details**. Klik op de knop **'verzenden'** om de e-mail te verzenden, en deze wordt automatisch naar de geselecteerde **ontvangers** gestuurd.
+Er verschijnt een nieuw dialoogvenster met de **Afspraken details**. Klik op de knop **'verzenden'** om de e-mail te verzenden, en
+deze wordt automatisch naar de geselecteerde **ontvangers** gestuurd.
 
 .. image:: media/agenda010.png
 

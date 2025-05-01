@@ -1,7 +1,8 @@
 Beeindigen verkoopcontracten
 ---------------------------------------------------------------------------------------------------
 
-Je kunt op een lopend contract de regels stopzetten via de Stop knop die naast de contract regel staat. Je kunt zelf de einddatum opgeven en daarnaast ook aangeven of het een opschorting is zonder einddatum.
+Je kunt op een lopend contract de regels stopzetten via de Stop knop die naast de contract regel staat.
+Je kunt zelf de einddatum opgeven en daarnaast ook aangeven of het een opschorting is zonder einddatum.
 
 .. image:: media/verkoopcontract-stopzetten-contract.png
        :width: 6.3in
