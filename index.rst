@@ -1,5 +1,5 @@
-CURQ
-====
+﻿CURQ
+========
 
 .. toctree::
     :maxdepth: 2
@@ -22,8 +22,7 @@ CURQ
     docs/chat/chat
     docs/dashboards/dashboards
     docs/spreadsheets/index
-    docs/marketing/emailmarketing
-    docs/emailmarketing/externe-spam-filtering
+    docs/emailmarketing/index
 
 Supportvragen CURQ
 ------------------
