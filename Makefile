@@ -15,9 +15,9 @@ serve:
 
 .PHONY: html Makefile
 html:
+	rm -rf "$(BUILDDIR)"/*;
 	@$(SPHINXBUILD) -M html "$(SOURCEDIR)" "$(BUILDDIR)/nl" $(SPHINXOPTS) -D language="nl" $(O)
 	@$(SPHINXBUILD) -M html "$(SOURCEDIR)" "$(BUILDDIR)/en" $(SPHINXOPTS) -D language="en" $(O)
-	if [ -d "$(BUILDDIR)/html" ]; then rm -r "$(BUILDDIR)/html"; fi
 	mv "$(BUILDDIR)/nl/html" "$(BUILDDIR)/html"
 	mv "$(BUILDDIR)/en/html" "$(BUILDDIR)/html/en"
 
