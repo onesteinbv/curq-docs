@@ -1,0 +1,155 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2025, Onestein
+# This file is distributed under the same license as the CURQ package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2025.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: CURQ \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-05-28 09:55+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: en\n"
+"Language-Team: en <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.17.0\n"
+
+#: ../../docs/website/website-pagina-editor.rst:2
+msgid "Websitepagina-editor"
+msgstr ""
+
+#: ../../docs/website/website-pagina-editor.rst:4
+msgid ""
+"Met de websitebuilder kun je snel en eenvoudig verschillende pagina's "
+"aanmaken. Ga naar de pagina die aangepast moet worden en selecteer "
+"\"Bewerken\" rechtsboven in de hoek. Nu kun je de pagina aanpassen. In "
+"het veld dat aan de rechterzijde van het scherm is verschenen, zijn alle "
+"bouwblokken te zien. Door de blokken naar de pagina te slepen, kun je de "
+"pagina inrichten zoals jij dat wilt."
+msgstr ""
+
+#: ../../docs/website/website-pagina-editor.rst:11
+msgid "Er zijn vier typen blokken:"
+msgstr ""
+
+#: ../../docs/website/website-pagina-editor.rst:13
+msgid ""
+"**Structuur:** Dit zijn de grootste blokken en brengen een vaste "
+"structuur aan de website."
+msgstr ""
+
+#: ../../docs/website/website-pagina-editor.rst:14
+msgid ""
+"**Functies:** Deze blokken zijn gericht op specifieke functies zoals een "
+"prijslijst of een call-to-action."
+msgstr ""
+
+#: ../../docs/website/website-pagina-editor.rst:15
+msgid ""
+"**Dynamische inhoud:** Onder dynamische inhoud staan blokken met meer "
+"interactiviteit zoals kaarten, formulieren en pop-ups."
+msgstr ""
+
+#: ../../docs/website/website-pagina-editor.rst:16
+msgid ""
+"**Binnenste inhoud:** Deze blokken zijn kleinere functionaliteiten die "
+"aan andere blokken kunnen worden toegevoegd."
+msgstr ""
+
+#: ../../docs/website/website-pagina-editor.rst:18
+msgid ""
+"De blokken zelf kunnen ook aangepast worden onder het tabblad "
+"\"Aanpassen\". Hier kan het lettertype en de grootte van de tekst "
+"aangepast worden, de grootte van de kolommen ingesteld worden, animaties "
+"toegevoegd worden en nog veel meer. Ook kan het thema aangepast worden "
+"onder het themaveld. Hier kies je de kleuren van de website en op welke "
+"manier deze worden weergegeven, en de algemene stijl van de website "
+"bepaalt met het uiterlijk van de knoppen en tekstvakken."
+msgstr ""
+
+#: ../../docs/website/website-pagina-editor.rst:25
+msgid ""
+"Wanneer een bouwblok op de website is gesleept, kan deze ook handmatig "
+"worden aangepast. Elke foto kan veranderd worden met een van de "
+"beschikbare foto's of ze kunnen geïmporteerd worden. Ook kan er via een "
+"link video's aan de website worden toegevoegd. In de tekstvakken kan de "
+"tekst zelf worden aangepast en door een '/' te gebruiken krijg je "
+"meerdere opties om de website aan te passen:"
+msgstr ""
+
+#: ../../docs/website/website-pagina-editor.rst:29
+msgid ""
+"Pas de structuur aan met opsommingen, checklijsten, tabellen, citaten en "
+"eigen code, ook kan het vlak verdeeld worden in meerdere kolommen."
+msgstr ""
+
+#: ../../docs/website/website-pagina-editor.rst:31
+msgid ""
+"Pas de opmaak van het vlak aan met koppen, de richting van de tekst en "
+"creëer tekstblokken."
+msgstr ""
+
+#: ../../docs/website/website-pagina-editor.rst:32
+msgid "Voeg media zoals afbeeldingen en video's toe."
+msgstr ""
+
+#: ../../docs/website/website-pagina-editor.rst:33
+msgid "Creëer snelkoppelingen en knoppen."
+msgstr ""
+
+#: ../../docs/website/website-pagina-editor.rst:34
+msgid "Voeg widgets zoals sterren toe."
+msgstr ""
+
+#: ../../docs/website/website-pagina-editor.rst:35
+msgid "Voeg snippets zoals kaarten, grafieken, badges en citaten toe."
+msgstr ""
+
+#: ../../docs/website/website-pagina-editor.rst:36
+msgid "Creëer een veld om handtekeningen toe te voegen."
+msgstr ""
+
+#: ../../docs/website/website-pagina-editor.rst:40
+msgid ""
+"Boven de velden is ook een optie aanwezig om de website in een "
+"telefoonweergave te zien en hier ook aanpassingen in te maken."
+msgstr ""
+
+#: ../../docs/website/website-pagina-editor.rst:44
+msgid ""
+"Wanneer alle gewenste aanpassingen aan de pagina zijn gedaan, selecteer "
+"dan rechtsboven in de hoek \"Opslaan\". Als de aanpassingen niet "
+"doorgevoerd moeten worden, selecteer dan \"Negeren\"."
+msgstr ""
+
+#: ../../docs/website/website-pagina-editor.rst:47
+msgid ""
+"Om de menu's aan te passen, ga dan naar het website menu en selecteer "
+"daar onder \"Menu-editor\". Hier zijn de verschillende pagina's zichtbaar"
+" en kunnen er meerdere menu-items aangemaakt worden, waaronder "
+"supermenu's om de verschillende menu's te categoriseren en te "
+"verduidelijken."
+msgstr ""
+
+#: ../../docs/website/website-pagina-editor.rst:51
+msgid ""
+"Er kan een SEO-optimalisatie uitgevoerd worden om uw website beter "
+"vindbaar te maken met zoekmachines onder het \"Deze pagina\" veld in de "
+"website-tab. Ook kan de website aangepast worden met eigen HTML- en CSS-"
+"code en de geïntegreerde editor. Hier kan voor elke pagina en item de "
+"code worden aangepast om de puntjes op de i te zetten."
+msgstr ""
+
+#: ../../docs/website/website-pagina-editor.rst:55
+msgid ""
+"Wanneer de HTML-code wordt aangepast, wordt de website echter niet "
+"meegenomen in de updates en dit kan voor complicaties zorgen wanneer CURQ"
+" naar een nieuwe versie gaat. Ons advies is om altijd eerst contact met "
+"onze helpdesk op te nemen voordat je op deze manier de website gaat "
+"aanpassen."
+msgstr ""

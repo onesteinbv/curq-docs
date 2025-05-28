@@ -1,0 +1,203 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2025, Onestein
+# This file is distributed under the same license as the CURQ package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2025.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: CURQ \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-05-28 09:55+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: en\n"
+"Language-Team: en <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.17.0\n"
+
+#: ../../docs/boekhouding/bankrekeningen/bankrekeningen-aflettermodellen.rst:3
+msgid "Aflettermodellen"
+msgstr ""
+
+#: ../../docs/boekhouding/bankrekeningen/bankrekeningen-aflettermodellen.rst:5
+msgid ""
+"Met aflettermodellen kun je het proces van afletteren verder "
+"automatiseren. CURQ heeft zelf een aantal standaard aflettermodellen "
+"ingericht, je vind deze onder menu Facturatie > Configuratie > "
+"Afletterregels."
+msgstr ""
+
+#: ../../docs/boekhouding/bankrekeningen/bankrekeningen-aflettermodellen.rst:8
+msgid "Je kunt met 3 doeleinden een afletter regel aanmaken:"
+msgstr ""
+
+#: ../../docs/boekhouding/bankrekeningen/bankrekeningen-aflettermodellen.rst:10
+msgid ""
+"Als je zelf wil bepalen of je het model wilt gebruiken. Je maakt in dit "
+"geval een knop aan waarmee je de tegenrekening laat toevoegen."
+msgstr ""
+
+#: ../../docs/boekhouding/bankrekeningen/bankrekeningen-aflettermodellen.rst:13
+msgid ""
+"Als je direct een tegenboeking van de af te letteren transactieregel wil "
+"genereren."
+msgstr ""
+
+#: ../../docs/boekhouding/bankrekeningen/bankrekeningen-aflettermodellen.rst:16
+msgid ""
+"Als je automatisch inkoop-en of verkoopfacturen wil matchen en door CURQ "
+"wil laten afletteren. Optie 3 wordt standaard in CURQ toegepast."
+msgstr ""
+
+#: ../../docs/boekhouding/bankrekeningen/bankrekeningen-aflettermodellen.rst:19
+msgid ""
+"Hieronder zie je een voorbeeld van een afletter knop (optie 1). In dit "
+"voorbeeld is het model gekoppeld aan bankrekening 'Bankkosten'."
+msgstr ""
+
+#: ../../docs/boekhouding/bankrekeningen/bankrekeningen-aflettermodellen.rst:25
+msgid ""
+"In het afletterscherm vind je de knop terug op onderstaand "
+"schermvoorbeeld:"
+msgstr ""
+
+#: ../../docs/boekhouding/bankrekeningen/bankrekeningen-aflettermodellen.rst:31
+msgid ""
+"Hieronder zie je een voorbeeld van een aflettermodel waarmee direct een "
+"tegenboeking wordt gegenereerd (optie 2). Bij dit model is ingegeven dat "
+"er gezocht wordt op het woord 'Abonnement' in het notitie veld en op "
+"klant 'testklant'. Het voorstel wordt alleen gedaan als aan beide "
+"voorwaarden is voldaan."
+msgstr ""
+
+#: ../../docs/boekhouding/bankrekeningen/bankrekeningen-aflettermodellen.rst:39
+msgid ""
+"Met als resultaat dat bij een transactieregel waarbij in de notitie de "
+"tekst 'Abonnement' staat en bij de relatie 'Testklant', je direct de "
+"juiste grootboekregel ziet staan."
+msgstr ""
+
+#: ../../docs/boekhouding/bankrekeningen/bankrekeningen-aflettermodellen.rst:47
+msgid ""
+"Tenslotte zie je hieronder een voorbeeld van het 'perfect match' model "
+"(optie 3). CURQ kan op basis van de klant/leveranciersnaam, de "
+"betaalreferentie en het bedrag de factuur direct matchen."
+msgstr ""
+
+#: ../../docs/boekhouding/bankrekeningen/bankrekeningen-aflettermodellen.rst:54
+msgid ""
+"Het resultaat zie je hieronder in het afletterscherm. Het bedrag, de "
+"klant en de betaalreferentie komen overeen, dus CURQ zal direct de juiste"
+" factuur voorstellen om het bedrag tegen af te letteren."
+msgstr ""
+
+#: ../../docs/boekhouding/bankrekeningen/bankrekeningen-aflettermodellen.rst:62
+msgid ""
+"Wanneer je te maken krijgt met kleine betalingsverschillen op facturen "
+"dan kun je die middels een aanpassing aan het standaard aflettermodel "
+"standaard wegboeken. In onderstaand voorbeeld staat dat bij een afwijking"
+" onder de 5 cent het verschil automatisch op een verschillenrekening "
+"wordt weggeboekt."
+msgstr ""
+
+#: ../../docs/boekhouding/bankrekeningen/bankrekeningen-aflettermodellen.rst:71
+msgid "Uitleg velden aflettermodel"
+msgstr ""
+
+#: ../../docs/boekhouding/bankrekeningen/bankrekeningen-aflettermodellen.rst:73
+msgid "**Dagboek beschikbaarheid**"
+msgstr ""
+
+#: ../../docs/boekhouding/bankrekeningen/bankrekeningen-aflettermodellen.rst:75
+msgid ""
+"Hiermee kun je aangeven voor welke dagboeken de regel van toepassing is. "
+"Als je dit veld leeg laat dan geldt de regel voor alle dagboeken."
+msgstr ""
+
+#: ../../docs/boekhouding/bankrekeningen/bankrekeningen-aflettermodellen.rst:77
+msgid "**Bedragsoort**"
+msgstr ""
+
+#: ../../docs/boekhouding/bankrekeningen/bankrekeningen-aflettermodellen.rst:79
+msgid ""
+"Hiermee kun je aangeven of de regel alleen geldt voor ontvangen of te "
+"betalen bedragen."
+msgstr ""
+
+#: ../../docs/boekhouding/bankrekeningen/bankrekeningen-aflettermodellen.rst:81
+msgid "**Betalingstolerantie**"
+msgstr ""
+
+#: ../../docs/boekhouding/bankrekeningen/bankrekeningen-aflettermodellen.rst:83
+msgid ""
+"Zie de uitleg eerder in dit onderdeel, met deze optie kun je "
+"betalingsverschillen direct weg laten boeken."
+msgstr ""
+
+#: ../../docs/boekhouding/bankrekeningen/bankrekeningen-aflettermodellen.rst:85
+msgid "**Automatisch bevestigen**"
+msgstr ""
+
+#: ../../docs/boekhouding/bankrekeningen/bankrekeningen-aflettermodellen.rst:87
+msgid ""
+"Wanneer je deze optie aan zet, dan zal CURQ de gematchte regel direct "
+"bevestigen. Gebruik deze optie alleen als je zeker weet dat je de juiste "
+"instellingen gebruikt."
+msgstr ""
+
+#: ../../docs/boekhouding/bankrekeningen/bankrekeningen-aflettermodellen.rst:90
+msgid "**Limiet voor zoekmaanden**"
+msgstr ""
+
+#: ../../docs/boekhouding/bankrekeningen/bankrekeningen-aflettermodellen.rst:92
+msgid ""
+"Je kunt het aantal maanden terug waarvoor de regel geldt beperken met "
+"deze regel."
+msgstr ""
+
+#: ../../docs/boekhouding/bankrekeningen/bankrekeningen-aflettermodellen.rst:94
+msgid "**Factuur afletteren met**"
+msgstr ""
+
+#: ../../docs/boekhouding/bankrekeningen/bankrekeningen-aflettermodellen.rst:96
+msgid ""
+"Gebruik deze optie als je specifiek op een vaste omschrijving of tekst "
+"wil zoeken om de match te zoeken"
+msgstr ""
+
+#: ../../docs/boekhouding/bankrekeningen/bankrekeningen-aflettermodellen.rst:98
+msgid "**Overeenkomstige relaties**"
+msgstr ""
+
+#: ../../docs/boekhouding/bankrekeningen/bankrekeningen-aflettermodellen.rst:100
+msgid ""
+"Met deze regel kun je een aflettermodel specifiek voor een klant of "
+"leverancier maken."
+msgstr ""
+
+#: ../../docs/boekhouding/bankrekeningen/bankrekeningen-aflettermodellen.rst:107
+msgid "Tabblad Relatiemapping"
+msgstr ""
+
+#: ../../docs/boekhouding/bankrekeningen/bankrekeningen-aflettermodellen.rst:109
+msgid ""
+"Relatie mapping maakt het mogelijk om regels vast te stellen voor het "
+"automatisch koppelen van transacties aan de juiste relatie, wat tijd "
+"bespaart en het risico op fouten vermindert die kunnen optreden tijdens "
+"handmatige aflettering. Je kunt bijvoorbeeldrelatie mappingregel maken "
+"voor inkomende betalingen met specifieke referentienummers of trefwoorden"
+" in de transactiebeschrijving. Wanneer een inkomende betaling aan deze "
+"criteria voldoet, koppelt CURQ deze automatisch aan de overeenkomstige "
+"relatie."
+msgstr ""
+
+#: ../../docs/boekhouding/bankrekeningen/bankrekeningen-aflettermodellen.rst:114
+msgid ""
+"Om een relatie mappingregel te maken, ga naar het tabblad relatie mapping"
+" en voer de tekst in om te vinden in het label, de tekst om te vinden in "
+"de notities en de partner."
+msgstr ""

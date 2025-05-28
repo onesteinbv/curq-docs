@@ -1,0 +1,144 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2025, Onestein
+# This file is distributed under the same license as the CURQ package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2025.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: CURQ \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-05-28 09:55+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: en\n"
+"Language-Team: en <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.17.0\n"
+
+#: ../../docs/boekhouding/verkoopfacturen/betalingen-herinneringen.rst:2
+msgid "Herinneringen in CURQ"
+msgstr ""
+
+#: ../../docs/boekhouding/verkoopfacturen/betalingen-herinneringen.rst:4
+msgid ""
+"In het instellingen menu kun je een aantal standaard waarden bepalen voor"
+" het herinneringproces. Ga hiervoor naar Instellingen > Facturatie > "
+"Betalingsherinneringen"
+msgstr ""
+
+#: ../../docs/boekhouding/verkoopfacturen/betalingen-herinneringen.rst:7
+msgid "Je kunt hier de volgende zaken aangeven:"
+msgstr ""
+
+#: ../../docs/boekhouding/verkoopfacturen/betalingen-herinneringen.rst:9
+msgid ""
+"**Checkbox Facturen bijvoegen**. Als je deze optie activeert dan stuurt "
+"CURQ standaard een kopie van alle facturen met de herinnering mee."
+msgstr ""
+
+#: ../../docs/boekhouding/verkoopfacturen/betalingen-herinneringen.rst:11
+msgid ""
+"**Neem contact op om te herinneren**. Hiermee kies je wie binnen de "
+"organisatie je wil benaderen over de herinnering. Je hebt de keuze uit de"
+" contactpersoon van de laatst verstuurde herinnering, de laatst "
+"verstuurde factuur of de standaard factuurrelatie."
+msgstr ""
+
+#: ../../docs/boekhouding/verkoopfacturen/betalingen-herinneringen.rst:13
+msgid ""
+"**Standaard Wizard interface**. Hier kun je aangeven of je alle "
+"herinneringen 1 voor 1 wil bekijken of dat je alle klanten in 1 keer wil "
+"verwerken."
+msgstr ""
+
+#: ../../docs/boekhouding/verkoopfacturen/betalingen-herinneringen.rst:15
+msgid ""
+"**Standaard herinneringsvertraging**. Dit kun je gebruiken om een aantal "
+"extra dagen in te geven tussen de vervaldatum en het daadwerkelijk "
+"meenemen in de lijst met te herinneren facturen."
+msgstr ""
+
+#: ../../docs/boekhouding/verkoopfacturen/betalingen-herinneringen.rst:17
+msgid ""
+"**Standaard herinnerings minimuminterval**. Hier kun je het aantal dagen "
+"aangeven dat tussen de volgende herinnering zit."
+msgstr ""
+
+#: ../../docs/boekhouding/verkoopfacturen/betalingen-herinneringen.rst:24
+msgid "Betalingsherinneringen sturen"
+msgstr ""
+
+#: ../../docs/boekhouding/verkoopfacturen/betalingen-herinneringen.rst:26
+msgid ""
+"Via menu Facturatie > Klanten > Betalingsherinneringen kun je vervallen "
+"klantfacturen opvolgen."
+msgstr ""
+
+#: ../../docs/boekhouding/verkoopfacturen/betalingen-herinneringen.rst:33
+msgid ""
+"Via dit menu start je een wizard die je door het herinneringenproces heen"
+" helpt. In de wizard geef je aan welke klanten je wil herinneren (geen "
+"keuze betekent dat CURQ alle in aanmerking komende relaties zal "
+"presenteren). Ook kun je in de wizard aangeven naar wie de herinnering "
+"toe wordt gestuurd."
+msgstr ""
+
+#: ../../docs/boekhouding/verkoopfacturen/betalingen-herinneringen.rst:39
+msgid "Bij **FILTERS** kun je op klant en/of verkoper filteren."
+msgstr ""
+
+#: ../../docs/boekhouding/verkoopfacturen/betalingen-herinneringen.rst:41
+msgid ""
+"De standaard instellingen die je eerder rondom de onderdelen 'Neem "
+"contact op met', 'Wizard interface', 'Triggervertraging' en 'Minimum "
+"vertraging' hebt ingegeven, kun je onder het onderdeel **OPTIES** "
+"eventueel aanpassen."
+msgstr ""
+
+#: ../../docs/boekhouding/verkoopfacturen/betalingen-herinneringen.rst:44
+msgid ""
+"Bij het onderdeel **BETALINGEN UP-TO-DATE?** zie je informatie over de "
+"laatste datum dat er betalingen zijn verwerkt per bank, hiermee zie je "
+"snel of je bij bent bent met verwerken van je dagafschriften."
+msgstr ""
+
+#: ../../docs/boekhouding/verkoopfacturen/betalingen-herinneringen.rst:47
+msgid ""
+"Na het maken van de selectie start het proces door op de knop **Start** "
+"te klikken."
+msgstr ""
+
+#: ../../docs/boekhouding/verkoopfacturen/betalingen-herinneringen.rst:53
+msgid ""
+"Het resultaat wordt per klant weergegeven. Je kunt facturen handmatig van"
+" de lijst te verwijderen. Indien gewenst kan de email tekst per klant "
+"worden aangepast."
+msgstr ""
+
+#: ../../docs/boekhouding/verkoopfacturen/betalingen-herinneringen.rst:64
+msgid ""
+"Met de knop **VALIDEREN** verstuur je de mail en werkt CURQ de status "
+"automatisch bij. Wanneer een herinnering verstuurd is dan krijgen de "
+"facturen die zijn aangemaand een volgnummer (1). Je kunt dit volgnummer "
+"ook in de lijstweergave van de facturen terugvinden."
+msgstr ""
+
+#: ../../docs/boekhouding/verkoopfacturen/betalingen-herinneringen.rst:68
+msgid ""
+"Bij de factuur zelf zie je dat deze vervallen is en op het tabblad "
+"‘Betalingsherinnering’ zie je de status. Hier kun je ook aanvullende "
+"informatie kwijt, bijvoorbeeld als je de klant gaat nabellen."
+msgstr ""
+
+#: ../../docs/boekhouding/verkoopfacturen/betalingen-herinneringen.rst:71
+msgid ""
+"Het e-mail sjabloon is ook zo ingericht dat er verschillende teksten "
+"worden getoond per volgnummer. Bij de tweede aanmaning (volgnummer 2) zie"
+" je een dwingende tekst dat de klant direct moet betalen. Je kunt de "
+"tekst eventueel ook zelf aanpassen in het e-mail sjabloon of bij de "
+"aanmaning naar de klant zelf."
+msgstr ""

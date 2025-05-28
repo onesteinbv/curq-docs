@@ -1,0 +1,42 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2025, Onestein
+# This file is distributed under the same license as the CURQ package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2025.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: CURQ \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-05-28 09:55+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: en\n"
+"Language-Team: en <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.17.0\n"
+
+#: ../../docs/website/html-editor.rst:2
+msgid "HTML/CSS editor"
+msgstr ""
+
+#: ../../docs/website/html-editor.rst:4
+msgid ""
+"Binnen de website kan ook de html en de css code van de website handmatig"
+" worden aangepast. Hierdoor worden aanpassingen niet via de "
+"voorgedefinieerde blokken gedaan maar direct via html/css code. Hierdoor "
+"kan de functionaliteit en het uiterlijk worden geoptimaliseerd. Binnen de"
+" editor kunnen aanpassingen worden gemaakt aan de pagina's en elke "
+"individuele component."
+msgstr ""
+
+#: ../../docs/website/html-editor.rst:11
+msgid ""
+"Let op: wanneer de html is aangepast kunnen er geen standaard "
+"aanpassingen worden gedaan aan de website. Ons advies is om altijd eerst "
+"contact met onze CURQ helpdesk op te nemen als je overweegt om via deze "
+"methode wijzigingen door te voeren."
+msgstr ""

@@ -1,0 +1,187 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2025, Onestein
+# This file is distributed under the same license as the CURQ package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2025.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: CURQ \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-05-28 09:55+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: en\n"
+"Language-Team: en <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.17.0\n"
+
+#: ../../docs/agenda/agenda.rst:2
+msgid "Agenda"
+msgstr ""
+
+#: ../../docs/agenda/agenda.rst:4
+msgid ""
+"CURQ **Agenda** is een planningsapp die gebruikers in staat stelt om de "
+"bedrijfsstroom van een bedrijf te integreren in één beheersplatform. Door"
+" integratie met de andere apps in het ecosysteem van CURQ stelt "
+"**Kalender** gebruikers in staat om vergaderingen te plannen en te "
+"organiseren, evenementen in te plannen, beoordelingsgesprekken voor "
+"werknemers te plannen, projecten te coördineren en meer – alles vanuit "
+"hetzelfde platform."
+msgstr ""
+
+#: ../../docs/agenda/agenda.rst:9
+msgid ""
+"Bij het openen van de *Agenda-app* hebben gebruikers een overzicht van "
+"hun huidige vergaderingen. De geselecteerde weergave-optie verschijnt als"
+" een dropdownmenu voor **Dag, Week, Maand of Jaar**. Onder het "
+"dropdownmenu voor weergave-opties kunnen gebruikers ook de optie **'Toon "
+"weekenden'** in- of uitschakelen."
+msgstr ""
+
+#: ../../docs/agenda/agenda.rst:17
+msgid ""
+"**Tip** - Afhankelijk van de geselecteerde weergave-optie kunnen "
+"gebruikers op de (links of rechts pijltje) knoppen klikken om tussen "
+"dagen, weken, enzovoort te schakelen, en terug te schakelen naar de"
+"       huidige dag met de knop Vandaag."
+msgstr ""
+
+#: ../../docs/agenda/agenda.rst:21
+msgid "1.2 Een evenement maken en bewerken"
+msgstr ""
+
+#: ../../docs/agenda/agenda.rst:23
+msgid ""
+"CURQ Calendar stelt je in staat om een evenement op twee manieren te "
+"maken: 1.2.1 Dubbelklik op een tijdslot in de overzichtsectie. 1.2.2 Klik"
+" op de knop **'Nieuw'** in de overzichtsectie."
+msgstr ""
+
+#: ../../docs/agenda/agenda.rst:28
+msgid "1.2.1 Dubbelklik op een tijdslot"
+msgstr ""
+
+#: ../../docs/agenda/agenda.rst:30
+msgid ""
+"Door op een specifiek tijdslot te dubbelklikken, verschijnt er een nieuw "
+"evenement venster op het scherm. Voer **Onderwerp afspraak** en klik op "
+"de knop **'Maken'**."
+msgstr ""
+
+#: ../../docs/agenda/agenda.rst:35
+msgid ""
+"Nadat je hebt geklikt, wordt het nieuwe evenement aangemaakt en zichtbaar"
+" in de kalender overzichtsectie. Om het evenement te bewerken, plaats je "
+"de cursor op het nieuw aangemaakte evenement, klik je erop en klik je "
+"vervolgens op de kn op **\"Bewerken\"**. Dit opent een formulier waarin "
+"je de evenementgegevens kunt invoerenof bewerken."
+msgstr ""
+
+#: ../../docs/agenda/agenda.rst:42
+msgid "1.2.2 Van de 'Nieuw' knop in de overzichtsectie"
+msgstr ""
+
+#: ../../docs/agenda/agenda.rst:44
+msgid "Klik op de knop \"Nieuw\" in de linkerbovenhoek van de overzichtsectie."
+msgstr ""
+
+#: ../../docs/agenda/agenda.rst:48
+msgid ""
+"Een nieuw **Afspraken formulier** verschijnt op het scherm. Voer eerst "
+"het **'Afspraak onderwerp'** in het lege veld in."
+msgstr ""
+
+#: ../../docs/agenda/agenda.rst:49
+msgid "Selecteer vervolgens de mensen die de bijeenkomst zullen bijwonen."
+msgstr ""
+
+#: ../../docs/agenda/agenda.rst:50
+msgid ""
+"Onder het **Afspraken details** tabblad, Selecteer de tijden **'Start "
+"op'** en **'Eindig op'** met behulp van de kalenderwidget."
+msgstr ""
+
+#: ../../docs/agenda/agenda.rst:51
+msgid ""
+"Het **duurveld** wordt automatisch berekend op basis van de geselecteerde"
+" tijd en datum."
+msgstr ""
+
+#: ../../docs/agenda/agenda.rst:52
+msgid "Een selectievakje geeft aan of het evenement de **hele dag** duurt."
+msgstr ""
+
+#: ../../docs/agenda/agenda.rst:53
+msgid ""
+"Indien geselecteerd, wordt het duurveld verwijderd uit het **Afspraken "
+"formulier**."
+msgstr ""
+
+#: ../../docs/agenda/agenda.rst:54
+msgid ""
+"Het veld Organisator wordt automatisch ingevuld op basis van de "
+"gebruikerslogin."
+msgstr ""
+
+#: ../../docs/agenda/agenda.rst:55
+msgid "Je kunt de **Organisator** wijzigen of aanmaken indien nodig."
+msgstr ""
+
+#: ../../docs/agenda/agenda.rst:56
+msgid "Voeg een **Omschrijving** toe voor het evenement."
+msgstr ""
+
+#: ../../docs/agenda/agenda.rst:57
+msgid ""
+"Stel een **herinnering** in als je wilt, en voer de **locatie** van het "
+"evenement in indien van toepassing."
+msgstr ""
+
+#: ../../docs/agenda/agenda.rst:58
+msgid ""
+"Voer de **URL voor videogesprek** in het daarvoor bestemde tekstvak in, "
+"en voeg **Labels** toe voor het evenement indien gewenst."
+msgstr ""
+
+#: ../../docs/agenda/agenda.rst:62
+msgid ""
+"Onder het tabblad **Opties**, als het selectievakje voor "
+"**'Terugkerend'** is geselecteerd, Het stelt je in staat om het evenement"
+" voor een willekeurig aantal **weken** te herhalen en je kunt ook de "
+"**dagen** selecteren waarop de vergadering herhaald moet worden. Je kunt "
+"ook het **aantal herhalingen** kiezen, een **einddatum**, of **voor "
+"altijd** vanuit de **'T/m'** optie. Selecteer of het **openbaar**, "
+"**privé**, of voor **alleen interne gebruikers** is vanuit het "
+"**privacy** dropdownmenu. Selecteer of het **beschikbaar** of **bezet** "
+"is vanuit het **Tonen als** dropdownmenu."
+msgstr ""
+
+#: ../../docs/agenda/agenda.rst:70
+msgid ""
+"Klik tenslotte op het opslaan-icoon, weergegeven door een wolk met een "
+"omhoog wijzende pijl."
+msgstr ""
+
+#: ../../docs/agenda/agenda.rst:74
+msgid ""
+"Klik op de **e-mail** knop om de e-mail naar de geselecteerde "
+"vergaderingdeelnemer te sturen."
+msgstr ""
+
+#: ../../docs/agenda/agenda.rst:78
+msgid ""
+"Er verschijnt een nieuw dialoogvenster met de **Afspraken details**. Klik"
+" op de knop **'verzenden'** om de e-mail te verzenden, en deze wordt "
+"automatisch naar de geselecteerde **ontvangers** gestuurd."
+msgstr ""
+
+#: ../../docs/agenda/agenda.rst:83
+msgid ""
+"Om de **status** van het evenement te controleren, ga naar het tabblad "
+"**Uitnodigingen**."
+msgstr ""

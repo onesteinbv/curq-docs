@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: CURQ \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-04-30 15:45+0200\n"
+"POT-Creation-Date: 2025-05-28 09:52+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: en\n"
@@ -19,18 +19,125 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.17.0\n"
 
-#: ../../index.rst:9
-msgid "Contents:"
-msgstr ""
-
 #: ../../index.rst:2
 msgid "CURQ"
 msgstr "CURQ"
 
-#: ../../index.rst:4
-msgid ""
-"Add your content using ``reStructuredText`` syntax. See the "
-"`reStructuredText <https://www.sphinx-"
-"doc.org/en/master/usage/restructuredtext/index.html>`_ documentation for "
-"details."
+#: ../../index.rst:29
+msgid "Supportvragen CURQ"
 msgstr ""
+
+#: ../../index.rst:31
+msgid ""
+"CURQ biedt ondersteuning via support tickets, waarmee gebruikers vragen "
+"kunnen stellen en hulp kunnen ontvangen voor hun specifieke problemen. "
+"Deze handleiding geeft stapsgewijze instructies voor het indienen van een"
+" support ticket via e-mail of telefoon."
+msgstr ""
+
+#: ../../index.rst:34
+msgid "**Optie 1:** Support Ticket indienen via E-mail"
+msgstr ""
+
+#: ../../index.rst:36
+msgid ""
+"Open je e-mailclient: Start je e-mailprogramma op je computer, tablet of "
+"smartphone."
+msgstr ""
+
+#: ../../index.rst:37
+msgid ""
+"Stel een nieuwe e-mail op: Maak een nieuwe e-mail en adresseer deze aan "
+"support@curq.nl."
+msgstr ""
+
+#: ../../index.rst:38
+msgid ""
+"Onderwerp: Geef het onderwerp van de e-mail een duidelijke beschrijving "
+"die de aard van je vraag of probleem weergeeft."
+msgstr ""
+
+#: ../../index.rst:39
+msgid ""
+"Vraag formuleren: Schrijf je vraag of probleem in het hoofdtekstgedeelte "
+"van de e-mail. Zorg ervoor dat je alle relevante informatie verstrekt om "
+"het supportproces soepel te laten verlopen."
+msgstr ""
+
+#: ../../index.rst:41
+msgid ""
+"Versturen: Klik op de knop om de e-mail te versturen. Je ontvangt een "
+"bevestigingsmail van CURQ dat je ticket is ontvangen."
+msgstr ""
+
+#: ../../index.rst:43
+msgid "**Optie 2:** Support Ticket indienen via Telefoon"
+msgstr ""
+
+#: ../../index.rst:45
+msgid ""
+"Bel het supportnummer: Kies het telefoonnummer 00 om contact op te nemen "
+"met het CURQ-ondersteuningsteam."
+msgstr ""
+
+#: ../../index.rst:46
+msgid ""
+"Leg je vraag uit: Wanneer verbonden, leg je vraag of probleem zo "
+"duidelijk mogelijk uit aan de medewerker. Zorg ervoor dat je alle "
+"relevante details vermeldt."
+msgstr ""
+
+#: ../../index.rst:48
+msgid ""
+"Ticket aanmaken: De medewerker zal een support ticket voor je aanmaken en"
+" je voorzien van een uniek ticketnummer. Noteer dit nummer voor "
+"toekomstige referentie."
+msgstr ""
+
+#: ../../index.rst:50
+msgid ""
+"Verdere instructies: Volg eventuele verdere instructies van de medewerker"
+" op om het supportproces efficiënt af te handelen."
+msgstr ""
+
+#: ../../index.rst:52
+msgid "Algemene Tips:"
+msgstr ""
+
+#: ../../index.rst:54
+msgid ""
+"Zorg ervoor dat je alle benodigde informatie in je vraag opneemt om het "
+"proces te versnellen."
+msgstr ""
+
+#: ../../index.rst:55
+msgid ""
+"Wees duidelijk en beknopt bij het formuleren van je vraag, zodat het "
+"supportteam je snel kan helpen."
+msgstr ""
+
+#: ../../index.rst:56
+msgid "Bewaar alle communicatie en ticketnummers voor referentie in de toekomst."
+msgstr ""
+
+#: ../../index.rst:57
+msgid "stel een vraag per mail om het support proces te versoepelen."
+msgstr ""
+
+#: ../../index.rst:59
+msgid ""
+"Met deze eenvoudige stappen kun je snel en efficiënt een support ticket "
+"aanmaken bij CURQ, zodat je hulp kunt krijgen bij eventuele problemen of "
+"vragen."
+msgstr ""
+
+#~ msgid "Contents:"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Add your content using ``reStructuredText``"
+#~ " syntax. See the `reStructuredText "
+#~ "<https://www.sphinx-"
+#~ "doc.org/en/master/usage/restructuredtext/index.html>`_ "
+#~ "documentation for details."
+#~ msgstr ""

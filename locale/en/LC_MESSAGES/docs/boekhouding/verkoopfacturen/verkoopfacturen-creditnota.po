@@ -1,0 +1,156 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2025, Onestein
+# This file is distributed under the same license as the CURQ package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2025.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: CURQ \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-05-28 09:55+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: en\n"
+"Language-Team: en <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.17.0\n"
+
+#: ../../docs/boekhouding/verkoopfacturen/verkoopfacturen-creditnota.rst:2
+msgid "Verkoopfacturen - Creditnota"
+msgstr ""
+
+#: ../../docs/boekhouding/verkoopfacturen/verkoopfacturen-creditnota.rst:4
+msgid ""
+"Het opstellen van een creditnota speelt een cruciale rol in het "
+"financiële beheer van een bedrijf. Dit document draagt bij aan de "
+"financiële organisatie en heeft diverse nuttige toepassingen die "
+"bijdragen aan het beheer van de financiën. Laten we enkele van deze "
+"essentiële aspecten nader bekijken:"
+msgstr ""
+
+#: ../../docs/boekhouding/verkoopfacturen/verkoopfacturen-creditnota.rst:8
+msgid ""
+"**Fouten verbeteren:** Af en toe maken we vergissingen bij het opstellen "
+"van facturen. Het kan zijn dat we de onjuiste hoeveelheid noteren of een "
+"foutief bedrag vermelden. Een creditnota fungeert als een speciaal "
+"document waarmee we deze fouten kunnen corrigeren. Het waarborgt dat alle"
+" gegevens weer correct en nauwkeurig worden genoteerd."
+msgstr ""
+
+#: ../../docs/boekhouding/verkoopfacturen/verkoopfacturen-creditnota.rst:13
+msgid ""
+"**Retourzendingen of annuleren van bestellingen:** Af en toe wensen "
+"mensen een aankoop terug te sturen of hun bestelling te annuleren. In "
+"dergelijke gevallen is het belangrijk om ervoor te zorgen dat de "
+"financiële transactie ook wordt aangepast. Een creditnota fungeert als "
+"een soort factuur dat aangeeft dat ze een terugbetaling ontvangen of dat "
+"de betaling wordt gewijzigd."
+msgstr ""
+
+#: ../../docs/boekhouding/verkoopfacturen/verkoopfacturen-creditnota.rst:19
+msgid "Creditnota vanuit een verkoopfactuur"
+msgstr ""
+
+#: ../../docs/boekhouding/verkoopfacturen/verkoopfacturen-creditnota.rst:20
+msgid ""
+"Om een correctie aan te brengen op een bestaande factuur binnen CURQ, is "
+"het eenvoudig een creditnota te genereren vanuit de desbetreffende "
+"verkoopfactuur. Je kunt de bestaande verkoopfactuur openen via Facturatie"
+" > Klanten > Facturen. Bovenaan de factuur kun je met de knop [MAAK "
+"CREDITFACTUUR] snel de creditnota aanmaken."
+msgstr ""
+
+#: ../../docs/boekhouding/verkoopfacturen/verkoopfacturen-creditnota.rst:26
+msgid ""
+"Na het activeren van de knop, verschijnt er een pop-upvenster met "
+"aanvullende opties."
+msgstr ""
+
+#: ../../docs/boekhouding/verkoopfacturen/verkoopfacturen-creditnota.rst:30
+msgid "**Creditmethode:** Er zijn drie beschikbare keuzemogelijkheden."
+msgstr ""
+
+#: ../../docs/boekhouding/verkoopfacturen/verkoopfacturen-creditnota.rst:32
+msgid ""
+"Gedeeltelijk crediteren: Als er een correctie nodig is en je wilt alleen "
+"een creditfactuur verzenden, is dit de meest geschikte keuze. CURQ "
+"genereert een concept-creditfactuur met dezelfde informatie als de "
+"originele factuur. De bedragen op de creditnota zijn positief, en je past"
+" ze aan conform de afspraken met de klant."
+msgstr ""
+
+#: ../../docs/boekhouding/verkoopfacturen/verkoopfacturen-creditnota.rst:35
+msgid ""
+"Volledig crediteren: Kies deze optie als je de gehele factuur wilt "
+"annuleren. CURQ maakt een creditnota met alle gegevens van de "
+"verkoopfactuur. Deze creditnota wordt onmiddellijk geboekt en afgeletterd"
+" met de originele factuur, waardoor zowel de verkoopfactuur als de "
+"creditnota niet langer openstaan. Het enige wat nog dient te gebeuren, is"
+" het versturen van de creditnota naar de klant."
+msgstr ""
+
+#: ../../docs/boekhouding/verkoopfacturen/verkoopfacturen-creditnota.rst:39
+msgid ""
+"Volledig crediteren en nieuwe conceptfactuur: Gebruik deze optie als de "
+"originele factuur volledig incorrect was en de klant een nieuwe factuur "
+"verwacht. Op deze manier annuleer je de verkoopfactuur. Vervolgens "
+"genereert CURQ een nieuwe factuur op basis van de originele, die je naar "
+"wens kunt aanpassen en verzenden."
+msgstr ""
+
+#: ../../docs/boekhouding/verkoopfacturen/verkoopfacturen-creditnota.rst:43
+msgid ""
+"**Reden:** Hier kun je naar eigen inzicht de reden voor de creditnota "
+"opgeven. De reden wordt vastgelegd in de creditnota onder het tabblad "
+"[Overige info] bij de klantreferentie. Deze informatie wordt ook "
+"weergegeven op de afdruk van de factuur."
+msgstr ""
+
+#: ../../docs/boekhouding/verkoopfacturen/verkoopfacturen-creditnota.rst:45
+msgid ""
+"**Creditdatum:** Je kunt kiezen tussen \"Specifiek\" en "
+"\"Boekingsdatum\". Met \"Specifiek\" kun je een andere datum selecteren "
+"aan de rechterkant. Bij \"Boekingsdatum\" heb je geen keuze en stelt CURQ"
+" automatisch de datum van vandaag voor."
+msgstr ""
+
+#: ../../docs/boekhouding/verkoopfacturen/verkoopfacturen-creditnota.rst:47
+msgid ""
+"**Gebruik een specifiek dagboek:** Als je met je boekhouder een apart "
+"dagboek hebt aangemaakt voor creditnota's, kun je dat hier selecteren. In"
+" de meeste gevallen zal het echter niet nodig zijn om dit aan te passen."
+msgstr ""
+
+#: ../../docs/boekhouding/verkoopfacturen/verkoopfacturen-creditnota.rst:50
+msgid ""
+"Afhankelijk van de geselecteerde opties zal CURQ je automatisch "
+"doorverwijzen naar de creditnota of nieuwe factuur. Je hebt dan de "
+"mogelijkheid om de creditnota/verkoopfactuur te bevestigen en naar je "
+"klant te verzenden."
+msgstr ""
+
+#: ../../docs/boekhouding/verkoopfacturen/verkoopfacturen-creditnota.rst:54
+msgid "Aparte Creditnota"
+msgstr ""
+
+#: ../../docs/boekhouding/verkoopfacturen/verkoopfacturen-creditnota.rst:56
+msgid ""
+"Je hebt nog steeds de optie om een afzonderlijke creditnota te genereren."
+" Dit kan bijvoorbeeld van toepassing zijn op meerdere facturen of op "
+"specifieke afspraken tussen jou en de klant. Een aparte creditnota maak "
+"je aan via Facturatie > Klanten > Creditfacturen."
+msgstr ""
+
+#: ../../docs/boekhouding/verkoopfacturen/verkoopfacturen-creditnota.rst:60
+msgid ""
+"Het genereren van een creditnota verschilt niet van het opstellen van een"
+" verkoopfactuur. De procedure is vrijwel identiek. Om de correcte "
+"verwerking te waarborgen, dien je de bedragen positief in te voeren. "
+"Mocht je echter regels willen toevoegen met een negatief bedrag, zorg er "
+"dan in ieder geval voor dat het totaal van de gehele creditnota of "
+"verkoopfactuur nooit negatief wordt."
+msgstr ""

@@ -1,0 +1,125 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2025, Onestein
+# This file is distributed under the same license as the CURQ package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2025.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: CURQ \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-05-28 09:55+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: en\n"
+"Language-Team: en <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.17.0\n"
+
+#: ../../docs/dashboards/dashboards.rst:3
+msgid "Dashboards"
+msgstr ""
+
+#: ../../docs/dashboards/dashboards.rst:5
+msgid ""
+"In CURQ gebruiken we 'Dashboards' om allerlei info handig bij elkaar te "
+"brengen. Het idee is om belangrijke cijfers en data op een makkelijke "
+"manier te laten zien. Dat betekent dat we vaak key performance indicators"
+" (KPI's) en andere belangrijke bedrijfsinformatie op een overzichtelijke "
+"manier kunnen tonen."
+msgstr ""
+
+#: ../../docs/dashboards/dashboards.rst:9
+msgid ""
+"Het CURQ Dashboard maakt gebruik van een responsive **Bootstrap-"
+"Framework** en biedt functionaliteit voor het op maat maken van "
+"dashboards. Dashboards kent 3 verschillende opties:"
+msgstr ""
+
+#: ../../docs/dashboards/dashboards.rst:12
+msgid ""
+"**Standaard Dashboards**:  deze zijn aangemaakt vanuit Odoo en worden "
+"automatisch geüpdate. Er zijn filteropties aanwezig en bestaande "
+"spreadsheets kunnen worden aangepast."
+msgstr ""
+
+#: ../../docs/dashboards/dashboards.rst:14
+msgid ""
+"**Mijn Dashboard**:  elke user kan eigen dashboards maken die responsive "
+"zijn maar geen filter optie hebben."
+msgstr ""
+
+#: ../../docs/dashboards/dashboards.rst:15
+msgid ""
+"**Spreadsheets**: met Spreadsheets kun je eigen dashboards maken en "
+"toevoegen aan de standaard dashboards."
+msgstr ""
+
+#: ../../docs/dashboards/dashboards.rst:17
+msgid "We nemen de 3 opties met je door."
+msgstr ""
+
+#: ../../docs/dashboards/dashboards.rst:20
+msgid "Standaard Dashboards"
+msgstr ""
+
+#: ../../docs/dashboards/dashboards.rst:22
+msgid ""
+"Zoals zichtbaar in onderstaande schermafbeelding, omvat de module diverse"
+" soorten dashboards, waaronder **Verkoop, CRM, Financiën, Logistiek** en "
+"**Projecten**."
+msgstr ""
+
+#: ../../docs/dashboards/dashboards.rst:27
+msgid ""
+"Bovendien is het mogelijk om de dashboardgegevens te ordenen en te "
+"filteren op verschillende criteria zoals **Periodeduur, Land, Product, "
+"Klant, Categorie, Verkoopteam, Verkopers, Bron & Medium**. Je kunt de "
+"gewenste sorteermethode selecteren uit de vervolgkeuzelijst in het "
+"betreffende veld, zoals geïllustreerd in de onderstaande "
+"schermafbeelding."
+msgstr ""
+
+#: ../../docs/dashboards/dashboards.rst:34
+msgid ""
+"Gebruikers hebben de mogelijkheid om het gedetailleerde analyserapport te"
+" bekijken door te klikken op de specifieke gegevens in het dashboard. Als"
+" voorbeeld kunnen gebruikers een offerte aanklikken in \"Topoffertes\" in"
+" het verkoopdashboard. Hierdoor worden ze doorgestuurd naar de "
+"startpagina van het offertesrapport, zoals hieronder weergegeven."
+msgstr ""
+
+#: ../../docs/dashboards/dashboards.rst:44
+msgid "Mijn Dashboard"
+msgstr ""
+
+#: ../../docs/dashboards/dashboards.rst:46
+msgid ""
+"Een andere optie is om gebruik te maken van 'mijn dashboard' en diverse "
+"overzichten zelf samen te stellen. Hierbij een voorbeeld."
+msgstr ""
+
+#: ../../docs/dashboards/dashboards.rst:48
+msgid ""
+"Ieder overzicht die jezelf samenstelt kun je toevoegen aan je dashboard. "
+"Stel ik wil onderstaand staafdiagram toevoegen, dan klik je op "
+"*Favorieten - Aan mijn Dashboard toevoegen - Naam van je Dashboard* en "
+"klik op toevoegen."
+msgstr ""
+
+#: ../../docs/dashboards/dashboards.rst:53
+msgid ""
+"Je kunt overzichten toevoegen in lijstweergave, staafdiagram, lijndiagram"
+" en cirkeldiagram (+ gestapeld). Zodra je een overzicht hebt toegevoegd, "
+"klik je op Dashboard - mijn dashboard en ververs je de pagina. Dit is een"
+" voorbeeld hoe de pagina eruit komt te zien:"
+msgstr ""
+
+#: ../../docs/dashboards/dashboards.rst:58
+msgid ""
+"Met *Opmaak wijzigen* kun je de indeling van de pagina veranderen en "
+"d.m.v. het slepen, het dashboard veranderen."
+msgstr ""

@@ -1,0 +1,118 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2025, Onestein
+# This file is distributed under the same license as the CURQ package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2025.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: CURQ \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-05-28 09:55+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: en\n"
+"Language-Team: en <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.17.0\n"
+
+#: ../../docs/leden/leden-secties.rst:2
+msgid "Leden, secties en comités"
+msgstr ""
+
+#: ../../docs/leden/leden-secties.rst:5
+msgid "Secties"
+msgstr ""
+
+#: ../../docs/leden/leden-secties.rst:7
+msgid ""
+"Met behulp van secties kun je de interne samenwerking verbeteren en "
+"bijvoorbeeld eenvoudig interne informatie delen. Koppel een sectie aan "
+"een comité om beslissingen te nemen over de toekomst en de richting van "
+"de sectie. Om deze secties aan te maken, navigeer naar Leden > "
+"Configuratie > Secties en selecteer +Nieuw."
+msgstr ""
+
+#: ../../docs/leden/leden-secties.rst:13
+msgid "In het nieuwe sectieveld zijn vijf vakken aanwezig:"
+msgstr ""
+
+#: ../../docs/leden/leden-secties.rst:15
+msgid "De naam van de sectie."
+msgstr ""
+
+#: ../../docs/leden/leden-secties.rst:17
+msgid ""
+"De mailinglijst; vanuit deze lijst worden alle leden onder de sectie "
+"gemaild over nieuwe informatie. Om te leren hoe een mailinglijst wordt "
+"aangemaakt, kijk in onze documentatie."
+msgstr ""
+
+#: ../../docs/leden/leden-secties.rst:19
+msgid ""
+"Departement: Koppel de sectie een personeelszaken- of HR-afdeling. Dit "
+"veld is optioneel."
+msgstr ""
+
+#: ../../docs/leden/leden-secties.rst:20
+msgid ""
+"Comité: hier kan de sectie aan een comité worden gelinkt. Dit veld is "
+"optioneel."
+msgstr ""
+
+#: ../../docs/leden/leden-secties.rst:21
+msgid ""
+"Pagina: hier kan de webpagina worden geselecteerd waar de aanmeldpagina "
+"van de sectie wordt weergegeven. Wanneer je dit veld leeg laat dan zal "
+"een nieuwe webpagina worden aangemaakt."
+msgstr ""
+
+#: ../../docs/leden/leden-secties.rst:24
+msgid ""
+"Onder het tabblad Leden (Membership) staan alle leden die onder de sectie"
+" vallen. Via \"Regel toevoegen\" voeg je leden toe. Onder "
+"\"Websitebeschrijving\" kan de aanmeldpagina van de website worden "
+"aangemaakt."
+msgstr ""
+
+#: ../../docs/leden/leden-secties.rst:29
+msgid ""
+"Hier kan een icoon worden opgegeven; deze zal bij de sectiesselectie op "
+"de aanmeldpagina voor leden te zien zijn. Ook kan een afbeelding worden "
+"toegevoegd; deze zal te zien zijn op de sectiesselectiepagina. In het "
+"veld \"Websitekop\" kan de naam worden opgegeven die te zien zal zijn op "
+"de webpagina van de secties. In het veld \"Websitevoet\" kan een korte "
+"beschrijving worden gegeven. Om de sectieswebpagina te publiceren, klik "
+"op \"Ga naar website\"."
+msgstr ""
+
+#: ../../docs/leden/leden-secties.rst:37
+msgid "En klik op \"Gepubliceerd\"."
+msgstr ""
+
+#: ../../docs/leden/leden-secties.rst:40
+msgid "Comités"
+msgstr ""
+
+#: ../../docs/leden/leden-secties.rst:44
+msgid ""
+"In de ledenapp kunnen ook comités worden opgezet, en daar kunnen leden "
+"aan worden toegevoegd voor een betere samenwerking tussen de leden en een"
+" richting voor de sectie of organisatie."
+msgstr ""
+
+#: ../../docs/leden/leden-secties.rst:47
+msgid ""
+"Ga in de ledenapp naar Configuratie > Comités (committees). Hier kunnen "
+"nieuwe comités worden aangemaakt en bestaande comités worden aangepast."
+msgstr ""
+
+#: ../../docs/leden/leden-secties.rst:50
+msgid ""
+"Om een nieuw comité aan te maken, selecteer \"Nieuw\". Hier kan een naam "
+"aan het comité worden gegeven en kunnen leden aan het comité worden "
+"toegevoegd."
+msgstr ""

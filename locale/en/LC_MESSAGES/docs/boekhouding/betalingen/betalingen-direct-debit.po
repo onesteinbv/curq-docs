@@ -1,0 +1,204 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2025, Onestein
+# This file is distributed under the same license as the CURQ package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2025.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: CURQ \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-05-28 09:55+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: en\n"
+"Language-Team: en <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.17.0\n"
+
+#: ../../docs/boekhouding/betalingen/betalingen-direct-debit.rst:2
+msgid "Batch payments: SEPA Direct Debit (SDD)"
+msgstr ""
+
+#: ../../docs/boekhouding/betalingen/betalingen-direct-debit.rst:4
+msgid ""
+"SEPA, de Single Euro Payments Area, is een betalingsintegratie-initiatief"
+" van de Europese Unie voor vereenvoudiging van bankoverschrijvingen in "
+"euro's."
+msgstr ""
+
+#: ../../docs/boekhouding/betalingen/betalingen-direct-debit.rst:7
+msgid ""
+"Met SEPA Direct Debit (SDD) kunnen je klanten een mandaat ondertekenen "
+"dat jou machtigt om toekomstige betalingen van hun bankrekeningen te "
+"innen. Dit is vooral handig voor terugkerende betalingen op basis van een"
+" abonnement."
+msgstr ""
+
+#: ../../docs/boekhouding/betalingen/betalingen-direct-debit.rst:10
+msgid ""
+"Je kunt klantmandaten vastleggen in CURQ. Vervolgens kun je .xml-"
+"bestanden genereren op basis van te innen verkoopfacturen. Het XML "
+"bestand kun je vervolgens bij je bank uploaden."
+msgstr ""
+
+#: ../../docs/boekhouding/betalingen/betalingen-direct-debit.rst:14
+msgid "Mandaat instellingen"
+msgstr ""
+
+#: ../../docs/boekhouding/betalingen/betalingen-direct-debit.rst:16
+msgid ""
+"De functie SEPA-incasso kan worden geactiveerd via het menu Instellingen "
+"van de boekhoudmodule, zoals hieronder weergegeven. Voer na het activeren"
+" van deze functie de Creditor Identifier van je bedrijf in de daarvoor "
+"bestemde ruimte in."
+msgstr ""
+
+#: ../../docs/boekhouding/betalingen/betalingen-direct-debit.rst:24
+msgid "Aanmaken en bevestigen mandaat van een klant"
+msgstr ""
+
+#: ../../docs/boekhouding/betalingen/betalingen-direct-debit.rst:25
+msgid ""
+"Je kunt nu een nieuw incassomachtiging configureren vanuit het menu "
+"Facturatie > Klanten > Bank mandaten. Na ingeven van de klantgegevens kun"
+" je vervolgens een document afdrukken via de knop 'Print'. Dit document "
+"kan de klant vervolgens ondertekenen. Via de knop 'Upload' kun je het "
+"ondertekende formulier bij het record opslaan."
+msgstr ""
+
+#: ../../docs/boekhouding/betalingen/betalingen-direct-debit.rst:29
+msgid "Menu"
+msgstr ""
+
+#: ../../docs/boekhouding/betalingen/betalingen-direct-debit.rst:36
+msgid "Invullen machtiging"
+msgstr ""
+
+#: ../../docs/boekhouding/betalingen/betalingen-direct-debit.rst:37
+msgid "In het mandaat zelf vul je de volgende gegevens in:"
+msgstr ""
+
+#: ../../docs/boekhouding/betalingen/betalingen-direct-debit.rst:39
+msgid "Formaat. kies hier voor 'Sepa'."
+msgstr ""
+
+#: ../../docs/boekhouding/betalingen/betalingen-direct-debit.rst:40
+msgid ""
+"Soort. Hier geef je aan of het een eenmalig, terugkerend of generiek "
+"mandaat is. Bij een abonnement kies je voor 'terugkerend'."
+msgstr ""
+
+#: ../../docs/boekhouding/betalingen/betalingen-direct-debit.rst:41
+msgid ""
+"Bankrekening. Hier kies je het banknummer van de klant van het het "
+"mandaat."
+msgstr ""
+
+#: ../../docs/boekhouding/betalingen/betalingen-direct-debit.rst:42
+msgid ""
+"Schema. Kies voor Core, B2B is een variant voor zakelijke incasso. Bij de"
+" B2B variant kan de debiteur de incasso niet storneren. Niet alle banken "
+"ondersteunen B2B, Core wordt wel altijd ondersteund."
+msgstr ""
+
+#: ../../docs/boekhouding/betalingen/betalingen-direct-debit.rst:44
+msgid ""
+"Dit veld wordt alleen gebruikt voor herhalende machtigingen, niet voor "
+"eenmalige machtiging. De standaard waarde is 'eerste' om aan te geven dat"
+" de eerstvolgende incasso de eerste van een reeks is."
+msgstr ""
+
+#: ../../docs/boekhouding/betalingen/betalingen-direct-debit.rst:46
+msgid ""
+"Datum ondertekening. Voer hier de datum in van ondertekening van het "
+"mandaat door de klant."
+msgstr ""
+
+#: ../../docs/boekhouding/betalingen/betalingen-direct-debit.rst:49
+msgid "Printen van de machtiging:"
+msgstr ""
+
+#: ../../docs/boekhouding/betalingen/betalingen-direct-debit.rst:55
+msgid "Voorbeeld van de te ondertekenen machtiging"
+msgstr ""
+
+#: ../../docs/boekhouding/betalingen/betalingen-direct-debit.rst:61
+msgid "Uploaden document"
+msgstr ""
+
+#: ../../docs/boekhouding/betalingen/betalingen-direct-debit.rst:67
+msgid ""
+"Na opslaan en bevestigen van het mandaat ziet de definitieve machtiging "
+"er alsvolgt uit:"
+msgstr ""
+
+#: ../../docs/boekhouding/betalingen/betalingen-direct-debit.rst:73
+msgid ""
+"Zodra een factuur is gemaakt in CURQ voor een klant met een mandaat "
+"actief op de factuurdatum, zal de validatie ervan de automatische "
+"betaling activeren, en je hoeft dan alleen nog maar een SEPA Direct Debit"
+" (SDD) XML-bestand te genereren met deze bewerking en het naar je bank te"
+" sturen."
+msgstr ""
+
+#: ../../docs/boekhouding/betalingen/betalingen-direct-debit.rst:78
+msgid "Aanmaken verkoopfactuur"
+msgstr ""
+
+#: ../../docs/boekhouding/betalingen/betalingen-direct-debit.rst:79
+msgid ""
+"Zorg dat bij de klant als standaard incassowijze 'direct debit' staat. "
+"Wanneer je een verkoopfactuur voor de klant met machtiging"
+msgstr ""
+
+#: ../../docs/boekhouding/betalingen/betalingen-direct-debit.rst:80
+msgid ""
+"ingeeft, dan neemt CURQ de gegevens automatisch over naar de factuur. Je "
+"ziet dan ook de machtiging staan bij de verkoopfactuur."
+msgstr ""
+
+#: ../../docs/boekhouding/betalingen/betalingen-direct-debit.rst:87
+msgid "Aanmaken incasso batch"
+msgstr ""
+
+#: ../../docs/boekhouding/betalingen/betalingen-direct-debit.rst:88
+msgid ""
+"Vanuit menu Boekhouding-> klanten-> betaalopdracht maak je de "
+"incassobatch aan. Je kunt binnen via de optie 'Aanmaken van betaalregels "
+"van boekingen' regels toevoegen waarbij je kunt filteren op vervaldatum. "
+"Via de knop 'Toevoegen alle mutaties' en daarna 'Aanmaken "
+"transacties'voegt CURQ automatisch alle regels aan die in aanmerking "
+"komen voor incasso (zie onderstaande derde schermprint)."
+msgstr ""
+
+#: ../../docs/boekhouding/betalingen/betalingen-direct-debit.rst:105
+msgid ""
+"Na bevestigen van het betaalbestand verandert de status en zal een XML "
+"bestand worden aangemaakt. Dit bestand kun je downloaden in inlezen in je"
+" bankapplicatie. De status 'bestand geupload bij de bank' geef je aan "
+"zodra het bestand is ingelezen bij je bank. Dit is de controle of je "
+"daadwerkelijk alle stappen van het proces hebt uitgevoerd."
+msgstr ""
+
+#: ../../docs/boekhouding/betalingen/betalingen-direct-debit.rst:110
+msgid "Afletteren van incassobatch via bank"
+msgstr ""
+
+#: ../../docs/boekhouding/betalingen/betalingen-direct-debit.rst:112
+msgid ""
+"Wanneer de bedragen zijn geincasseerd en bijgeschreven op je "
+"bankrekening, dan kun je deze betaalregel vervolgens aflettteren en "
+"worden de betalingen op de facturen op de juiste manier afgeboekt."
+msgstr ""
+
+#: ../../docs/boekhouding/betalingen/betalingen-direct-debit.rst:116
+msgid "Beeindigen van een incasso mandaat"
+msgstr ""
+
+#: ../../docs/boekhouding/betalingen/betalingen-direct-debit.rst:118
+msgid "Je beeindigt een incassomandaat door op de knop annuleren te klikken"
+msgstr ""

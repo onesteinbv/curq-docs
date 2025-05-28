@@ -1,0 +1,1527 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2025, Onestein
+# This file is distributed under the same license as the CURQ package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2025.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: CURQ \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-05-28 09:55+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: en\n"
+"Language-Team: en <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.17.0\n"
+
+#: ../../docs/emailmarketing/externe-spam-filtering.rst:2
+msgid "Big Tech Spamfiltering"
+msgstr ""
+
+#: ../../docs/emailmarketing/externe-spam-filtering.rst:5
+msgid "1) Inleiding"
+msgstr ""
+
+#: ../../docs/emailmarketing/externe-spam-filtering.rst:7
+msgid ""
+"In de digitale wereld van vandaag zijn grote technologiebedrijven zoals "
+"**Google**, **Microsoft**, **Meta** en **Yahoo** de poortwachters "
+"geworden van online communicatie. Hun strikte spamregels, door AI "
+"aangestuurde filtersystemen en verborgen algoritmen maken het vrijwel "
+"onmogelijk voor kleine bedrijven om op gelijke voet te concurreren."
+msgstr ""
+
+#: ../../docs/emailmarketing/externe-spam-filtering.rst:11
+msgid ""
+"Hoewel deze bedrijven beweren dat hun maatregelen bedoeld zijn om "
+"gebruikers te beschermen tegen spam en kwaadaardige e-mails, is de "
+"realiteit dat hun overdreven agressieve filtertechnieken kleine bedrijven"
+" verstikken, hen beletten om klanten te bereiken, en uiteindelijk meer "
+"macht concentreren in de handen van Big Tech."
+msgstr ""
+
+#: ../../docs/emailmarketing/externe-spam-filtering.rst:15
+msgid ""
+"Daarom is het voor kleine bedrijven van essentieel belang om de "
+"onrealistische spamregels die door Big Tech worden opgelegd te begrijpen "
+"en effectieve manieren te vinden om daarmee om te gaan, zodat zij vlot en"
+" zonder onderbrekingen kunnen communiceren met hun doelgroep via e-mail."
+msgstr ""
+
+#: ../../docs/emailmarketing/externe-spam-filtering.rst:20
+msgid "2) Wat is Spam en een Spamfilter?"
+msgstr ""
+
+#: ../../docs/emailmarketing/externe-spam-filtering.rst:22
+msgid ""
+"Spam is ongewenste e-mail of bulkmail die wordt gebruikt voor reclame of "
+"oplichting. Het vervuilt inboxen en vormt een beveiligingsrisico. Deze "
+"e-mails worden vaak ingezet om producten of diensten te promoten, of om "
+"frauduleuze praktijken te verspreiden. Spam kan inboxen overvol maken, "
+"waardoor het voor gebruikers lastig wordt om belangrijke berichten terug "
+"te vinden."
+msgstr ""
+
+#: ../../docs/emailmarketing/externe-spam-filtering.rst:26
+msgid ""
+"Spamfilters zijn hulpmiddelen of software die zijn ontworpen om "
+"spamberichten te herkennen en te beheren. Ze maken gebruik van een "
+"combinatie van verborgen technieken, regels, kunstmatige intelligentie en"
+" authenticatiemethoden om inkomende e-mails te analyseren en te bepalen "
+"of ze in de inbox moeten worden afgeleverd of doorgestuurd naar de "
+"spammap."
+msgstr ""
+
+#: ../../docs/emailmarketing/externe-spam-filtering.rst:31
+msgid "3) Impact of Onbedoelde Gevolgen voor Kleine Bedrijven"
+msgstr ""
+
+#: ../../docs/emailmarketing/externe-spam-filtering.rst:33
+msgid ""
+"E-mail blijft een essentieel communicatie en marketingmiddel voor "
+"bedrijven. De toenemende controle van grote technologiebedrijven over "
+"e-mailfiltering en bezorging heeft echter onbedoelde obstakels gecreëerd "
+"voor kleinere ondernemingen."
+msgstr ""
+
+#: ../../docs/emailmarketing/externe-spam-filtering.rst:36
+msgid ""
+"Van legitieme e-mails die als spam worden gemarkeerd tot problemen met "
+"zwarte lijsten deze uitdagingen belemmeren het bereiken van klanten, "
+"verminderen de effectiviteit van marketinginspanningen en zorgen voor "
+"onnodige operationele lasten."
+msgstr ""
+
+#: ../../docs/emailmarketing/externe-spam-filtering.rst:41
+msgid "Hier volgt hoe deze verborgen mechanismen kleine bedrijven beïnvloeden:"
+msgstr ""
+
+#: ../../docs/emailmarketing/externe-spam-filtering.rst:43
+msgid "**Legitieme e-mails worden als spam gemarkeerd**"
+msgstr ""
+
+#: ../../docs/emailmarketing/externe-spam-filtering.rst:45
+msgid ""
+"Kleine bedrijven merken vaak dat hun transactie-e-mails, facturen en "
+"klantvragen in de spammap belanden, zelfs wanneer zij de best practices "
+"volgen. Dit vermindert de betrokkenheid en verstoort de bedrijfsvoering."
+msgstr ""
+
+#: ../../docs/emailmarketing/externe-spam-filtering.rst:48
+msgid "**De strijd om in beroep te gaan**"
+msgstr ""
+
+#: ../../docs/emailmarketing/externe-spam-filtering.rst:50
+msgid ""
+"Wanneer een e-maildomein wordt gemarkeerd, krijgen bedrijven te maken met"
+" lange, kostbare en ondoorzichtige beroepsprocedures bij Gmail, Outlook "
+"of Yahoo. Deze beroepen kunnen weken of zelfs maanden duren, wat zowel "
+"tijd als geld kost. De vertragingen verstoren cruciale communicatie, "
+"hebben invloed op de omzet en leggen een zware last op kleine bedrijven."
+msgstr ""
+
+#: ../../docs/emailmarketing/externe-spam-filtering.rst:54
+msgid "**Verminderde effectiviteit van reclame**"
+msgstr ""
+
+#: ../../docs/emailmarketing/externe-spam-filtering.rst:56
+msgid ""
+"Door strikte filtering hebben promotionele e-mails minder zichtbaarheid, "
+"wat leidt tot lagere openpercentages en conversies. Kleine bedrijven "
+"steken tijd in het opstellen van e-mails die uiteindelijk verdwijnen in "
+"de map \"Promoties\" of in de spammap, waardoor marketingbudgetten worden"
+" verspild."
+msgstr ""
+
+#: ../../docs/emailmarketing/externe-spam-filtering.rst:60
+msgid ""
+"E-mailmarketing is een belangrijk instrument voor kleine bedrijven, maar "
+"wanneer e-mails worden gefilterd of geblokkeerd, wordt het moeilijk om "
+"leads op te volgen, aanbiedingen te versturen of klanten effectief te "
+"betrekken. Dit dwingt bedrijven om in plaats daarvan te vertrouwen op "
+"dure advertentieplatforms."
+msgstr ""
+
+#: ../../docs/emailmarketing/externe-spam-filtering.rst:64
+msgid "**Problemen met zwarte lijsten**"
+msgstr ""
+
+#: ../../docs/emailmarketing/externe-spam-filtering.rst:66
+msgid ""
+"Als de e-mailserver van een klein bedrijf op een zwarte lijst komt te "
+"staan, is het bijna onmogelijk om het vertrouwen terug te winnen. In "
+"tegenstelling tot grote bedrijven beschikken zij niet over toegewijde "
+"compliance-teams die kunnen onderhandelen over plaatsing op witte "
+"lijsten, wat leidt tot langdurige problemen met e-mailbezorging."
+msgstr ""
+
+#: ../../docs/emailmarketing/externe-spam-filtering.rst:70
+msgid ""
+"De gevolgen van agressieve spamfilterbeleidsmaatregelen door grote "
+"technologiebedrijven kunnen rampzalig zijn voor kleine ondernemingen:"
+msgstr ""
+
+#: ../../docs/emailmarketing/externe-spam-filtering.rst:72
+msgid ""
+"**Omzetverlies** - Essentiële e-mails, waaronder promoties, facturen "
+"klantenserviceberichten, bereiken mogelijk nooit de bedoelde ontvanger."
+msgstr ""
+
+#: ../../docs/emailmarketing/externe-spam-filtering.rst:74
+msgid ""
+"**Stijgende marketingkosten** – Bedrijven worden mogelijk gedwongen te "
+"investeren in alternatieve marketingkanalen, zoals betaalde advertenties."
+msgstr ""
+
+#: ../../docs/emailmarketing/externe-spam-filtering.rst:76
+msgid ""
+"**Geschaad klantvertrouwen** – Klanten kunnen belangrijke updates missen "
+"of slechte service vermoeden door niet-afgeleverde e-mails."
+msgstr ""
+
+#: ../../docs/emailmarketing/externe-spam-filtering.rst:77
+msgid ""
+"**Marktdominantie door Big Tech** – Kleine spelers worden weggedrukt, "
+"terwijl grote merken bevoorrechte toegang tot inboxen genieten."
+msgstr ""
+
+#: ../../docs/emailmarketing/externe-spam-filtering.rst:78
+msgid ""
+"**Verlies van verkoop en klantvertrouwen** – Als e-mails de inbox niet "
+"bereiken of berichten op sociale media niet worden gezien, lopen "
+"bedrijven potentiële verkopen en betrokkenheid mis."
+msgstr ""
+
+#: ../../docs/emailmarketing/externe-spam-filtering.rst:80
+msgid ""
+"**Gebrek aan transparantie** – Grote technologiebedrijven geven zelden "
+"uitleg over waarom bepaalde berichten worden geblokkeerd of verborgen, "
+"waardoor kleine bedrijven machteloos staan."
+msgstr ""
+
+#: ../../docs/emailmarketing/externe-spam-filtering.rst:84
+msgid "4) Hoe Big Tech Kleine Bedrijven Onderdrukt?"
+msgstr ""
+
+#: ../../docs/emailmarketing/externe-spam-filtering.rst:86
+msgid ""
+"Grote technologiebedrijven hebben enorme controle over digitale "
+"communicatie en benadelen daarmee vaak kleine bedrijven door hun "
+"legitieme e-mails als spam te markeren. Deze praktijk of die nu "
+"opzettelijk is of het gevolg van te agressieve filteralgoritmes beperkt "
+"het bereik van kleine ondernemingen en heeft negatieve gevolgen voor "
+"klantbetrokkenheid, verkoop en algemene groei."
+msgstr ""
+
+#: ../../docs/emailmarketing/externe-spam-filtering.rst:90
+msgid ""
+"Terwijl grote bedrijven profiteren van gevestigde reputaties en "
+"whitelist-voordelen, hebben startups en onafhankelijke bedrijven moeite "
+"met e-mailbezorging. Ze worden hierdoor gedwongen om dure "
+"mainstreamdiensten te gebruiken, of lopen het risico geloofwaardigheid en"
+" inkomsten te verliezen."
+msgstr ""
+
+#: ../../docs/emailmarketing/externe-spam-filtering.rst:94
+msgid "**4.1. Oneerlijke Filtering en Verborgen Algoritmes**"
+msgstr ""
+
+#: ../../docs/emailmarketing/externe-spam-filtering.rst:96
+msgid ""
+"De AI-systemen van Big Tech filteren e-mails zonder transparantie, "
+"waardoor kleine bedrijven geen mogelijkheid hebben om onterecht als spam "
+"gemarkeerde berichten aan te vechten."
+msgstr ""
+
+#: ../../docs/emailmarketing/externe-spam-filtering.rst:98
+msgid ""
+"Hun ondoorzichtige systemen geven voorrang aan e-mails van grote "
+"ondernemingen, terwijl promoties van kleine bedrijven als spam worden "
+"gemarkeerd."
+msgstr ""
+
+#: ../../docs/emailmarketing/externe-spam-filtering.rst:101
+msgid "**4.2. Reputatievooroordeel en Gecentraliseerde Controle**"
+msgstr ""
+
+#: ../../docs/emailmarketing/externe-spam-filtering.rst:103
+msgid ""
+"Gedeelde IP-adressen, waar kleine bedrijven vaak op vertrouwen, worden "
+"collectief bestraft wanneer één partij misbruik maakt."
+msgstr ""
+
+#: ../../docs/emailmarketing/externe-spam-filtering.rst:104
+msgid ""
+"Big Tech beheert de afzenderreputatie en verleent prioritaire "
+"whitelisting aan grote bedrijven, waardoor kleine ondernemingen vast "
+"blijven zitten in spamfilters."
+msgstr ""
+
+#: ../../docs/emailmarketing/externe-spam-filtering.rst:107
+msgid "**4.3. Manipulatie door AI en Machine Learning**"
+msgstr ""
+
+#: ../../docs/emailmarketing/externe-spam-filtering.rst:109
+msgid ""
+"Voortdurend veranderende spamfilters maken het voor kleine bedrijven "
+"moeilijk om zich aan te passen."
+msgstr ""
+
+#: ../../docs/emailmarketing/externe-spam-filtering.rst:110
+msgid ""
+"AI geeft prioriteit aan afzenders met grote verzendvolumes, waardoor "
+"kleinere bedrijven verder naar beneden worden geduwd in de "
+"e-mailhiërarchie."
+msgstr ""
+
+#: ../../docs/emailmarketing/externe-spam-filtering.rst:113
+msgid "**4.4. Kostbaar en Onduidelijk Beroepsproces**"
+msgstr ""
+
+#: ../../docs/emailmarketing/externe-spam-filtering.rst:115
+msgid ""
+"Wanneer een e-mail van een klein bedrijf onterecht wordt gemarkeerd, is "
+"het beroepsproces lang, onduidelijk en ineffectief."
+msgstr ""
+
+#: ../../docs/emailmarketing/externe-spam-filtering.rst:116
+msgid ""
+"Big Tech biedt premium e-maildiensten aan met betere bezorgbaarheid, wat "
+"kleine bedrijven in feite dwingt te betalen voor iets dat grote "
+"ondernemingen standaard krijgen."
+msgstr ""
+
+#: ../../docs/emailmarketing/externe-spam-filtering.rst:119
+msgid ""
+"**4.5. Engagement-gebaseerde Filtering: Een Drempel voor het Succes van "
+"Kleine Bedrijven via E-mail**"
+msgstr ""
+
+#: ../../docs/emailmarketing/externe-spam-filtering.rst:121
+msgid ""
+"Door AI aangestuurde filtering geeft de voorkeur aan bedrijven met al een"
+" hoge betrokkenheid, wat het extra moeilijk maakt voor nieuwe bedrijven "
+"om geloofwaardigheid op te bouwen."
+msgstr ""
+
+#: ../../docs/emailmarketing/externe-spam-filtering.rst:123
+msgid ""
+"Nieuwe bedrijven hebben moeite om hun doelgroep te bereiken, omdat lage "
+"openpercentages automatisch leiden tot filtering."
+msgstr ""
+
+#: ../../docs/emailmarketing/externe-spam-filtering.rst:126
+msgid "5) Hoe Spamfiltering Werkt?"
+msgstr ""
+
+#: ../../docs/emailmarketing/externe-spam-filtering.rst:134
+msgid "Component"
+msgstr ""
+
+#: ../../docs/emailmarketing/externe-spam-filtering.rst:135
+msgid "Rol"
+msgstr ""
+
+#: ../../docs/emailmarketing/externe-spam-filtering.rst:136
+msgid "E-mailafzender (daan@curq.nl)"
+msgstr ""
+
+#: ../../docs/emailmarketing/externe-spam-filtering.rst:137
+msgid "De persoon of het systeem dat de e-mail verzendt."
+msgstr ""
+
+#: ../../docs/emailmarketing/externe-spam-filtering.rst:138
+msgid "Authenticatiedaemon"
+msgstr ""
+
+#: ../../docs/emailmarketing/externe-spam-filtering.rst:139
+msgid ""
+"Verifieert de identiteit van de afzender via "
+"e-mailauthenticatieprotocollen (SPF, DKIM, DMARC)."
+msgstr ""
+
+#: ../../docs/emailmarketing/externe-spam-filtering.rst:140
+msgid "Afzender SMTP-service"
+msgstr ""
+
+#: ../../docs/emailmarketing/externe-spam-filtering.rst:141
+msgid ""
+"De uitgaande mailserver die de e-mail naar de server van de ontvanger "
+"stuurt."
+msgstr ""
+
+#: ../../docs/emailmarketing/externe-spam-filtering.rst:142
+msgid "Ontvanger SMTP-service (IMAP/POP3)"
+msgstr ""
+
+#: ../../docs/emailmarketing/externe-spam-filtering.rst:143
+msgid "De inkomende mailserver die binnenkomende e-mails verwerkt en opslaat."
+msgstr ""
+
+#: ../../docs/emailmarketing/externe-spam-filtering.rst:144
+msgid "IP-blacklistcontrole"
+msgstr ""
+
+#: ../../docs/emailmarketing/externe-spam-filtering.rst:145
+msgid ""
+"Controleert of het IP-adres van de afzender op een zwarte lijst staat. Zo"
+" ja,dan wordt de e-mail geweigerd."
+msgstr ""
+
+#: ../../docs/emailmarketing/externe-spam-filtering.rst:146
+msgid "Spamfiltering"
+msgstr ""
+
+#: ../../docs/emailmarketing/externe-spam-filtering.rst:147
+msgid ""
+"Analyseert e-mailinhoud, afzenderreputatie en gebruikersgedrag om te "
+"bepalen of een e-mail spam is."
+msgstr ""
+
+#: ../../docs/emailmarketing/externe-spam-filtering.rst:148
+msgid "Inboxbezorging"
+msgstr ""
+
+#: ../../docs/emailmarketing/externe-spam-filtering.rst:149
+msgid ""
+"Als de e-mail de spamfilters doorstaat, wordt deze afgeleverd in de inbox"
+" van de ontvanger."
+msgstr ""
+
+#: ../../docs/emailmarketing/externe-spam-filtering.rst:150
+msgid "Spammapbezorging"
+msgstr ""
+
+#: ../../docs/emailmarketing/externe-spam-filtering.rst:151
+msgid ""
+"Als de e-mail als spam wordt gemarkeerd, wordt deze in de spammap "
+"geplaatst."
+msgstr ""
+
+#: ../../docs/emailmarketing/externe-spam-filtering.rst:152
+msgid "Afgewezen e-mail"
+msgstr ""
+
+#: ../../docs/emailmarketing/externe-spam-filtering.rst:153
+msgid ""
+"Als het IP-adres van de afzender op een zwarte lijst staat, wordt de "
+"e-mail geweigerd en nooit afgeleverd."
+msgstr ""
+
+#: ../../docs/emailmarketing/externe-spam-filtering.rst:154
+msgid "E-mailontvanger (john@outlook.com)"
+msgstr ""
+
+#: ../../docs/emailmarketing/externe-spam-filtering.rst:155
+msgid ""
+"De persoon of het systeem dat de e-mail ontvangt en de inbox of spammap "
+"kan controleren."
+msgstr ""
+
+#: ../../docs/emailmarketing/externe-spam-filtering.rst:157
+msgid "**5.1 Verzendproces van de E-mail**"
+msgstr ""
+
+#: ../../docs/emailmarketing/externe-spam-filtering.rst:159
+msgid "De afzender (bijv. daan@curq.nl) verstuurt een e-mail."
+msgstr ""
+
+#: ../../docs/emailmarketing/externe-spam-filtering.rst:160
+msgid "De authenticatiedaemon controleert de beveiligingsprotocollen."
+msgstr ""
+
+#: ../../docs/emailmarketing/externe-spam-filtering.rst:161
+msgid ""
+"De SMTP-service van de afzender stuurt de e-mail door naar de server van "
+"de ontvanger."
+msgstr ""
+
+#: ../../docs/emailmarketing/externe-spam-filtering.rst:163
+msgid "**5.2 Ontvangst van E-mail en Spamcontrole**"
+msgstr ""
+
+#: ../../docs/emailmarketing/externe-spam-filtering.rst:165
+msgid ""
+"De SMTP-service van de ontvanger (IMAP/POP3) verwerkt de binnenkomende "
+"e-mails."
+msgstr ""
+
+#: ../../docs/emailmarketing/externe-spam-filtering.rst:166
+msgid ""
+"Het systeem controleert of het IP-adres van de afzender op een zwarte "
+"lijst staat:"
+msgstr ""
+
+#: ../../docs/emailmarketing/externe-spam-filtering.rst:167
+msgid "**Op zwarte lijst**: De e-mail wordt geweigerd."
+msgstr ""
+
+#: ../../docs/emailmarketing/externe-spam-filtering.rst:168
+msgid "**Niet op zwarte lijst**: De e-mail gaat door naar de spamfilter."
+msgstr ""
+
+#: ../../docs/emailmarketing/externe-spam-filtering.rst:170
+msgid "**5.3 Spamfiltering en Bezorging**"
+msgstr ""
+
+#: ../../docs/emailmarketing/externe-spam-filtering.rst:172
+msgid ""
+"Het spamfilter controleert de inhoud, de reputatie van de afzender en de "
+"gebruikersbetrokkenheid."
+msgstr ""
+
+#: ../../docs/emailmarketing/externe-spam-filtering.rst:173
+msgid "Op basis van de resultaten wordt de e-mail:"
+msgstr ""
+
+#: ../../docs/emailmarketing/externe-spam-filtering.rst:175
+msgid "Inbox: Als de e-mail legitiem is."
+msgstr ""
+
+#: ../../docs/emailmarketing/externe-spam-filtering.rst:176
+msgid "Spammap: Als de e-mail niet legitiem is, wordt deze als spam gemarkeerd."
+msgstr ""
+
+#: ../../docs/emailmarketing/externe-spam-filtering.rst:178
+msgid "**5.4 Ontvangst van de E-mail**"
+msgstr ""
+
+#: ../../docs/emailmarketing/externe-spam-filtering.rst:180
+msgid "De ontvanger (bijv. john@outlook.com) controleert de inbox of de spammap."
+msgstr ""
+
+#: ../../docs/emailmarketing/externe-spam-filtering.rst:181
+msgid ""
+"Als de e-mail in de spammap staat, verbetert het markeren als \"Geen "
+"spam\" de toekomstige bezorging."
+msgstr ""
+
+#: ../../docs/emailmarketing/externe-spam-filtering.rst:184
+msgid "6) De Controle van Big Tech over Spam"
+msgstr ""
+
+#: ../../docs/emailmarketing/externe-spam-filtering.rst:186
+msgid ""
+"Om te begrijpen waarom e-mails die vanaf platforms van kleine bedrijven "
+"worden verzonden als spam worden gemarkeerd, is het essentieel om inzicht"
+" te hebben in het “onbetrouwbare” spambeleid van Big Tech-bedrijven zoals"
+" Google en Microsoft."
+msgstr ""
+
+#: ../../docs/emailmarketing/externe-spam-filtering.rst:189
+msgid ""
+"Grote technologiebedrijven domineren e-mailcommunicatie door het "
+"handhaven van strikte spamregels die kleine bedrijven vaak benadelen. "
+"E-mails die worden verzonden via derde partijen of minder bekende "
+"providers zoals CURQ, worden vaak geblokkeerd of als spam gemarkeerd, wat"
+" hun bereik naar klanten aanzienlijk beperkt."
+msgstr ""
+
+#: ../../docs/emailmarketing/externe-spam-filtering.rst:193
+msgid ""
+"Inzicht in hoe deze spamfilters werken is cruciaal om de e-mailbezorging "
+"te verbeteren en de door Big Tech opgelegde barrières te doorbreken."
+msgstr ""
+
+#: ../../docs/emailmarketing/externe-spam-filtering.rst:196
+msgid "**6.1. Spambeleid**"
+msgstr ""
+
+#: ../../docs/emailmarketing/externe-spam-filtering.rst:198
+msgid "**6.1.1. Verborgen Beperkingen voor Kleine Bedrijven**"
+msgstr ""
+
+#: ../../docs/emailmarketing/externe-spam-filtering.rst:200
+msgid ""
+"Big Tech blokkeert e-mails die niet voldoen aan strikte "
+"beveiligingsnormen, wat de contactmogelijkheden van kleine bedrijven "
+"belemmert."
+msgstr ""
+
+#: ../../docs/emailmarketing/externe-spam-filtering.rst:203
+msgid "Geen versleuteling: E-mails zonder TLS worden als onveilig gemarkeerd."
+msgstr ""
+
+#: ../../docs/emailmarketing/externe-spam-filtering.rst:204
+msgid ""
+"Spamverleden: Als een provider eerder is misbruikt, kunnen al zijn "
+"e-mails worden geblokkeerd."
+msgstr ""
+
+#: ../../docs/emailmarketing/externe-spam-filtering.rst:206
+msgid "**6.1.2. Strikte Authenticatiebarrières**"
+msgstr ""
+
+#: ../../docs/emailmarketing/externe-spam-filtering.rst:208
+msgid ""
+"Complexe authenticatieregels leiden vaak tot automatische markering van "
+"e-mails van kleine bedrijven als spam."
+msgstr ""
+
+#: ../../docs/emailmarketing/externe-spam-filtering.rst:210
+msgid ""
+"SPF: Bevestigt de legitimiteit van de afzender; bij falen daalt de "
+"geloofwaardigheid."
+msgstr ""
+
+#: ../../docs/emailmarketing/externe-spam-filtering.rst:211
+msgid "DKIM: Voegt een digitale handtekening toe om manipulatie te voorkomen."
+msgstr ""
+
+#: ../../docs/emailmarketing/externe-spam-filtering.rst:212
+msgid ""
+"DMARC: Bepaalt hoe e-mails met mislukte SPF- en DKIM-controles worden "
+"behandeld. Zonder deze protocollen worden e-mails geblokkeerd, wat "
+"klantcontact bemoeilijkt."
+msgstr ""
+
+#: ../../docs/emailmarketing/externe-spam-filtering.rst:215
+msgid "**6.1.3. Gekleurde Spamfilters Bevoordelen Big Tech**"
+msgstr ""
+
+#: ../../docs/emailmarketing/externe-spam-filtering.rst:217
+msgid ""
+"Big Tech scant e-mails agressief en blokkeert daarbij vaak legitieme "
+"berichten van kleine bedrijven."
+msgstr ""
+
+#: ../../docs/emailmarketing/externe-spam-filtering.rst:219
+msgid ""
+"Spamtriggers: Te veel links, misleidende onderwerpregels, grote bijlagen "
+"of woorden als \"gratis\" of \"klik hier\" activeren de spamfilters."
+msgstr ""
+
+#: ../../docs/emailmarketing/externe-spam-filtering.rst:221
+msgid ""
+"Geen personalisatie: Generieke e-mails worden vaak als spam gemarkeerd. "
+"Grote bedrijven met een gevestigde reputatie daarentegen genieten van "
+"betere plaatsing in de inbox."
+msgstr ""
+
+#: ../../docs/emailmarketing/externe-spam-filtering.rst:224
+msgid "**6.1.4. Oneerlijk Afzenderreputatiesysteem**"
+msgstr ""
+
+#: ../../docs/emailmarketing/externe-spam-filtering.rst:226
+msgid ""
+"Big Tech houdt de e-mailreputatie bij en straft daarbij vaak kleine "
+"bedrijven."
+msgstr ""
+
+#: ../../docs/emailmarketing/externe-spam-filtering.rst:228
+msgid ""
+"Slechte reputatie: Hoge bouncepercentages of spamklachten leiden tot "
+"blokkering."
+msgstr ""
+
+#: ../../docs/emailmarketing/externe-spam-filtering.rst:229
+msgid ""
+"Problemen met zwarte lijsten: Te veel klachten kunnen leiden tot "
+"blokkering van een volledig e-maildomein."
+msgstr ""
+
+#: ../../docs/emailmarketing/externe-spam-filtering.rst:231
+msgid "**6.1.5. Strikte Naleving Bevoordeelt Big Tech**"
+msgstr ""
+
+#: ../../docs/emailmarketing/externe-spam-filtering.rst:233
+msgid ""
+"Big Tech handhaaft strikte e-mailwetten (zoals CAN-SPAM, GDPR, CASL), "
+"waardoor e-mailmarketing voor kleine bedrijven moeilijker wordt."
+msgstr ""
+
+#: ../../docs/emailmarketing/externe-spam-filtering.rst:235
+msgid ""
+"Privacyregels: E-mails van providers zonder strikte gegevensbeleid kunnen"
+" worden geweigerd."
+msgstr ""
+
+#: ../../docs/emailmarketing/externe-spam-filtering.rst:236
+msgid ""
+"Afmeldmogelijkheid: Ontbrekende opt-out-links leiden tot markering als "
+"spam."
+msgstr ""
+
+#: ../../docs/emailmarketing/externe-spam-filtering.rst:238
+msgid "**6.2. Spamfilters**"
+msgstr ""
+
+#: ../../docs/emailmarketing/externe-spam-filtering.rst:240
+msgid "**6.2.1 Zwarte lijsten en witte lijsten**:"
+msgstr ""
+
+#: ../../docs/emailmarketing/externe-spam-filtering.rst:242
+msgid ""
+"Zwarte lijsten: Lijsten van bekende spamverzenders wiens e-mails "
+"automatisch worden geblokkeerd."
+msgstr ""
+
+#: ../../docs/emailmarketing/externe-spam-filtering.rst:243
+msgid ""
+"Whitelists: Lijsten van vertrouwde afzenders wiens e-mails strenge "
+"filtering omzeilen."
+msgstr ""
+
+#: ../../docs/emailmarketing/externe-spam-filtering.rst:245
+msgid ""
+"**6.2.2 Strikte authenticatie**: Verifieert de legitimiteit van de "
+"afzender met behulp van e-mailauthenticatieprotocollen zoals SPF, DKIM en"
+" DMARC."
+msgstr ""
+
+#: ../../docs/emailmarketing/externe-spam-filtering.rst:248
+msgid ""
+"**6.2.3 AI-gestuurde inhoudsfiltering**: Gebruikt verborgen algoritmen om"
+" e-mails te scannen op spamgerelateerde trefwoorden, zinnen of patronen, "
+"waarbij vaak legitieme berichten worden gemarkeerd."
+msgstr ""
+
+#: ../../docs/emailmarketing/externe-spam-filtering.rst:251
+msgid ""
+"**6.2.4 IP- en domeinreputatie**: Beoordeelt het IP-adres en de "
+"domeingeschiedenis van de afzender op eerdere spamactiviteiten."
+msgstr ""
+
+#: ../../docs/emailmarketing/externe-spam-filtering.rst:253
+msgid ""
+"6.2.5 Gebruikersbetrokkenheidsmonitoring: Analyseert hoe ontvangers met "
+"e-mails omgaan om te bepalen of toekomstige e-mails van dezelfde afzender"
+" in de inbox, de spammap of volledig geblokkeerd moeten worden geplaatst."
+msgstr ""
+
+#: ../../docs/emailmarketing/externe-spam-filtering.rst:256
+msgid ""
+"**6.3. Veelvoorkomende redenen waarom kleine e-mailserviceprovider (ESP) "
+"als spam worden gemarkeerd**"
+msgstr ""
+
+#: ../../docs/emailmarketing/externe-spam-filtering.rst:258
+msgid ""
+"Kleine bedrijven hebben vaak te maken met bezorgproblemen als gevolg van "
+"verschillende factoren, waaronder:"
+msgstr ""
+
+#: ../../docs/emailmarketing/externe-spam-filtering.rst:260
+msgid ""
+"**Gedeelde IP-reputatie** – Veel kleine bedrijven maken gebruik van "
+"externe e-maildiensten die werken met gedeelde IP-adressen. Als andere "
+"gebruikers van hetzelfde IP spam versturen, lijdt de reputatie van alle "
+"afzenders op dat IP daaronder."
+msgstr ""
+
+#: ../../docs/emailmarketing/externe-spam-filtering.rst:262
+msgid ""
+"**Gebrek aan juiste authenticatie** – Ontbrekende of verkeerd "
+"geconfigureerde SPF, DKIM en DMARC-records kunnen ertoe leiden dat "
+"e-mails worden geweigerd of als spam worden gemarkeerd."
+msgstr ""
+
+#: ../../docs/emailmarketing/externe-spam-filtering.rst:264
+msgid ""
+"**Lage betrokkenheidspercentages** – E-mails die ontvangers vaak negeren,"
+" ongeopend verwijderen of als spam markeren, dragen bij aan een negatieve"
+" afzenderreputatie."
+msgstr ""
+
+#: ../../docs/emailmarketing/externe-spam-filtering.rst:266
+msgid ""
+"**Gebruik van triggerwoorden** – Bepaalde zinnen zoals “Gratis "
+"Aanbieding”, “Handel Nu” of “Gegarandeerd” kunnen spamfilters activeren."
+msgstr ""
+
+#: ../../docs/emailmarketing/externe-spam-filtering.rst:269
+msgid ""
+"7) Hoe kleine bedrijven zich kunnen weren om de e-mailbezorging te "
+"verbeteren?"
+msgstr ""
+
+#: ../../docs/emailmarketing/externe-spam-filtering.rst:271
+msgid ""
+"Om de e-mailbezorging te verbeteren en te voorkomen dat berichten als "
+"spam worden gemarkeerd, moeten kleine bedrijven de volgende strategieën "
+"toepassen:"
+msgstr ""
+
+#: ../../docs/emailmarketing/externe-spam-filtering.rst:276
+msgid ""
+"**Gebruik een statisch IP-adres** – Vermijd gedeelde IP’s om meer "
+"controle te behouden over de afzenderreputatie."
+msgstr ""
+
+#: ../../docs/emailmarketing/externe-spam-filtering.rst:277
+msgid ""
+"**Warm e-mailverzending geleidelijk op** – Begin met kleinere "
+"e-mailbatches om vertrouwen op te bouwen bij e-mailproviders"
+msgstr ""
+
+#: ../../docs/emailmarketing/externe-spam-filtering.rst:278
+msgid ""
+"**Stimuleer klantinteractie** – Moedig ontvangers aan om te antwoorden, "
+"e-mails als belangrijk te markeren of de afzender toe te voegen aan hun "
+"contacten."
+msgstr ""
+
+#: ../../docs/emailmarketing/externe-spam-filtering.rst:280
+msgid ""
+"**Vermijd spamtriggers** – Stel e-mailinhoud zorgvuldig op om "
+"veelvoorkomende spamwoorden te vermijden."
+msgstr ""
+
+#: ../../docs/emailmarketing/externe-spam-filtering.rst:281
+msgid ""
+"**Volg de beste e-mailpraktijken** – Gebruik geverifieerde "
+"e-maildomeinen, vermijd spamachtige woorden en bied een eenvoudige manier"
+" om af te melden."
+msgstr ""
+
+#: ../../docs/emailmarketing/externe-spam-filtering.rst:283
+msgid ""
+"**Optimaliseer SEO op de juiste manier** – Vermijd overmatig gebruik van "
+"zoekwoorden, dubbele inhoud en verdachte backlinks."
+msgstr ""
+
+#: ../../docs/emailmarketing/externe-spam-filtering.rst:284
+msgid ""
+"**Monitor je online reputatie** – Controleer regelmatig op zwarte lijsten"
+" en behandel klachten van klanten snel."
+msgstr ""
+
+#: ../../docs/emailmarketing/externe-spam-filtering.rst:287
+msgid "8) Waarom kiezen voor een kleine, onafhankelijke ESP?"
+msgstr ""
+
+#: ../../docs/emailmarketing/externe-spam-filtering.rst:289
+msgid ""
+"In de wereld van e-mailmarketing kan het kiezen van de juiste "
+"e-mailserviceprovider (ESP) het verschil maken in hoe effectief je "
+"klanten bereikt. Grote namen zoals Google, Microsoft en andere "
+"toonaangevende aanbieders domineren de markt, maar hanteren strikte en "
+"ondoorzichtige filterbeleid die e-mails van kleine bedrijven vaak "
+"onterecht als spam markeren."
+msgstr ""
+
+#: ../../docs/emailmarketing/externe-spam-filtering.rst:294
+msgid ""
+"Daarentegen biedt het kiezen van een kleinere, onafhankelijke ESP die "
+"prioriteit geeft aan bezorgbaarheid en eerlijkheid verschillende "
+"belangrijke voordelen, zoals:"
+msgstr ""
+
+#: ../../docs/emailmarketing/externe-spam-filtering.rst:297
+msgid "**8.1. Betere bezorgbaarheid**"
+msgstr ""
+
+#: ../../docs/emailmarketing/externe-spam-filtering.rst:299
+msgid ""
+"Richt je op het garanderen dat e-mails de inbox bereiken in plaats van te"
+" verdwijnen in de spammap."
+msgstr ""
+
+#: ../../docs/emailmarketing/externe-spam-filtering.rst:300
+msgid ""
+"Bied gepersonaliseerd reputatiebeheer aan om bedrijven te helpen een hoge"
+" e-mailcredibiliteit te behouden."
+msgstr ""
+
+#: ../../docs/emailmarketing/externe-spam-filtering.rst:301
+msgid ""
+"Vermijd al te strikte filteralgoritmen die grote bedrijven bevoordelen "
+"boven kleinere ondernemingen."
+msgstr ""
+
+#: ../../docs/emailmarketing/externe-spam-filtering.rst:303
+msgid "**8.2. Meer controle en transparantie**"
+msgstr ""
+
+#: ../../docs/emailmarketing/externe-spam-filtering.rst:305
+msgid ""
+"Duidelijke richtlijnen en ondersteuning om je te helpen de "
+"e-mailprestaties te optimaliseren."
+msgstr ""
+
+#: ../../docs/emailmarketing/externe-spam-filtering.rst:306
+msgid ""
+"Rechtstreekse communicatie met afleveringsdeskundigen in plaats van "
+"geautomatiseerde ondersteuningsreacties."
+msgstr ""
+
+#: ../../docs/emailmarketing/externe-spam-filtering.rst:307
+msgid ""
+"Aanpasbare filteropties, zodat je e-mails niet onterecht worden "
+"geblokkeerd."
+msgstr ""
+
+#: ../../docs/emailmarketing/externe-spam-filtering.rst:309
+msgid "**8.3. Geen oneerlijke reputatiegebaseerde filtering**"
+msgstr ""
+
+#: ../../docs/emailmarketing/externe-spam-filtering.rst:311
+msgid ""
+"Grote techbedrijven bestraffen vaak afzenders met een laag e-mailvolume "
+"of nieuwe domeinen, omdat ze aannemen dat deze onbetrouwbaar zijn. "
+"Kleinere e-mail serviceproviders beoordelen e-mails op basis van "
+"daadwerkelijke kwaliteit en betrokkenheid, niet alleen op historische "
+"reputatie."
+msgstr ""
+
+#: ../../docs/emailmarketing/externe-spam-filtering.rst:315
+msgid "**8.4. Geen pay-to-play-tactieken**"
+msgstr ""
+
+#: ../../docs/emailmarketing/externe-spam-filtering.rst:317
+msgid ""
+"Veel grote e-mailserviceproviders (ESPs) dwingen bedrijven in pay-to-"
+"play-modellen, waarbij alleen degenen die betalen voor premiumdiensten of"
+" advertenties voorrang krijgen in de inbox. Kleine ESPs bieden:"
+msgstr ""
+
+#: ../../docs/emailmarketing/externe-spam-filtering.rst:320
+msgid ""
+"Gelijke toegang voor bedrijven van alle groottes, zonder verplichte dure "
+"upgrades."
+msgstr ""
+
+#: ../../docs/emailmarketing/externe-spam-filtering.rst:321
+msgid ""
+"Geen verborgen bevoordeling van grote bedrijven, wat zorgt voor een "
+"gelijk speelveld."
+msgstr ""
+
+#: ../../docs/emailmarketing/externe-spam-filtering.rst:322
+msgid ""
+"Een toewijding aan eerlijke bezorging in plaats van het voortrekken van "
+"adverteerders."
+msgstr ""
+
+#: ../../docs/emailmarketing/externe-spam-filtering.rst:324
+msgid "**8.5. Gepersonaliseerde klantenservice en toegewijde ondersteuning**"
+msgstr ""
+
+#: ../../docs/emailmarketing/externe-spam-filtering.rst:326
+msgid ""
+"In tegenstelling tot grote ESPs die vertrouwen op algemene, "
+"geautomatiseerde reacties, bieden onafhankelijke providers vaak:"
+msgstr ""
+
+#: ../../docs/emailmarketing/externe-spam-filtering.rst:328
+msgid "Toegewijde ondersteuningsteams die afleverproblemen snel helpen oplossen."
+msgstr ""
+
+#: ../../docs/emailmarketing/externe-spam-filtering.rst:329
+msgid ""
+"Persoonlijke begeleiding bij het verbeteren van e-mailcampagnes en het "
+"vermijden van spamtriggers."
+msgstr ""
+
+#: ../../docs/emailmarketing/externe-spam-filtering.rst:330
+msgid ""
+"Flexibele oplossingen die zijn afgestemd op de specifieke behoeften van "
+"jouw bedrijf."
+msgstr ""
+
+#: ../../docs/emailmarketing/externe-spam-filtering.rst:332
+msgid "**8.6. Meer flexibiliteit en schaalbaarheid voor groeiende bedrijven**"
+msgstr ""
+
+#: ../../docs/emailmarketing/externe-spam-filtering.rst:334
+msgid ""
+"In tegenstelling tot starre, corporate ESPs bieden onafhankelijke "
+"providers schaalbare, flexibele prijsmodellen en op maat gemaakte "
+"e-mailoplossingen die meegroeien met de behoeften van jouw bedrijf."
+msgstr ""
+
+#: ../../docs/emailmarketing/externe-spam-filtering.rst:338
+msgid "9) FOSS-oplossingen"
+msgstr ""
+
+#: ../../docs/emailmarketing/externe-spam-filtering.rst:340
+msgid ""
+"Voor kleine bedrijven die klanten willen bereiken zonder vast te lopen in"
+" de spamfilters van grote techbedrijven, zijn er verschillende Free and "
+"Open Source Software (FOSS)-oplossingen die kunnen helpen bij het "
+"verbeteren van de afleverbaarheid, het verhogen van de betrokkenheid en "
+"het omzeilen van spamfilters."
+msgstr ""
+
+#: ../../docs/emailmarketing/externe-spam-filtering.rst:344
+msgid "Hier zijn enkele strategieën en tools die nuttig kunnen zijn:"
+msgstr ""
+
+#: ../../docs/emailmarketing/externe-spam-filtering.rst:346
+msgid "**9.1. Zelfgehoste e-mailservers met geavanceerde configuratie**"
+msgstr ""
+
+#: ../../docs/emailmarketing/externe-spam-filtering.rst:348
+msgid ""
+"Door je eigen e-mailserver te hosten, heb je volledige controle over de "
+"configuratie. Dit stelt je in staat om externe spamfilters – zoals die "
+"van Gmail, Outlook en andere te omzeilen."
+msgstr ""
+
+#: ../../docs/emailmarketing/externe-spam-filtering.rst:355
+#: ../../docs/emailmarketing/externe-spam-filtering.rst:383
+#: ../../docs/emailmarketing/externe-spam-filtering.rst:407
+#: ../../docs/emailmarketing/externe-spam-filtering.rst:430
+#: ../../docs/emailmarketing/externe-spam-filtering.rst:465
+msgid "Hulpmiddel"
+msgstr ""
+
+#: ../../docs/emailmarketing/externe-spam-filtering.rst:356
+#: ../../docs/emailmarketing/externe-spam-filtering.rst:384
+#: ../../docs/emailmarketing/externe-spam-filtering.rst:408
+#: ../../docs/emailmarketing/externe-spam-filtering.rst:431
+msgid "Beschrijving"
+msgstr ""
+
+#: ../../docs/emailmarketing/externe-spam-filtering.rst:357
+msgid "Postfix"
+msgstr ""
+
+#: ../../docs/emailmarketing/externe-spam-filtering.rst:358
+msgid ""
+"Een betrouwbare open-source mail transfer agent (MTA) die kan worden "
+"geconfigureerd voor het beheren van uitgaande e-mail. Postfix ondersteunt"
+" integratie met spamfilteringtools en helpt bij het waarborgen van een "
+"goede afleverbaarheid."
+msgstr ""
+
+#: ../../docs/emailmarketing/externe-spam-filtering.rst:360
+msgid "Dovecot"
+msgstr ""
+
+#: ../../docs/emailmarketing/externe-spam-filtering.rst:361
+msgid "Voor het veilig en efficiënt ontvangen van e-mail."
+msgstr ""
+
+#: ../../docs/emailmarketing/externe-spam-filtering.rst:362
+#: ../../docs/emailmarketing/externe-spam-filtering.rst:474
+msgid "Rspamd"
+msgstr ""
+
+#: ../../docs/emailmarketing/externe-spam-filtering.rst:363
+msgid ""
+"Wanneer je je eigen e-mailserver beheert, is het essentieel om "
+"spamfiltering in te stellen. Rspamd biedt hoogwaardige filtering en is "
+"flexibeler dan het vertrouwen op de spamfilters van grote techbedrijven."
+msgstr ""
+
+#: ../../docs/emailmarketing/externe-spam-filtering.rst:365
+msgid "Let's Encrypt"
+msgstr ""
+
+#: ../../docs/emailmarketing/externe-spam-filtering.rst:366
+msgid ""
+"Zorg voor veilige verbindingen tussen de mailserver en gebruikers met SSL"
+"/TLS-versleuteling. Dit is steeds belangrijker voor het opbouwen van "
+"vertrouwen bij spamfilters."
+msgstr ""
+
+#: ../../docs/emailmarketing/externe-spam-filtering.rst:369
+msgid "**9.2. Instellen van DMARC, DKIM en SPF**"
+msgstr ""
+
+#: ../../docs/emailmarketing/externe-spam-filtering.rst:371
+msgid ""
+"Om de afleverbaarheid van e-mails te verbeteren en ervoor te zorgen dat "
+"je e-mails niet als spam worden gemarkeerd, is het essentieel om "
+"**DMARC** (Domain-based Message Authentication, Reporting & Conformance),"
+" **DKIM** (DomainKeys Identified Mail) en **SPF** (Sender Policy "
+"Framework) correct te configureren."
+msgstr ""
+
+#: ../../docs/emailmarketing/externe-spam-filtering.rst:375
+msgid ""
+"Deze protocollen verifiëren je e-maildomein en geven een signaal aan "
+"ontvangende mailservers dat je e-mails legitiem zijn. De meeste grote "
+"e-mailproviders (zoals Gmail en Outlook) gebruiken deze instellingen om "
+"spam effectief te filteren."
+msgstr ""
+
+#: ../../docs/emailmarketing/externe-spam-filtering.rst:386
+msgid "OpenDKIM (voor DKIM)"
+msgstr ""
+
+#: ../../docs/emailmarketing/externe-spam-filtering.rst:387
+msgid "Helpt bij het configureren van domeinondertekening voor uitgaande e-mails."
+msgstr ""
+
+#: ../../docs/emailmarketing/externe-spam-filtering.rst:389
+msgid "opendmarc (voor DMARC)"
+msgstr ""
+
+#: ../../docs/emailmarketing/externe-spam-filtering.rst:390
+msgid "Helpt bij het implementeren en beheren van DMARC-beleid voor je domein."
+msgstr ""
+
+#: ../../docs/emailmarketing/externe-spam-filtering.rst:392
+msgid "SPF (Afzenderbeleid Kader)"
+msgstr ""
+
+#: ../../docs/emailmarketing/externe-spam-filtering.rst:393
+#: ../../docs/emailmarketing/externe-spam-filtering.rst:417
+msgid ""
+"Zorg ervoor dat je SPF-record correct is ingesteld om de IP-adressen van "
+"je uitgaande mailserver te verifiëren."
+msgstr ""
+
+#: ../../docs/emailmarketing/externe-spam-filtering.rst:396
+msgid "**9.3. Gebruik van mailinglijstsoftware**"
+msgstr ""
+
+#: ../../docs/emailmarketing/externe-spam-filtering.rst:398
+msgid ""
+"Het gebruik van een zelf-gehoste of open-source e-mailmarketing- en "
+"mailinglijsttool zorgt ervoor dat je bedrijf klanten rechtstreeks kan "
+"bereiken, zonder afhankelijk te zijn van de marketingplatforms van grote "
+"techbedrijven, die mogelijk strikte regels of spamfilters hanteren."
+msgstr ""
+
+#: ../../docs/emailmarketing/externe-spam-filtering.rst:410
+msgid "Mailtrain"
+msgstr ""
+
+#: ../../docs/emailmarketing/externe-spam-filtering.rst:411
+msgid ""
+"Helpt je bij het configureren van domeinondertekening voor uitgaande "
+"e-mail."
+msgstr ""
+
+#: ../../docs/emailmarketing/externe-spam-filtering.rst:413
+msgid "Mautic"
+msgstr ""
+
+#: ../../docs/emailmarketing/externe-spam-filtering.rst:414
+msgid "Helpt je bij het implementeren en beheren van DMARC-beleid voor je domein."
+msgstr ""
+
+#: ../../docs/emailmarketing/externe-spam-filtering.rst:416
+msgid "phpList"
+msgstr ""
+
+#: ../../docs/emailmarketing/externe-spam-filtering.rst:419
+msgid "**9.4. SMTP-relayservices (open-source of betaalbaar)**"
+msgstr ""
+
+#: ../../docs/emailmarketing/externe-spam-filtering.rst:421
+msgid ""
+"Als je je eigen e-mailinfrastructuur niet wilt beheren, kun je "
+"gebruikmaken van externe SMTP-relayservices om de afleverbaarheid van "
+"e-mails te verbeteren. Deze diensten hebben over het algemeen een betere "
+"reputatie voor het verzende van e-mails en helpen spamfilters te omzeilen"
+" door strikte standaarden aan te houden."
+msgstr ""
+
+#: ../../docs/emailmarketing/externe-spam-filtering.rst:433
+msgid "Postal"
+msgstr ""
+
+#: ../../docs/emailmarketing/externe-spam-filtering.rst:434
+msgid ""
+"Een open-source platform voor e-mailverzending waarmee je e-mails kunt "
+"versturen met geavanceerde configuratie en tracking."
+msgstr ""
+
+#: ../../docs/emailmarketing/externe-spam-filtering.rst:437
+msgid "Sendmail (open-source)"
+msgstr ""
+
+#: ../../docs/emailmarketing/externe-spam-filtering.rst:438
+msgid ""
+"Een MTA (Mail Transfer Agent) die wordt gebruikt voor het "
+"verzenden,ontvangen en routeren van e-mail. Wordt vaak gebruikt in "
+"combinatie met andere tools zoals Postfix."
+msgstr ""
+
+#: ../../docs/emailmarketing/externe-spam-filtering.rst:441
+msgid "Mailgun (gratis versie)"
+msgstr ""
+
+#: ../../docs/emailmarketing/externe-spam-filtering.rst:442
+msgid ""
+"Hoewel Mailgun niet volledig open-source is, biedt het een open API en "
+"een gratis versie die kleine bedrijven kan helpen bij het versturen van "
+"transactionele e-mails volgens de beste e-mailpraktijken."
+msgstr ""
+
+#: ../../docs/emailmarketing/externe-spam-filtering.rst:445
+msgid ""
+"**9.5. Moedig gebruikers aan om je e-mailadres op de witte lijst te "
+"zetten**"
+msgstr ""
+
+#: ../../docs/emailmarketing/externe-spam-filtering.rst:447
+msgid ""
+"Moedig je klanten aan om je e-mailadres of domein op de witte lijst te "
+"zetten, zodat je e-mails niet in hun spammap terechtkomen. Dit is vooral "
+"belangrijk voor bedrijven met een loyale klantenbasis, die rechtstreeks "
+"invloed kunnen hebben op het succes van e-mailcampagnes."
+msgstr ""
+
+#: ../../docs/emailmarketing/externe-spam-filtering.rst:451
+msgid ""
+"**Bevestigingsmail bij inschrijving**: Nadat een gebruiker zich heeft "
+"ingeschreven voor je nieuwsbrief of dienst, stuur je een e-mail met het "
+"verzoek: “Bevestig je inschrijving”, inclusief instructies om je "
+"e-mailadres te whitelisten."
+msgstr ""
+
+#: ../../docs/emailmarketing/externe-spam-filtering.rst:453
+msgid ""
+"**Herinnering om toe te voegen aan adresboek**: Voeg in je eerste e-mail "
+"of nieuwsbrief een herinnering toe waarin je gebruikers vraagt om je "
+"e-mailadres aan hun adresboek toe te voegen, om te voorkomen dat het als "
+"spam wordt gemarkeerd."
+msgstr ""
+
+#: ../../docs/emailmarketing/externe-spam-filtering.rst:456
+msgid ""
+"Er zijn verschillende gratis en open-source (FOSS) oplossingen "
+"beschikbaar voor het filteren van spam. Deze tools kunnen bedrijven of "
+"individuen helpen om spam effectief te beheren, zonder afhankelijk te "
+"zijn van propriëtaire diensten. Hieronder vind je enkele populaire FOSS-"
+"tools die je kunt overwegen voor het filteren van e-mail spam:"
+msgstr ""
+
+#: ../../docs/emailmarketing/externe-spam-filtering.rst:466
+msgid "Belangrijkste kenmerken"
+msgstr ""
+
+#: ../../docs/emailmarketing/externe-spam-filtering.rst:468
+msgid "SpamAssassin"
+msgstr ""
+
+#: ../../docs/emailmarketing/externe-spam-filtering.rst:469
+msgid "Aanpasbare regelsets."
+msgstr ""
+
+#: ../../docs/emailmarketing/externe-spam-filtering.rst:470
+msgid "Ondersteunt diverse plug-ins voor extra filtermogelijkheden."
+msgstr ""
+
+#: ../../docs/emailmarketing/externe-spam-filtering.rst:471
+msgid ""
+"Kan worden geïntegreerd met andere e-mailsystemen (zoals Postfix, "
+"Sendmail, Exim)."
+msgstr ""
+
+#: ../../docs/emailmarketing/externe-spam-filtering.rst:472
+msgid "Actieve gemeenschap en regelmatige updates."
+msgstr ""
+
+#: ../../docs/emailmarketing/externe-spam-filtering.rst:475
+msgid "Hoge prestaties en ontworpen om grote hoeveelheden e-mail te verwerken."
+msgstr ""
+
+#: ../../docs/emailmarketing/externe-spam-filtering.rst:476
+msgid "Ingebouwde ondersteuning voor DKIM, DMARC, SPF en greylisting."
+msgstr ""
+
+#: ../../docs/emailmarketing/externe-spam-filtering.rst:477
+msgid "Machine learning voor verbeterde spamdetectie."
+msgstr ""
+
+#: ../../docs/emailmarketing/externe-spam-filtering.rst:478
+msgid "Webgebaseerde gebruikersinterface voor configuratie."
+msgstr ""
+
+#: ../../docs/emailmarketing/externe-spam-filtering.rst:479
+msgid ""
+"Integratie met populaire MTA-systemen (Mail Transfer Agent) zoals "
+"Postfix, Exim en Sendmail."
+msgstr ""
+
+#: ../../docs/emailmarketing/externe-spam-filtering.rst:481
+msgid "Amavisd-new"
+msgstr ""
+
+#: ../../docs/emailmarketing/externe-spam-filtering.rst:482
+msgid ""
+"Integreert met externe spamfiltersystemen zoals SpamAssassin, Razor en "
+"Pyzor."
+msgstr ""
+
+#: ../../docs/emailmarketing/externe-spam-filtering.rst:483
+msgid "Ondersteunt virusscanning met populaire tools zoals ClamAV."
+msgstr ""
+
+#: ../../docs/emailmarketing/externe-spam-filtering.rst:484
+msgid ""
+"Biedt flexibele beleidsinstellingen en eenvoudige integratie met "
+"mailservers."
+msgstr ""
+
+#: ../../docs/emailmarketing/externe-spam-filtering.rst:486
+msgid "MailScanner"
+msgstr ""
+
+#: ../../docs/emailmarketing/externe-spam-filtering.rst:487
+msgid "Integratie met SpamAssassin en ClamAV voor spam- en virusfiltering."
+msgstr ""
+
+#: ../../docs/emailmarketing/externe-spam-filtering.rst:488
+msgid "Biedt een webinterface voor beheer."
+msgstr ""
+
+#: ../../docs/emailmarketing/externe-spam-filtering.rst:489
+msgid ""
+"Zeer configureerbaar, met veel opties voor het verfijnen van het "
+"filterproces."
+msgstr ""
+
+#: ../../docs/emailmarketing/externe-spam-filtering.rst:490
+msgid "Ondersteunt zowel inkomende als uitgaande e-mailfiltering."
+msgstr ""
+
+#: ../../docs/emailmarketing/externe-spam-filtering.rst:492
+msgid "Procmail"
+msgstr ""
+
+#: ../../docs/emailmarketing/externe-spam-filtering.rst:493
+msgid "Regelgebaseerde e-mailfiltering."
+msgstr ""
+
+#: ../../docs/emailmarketing/externe-spam-filtering.rst:494
+msgid "Ondersteunt integratie met andere tools voor spamdetectie."
+msgstr ""
+
+#: ../../docs/emailmarketing/externe-spam-filtering.rst:495
+msgid "Kan worden gebruikt voor het beheren van e-mailbezorging en sortering."
+msgstr ""
+
+#: ../../docs/emailmarketing/externe-spam-filtering.rst:497
+msgid "Bogofilter"
+msgstr ""
+
+#: ../../docs/emailmarketing/externe-spam-filtering.rst:498
+msgid "Bayesiaanse filtering voor hoge nauwkeurigheid."
+msgstr ""
+
+#: ../../docs/emailmarketing/externe-spam-filtering.rst:499
+msgid "Lichtgewicht en efficiënt met een laag geheugengebruik."
+msgstr ""
+
+#: ../../docs/emailmarketing/externe-spam-filtering.rst:500
+msgid "Eenvoudige configuratie en integratie met andere tools zoals Procmail."
+msgstr ""
+
+#: ../../docs/emailmarketing/externe-spam-filtering.rst:502
+msgid "Zerospam"
+msgstr ""
+
+#: ../../docs/emailmarketing/externe-spam-filtering.rst:503
+msgid "Biedt verschillende filtermechanismen (DNSBL, greylisting en Bayesiaans)."
+msgstr ""
+
+#: ../../docs/emailmarketing/externe-spam-filtering.rst:504
+msgid "Werkt met populaire MTA’s zoals Postfix, Sendmail en Exim."
+msgstr ""
+
+#: ../../docs/emailmarketing/externe-spam-filtering.rst:505
+msgid "Biedt webgebaseerd beheer."
+msgstr ""
+
+#: ../../docs/emailmarketing/externe-spam-filtering.rst:507
+msgid "DSpam"
+msgstr ""
+
+#: ../../docs/emailmarketing/externe-spam-filtering.rst:508
+msgid "Adaptieve filtering op basis van machine learning."
+msgstr ""
+
+#: ../../docs/emailmarketing/externe-spam-filtering.rst:509
+msgid "Hoge nauwkeurigheid bij het filteren van spamberichten."
+msgstr ""
+
+#: ../../docs/emailmarketing/externe-spam-filtering.rst:510
+msgid "Lichtgewicht en laag in hulpbronnenverbruik."
+msgstr ""
+
+#: ../../docs/emailmarketing/externe-spam-filtering.rst:512
+msgid "Filterbay"
+msgstr ""
+
+#: ../../docs/emailmarketing/externe-spam-filtering.rst:513
+msgid "Bayesiaanse filtering voor spamclassificatie."
+msgstr ""
+
+#: ../../docs/emailmarketing/externe-spam-filtering.rst:514
+msgid "Webinterface voor het beheren van training."
+msgstr ""
+
+#: ../../docs/emailmarketing/externe-spam-filtering.rst:515
+msgid "Kan worden geïntegreerd met bestaande e-mailsystemen."
+msgstr ""
+
+#: ../../docs/emailmarketing/externe-spam-filtering.rst:517
+msgid "ClamAV"
+msgstr ""
+
+#: ../../docs/emailmarketing/externe-spam-filtering.rst:518
+msgid "Gratis, open-source antivirussoftware."
+msgstr ""
+
+#: ../../docs/emailmarketing/externe-spam-filtering.rst:519
+msgid ""
+"Integratie met e-mailsystemen om inkomende en uitgaande berichten op "
+"malware te scannen."
+msgstr ""
+
+#: ../../docs/emailmarketing/externe-spam-filtering.rst:520
+msgid "Regelmatige handtekeningupdates om up-to-date te blijven met bedreigingen."
+msgstr ""
+
+#: ../../docs/emailmarketing/externe-spam-filtering.rst:523
+msgid "10) Essentiële Hervormingen voor een Eerlijk E-mail Ecosysteem"
+msgstr ""
+
+#: ../../docs/emailmarketing/externe-spam-filtering.rst:525
+msgid ""
+"Om een eerlijker, transparanter en gedecentraliseerd e-mailecosysteem te "
+"creëren, moeten overheden, Big Tech en het publiek samenwerken om de "
+"huidige ongelijkheden aan te pakken."
+msgstr ""
+
+#: ../../docs/emailmarketing/externe-spam-filtering.rst:530
+msgid "**Belangrijke hervormingen omvatten**:"
+msgstr ""
+
+#: ../../docs/emailmarketing/externe-spam-filtering.rst:532
+msgid "**10.1. Voor overheden**:"
+msgstr ""
+
+#: ../../docs/emailmarketing/externe-spam-filtering.rst:534
+msgid ""
+"**Regulerend Toezicht**: Voer strengere regels in die e-mailproviders "
+"(ESP's) verplichten om spamfilteralgoritmes openbaar te maken en eerlijke"
+" e-mail bezorging te waarborgen."
+msgstr ""
+
+#: ../../docs/emailmarketing/externe-spam-filtering.rst:536
+msgid ""
+"**Transparantievereisten**: Vereis duidelijke opt-in/opt-out mechanismen "
+"voor filterbeleidsmaatregelen, zodat gebruikers controle hebben over hun "
+"inboxen."
+msgstr ""
+
+#: ../../docs/emailmarketing/externe-spam-filtering.rst:538
+msgid ""
+"**Verantwoordelijkheidskaders**: Stel onafhankelijke commissies in om "
+"mailbeleid te auditen en naleving van eerlijke praktijken te waarborgen."
+msgstr ""
+
+#: ../../docs/emailmarketing/externe-spam-filtering.rst:541
+msgid "**10.2. Voor Big Tech**:"
+msgstr ""
+
+#: ../../docs/emailmarketing/externe-spam-filtering.rst:543
+msgid ""
+"Meer Transparantie: Leg duidelijk uit waarom e-mails als spam worden "
+"gemarkeerd en bied bruikbare feedback aan afzenders."
+msgstr ""
+
+#: ../../docs/emailmarketing/externe-spam-filtering.rst:544
+msgid ""
+"Gebalanceerde Filtering: Beoordeel e-mails op basis van authenticiteit en"
+" nut, niet op de grootte van de afzender, zodat kleine bedrijven eerlijk "
+"worden behandeld."
+msgstr ""
+
+#: ../../docs/emailmarketing/externe-spam-filtering.rst:546
+msgid ""
+"Eenvoudigere Beroepsprocedures: Creëer snellere en eenvoudigere processen"
+" voor het oplossen van onterechte spammarkeringen."
+msgstr ""
+
+#: ../../docs/emailmarketing/externe-spam-filtering.rst:547
+msgid ""
+"Ondersteun Lage-Volume Afzenders: Stop met het bestraffen van infrequente"
+" afzenders en focus op e-mailkwaliteit boven kwantiteit."
+msgstr ""
+
+#: ../../docs/emailmarketing/externe-spam-filtering.rst:548
+msgid ""
+"Verminder Onterechte Spamlabels: Verbeter de filternauwkeurigheid om te "
+"voorkomen dat legitieme e-mails verkeerd worden geclassificeerd."
+msgstr ""
+
+#: ../../docs/emailmarketing/externe-spam-filtering.rst:550
+msgid "**10.3. Voor het publiek**:"
+msgstr ""
+
+#: ../../docs/emailmarketing/externe-spam-filtering.rst:552
+msgid ""
+"**Verhoog Bewustzijn**: Onderwijs anderen over de spambeleidsmaatregelen "
+"van Big Tech en de impact ervan."
+msgstr ""
+
+#: ../../docs/emailmarketing/externe-spam-filtering.rst:553
+msgid ""
+"**Gebruik Alternatieven**: Stap over naar transparante, "
+"gebruiksvriendelijke e-mail platforms."
+msgstr ""
+
+#: ../../docs/emailmarketing/externe-spam-filtering.rst:554
+msgid ""
+"**Eis Transparantie**: Zet ESP's onder druk om spamclassificatiemethoden "
+"openbaar te maken en vooroordelen te vermijden."
+msgstr ""
+
+#: ../../docs/emailmarketing/externe-spam-filtering.rst:555
+msgid ""
+"**Meld Problemen**: Markeer onterecht filteren en eis herziening van "
+"onterechte spammarkeringen."
+msgstr ""
+
+#: ../../docs/emailmarketing/externe-spam-filtering.rst:556
+msgid ""
+"**Betrek Wetgevers**: Pleit voor strengere regelgeving tegen "
+"monopolistische praktijken."
+msgstr ""
+
+#: ../../docs/emailmarketing/externe-spam-filtering.rst:557
+msgid ""
+"**Steun Ethische Tech**: Investeer in open-source, verborgen "
+"privacygerichte e-mailoplossingen."
+msgstr ""
+
+#: ../../docs/emailmarketing/externe-spam-filtering.rst:559
+msgid ""
+"Door overheidsactie, bedrijfsverantwoordelijkheid en publieke "
+"belangenbehartiging te combineren, kunnen we een eerlijk, transparant en "
+"rechtvaardig e-mail ecosysteem voor iedereen opbouwen."
+msgstr ""
+
+#: ../../docs/emailmarketing/externe-spam-filtering.rst:563
+msgid "11) Conclusie"
+msgstr ""
+
+#: ../../docs/emailmarketing/externe-spam-filtering.rst:565
+msgid "**Laat Big Tech niet de communicatie controleren, steun decentralisatie!**"
+msgstr ""
+
+#: ../../docs/emailmarketing/externe-spam-filtering.rst:567
+msgid ""
+"Hun e-mailfilterprocessen, verborgen algoritmes en reputatiegebaseerde "
+"vooroordelen hebben een pay-to-play omgeving gecreëerd die grote "
+"bedrijven bevoordeelt en kleine bedrijven beperkt in hun "
+"e-mailcommunicatie. Het is tijd om de dominantie van Big Tech uit te "
+"dagen en een eerlijk, transparant e-mailfilterproces te eisen waarmee "
+"alle bedrijven, groot of klein, hun publiek kunnen bereiken zonder "
+"censuur of pay-to-play tactieken."
+msgstr ""
+
+#: ../../docs/emailmarketing/externe-spam-filtering.rst:572
+msgid ""
+"Kleine ESP's bieden eerlijkheid, transparantie en betere bezorging. Door "
+"te kiezen voor een kleine, onafhankelijke ESP kunnen bedrijven onterechte"
+" blokkades, inbox-onderdrukking en monetisatie ten koste van hen "
+"vermijden. In plaats daarvan profiteren ze van eerlijke behandeling, "
+"betere e-mailbezorging, persoonlijke ondersteuning en volledige controle "
+"over hun communicatie, zonder beperkt te worden door de regels van Big "
+"Tech."
+msgstr ""

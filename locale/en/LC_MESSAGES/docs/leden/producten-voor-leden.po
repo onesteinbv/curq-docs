@@ -1,0 +1,150 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2025, Onestein
+# This file is distributed under the same license as the CURQ package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2025.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: CURQ \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-05-28 09:55+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: en\n"
+"Language-Team: en <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.17.0\n"
+
+#: ../../docs/leden/producten-voor-leden.rst:2
+msgid "Producten voor leden"
+msgstr ""
+
+#: ../../docs/leden/producten-voor-leden.rst:4
+msgid "Navigeer naar Leden > Configuratie > Producten voor leden."
+msgstr ""
+
+#: ../../docs/leden/producten-voor-leden.rst:8
+msgid "Klik op Nieuw en vul de details in:"
+msgstr ""
+
+#: ../../docs/leden/producten-voor-leden.rst:11
+msgid "**Productnaam:** De naam van het lidmaatschap."
+msgstr ""
+
+#: ../../docs/leden/producten-voor-leden.rst:12
+msgid ""
+"**Interne referentie:** Een referentiecode voor het zoeken en groeperen "
+"van het lidmaatschapsproduct."
+msgstr ""
+
+#: ../../docs/leden/producten-voor-leden.rst:13
+msgid ""
+"**Lidmaatschapsduur:** Hier selecteert u de datum vanaf wanneer en tot "
+"wanneer het lidmaatschap actief is."
+msgstr ""
+
+#: ../../docs/leden/producten-voor-leden.rst:14
+msgid "**Lidmaatschapskosten:** De prijs van het product."
+msgstr ""
+
+#: ../../docs/leden/producten-voor-leden.rst:15
+msgid "**Productcategorie:** Selecteer de relevante categorie."
+msgstr ""
+
+#: ../../docs/leden/producten-voor-leden.rst:16
+msgid ""
+"**Actief:** Wanneer deze optie op non-actief wordt gezet, is het product "
+"niet selecteerbaar maar nog wel opgeslagen."
+msgstr ""
+
+#: ../../docs/leden/producten-voor-leden.rst:17
+msgid ""
+"**Zichtbaar op lidmaatschapsregistratiepagina:** Wanneer deze optie is "
+"aangevinkt, kan het lidmaatschap geselecteerd worden op de "
+"registratiepagina van de website."
+msgstr ""
+
+#: ../../docs/leden/producten-voor-leden.rst:19
+msgid ""
+"**Zichtbaar op huidige website:** Met deze optie kan het "
+"lidmaatschapsproduct op de gekoppelde website worden verkocht."
+msgstr ""
+
+#: ../../docs/leden/producten-voor-leden.rst:20
+msgid ""
+"**Omschrijving:** De omschrijving van het ledenproduct voor interne "
+"communicatie."
+msgstr ""
+
+#: ../../docs/leden/producten-voor-leden.rst:21
+msgid ""
+"**Omschrijving verkoop:** De omschrijving die de klant op de factuur kan "
+"zien."
+msgstr ""
+
+#: ../../docs/leden/producten-voor-leden.rst:22
+msgid ""
+"**Omzetrekening:** De rekening waar de verkoop aan wordt gekoppeld; "
+"wanneer deze leeg gelaten wordt, is dit de standaard rekening."
+msgstr ""
+
+#: ../../docs/leden/producten-voor-leden.rst:23
+msgid ""
+"**Btw:** De standaard btw die wordt gebruikt bij het verkopen van het "
+"lidmaatschap."
+msgstr ""
+
+#: ../../docs/leden/producten-voor-leden.rst:24
+msgid ""
+"**Is een abonnementsproduct:** Maak het product een abonnement met een "
+"maandelijkse betaling via Mollie."
+msgstr ""
+
+#: ../../docs/leden/producten-voor-leden.rst:27
+msgid "Een gratis lid Product"
+msgstr ""
+
+#: ../../docs/leden/producten-voor-leden.rst:28
+msgid "Voor een gratis product moet de lidmaatschapskosten op 0,- worden gezet."
+msgstr ""
+
+#: ../../docs/leden/producten-voor-leden.rst:33
+msgid "Betaald lid Product: eenmalige betaling"
+msgstr ""
+
+#: ../../docs/leden/producten-voor-leden.rst:34
+msgid "Voor de eenmalige betaling vul de lidmaatschapskosten naar wens in."
+msgstr ""
+
+#: ../../docs/leden/producten-voor-leden.rst:39
+msgid "Abonnementsproduct"
+msgstr ""
+
+#: ../../docs/leden/producten-voor-leden.rst:40
+msgid ""
+"Naast een gratis en betaald lidmaatschap kan ook een abonnement worden "
+"aangemaakt voor meerdere betalingen over een periode. Vink eerst 'Is een "
+"abonnementsproduct' aan, dan ziet u drie nieuwe velden:"
+msgstr ""
+
+#: ../../docs/leden/producten-voor-leden.rst:44
+msgid ""
+"**Frequency:** Hoe vaak er een betaling binnen de periode moet worden "
+"gemaakt."
+msgstr ""
+
+#: ../../docs/leden/producten-voor-leden.rst:45
+msgid ""
+"**Subscription Period:** Moet de betaling per dag, week of maand worden "
+"gemaakt."
+msgstr ""
+
+#: ../../docs/leden/producten-voor-leden.rst:46
+msgid ""
+"**Keer:** De hoeveelheid betalingen die moeten worden gemaakt om het "
+"abonnement te voltooien.\""
+msgstr ""

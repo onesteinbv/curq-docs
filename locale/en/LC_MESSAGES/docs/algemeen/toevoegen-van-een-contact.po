@@ -1,0 +1,493 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2025, Onestein
+# This file is distributed under the same license as the CURQ package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2025.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: CURQ \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-05-28 09:55+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: en\n"
+"Language-Team: en <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.17.0\n"
+
+#: ../../docs/algemeen/toevoegen-van-een-contact.rst:2
+msgid "Contacten"
+msgstr ""
+
+#: ../../docs/algemeen/toevoegen-van-een-contact.rst:4
+msgid ""
+"In CURQ vind je alle relaties terug onder 1 hoofdmenu 'Contacten'. Het "
+"gaat niet alleen om bedrijven (zowel klanten als leveranciers), personen,"
+" maar ook de interne medewerkers. Om een contact onder een bedrijf aan te"
+" maken, ga naar de Contacten en klik op de knop 'Nieuw' in de "
+"linkerbovenhoek van het scherm."
+msgstr ""
+
+#: ../../docs/algemeen/toevoegen-van-een-contact.rst:13
+msgid "Vul de relevante informatie in"
+msgstr ""
+
+#: ../../docs/algemeen/toevoegen-van-een-contact.rst:15
+msgid ""
+"Voer alle benodigde informatie van het hoofdveld in voor de nieuwe klant,"
+" zoals naam, type (individu of bedrijf), adres, contactgegevens, de "
+"website, de taal waarmee het contact wordt benaderd en labels om "
+"contacten te identificeren en groeperen. Ook kun je een foto toevoegen. "
+"Let op land- of type specifieke velden zoals het KvK- of BTW-nummer. Het "
+"KvK nummer veld is alleen zichtbaar als je Nederland als land ingeeft."
+msgstr ""
+
+#: ../../docs/algemeen/toevoegen-van-een-contact.rst:23
+msgid "Contacten en adressen"
+msgstr ""
+
+#: ../../docs/algemeen/toevoegen-van-een-contact.rst:25
+msgid ""
+"Om een contactpersoon of extra adres aan een bedrijf toe te voegen, "
+"selecteer 'Toevoegen' in het venster Contacten & Adressen, onderaan het "
+"scherm. Je kan meerdere types kiezen, bijvoorbeeld als er verschillende  "
+"afleveradressen zijn."
+msgstr ""
+
+#: ../../docs/algemeen/toevoegen-van-een-contact.rst:32
+msgid "Verkoop en inkoop"
+msgstr ""
+
+#: ../../docs/algemeen/toevoegen-van-een-contact.rst:37
+msgid "Verkoop"
+msgstr ""
+
+#: ../../docs/algemeen/toevoegen-van-een-contact.rst:39
+msgid ""
+"**Verkoper**. Gebruik dit veld om de klant verantwoordelijke aan te "
+"geven. Let op dat je (verkoop)rapportages kan baseren op dit veld. "
+"Wijzigingen op dit veld heeft dus direct gevolg op deze rapportages."
+msgstr ""
+
+#: ../../docs/algemeen/toevoegen-van-een-contact.rst:41
+msgid ""
+"**Betalingsconditie**. Geef hier de standaard betalingsconditie voor de "
+"klant in. Per factuur is deze betalingsconditie eventueel aan te passen."
+msgstr ""
+
+#: ../../docs/algemeen/toevoegen-van-een-contact.rst:43
+msgid ""
+"**Betaalwijze**. Om het betaalproces voor de klant te vereenvoudigen en "
+"versnellen, kan een specifieke betaalwijze worden ingesteld."
+msgstr ""
+
+#: ../../docs/algemeen/toevoegen-van-een-contact.rst:44
+msgid ""
+"**Prijslijst**. Vul hier de standaard prijslijst in, deze zal automatisch"
+" bij de offerte en factuur worden ingevuld (en is daar ook eventueel te "
+"wijzigen). Voor meer informatie over het aanmaken van prijslijsten, "
+"raadpleeg de prijslijst documentatie."
+msgstr ""
+
+#: ../../docs/algemeen/toevoegen-van-een-contact.rst:48
+msgid "Fiscale informatie"
+msgstr ""
+
+#: ../../docs/algemeen/toevoegen-van-een-contact.rst:50
+msgid ""
+"Met de fiscale positie bepaalt CURQ de te gebruiken BTW code op een "
+"factuur regel. De fiscale positie wordt via de standaard instellingen van"
+" menu 'Fiscale posities' berekend, dus je hoeft hier alleen een waarde in"
+" te geven als die afwijkt van de standaard."
+msgstr ""
+
+#: ../../docs/algemeen/toevoegen-van-een-contact.rst:55
+msgid "Inkoop"
+msgstr ""
+
+#: ../../docs/algemeen/toevoegen-van-een-contact.rst:57
+msgid "**Betaalcondities:** Die door de leverancier zijn ingesteld."
+msgstr ""
+
+#: ../../docs/algemeen/toevoegen-van-een-contact.rst:58
+msgid ""
+"**Betaalwijze:** Betaalwijze aan de leverancier. Vul hier bijvoorbeeld "
+"SEPA in als je de inkoopfacturen altijd met een SEPA batch betaalt."
+msgstr ""
+
+#: ../../docs/algemeen/toevoegen-van-een-contact.rst:59
+msgid ""
+"**Ontvangst herinnering:** Mogelijkheid tot inschakelen van een "
+"herinnering bij ontvangst. Hiermee wordt een e-mail verstuurd x dagen "
+"voordat de levering wordt verwacht, om bevestiging te vragen."
+msgstr ""
+
+#: ../../docs/algemeen/toevoegen-van-een-contact.rst:61
+msgid ""
+"**Valuta leverancier** Instelling van de valuta die de leverancier "
+"accepteert."
+msgstr ""
+
+#: ../../docs/algemeen/toevoegen-van-een-contact.rst:64
+msgid "Overige"
+msgstr ""
+
+#: ../../docs/algemeen/toevoegen-van-een-contact.rst:65
+msgid ""
+"**Ondernemingsnummer:** Voor wanneer er een registratie nummer is dat "
+"afwijkt van het BTW nummer"
+msgstr ""
+
+#: ../../docs/algemeen/toevoegen-van-een-contact.rst:66
+msgid ""
+"**Referentie:** Dit veld kan gebruikt worden voor het snel zoeken naar "
+"het contact."
+msgstr ""
+
+#: ../../docs/algemeen/toevoegen-van-een-contact.rst:67
+msgid ""
+"**Website:** Wanneer je meerdere websites binnen CURQ hebt, dan kun je "
+"hier aangeven tot welke website het contact toegang heeft via het "
+"klantenportaal."
+msgstr ""
+
+#: ../../docs/algemeen/toevoegen-van-een-contact.rst:69
+msgid ""
+"**Industrie:** Het type industrie waar het bedrijf onder valt (alleen "
+"zichtbaar wanneer het contact een bedrijf is)."
+msgstr ""
+
+#: ../../docs/algemeen/toevoegen-van-een-contact.rst:72
+msgid "Facturatie:"
+msgstr ""
+
+#: ../../docs/algemeen/toevoegen-van-een-contact.rst:74
+msgid "Onder Facturatie kun je de bankrekening van het contact invullen."
+msgstr ""
+
+#: ../../docs/algemeen/toevoegen-van-een-contact.rst:76
+msgid ""
+"Je kan meerdere bankrekeningen invullen, per bank geef je aan of deze "
+"rekening gebruikt mag worden bij betalingen. Let op dat de bovenste "
+"rekening wordt gebruikt in het e-mail sjabloon dat hoort bij versturen "
+"van klantfacturen."
+msgstr ""
+
+#: ../../docs/algemeen/toevoegen-van-een-contact.rst:81
+msgid ""
+"Notities: Hier kun je aanvullende interne informatie over de klant "
+"ingeven."
+msgstr ""
+
+#: ../../docs/algemeen/toevoegen-van-een-contact.rst:87
+msgid "Abonnementen (module afhankelijk)"
+msgstr ""
+
+#: ../../docs/algemeen/toevoegen-van-een-contact.rst:89
+msgid ""
+"Onder het abonnementen veld staan alle abonnementen waar het contact op "
+"geabonneerd is met de volgende onderdelen"
+msgstr ""
+
+#: ../../docs/algemeen/toevoegen-van-een-contact.rst:91
+msgid "**Abonnementen:** Hier worden de namen van de abonnementen weergegeven"
+msgstr ""
+
+#: ../../docs/algemeen/toevoegen-van-een-contact.rst:92
+msgid "**beschrijving:** Hier staat een korte beschrijving van het abonnement."
+msgstr ""
+
+#: ../../docs/algemeen/toevoegen-van-een-contact.rst:93
+msgid ""
+"**Hoeveelheid:** Het aantal keer dat het contact het abonnement heeft "
+"aangeschaft."
+msgstr ""
+
+#: ../../docs/algemeen/toevoegen-van-een-contact.rst:94
+msgid ""
+"**begin datum:** De datum vanaf wanneer het contact op het product "
+"geabonneerd is."
+msgstr ""
+
+#: ../../docs/algemeen/toevoegen-van-een-contact.rst:95
+msgid ""
+"**Volgende betalingsdatum:** Hier zie je de volgende betalingsdatum "
+"staan. Dit kan een perodieke betaling zijn of een betaling om het "
+"abonnement te vernieuwen."
+msgstr ""
+
+#: ../../docs/algemeen/toevoegen-van-een-contact.rst:97
+msgid "**Status:** De status van het abonnement."
+msgstr ""
+
+#: ../../docs/algemeen/toevoegen-van-een-contact.rst:102
+msgid "Partnertoekenning (module afhankelijk)"
+msgstr ""
+
+#: ../../docs/algemeen/toevoegen-van-een-contact.rst:106
+msgid "Dit veld bevat drie secties voor effectief partnermanagement:"
+msgstr ""
+
+#: ../../docs/algemeen/toevoegen-van-een-contact.rst:108
+msgid "**Partneractivatie:**"
+msgstr ""
+
+#: ../../docs/algemeen/toevoegen-van-een-contact.rst:110
+msgid ""
+"**Partnerniveau:** Definieer het niveau van partners, zoals brons, "
+"zilver, of goud."
+msgstr ""
+
+#: ../../docs/algemeen/toevoegen-van-een-contact.rst:111
+msgid ""
+"**Activatiestadium:** Houd bij in welk stadium van activatie de partner "
+"zich bevindt."
+msgstr ""
+
+#: ../../docs/algemeen/toevoegen-van-een-contact.rst:112
+msgid ""
+"**Gewicht van het niveau:** Bepaal de mate van invloed die de partner "
+"heeft op besluitvorming."
+msgstr ""
+
+#: ../../docs/algemeen/toevoegen-van-een-contact.rst:114
+msgid "**Partnerbeoordeling:**"
+msgstr ""
+
+#: ../../docs/algemeen/toevoegen-van-een-contact.rst:116
+msgid ""
+"**Laatste Partnerbeoordeling:** Registreer de datum van het laatste "
+"beoordelingsgesprek."
+msgstr ""
+
+#: ../../docs/algemeen/toevoegen-van-een-contact.rst:117
+msgid ""
+"**Volgende Partnerbeoordeling:** Plan de datum voor het komende "
+"beoordelingsgesprek."
+msgstr ""
+
+#: ../../docs/algemeen/toevoegen-van-een-contact.rst:118
+msgid ""
+"**Datum partnerovereenkomst:** Noteer de startdatum van de "
+"partnerovereenkomst."
+msgstr ""
+
+#: ../../docs/algemeen/toevoegen-van-een-contact.rst:120
+msgid ""
+"**Geolocatie:** Voer de coördinaten van het contact in voor efficiënte "
+"routeplanning naar verschillende locaties. Coördinaten worden berekend op"
+" basis van het ingevoerde adres."
+msgstr ""
+
+#: ../../docs/algemeen/toevoegen-van-een-contact.rst:124
+msgid "Lidmaatschap (module afhankelijk)"
+msgstr ""
+
+#: ../../docs/algemeen/toevoegen-van-een-contact.rst:125
+msgid ""
+"Onder het lidmaatschapveld staat alle informatie die van toepassing is "
+"met betrekking tot de ledenmodule voor het contact."
+msgstr ""
+
+#: ../../docs/algemeen/toevoegen-van-een-contact.rst:127
+msgid "**Heeft het lid een gratis lidmaatschap?**"
+msgstr ""
+
+#: ../../docs/algemeen/toevoegen-van-een-contact.rst:128
+msgid "**Onder welke categorie is het contact lid?**"
+msgstr ""
+
+#: ../../docs/algemeen/toevoegen-van-een-contact.rst:129
+msgid ""
+"**Vanuit waar is het contact lid geworden?**. Via een formulier op de "
+"website of handmatig door een werknemer."
+msgstr ""
+
+#: ../../docs/algemeen/toevoegen-van-een-contact.rst:130
+msgid ""
+"**Lidstatus**. Enkele voorbeelden zijn gratis lid, betaald lid, "
+"gefactureerd lid - hier is het lidmaatschap aangemaakt maar nog niet "
+"betaald)."
+msgstr ""
+
+#: ../../docs/algemeen/toevoegen-van-een-contact.rst:132
+msgid ""
+"**Waar is het lid een associate member van?** Dit is het geval als het "
+"contact lid is geworden via een contract met een ander bedrijf."
+msgstr ""
+
+#: ../../docs/algemeen/toevoegen-van-een-contact.rst:134
+msgid ""
+"Bovenstaande informatie wordt automatisch ingevuld en geüpdatet wanneer "
+"er wijzigingen in het lidmaatschap van het lid worden gemaakt."
+msgstr ""
+
+#: ../../docs/algemeen/toevoegen-van-een-contact.rst:136
+msgid ""
+"Onder deze informatie staan drie vakken. In het eerste vak staat algemene"
+" informatie over het lidmaatschap, zoals vanaf wanneer en tot wanneer het"
+" lidmaatschap geldig is, het type lid, of een factuur betaald is, en wat "
+"de status van het lidmaatschap is."
+msgstr ""
+
+#: ../../docs/algemeen/toevoegen-van-een-contact.rst:139
+msgid ""
+"In het tweede vak staat onder welke sectie het contact valt, of het "
+"contact de sectie volgt, er mee samenwerkt,  of beide."
+msgstr ""
+
+#: ../../docs/algemeen/toevoegen-van-een-contact.rst:141
+msgid ""
+"In het laatste vak wordt weergegeven of het contact in een commissie zit "
+"en zo ja, in welke. Voor meer informatie over leden ga naar onze leden "
+"documentatie."
+msgstr ""
+
+#: ../../docs/algemeen/toevoegen-van-een-contact.rst:147
+msgid "Chat functie:"
+msgstr ""
+
+#: ../../docs/algemeen/toevoegen-van-een-contact.rst:148
+msgid ""
+"Alle belangrijke wijzigingen met betrekking tot het contact worden hier "
+"bijgehouden. Je ziet hier ook de e-mails die zijn verzonden vanuit CURQ. "
+"Antwoord van de klant op de verstuurde mail vind je ook terug in de "
+"Chatter."
+msgstr ""
+
+#: ../../docs/algemeen/toevoegen-van-een-contact.rst:151
+msgid "**Verzend bericht:** Hiermee verzend je een mail naar het contact."
+msgstr ""
+
+#: ../../docs/algemeen/toevoegen-van-een-contact.rst:152
+msgid ""
+"**Log notitie:** Dit is een interne notitie die alleen intern zichtbaar "
+"is. Voor het contact is deze niet zichtbaar."
+msgstr ""
+
+#: ../../docs/algemeen/toevoegen-van-een-contact.rst:153
+msgid ""
+"**Activiteiten:** Je kunt een bepaalde activiteit inplannen voor iemand. "
+"Dit kan een to-do zijn, maar ook een afspraak."
+msgstr ""
+
+#: ../../docs/algemeen/toevoegen-van-een-contact.rst:157
+msgid ""
+"**Volgers:** Contacten en medewerkers kunnen volgers zijn van het "
+"document. Afhankelijk van hun aanmelding worden deze volgers op de hoogte"
+" gehouden van wijzigingen in verbant met het contact."
+msgstr ""
+
+#: ../../docs/algemeen/toevoegen-van-een-contact.rst:161
+msgid "Sneltoetsen"
+msgstr ""
+
+#: ../../docs/algemeen/toevoegen-van-een-contact.rst:163
+msgid ""
+"Bovenaan het scherm zijn sneltoetsen te vinden die toegang bieden tot "
+"essentiële contactinformatie:"
+msgstr ""
+
+#: ../../docs/algemeen/toevoegen-van-een-contact.rst:165
+msgid "**Afspraken:** Controleer geplande afspraken met de klant."
+msgstr ""
+
+#: ../../docs/algemeen/toevoegen-van-een-contact.rst:166
+msgid "**Verkoopkansen:** Bekijk gegenereerde verkoopkansen voor mogelijke deals."
+msgstr ""
+
+#: ../../docs/algemeen/toevoegen-van-een-contact.rst:167
+msgid ""
+"**Verkopen aan de klant:** Raadpleeg informatie over wat aan de klant is "
+"verkocht."
+msgstr ""
+
+#: ../../docs/algemeen/toevoegen-van-een-contact.rst:168
+msgid "**Aankopen van de klant:** Overzicht van wat de klant heeft aangekocht."
+msgstr ""
+
+#: ../../docs/algemeen/toevoegen-van-een-contact.rst:169
+msgid ""
+"**Betrouwbaarheid van de levertijd:** Beoordeel de betrouwbaarheid van "
+"levertijden voor het contact."
+msgstr ""
+
+#: ../../docs/algemeen/toevoegen-van-een-contact.rst:170
+msgid "**Verkoopfacturen:** Toegang tot de verkoopfacturen van het contact."
+msgstr ""
+
+#: ../../docs/algemeen/toevoegen-van-een-contact.rst:171
+msgid ""
+"**Leveranciersfacturen:** Bekijk de facturen van leveranciers voor het "
+"contact."
+msgstr ""
+
+#: ../../docs/algemeen/toevoegen-van-een-contact.rst:172
+msgid ""
+"**Locatie op de kaart:** Visualiseer de locatie van het contact op een "
+"kaart."
+msgstr ""
+
+#: ../../docs/algemeen/toevoegen-van-een-contact.rst:173
+msgid ""
+"**Routes van het contact:** Ontdek de routes waar het contact bij "
+"inbegrepen is."
+msgstr ""
+
+#: ../../docs/algemeen/toevoegen-van-een-contact.rst:174
+msgid ""
+"**Verkoop- en inkoopcontacten:** Zie overzichten van verkoop- en "
+"inkoopfacturen van het contact."
+msgstr ""
+
+#: ../../docs/algemeen/toevoegen-van-een-contact.rst:175
+msgid "**Mailcontacten:** Toegang tot e-mailgesprekken met het contact."
+msgstr ""
+
+#: ../../docs/algemeen/toevoegen-van-een-contact.rst:176
+msgid ""
+"**Mass mailing groepen:** Bekijk de mass mailing groepen waar het contact"
+" aan is gekoppeld."
+msgstr ""
+
+#: ../../docs/algemeen/toevoegen-van-een-contact.rst:177
+msgid ""
+"**Websitepagina van het contact:** Navigeer naar de specifieke pagina van"
+" het contact op de website."
+msgstr ""
+
+#: ../../docs/algemeen/toevoegen-van-een-contact.rst:182
+msgid "Automatische opslag van de klantgegevens:"
+msgstr ""
+
+#: ../../docs/algemeen/toevoegen-van-een-contact.rst:184
+msgid ""
+"Merk op dat de klant automatisch wordt opgeslagen wanneer je de pagina "
+"verlaat. De gegevens worden automatisch opgeslagen."
+msgstr ""
+
+#: ../../docs/algemeen/toevoegen-van-een-contact.rst:187
+msgid "Handmatig opslaan via het wolkpictogram (optioneel):"
+msgstr ""
+
+#: ../../docs/algemeen/toevoegen-van-een-contact.rst:189
+msgid ""
+"Als je ervoor kiest om handmatig op te slaan, zoek dan naar het "
+"wolkpictogram en selecteer om de klantgegevens op te slaan."
+msgstr ""
+
+#: ../../docs/algemeen/toevoegen-van-een-contact.rst:192
+msgid "Controleer de nieuwe klant:"
+msgstr ""
+
+#: ../../docs/algemeen/toevoegen-van-een-contact.rst:194
+msgid ""
+"Ga terug naar het klantenoverzicht om te bevestigen dat de nieuwe klant "
+"succesvol is toegevoegd. Afhangend aan welke modules op uw CURQ omgeving "
+"zijn geinstaleerd kunnen de kopjes en sneltoetsen die voor jou zichtbaar "
+"zijn verschillen."
+msgstr ""

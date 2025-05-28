@@ -1,0 +1,75 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2025, Onestein
+# This file is distributed under the same license as the CURQ package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2025.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: CURQ \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-05-28 09:55+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: en\n"
+"Language-Team: en <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.17.0\n"
+
+#: ../../docs/boekhouding/valuta.rst:2
+msgid "Valuta"
+msgstr ""
+
+#: ../../docs/boekhouding/valuta.rst:4
+msgid ""
+"In de facturatie/boekhouding module ga naar Configuratie > Instellingen. "
+"Hier ziet u de valutasectie. Onder 'Hoofdvaluta' kan de standaardvaluta "
+"die uw bedrijf gebruikt worden geselecteerd. Deze wordt standaard "
+"ingesteld op basis van uw locatie. Aan de rechterzijde van het scherm "
+"staat de optie 'Automatische wisselkoersen'; wanneer deze optie is "
+"aangevinkt, wordt eens per dag de standaard wisselkoers overgenomen naar "
+"de geactiveerde valuta die u heeft geselecteerd."
+msgstr ""
+
+#: ../../docs/boekhouding/valuta.rst:11
+msgid ""
+"Wanneer de valuta is ingesteld, moet de provider worden geselecteerd van "
+"waaruit de wisselkoers wordt opgehaald. Ga naar 'Configuratie' en "
+"vervolgens naar 'Wisselkoersaanbieders'. Selecteer 'Nieuw'. In dit menu "
+"kan een wisselkoersaanbieder worden gekozen, zoals de Europese Centrale "
+"Bank, en de interval van de updates voor de wisselkoers kan worden "
+"ingesteld; standaard is dit eens per dag. Onderaan kan worden ingesteld "
+"welke valuta moet worden bijgewerkt door de provider. Maak dit je "
+"standaardvaluta."
+msgstr ""
+
+#: ../../docs/boekhouding/valuta.rst:19
+msgid ""
+"Door op de 'Valuta'-knop onder de 'Hoofdvaluta'-knop te drukken, komt u "
+"op de valutapagina. U kunt hier ook komen via Configuratie > Valuta "
+"(onder het kopje Boekhouden). Op de valutapagina staan alle beschikbare "
+"valuta. U zult zien dat de standaardvaluta al op actief staat en onder "
+"'Huidige wisselkoers' op 1,00000 staat weergegeven. Dit is de valuta waar"
+" de wisselkoers van andere valuta op wordt berekend. Om andere valuta te "
+"gebruiken, moeten deze op actief worden gezet aan de rechterkant van het "
+"scherm. Wanneer de automatische wisselkoers is aangezet, wordt de koers "
+"automatisch berekend; als dit niet het geval is, moet deze handmatig "
+"worden ingevoerd. Dit kan door op de valuta te klikken."
+msgstr ""
+
+#: ../../docs/boekhouding/valuta.rst:28
+msgid ""
+"Wanneer een valuta is geselecteerd, komt u op de pagina van deze valuta. "
+"Hier ziet u de valutacode, de naam, of deze actief is, de eenheid (denk "
+"hierbij aan euro) en de subeenheid (denk hierbij aan centen). Hieronder "
+"ziet u de wisselkoers met de datum van wanneer deze geüpdatet is, de "
+"eenheid per de standaardvaluta (zoals aantal dollars per euro) en de "
+"standaardvaluta per unit (zoals euro per dollar). Onderaan de pagina "
+"staat de knop 'Regel toevoegen'; hier kan de wisselkoers handmatig "
+"geüpdatet worden. Wanneer dit wordt geselecteerd, wordt de huidige datum "
+"gebruikt en de meest recente wisselkoers overgenomen, en kan deze "
+"handmatig worden aangepast."
+msgstr ""

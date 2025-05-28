@@ -1,0 +1,132 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2025, Onestein
+# This file is distributed under the same license as the CURQ package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2025.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: CURQ \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-05-28 09:55+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: en\n"
+"Language-Team: en <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.17.0\n"
+
+#: ../../docs/boekhouding/betalingen/betalingen-online-betalingen-mollie.rst:2
+msgid "Online betalen facturen"
+msgstr ""
+
+#: ../../docs/boekhouding/betalingen/betalingen-online-betalingen-mollie.rst:4
+msgid ""
+"Om het voor je klanten nog gemakkelijker te maken om openstaande facturen"
+" te betalen, kun je de functie 'Factuur online betalen' activeren. Deze "
+"functie voegt een knop 'Nu betalen' toe aan het klantenportaal. Klanten "
+"kunnen hun facturen online bekijken en direct betalen met hun favoriete "
+"betaalmethode, waardoor het betalingsproces veel eenvoudiger wordt."
+msgstr ""
+
+#: ../../docs/boekhouding/betalingen/betalingen-online-betalingen-mollie.rst:9
+msgid ""
+"Om Facturen Online Betalen te activeren, ga je naar Boekhouding ‣ "
+"Configuratie ‣ Instellingen ‣ Klantbetalingen, schakel 'Betaal facturen "
+"online' en klik op Opslaan."
+msgstr ""
+
+#: ../../docs/boekhouding/betalingen/betalingen-online-betalingen-mollie.rst:17
+msgid "Betaalproviders"
+msgstr ""
+
+#: ../../docs/boekhouding/betalingen/betalingen-online-betalingen-mollie.rst:19
+msgid ""
+"CURQ ondersteunt een aantal betalingsproviders, met de Mollie koppeling "
+"kun je de klant de factuur laten betalen met iDeal."
+msgstr ""
+
+#: ../../docs/boekhouding/betalingen/betalingen-online-betalingen-mollie.rst:26
+msgid "Inrichting Mollie koppeling"
+msgstr ""
+
+#: ../../docs/boekhouding/betalingen/betalingen-online-betalingen-mollie.rst:28
+msgid ""
+"Activeer eerst Mollie als betalingsprovider via Boekhouding ‣ "
+"Configuratie ‣ Betalingsproviders"
+msgstr ""
+
+#: ../../docs/boekhouding/betalingen/betalingen-online-betalingen-mollie.rst:34
+msgid ""
+"Voer de API keys en de credentials in (je vind deze op je Mollie "
+"dashboard)."
+msgstr ""
+
+#: ../../docs/boekhouding/betalingen/betalingen-online-betalingen-mollie.rst:40
+msgid ""
+"Klik op de 'Mollie Payment Methods' tab and klik op de 'Sync payment "
+"method' knop. De beschikbare betaalmethodes zijn nu zichtbaar (waaronder "
+"iDeal)."
+msgstr ""
+
+#: ../../docs/boekhouding/betalingen/betalingen-online-betalingen-mollie.rst:47
+msgid ""
+"Vergeet niet om op het tabblad 'Configuratie' het dagboek dat je hebt "
+"aangemaakt voor Mollie te koppelen aan de betaalprovider. Op dit tabblad "
+"kun je ook aangeven welke betaaliconen je ondersteunt, in welke landen de"
+" betalingswijze gedaan kan worden. Ook kun je hier een maximum bedrag "
+"ingeven waarvoor deze provider beschikbaar is. Laat leeg voor geen "
+"maximum."
+msgstr ""
+
+#: ../../docs/boekhouding/betalingen/betalingen-online-betalingen-mollie.rst:55
+msgid ""
+"Klaar! je klanten kunnen nu direct betalingen doen via het klantenportaal"
+" van CURQ."
+msgstr ""
+
+#: ../../docs/boekhouding/betalingen/betalingen-online-betalingen-mollie.rst:58
+msgid "Betaling klantenportaal en status factuur"
+msgstr ""
+
+#: ../../docs/boekhouding/betalingen/betalingen-online-betalingen-mollie.rst:60
+msgid ""
+"Wanneer je een factuur hebt aangemaakt en de klant vanuit CURQ een e-mail"
+" stuurt, dan zit bij die e-mail een link naar het klantenportaal. De "
+"factuur kan vervolgens direct via het klantenportaal worden betaald. Je "
+"klant betaalt de factuur door op de knop 'Betaal nu' te klikken en een "
+"van de eerder gedefinieerde betaalwijzes te kiezen."
+msgstr ""
+
+#: ../../docs/boekhouding/betalingen/betalingen-online-betalingen-mollie.rst:64
+msgid "Mail versturen vanuit CURQ:"
+msgstr ""
+
+#: ../../docs/boekhouding/betalingen/betalingen-online-betalingen-mollie.rst:70
+msgid ""
+"De klant kan direct naar het klantenportaal gaan vanuit de ontvangen "
+"e-mail."
+msgstr ""
+
+#: ../../docs/boekhouding/betalingen/betalingen-online-betalingen-mollie.rst:76
+msgid "Via de link vanuit de e-mail komt je klant in het klantenportaal."
+msgstr ""
+
+#: ../../docs/boekhouding/betalingen/betalingen-online-betalingen-mollie.rst:82
+msgid "Je klant kiest nu de gewenste bank en betaalt de factuur."
+msgstr ""
+
+#: ../../docs/boekhouding/betalingen/betalingen-online-betalingen-mollie.rst:88
+msgid ""
+"Na afronding van de betaling ziet je klant direct dat deze factuur is "
+"betaald."
+msgstr ""
+
+#: ../../docs/boekhouding/betalingen/betalingen-online-betalingen-mollie.rst:94
+msgid ""
+"In CURQ zelf zie je ook dat de factuur op betaald is gezet. Ook zie je "
+"dat er een betalingstransactie is gekoppeld aan de betaalde factuur."
+msgstr ""

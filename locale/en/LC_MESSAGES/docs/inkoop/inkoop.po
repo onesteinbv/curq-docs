@@ -1,0 +1,198 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2025, Onestein
+# This file is distributed under the same license as the CURQ package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2025.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: CURQ \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-05-28 09:55+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: en\n"
+"Language-Team: en <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.17.0\n"
+
+#: ../../docs/inkoop/inkoop.rst:4
+msgid "Inkoop"
+msgstr ""
+
+#: ../../docs/inkoop/inkoop.rst:6
+msgid ""
+"Binnen de Inkoopmodule van CURQ heb je volledige controle over alle "
+"aspecten met betrekking tot de inkoop van jouw producten. De inkoopmodule"
+" vereenvoudigt het beheer van inkooporders, productconfiguraties, "
+"leveranciersbeheer en prijs instellingen voor producten/diensten. "
+"Bovendien biedt deze module toezicht op inkooporder aanvragen en "
+"offertes. De naadloze integratie van de inkoopmodule met andere CURQ "
+"modules zoals boekhouding, voorraadbeheer, verkoop en facturatie zorgt "
+"voor een probleemloos inkoopproces."
+msgstr ""
+
+#: ../../docs/inkoop/inkoop.rst:12
+msgid "Productbeheer"
+msgstr ""
+
+#: ../../docs/inkoop/inkoop.rst:13
+msgid ""
+"CURQ biedt geavanceerde mogelijkheden voor het configureren en beheren "
+"van producten binnen de Inkoopmodule. Via het menu *Producten* in deze "
+"module kun je de productenlijst, variant details en kosten beheren. Onder"
+" het tabblad **Producten** heb je de keuze tussen *Producten* en "
+"*Productvarianten*, waar je de details van deze producten/diensten en hun"
+" varianten kunt bekijken en aanpassen."
+msgstr ""
+
+#: ../../docs/inkoop/inkoop.rst:17
+msgid ""
+"Wanneer je op *Producten* klikt in de vervolgkeuzelijst van het menu "
+"**Producten**, opent zich een venster met de volledige lijst van reeds "
+"aangemaakte producten. Standaard wordt deze weergegeven in de Kanban-"
+"weergave, maar je hebt de mogelijkheid om deze naar wens te wijzigen naar"
+" de Lijst-weergave. In de Kanban-weergave tonen voorbeeldkaarten details "
+"zoals naam, interne productreferentie, prijs en product afbeelding. Met "
+"behulp van de knoppen *Filters* en *Groeperen op* kun je specifieke "
+"producten vinden op basis van toegepaste variabelen."
+msgstr ""
+
+#: ../../docs/inkoop/inkoop.rst:25
+msgid ""
+"Om een nieuw product aan de lijst toe te voegen, klik je op de knop "
+"*Nieuw*. Hierdoor opent zich een venster waarin je de gegevens van het "
+"nieuwe product kunt invullen."
+msgstr ""
+
+#: ../../docs/inkoop/inkoop.rst:30
+msgid ""
+"Voer de productnaam in het daarvoor bestemde veld in. Klik op het "
+"camerapictogram om een foto van het product te uploaden. Hier zie je ook "
+"drie opties: **Kan verkocht worden, Kan gekocht worden en Declaratie "
+"product**. Selecteer de opties die van toepassing zijn op het product."
+msgstr ""
+
+#: ../../docs/inkoop/inkoop.rst:34
+msgid ""
+"In de vervolgkeuzelijst *Productsoort* vind je verschillende opties, "
+"zoals **Verbruiksartikel, Dienst, & Evenement ticket**. Kies het juiste "
+"productsoort uit deze opties. In het veld *Facturatiebeleid* kun je "
+"kiezen tussen **Bestelde hoeveelheden en Geleverde hoeveelheden**. "
+"Selecteer *Bestelde hoeveelheden* als je een factuur wilt genereren "
+"wanneer een product wordt besteld. Ongeacht of het product wordt "
+"geleverd, de factuur geeft de bestelde aantallen op. Klik op *Geleverde "
+"hoeveelheden* als je een factuur wilt genereren wanneer een product wordt"
+" geleverd. Dit is handig om deellevering te doen incl. deelfacturatie."
+msgstr ""
+
+#: ../../docs/inkoop/inkoop.rst:40
+msgid ""
+"Vul de velden in die relevant zijn voor het product, zoals **Maateenheid,"
+" Inkoop maateenheid,  Verkoopprijs, Verkoop BTW, Kostprijs, "
+"Productcategorie, Interne referentie, Barcode en Productlabels**. Je kunt"
+" ook de naam van jouw organisatie selecteren in de vervolgkeuzelijst "
+"*Bedrijf*, waardoor het product wordt geconfigureerd voor dat specifieke "
+"bedrijf."
+msgstr ""
+
+#: ../../docs/inkoop/inkoop.rst:44
+msgid ""
+"Als het product varianten heeft, kun je deze toevoegen op het tabblad "
+"*Kenmerken & Varianten*. De configuratie van producten in de "
+"Verkoopmodule is eerder al uitgebreid beschreven. Je kunt dezelfde "
+"methode volgen om een nieuw product in de module Inkoop te configureren. "
+"Op het tabblad Inkoop kun je de leveranciers van het product één voor één"
+" specificeren met de knop *Regel toevoegen*. Je kunt op dit tabblad "
+"meerdere leveranciers toewijzen aan een product."
+msgstr ""
+
+#: ../../docs/inkoop/inkoop.rst:51
+msgid ""
+"Voer in de respectieve velden de prijs in om dit product te kopen, "
+"evenals de valuta en de levertijd. Je kunt de standaard belastingen die "
+"worden toegepast bij de aankoop van dit product specificeren in het veld "
+"*Inkoop BTW*. De controlemethode voor dit specifieke product kan worden "
+"ingesteld op *Bestelde hoeveelheid* of op *Ontvangen hoeveelheden*."
+msgstr ""
+
+#: ../../docs/inkoop/inkoop.rst:55
+msgid ""
+"Indien je een standaard controlemethode wilt instellen voor alle "
+"producten binnen de Inkoopmodule, navigeer dan naar het menu "
+"*Instellingen*. Hier vind je de optie **Factuurcontrole**, waarmee je de "
+"factuurcontrole voor alle producten kunt instellen."
+msgstr ""
+
+#: ../../docs/inkoop/inkoop.rst:63
+msgid ""
+"Indien je notities wilt toevoegen aan inkooporders, biedt het veld "
+"*Omschrijving Inkoop* daarvoor de mogelijkheid. Tevens kun je op het "
+"tabblad **Inkoop** een waarschuwing instellen. Hiermee kun je "
+"waarschuwingsberichten genereren bij de aankoop van dit product."
+msgstr ""
+
+#: ../../docs/inkoop/inkoop.rst:69
+msgid ""
+"Meer info over het inrichten van producten en varianten vind je terug in "
+"de handleiding 'Voorraad - Productconfiguratie'"
+msgstr ""
+
+#: ../../docs/inkoop/inkoop.rst:72
+msgid "Leveranciersbeheer"
+msgstr ""
+
+#: ../../docs/inkoop/inkoop.rst:74
+msgid ""
+"Een bedrijfsorganisatie wordt geconfronteerd met diverse inkoopbehoeften,"
+" zowel op grote schaal als in de detailhandel. Voor verschillende "
+"aangeschafte producten is het noodzakelijk om de gegevens van meerdere "
+"leveranciers op te slaan en te beheren. Met CURQ is het mogelijk om alle "
+"leveranciers die relevant zijn voor een specifiek product te "
+"configureren, waardoor klanten gemakkelijker bij hun voorkeursleverancier"
+" kunnen kopen. Dankzij de flexibele en geavanceerde gebruikersinterface "
+"van CURQ is het beheren van de leverancierslijst en het opstellen van "
+"leverancier kenmerken efficiënter geworden. Bovendien kun je de gegevens "
+"van de leverancier koppelen aan het bijbehorende product, waardoor het "
+"volgen van nieuwe inkooporders eenvoudiger wordt."
+msgstr ""
+
+#: ../../docs/inkoop/inkoop.rst:82
+msgid ""
+"Om de leveranciersgegevens te beheren, navigeer je naar het menu "
+"*Leveranciers* in de vervolgkeuzelijst van het tabblad **Orders**. Hier "
+"wordt een gedetailleerde Kanban-weergave van alle toegevoegde "
+"leveranciers weergegeven."
+msgstr ""
+
+#: ../../docs/inkoop/inkoop.rst:87
+msgid ""
+"In de Kanban-weergave kun je de basisinformatie over een leverancier "
+"bekijken. Deze informatie omvat de naam van de leverancier, eventuele "
+"tags die zijn toegevoegd en het e-mailadres. Bovendien worden "
+"pictogrammen weergegeven waarmee je vergaderingen, kansen en aankopen "
+"kunt beheren die aan de betreffende leverancier zijn toegewezen."
+msgstr ""
+
+#: ../../docs/inkoop/inkoop.rst:92
+msgid ""
+"De lijstweergave kan worden uitgebreid door de benodigde opties in te "
+"schakelen via de geavanceerde werkbalk. De lijst bevat onder andere "
+"informatie zoals **provincie, BTW nummer, activiteiten, tags en de "
+"huidige lidmaatschap status**."
+msgstr ""
+
+#: ../../docs/inkoop/inkoop.rst:97
+msgid ""
+"Door op de knop *Nieuw* te klikken, ga je naar een nieuw contactkaart "
+"waar je de gegevens van de leverancier kunt configureren. Het proces voor"
+" het configureren van leveranciers is identiek aan dat voor het "
+"configureren van klanten, zoals besproken in een andere handleiding "
+"(Toevoegen van een contact). Je kunt dus dezelfde stappen volgen. Vul de "
+"tabbladen **Contacten & Adressen**, Verkoop & inkopen en Facturatie in. "
+"Na het configureren van de leveranciers kun je de verkoopprijslijst "
+"beheren in de CURQ Inkoopmodule."
+msgstr ""

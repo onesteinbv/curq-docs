@@ -1,0 +1,170 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2025, Onestein
+# This file is distributed under the same license as the CURQ package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2025.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: CURQ \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-05-28 09:55+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: en\n"
+"Language-Team: en <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.17.0\n"
+
+#: ../../docs/boekhouding/betalingen/betalingen.rst:2
+msgid "Betalingen"
+msgstr ""
+
+#: ../../docs/boekhouding/betalingen/betalingen.rst:3
+msgid ""
+"In CURQ kunnen betalingen automatisch worden gekoppeld aan een factuur of"
+" rekening. Daarnaast kunnen het ook los staande records zijn voor gebruik"
+" op een later tijdstip. De betaling wordt in dat geval via de debiteuren-"
+" of crediteurenrekening aan de klant/leverancier gekoppeld."
+msgstr ""
+
+#: ../../docs/boekhouding/betalingen/betalingen.rst:7
+msgid ""
+"Als een betaling is gekoppeld aan een factuur of nota, dan wordt het "
+"verschuldigde bedrag van de factuur verlaagd/verrekend. Je kunt meerdere "
+"betalingen aan dezelfde factuur koppelen."
+msgstr ""
+
+#: ../../docs/boekhouding/betalingen/betalingen.rst:10
+msgid ""
+"Als een betaling niet aan een factuur of rekening is gekoppeld, dan heeft"
+" de klant ofwel een openstaand krediet bij je bedrijf, of heeft je "
+"bedrijf een openstaand debet bij een leverancier. Je kunt deze "
+"openstaande bedragen gebruiken om onbetaalde facturen/rekeningen te "
+"verlagen/vereffenen. Hoe je dit doet vind je terug in het onderdeel "
+"'afletteren'."
+msgstr ""
+
+#: ../../docs/boekhouding/betalingen/betalingen.rst:14
+msgid ""
+"Gebruikelijk is om de factuur direct op betaald te zetten als deze "
+"binnenkomt op je bankrekening en je deze aflettert, maar CURQ ondersteunt"
+" ook de mogelijkheid om de (inkoop)factuur handmatig op betaald te "
+"zetten."
+msgstr ""
+
+#: ../../docs/boekhouding/betalingen/betalingen.rst:17
+msgid ""
+"Wanneer je inkoopfacturen via SEPA bestanden bij je bank verwerkt, kijk "
+"dan bij het onderdeel SEPA in de handleiding hoe je deze betalingen "
+"verwerkt. Dit gaat in CURQ niet via de knop Betalingen maar via menu "
+"Facturatie-> Leveranciers-> Uitgaande betalingen."
+msgstr ""
+
+#: ../../docs/boekhouding/betalingen/betalingen.rst:21
+msgid "Bankrekening controle"
+msgstr ""
+
+#: ../../docs/boekhouding/betalingen/betalingen.rst:23
+msgid ""
+"Zorg er altijd voor dat je bij aanmaken van een nieuwe leverancier "
+"controleert of de gegevens correct zijn. CURQ helpt je met controleren "
+"van het banknummer. Ook is er een aparte knop waarmee je expliciet "
+"aangeeft dat het nummer gecontroleerd is en betalingen gedaan kunnen "
+"worden. In onderstaand voorbeeld zie je dat het ingevoerde nummer geen "
+"officieel IBAN nummer is."
+msgstr ""
+
+#: ../../docs/boekhouding/betalingen/betalingen.rst:27
+msgid ""
+"CURQ controleert hierop maar omdat er ook niet-IBAN nummers toegevoegd "
+"kunnen worden, is dit geen blokkerende melding. Als de schuif 'Betalen' "
+"aan staat dan kun je de rekening gebruiken bij betalingen."
+msgstr ""
+
+#: ../../docs/boekhouding/betalingen/betalingen.rst:35
+msgid "Betaling registreren van een factuur of rekening"
+msgstr ""
+
+#: ../../docs/boekhouding/betalingen/betalingen.rst:37
+msgid ""
+"Wanneer je klikt op 'Betaling registreren' in een klant- of "
+"leveranciersfactuur, dan wordt een nieuwe journaalpost gegenereerd en "
+"wordt het verschuldigde bedrag gewijzigd overeenkomstig het "
+"betalingsbedrag. De tegenboeking wordt weergegeven op een rekening voor "
+"uitstaande ontvangsten of betalingen. Op dat moment wordt de klant- of "
+"leveranciersfactuur gemarkeerd als 'Betaald'."
+msgstr ""
+
+#: ../../docs/boekhouding/betalingen/betalingen.rst:41
+msgid ""
+"Wanneer de openstaande rekening vervolgens wordt afgeletterd met een "
+"bankafschriftregel, dan zal CURQ automatisch het bedrag op de uitstaande "
+"ontvangst of betalingen rekening afboeken en op- of afboeken op de "
+"bankrekening."
+msgstr ""
+
+#: ../../docs/boekhouding/betalingen/betalingen.rst:44
+msgid ""
+"Hieronder zie je de 4 boekingen die CURQ maakt bij het op betaald zetten "
+"van de factuur en verwerken van de dagafschriftregel."
+msgstr ""
+
+#: ../../docs/boekhouding/betalingen/betalingen.rst:50
+msgid ""
+"Het informatiepictogram naast de betalingsregel geeft meer informatie "
+"over de betaling weer. Je hebt toegang tot aanvullende informatie, zoals "
+"het bijbehorende journaal, door op 'bekijk' te klikken."
+msgstr ""
+
+#: ../../docs/boekhouding/betalingen/betalingen.rst:53
+msgid ""
+"Vanuit dit informatiescherm kun je de aflettering ook ongedaan maken, Dit"
+" doe je bijvoorbeeld als je een betaling aan een verkeerde factuur hebt "
+"gekoppeld. Na ontkoppelen van de betaling kun je deze eventueel ook "
+"verwijderen in het menu Facturatie > Klanten of leveranciers > "
+"Betalingen."
+msgstr ""
+
+#: ../../docs/boekhouding/betalingen/betalingen.rst:63
+msgid "Gedeeltelijke betaling"
+msgstr ""
+
+#: ../../docs/boekhouding/betalingen/betalingen.rst:65
+msgid ""
+"Om een gedeeltelijke betaling te registreren, klik je op 'Betaling "
+"registreren' op de betreffende factuur of rekening en voer je het "
+"ontvangen of betaalde bedrag in. Nadat je het bedrag hebt ingevoerd, "
+"wordt er gevraagd of je de factuur of rekening open wilt houden of als "
+"volledig betaald wilt markeren. Selecteer Openhouden en klik op Betaling "
+"aanmaken. De factuur of rekening is nu gemarkeerd als Gedeeltelijk "
+"betaald. Selecteer Markeer als volledig betaald als je de factuur of "
+"rekening wilt vereffenen met een verschil in het bedrag."
+msgstr ""
+
+#: ../../docs/boekhouding/betalingen/betalingen.rst:71
+msgid ""
+"Het kan ook zijn dat je op je bankafschrift een deelbetaling van een "
+"factuur ontvangt. Je kunt het resterende bedrag open laten staan op de "
+"debiteuren- of crediteurenrekening of je kan ervoor kiezen om het "
+"resterende bedrag weg te boeken op een verschillenrekening. Meer "
+"informatie over dit onderwerp vind je in het handleiding onderdeel "
+"'afletteren'."
+msgstr ""
+
+#: ../../docs/boekhouding/betalingen/betalingen.rst:76
+msgid "Afletter menu"
+msgstr ""
+
+#: ../../docs/boekhouding/betalingen/betalingen.rst:78
+msgid ""
+"Je vind dit menu onder Boekhouding -> Afletteren. In dit onderdeel zie je"
+" alle openstaande handmatig aangemaakte, niet-afgeletterde betalingen- of"
+" ontvangsten. in onderstaand voorbeeld is een handmatige ontvangst "
+"geregistreerd en staat er ook een verkoopfactuur open. In dit menu kun je"
+" de betaling en de factuur aan elkaar matchen. De verkoopfactuur zal op "
+"gedeeltelijk betaald komen te staan na afletteren."
+msgstr ""

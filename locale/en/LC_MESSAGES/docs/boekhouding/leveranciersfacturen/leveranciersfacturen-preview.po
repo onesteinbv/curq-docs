@@ -1,0 +1,141 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2025, Onestein
+# This file is distributed under the same license as the CURQ package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2025.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: CURQ \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-05-28 09:55+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: en\n"
+"Language-Team: en <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.17.0\n"
+
+#: ../../docs/boekhouding/leveranciersfacturen/leveranciersfacturen-preview.rst:2
+msgid "Facturen Preview"
+msgstr ""
+
+#: ../../docs/boekhouding/leveranciersfacturen/leveranciersfacturen-preview.rst:4
+msgid ""
+"CURQ heeft een nieuwe functionaliteit toegevoegd waarmee facturen kunnen "
+"worden voorzien van een PDF-preview. Deze preview is bijzonder handig bij"
+" het coderen van inkoopfacturen, omdat het gebruikers in staat stelt de "
+"factuur visueel te inspecteren en snel belangrijke informatie, zoals "
+"bedragen, datums en leveranciersgegevens, te achterhalen. Deze visuele "
+"controle draagt bij aan een nauwkeuriger coderingsproces en versnelt de "
+"workflow, wat cruciaal is voor een efficiënte en foutloze financiële "
+"administratie."
+msgstr ""
+
+#: ../../docs/boekhouding/leveranciersfacturen/leveranciersfacturen-preview.rst:11
+msgid "Beoordelen inkoopfactuur"
+msgstr ""
+
+#: ../../docs/boekhouding/leveranciersfacturen/leveranciersfacturen-preview.rst:13
+msgid ""
+"Een inkoopfactuur kan op verschillende manieren worden aangemaakt binnen "
+"CURQ:"
+msgstr ""
+
+#: ../../docs/boekhouding/leveranciersfacturen/leveranciersfacturen-preview.rst:15
+msgid "Via een email naar facturen@uwbedrijf....curq.nl"
+msgstr ""
+
+#: ../../docs/boekhouding/leveranciersfacturen/leveranciersfacturen-preview.rst:16
+msgid "Via de knop [UPLOAD] bij de Facturatie Dashboard"
+msgstr ""
+
+#: ../../docs/boekhouding/leveranciersfacturen/leveranciersfacturen-preview.rst:17
+msgid "Via de knop [UPLOAD] bij Facturatie > Leveranciers > Leveranciersfacturen"
+msgstr ""
+
+#: ../../docs/boekhouding/leveranciersfacturen/leveranciersfacturen-preview.rst:18
+msgid "Via de knop [NIEUW] bij Facturatie > Leveranciers > Leveranciersfacturen"
+msgstr ""
+
+#: ../../docs/boekhouding/leveranciersfacturen/leveranciersfacturen-preview.rst:20
+msgid ""
+"Bij optie 1. Je kunt het uiteindelijke e-mailadres vinden onder "
+"Facturatie > Dashboard."
+msgstr ""
+
+#: ../../docs/boekhouding/leveranciersfacturen/leveranciersfacturen-preview.rst:24
+msgid ""
+"Bij optie 4 moet de PDF-factuur apart worden geüpload via de bijlage-"
+"optie boven de logging."
+msgstr ""
+
+#: ../../docs/boekhouding/leveranciersfacturen/leveranciersfacturen-preview.rst:28
+msgid ""
+"Na het uploaden wordt de PDF aan de rechterkant getoond. Het tonen "
+"hiervan is afhankelijk van jouw schermgrootte. Als het scherm te klein "
+"is, wordt de PDF-preview niet weergegeven."
+msgstr ""
+
+#: ../../docs/boekhouding/leveranciersfacturen/leveranciersfacturen-preview.rst:33
+msgid "We zullen de volgende veelgebruikte knoppen bespreken:"
+msgstr ""
+
+#: ../../docs/boekhouding/leveranciersfacturen/leveranciersfacturen-preview.rst:35
+msgid ""
+"**Bladeren door pagina's:** Als de PDF uit meerdere pagina's bestaat, kun"
+" je met deze knoppen door de pagina's navigeren."
+msgstr ""
+
+#: ../../docs/boekhouding/leveranciersfacturen/leveranciersfacturen-preview.rst:36
+msgid "**In- en uitzoomen:** Hiermee kun je in- en uitzoomen op het bestand."
+msgstr ""
+
+#: ../../docs/boekhouding/leveranciersfacturen/leveranciersfacturen-preview.rst:37
+msgid ""
+"**Printen of downloaden:** Gebruik deze knop om het bestand af te drukken"
+" of te downloaden."
+msgstr ""
+
+#: ../../docs/boekhouding/leveranciersfacturen/leveranciersfacturen-preview.rst:38
+msgid ""
+"**Bladeren door meerdere PDF-bestanden:** Als er meerdere PDF-bestanden "
+"zijn, kun je met deze knop (zowel aan de linker- als rechterkant)door de "
+"bestanden bladeren."
+msgstr ""
+
+#: ../../docs/boekhouding/leveranciersfacturen/leveranciersfacturen-preview.rst:41
+msgid ""
+"Indien het PDF-bestand dit ondersteunt, kunnen ook de teksten worden "
+"geselecteerd en gekopieerd voor gebruik bij het coderen van de "
+"inkoopfactuur. Dit maakt het proces efficiënter en nauwkeuriger."
+msgstr ""
+
+#: ../../docs/boekhouding/leveranciersfacturen/leveranciersfacturen-preview.rst:45
+msgid "Controle vanuit boekingsregels"
+msgstr ""
+
+#: ../../docs/boekhouding/leveranciersfacturen/leveranciersfacturen-preview.rst:47
+msgid ""
+"De boekhouder of accountant controleert vaak de boekhouding aan de hand "
+"van de boekingsregels. In CURQ is het tevens mogelijk om vanuit dit "
+"systeem een voorbeeld van de factuur op te vragen. Dit kan handig zijn om"
+" te verifiëren of bepaalde facturen correct zijn geboekt op de juiste "
+"grootboekrekening. Bijvoorbeeld, is jouw opleidingsfactuur geboekt op de "
+"juiste kostenrekening?"
+msgstr ""
+
+#: ../../docs/boekhouding/leveranciersfacturen/leveranciersfacturen-preview.rst:51
+msgid ""
+"Je kunt het overzicht van boekingsregels vinden onder Facturatie > "
+"Boekhouding > Boekingsregels"
+msgstr ""
+
+#: ../../docs/boekhouding/leveranciersfacturen/leveranciersfacturen-preview.rst:55
+msgid ""
+"In de kolom “Preview” kun je op de gekoppelde PDF klikken. Zodra je dit "
+"doet, verschijnt de PDF-factuur aan de rechterkant."
+msgstr ""

@@ -1,0 +1,83 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2025, Onestein
+# This file is distributed under the same license as the CURQ package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2025.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: CURQ \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-05-28 09:55+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: en\n"
+"Language-Team: en <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.17.0\n"
+
+#: ../../docs/website/e-commerce.rst:2
+msgid "E-commerce"
+msgstr ""
+
+#: ../../docs/website/e-commerce.rst:4
+msgid ""
+"De e-commerce module is een geavanceerd en veelzijdig systeem van CURQ "
+"dat bedrijven in staat stelt om krachtige webshops te creëren die voldoen"
+" aan de hoogste normen van de industrie. Met deze module kunnen "
+"ondernemingen snel en efficiënt online winkels opzetten en beheren, die "
+"voldoen aan essentiële certificeringen en veeleisende standaarden op het "
+"gebied van veiligheid en betrouwbaarheid."
+msgstr ""
+
+#: ../../docs/website/e-commerce.rst:9
+msgid ""
+"Deze module biedt een uitgebreid scala aan functies en mogelijkheden om "
+"het volledige e-commerceproces te stroomlijnen. Het stelt gebruikers in "
+"staat om een breed assortiment producten en diensten aan te bieden, "
+"inclusief cadeaubonnen, eWallets en kortingsaanbiedingen. Met intuïtieve "
+"tools voor up- en cross-selling kunnen bedrijven eenvoudig aanbevelingen "
+"doen aan klanten en de verkoop maximaliseren."
+msgstr ""
+
+#: ../../docs/website/e-commerce.rst:14
+msgid ""
+"Daarnaast biedt de e-commerce module krachtige functionaliteiten voor het"
+" beheer van orders, klantgegevens en betalingstransacties. Bedrijven "
+"kunnen nauwkeurige analyses uitvoeren van verkoopprestaties, klantgedrag "
+"en markttrends, wat waardevolle inzichten biedt voor het optimaliseren "
+"van de bedrijfsstrategieën."
+msgstr ""
+
+#: ../../docs/website/e-commerce.rst:18
+msgid ""
+"Met een focus op gebruiksvriendelijkheid en klanttevredenheid, maakt deze"
+" module het mogelijk om webshops te ontwikkelen die gemakkelijk "
+"navigeerbaar zijn en een naadloze winkelervaring bieden aan klanten. Door"
+" gebruik te maken van geavanceerde categorisering, tagging en "
+"filteropties kunnen gebruikers snel en efficiënt vinden wat ze zoeken, "
+"waardoor de conversieratio's worden verhoogd."
+msgstr ""
+
+#: ../../docs/website/e-commerce.rst:24
+msgid ""
+"Bovendien biedt de e-commerce module de flexibiliteit om de webshop aan "
+"te passen aan de specifieke behoeften van het bedrijf. Met een "
+"uitgebreide reeks aanpasbare instellingen kunnen bedrijven de "
+"prijsstructuur, belastingregels, verzendopties en facturatieprocessen "
+"naar wens configureren, waardoor ze volledige controle hebben over hun "
+"online verkoopomgeving."
+msgstr ""
+
+#: ../../docs/website/e-commerce.rst:28
+msgid ""
+"Kortom, de e-commerce module is een essentieel instrument voor bedrijven "
+"die streven naar succes in de digitale markt. Door geavanceerde "
+"functionaliteiten te combineren met gebruiksgemak en flexibiliteit, stelt"
+" deze module bedrijven in staat om een sterke online aanwezigheid op te "
+"bouwen en te profiteren van de kansen die de wereld van e-commerce te "
+"bieden heeft."
+msgstr ""

@@ -1,0 +1,244 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2025, Onestein
+# This file is distributed under the same license as the CURQ package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2025.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: CURQ \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-05-28 09:55+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: en\n"
+"Language-Team: en <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.17.0\n"
+
+#: ../../docs/voorraad/magazijnen-locaties.rst:3
+msgid "Magazijnen & locaties"
+msgstr ""
+
+#: ../../docs/voorraad/magazijnen-locaties.rst:5
+msgid ""
+"Magazijnbeheer speelt een belangrijke rol in het naadloos functioneren "
+"van voorraadbeheer én productverplaatsingen. CURQ biedt een uitstekende "
+"voorraadbeheer voor het soepel afhandelen van magazijnactiviteiten binnen"
+" het bedrijf. In CURQ is het mogelijk om meerdere magazijnen "
+"tegelijkertijd te beheren en te monitoren."
+msgstr ""
+
+#: ../../docs/voorraad/magazijnen-locaties.rst:11
+msgid "Magazijnen"
+msgstr ""
+
+#: ../../docs/voorraad/magazijnen-locaties.rst:13
+msgid ""
+"In het configuratiemenu van de voorraadmodule worden diverse opties "
+"getoond voor het beheren van magazijnen, locaties, routes, regels, "
+"bewerkingstypes, opslagcategorieën en wegzetregels. Dit alles is te "
+"vinden onder het menu *Configuratie - Magazijnbeheer*."
+msgstr ""
+
+#: ../../docs/voorraad/magazijnen-locaties.rst:18
+msgid ""
+"Deze mogelijkheden helpen bij het soepel laten verlopen van verschillende"
+" magazijnbeheer taken. Door de optie *Magazijnen* te selecteren in het "
+"configuratiemenu, kun je een overzicht krijgen van de magazijnen die zijn"
+" aangemaakt in CURQ. Deze lijst toont de naam van het magazijn, de "
+"voorraadlocatie, het adres en het bedrijf."
+msgstr ""
+
+#: ../../docs/voorraad/magazijnen-locaties.rst:22
+msgid ""
+"Wanneer je op een *Magazijn* optie klikt, wordt een formulier geopend van"
+" het magazijn en kun je de naam van het magazijn, de korte naam, het "
+"bedrijf en de locatie van het magazijn invullen in de daarvoor bestemde "
+"velden."
+msgstr ""
+
+#: ../../docs/voorraad/magazijnen-locaties.rst:27
+msgid ""
+"Het veld *Inkomende verzendingen* stelt je in staat om de route te kiezen"
+" die gevolgd moet worden wanneer producten naar dit specifieke magazijn "
+"worden verzonden. Je hebt de keuze uit verschillende opties. Bij de "
+"eerste optie, met één stap, komen de producten rechtstreeks in het "
+"magazijn aan. Bij de tweede optie worden de producten eerst ontvangen en "
+"vervolgens naar de juiste voorraadlocatie verplaatst. De derde optie "
+"omvat het ontvangen van de goederen, het uitvoeren van "
+"kwaliteitscontroles en het vervolgens verplaatsen naar de juiste "
+"voorraadlocatie."
+msgstr ""
+
+#: ../../docs/voorraad/magazijnen-locaties.rst:34
+msgid ""
+"Voor *Uitgaande zendingen* kun je de standaard route instellen die "
+"gevolgd moet worden bij het verzenden van producten uit het magazijn. Net"
+" als bij de inkomende zendingen zijn er verschillende opties beschikbaar."
+" De eerste optie omvat alleen het rechtstreeks verzenden van de goederen "
+"vanuit het magazijn. Bij de tweede optie **(pick/ship)** worden de "
+"goederen eerst verzonden naar een verzendlocatie en vervolgens "
+"afgeleverd. De derde optie **(pick/pack/ship)** vereist dat de goederen "
+"worden verpakt, verzonden naar een verzendlocatie en vervolgens "
+"afgeleverd."
+msgstr ""
+
+#: ../../docs/voorraad/magazijnen-locaties.rst:40
+msgid ""
+"Via de tab Technische informatie kun je de magazijnlocaties instellen en "
+"de verschillende bewerkingstypes."
+msgstr ""
+
+#: ../../docs/voorraad/magazijnen-locaties.rst:46
+msgid "Locaties"
+msgstr ""
+
+#: ../../docs/voorraad/magazijnen-locaties.rst:48
+msgid ""
+"Je kunt de opslagplaatsen in de magazijnen aanpassen via het menu "
+"*Opslaglocaties*. Met deze optie kun je meerdere opslaglocaties "
+"configureren voor de voorraden binnen hetzelfde magazijn. Om deze "
+"functionaliteit te activeren, navigeer je naar het **Instellingen** menu "
+"van de voorraadmodule en schakel je de optie *Opslaglocaties* in op het "
+"tabblad **Magazijn**, zoals aangegeven in onderstaande afbeelding."
+msgstr ""
+
+#: ../../docs/voorraad/magazijnen-locaties.rst:57
+msgid ""
+"Wanneer je deze optie activeert, wordt het bijbehorende submenu "
+"toegevoegd onder het menu Configuratie.  In de lijstweergave wordt "
+"gedetailleerde informatie getoond over de locatie, het locatietype, de "
+"opslagcategorie en het bedrijf. Gebruik de knop *Nieuw* om een nieuwe "
+"locatie te configureren."
+msgstr ""
+
+#: ../../docs/voorraad/magazijnen-locaties.rst:63
+msgid ""
+"Dit is de formulierweergave van het venster voor het aanmaken van een "
+"nieuwe locatie. Voer een naam in voor de locatie in het veld "
+"*Locatienaam* en selecteer de *Bovenliggende locatie* indien nodig. In "
+"het tabblad **Aanvullende informatie** kun je een geschikte locatie "
+"*soort* selecteren voor deze locatie."
+msgstr ""
+
+#: ../../docs/voorraad/magazijnen-locaties.rst:67
+msgid "Hieronder worden de beschikbare *locatietypes* vermeld:"
+msgstr ""
+
+#: ../../docs/voorraad/magazijnen-locaties.rst:69
+msgid ""
+"**Leveranciers Locatie**: Deze virtuele locatie fungeert als de "
+"bronlocatie voor producten die rechtstreeks vanuit leveranciers komen."
+msgstr ""
+
+#: ../../docs/voorraad/magazijnen-locaties.rst:71
+msgid ""
+"**Bekijken**: Deze virtuele locatie wordt gebruikt om een hiërarchische "
+"structuur te creëren voor het magazijn dat niet direct producten kan "
+"opslaan."
+msgstr ""
+
+#: ../../docs/voorraad/magazijnen-locaties.rst:73
+msgid ""
+"**Interne locatie**: Dit zijn de feitelijke of fysieke locaties binnen "
+"het magazijn waar producten worden opgeslagen."
+msgstr ""
+
+#: ../../docs/voorraad/magazijnen-locaties.rst:74
+msgid ""
+"**Klantlocatie**: Deze virtuele locatie fungeert als de "
+"bestemmingslocatie voor producten die naar klanten worden verzonden."
+msgstr ""
+
+#: ../../docs/voorraad/magazijnen-locaties.rst:75
+msgid ""
+"**Voorraadverlies**: Deze virtuele locatie wordt gebruikt als tegenhanger"
+" voor inventarisatie bewerkingen die worden gebruikt om voorraadniveaus "
+"in balans te brengen."
+msgstr ""
+
+#: ../../docs/voorraad/magazijnen-locaties.rst:77
+msgid ""
+"**Productie**: Dit is een virtuele tegenpartij locatie die wordt gebruikt"
+" voor productie bewerkingen. Door componenten van deze locatie te "
+"verbruiken, kunt u eindproducten produceren."
+msgstr ""
+
+#: ../../docs/voorraad/magazijnen-locaties.rst:79
+msgid ""
+"**Transit Locatie**: De transit locatie fungeert als een tussenstation "
+"bij intercompany- of *inter* magazijn operaties."
+msgstr ""
+
+#: ../../docs/voorraad/magazijnen-locaties.rst:81
+msgid ""
+"Er is een mogelijkheid om een opslagcategorie in te vullen. Door het veld"
+" *Is een afkeurlocatie* te activeren, kun je deze locatie aanduiden als "
+"een plaats voor het opslaan van afgekeurde en beschadigde producten. Als "
+"je een locatie wilt gebruiken voor het opslaan van geretourneerde "
+"producten, kun je de functie \"Is een retourlocatie\" inschakelen. Om "
+"alle hoeveelheden op deze specifieke locatie aan te vullen, kun je de "
+"optie *Locatie aanvullen* activeren."
+msgstr ""
+
+#: ../../docs/voorraad/magazijnen-locaties.rst:86
+msgid ""
+"Op het tabblad *Cyclische telling* kun je de frequentie van "
+"inventarisatie specificeren. Als het verschil meer dan nul is, wordt de "
+"datum van de inventarisatie voor de producten die op deze locatie zijn "
+"opgeslagen automatisch ingesteld op de gedefinieerde frequentie. De datum"
+" van de laatste inventarisatie op deze locatie wordt weergegeven in het "
+"veld *Laatste effectieve inventarisatie*. De datum van de volgende "
+"geplande inventarisatie op basis van een cyclisch schema verschijnt in "
+"het veld \"Volgende verwachte voorraadtelling\"."
+msgstr ""
+
+#: ../../docs/voorraad/magazijnen-locaties.rst:92
+msgid ""
+"De verwijderstrategie voor deze locatie kan worden ingesteld op het "
+"tabblad **Logistiek**."
+msgstr ""
+
+#: ../../docs/voorraad/magazijnen-locaties.rst:96
+msgid ""
+"Dit bepaalt de standaardmethode voor het suggereren van de exacte locatie"
+" waar de producten moeten worden opgehaald, inclusief het lot en andere "
+"details, voor deze specifieke locatie. Deze methode kan worden "
+"afgedwongen op het niveau van de productcategorie en zal terugvallen op "
+"de bovenliggende locaties als er geen specifieke methode is ingesteld. De"
+" beschikbare strategieën zijn als volgt:"
+msgstr ""
+
+#: ../../docs/voorraad/magazijnen-locaties.rst:101
+msgid ""
+"**FIFO (First In, First Out)**: Producten of partijen die als eerste op "
+"voorraad zijn gekomen, worden als eerste verwijderd."
+msgstr ""
+
+#: ../../docs/voorraad/magazijnen-locaties.rst:102
+msgid ""
+"**LIFO (Last In, First Out)**: Producten of partijen die het laatst op "
+"voorraad zijn gekomen, worden als eerste verwijderd."
+msgstr ""
+
+#: ../../docs/voorraad/magazijnen-locaties.rst:103
+msgid ""
+"**Dichtstbijzijnde locatie**: Producten of partijen die zich het dichtst "
+"bij de doellocatie bevinden, worden als eerste verplaatst."
+msgstr ""
+
+#: ../../docs/voorraad/magazijnen-locaties.rst:104
+msgid ""
+"**FEFO (First Expired, First Out)**: Producten of partijen met de "
+"vroegste vervaldatum worden als eerste verplaatst."
+msgstr ""
+
+#: ../../docs/voorraad/magazijnen-locaties.rst:106
+msgid ""
+"De slimme knoppen in het venster van de locatie tonen de *Wegzet regels* "
+"en de *Huidige Voorraad* van deze specifieke locatie."
+msgstr ""

@@ -1,0 +1,111 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2025, Onestein
+# This file is distributed under the same license as the CURQ package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2025.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: CURQ \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-05-28 09:55+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: en\n"
+"Language-Team: en <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.17.0\n"
+
+#: ../../docs/boekhouding/belastingen/belastingen-afstandsverkopen-eu.rst:2
+msgid "Afstandsverkopen binnen de EU"
+msgstr ""
+
+#: ../../docs/boekhouding/belastingen/belastingen-afstandsverkopen-eu.rst:4
+msgid ""
+"Afstandsverkopen binnen de EU omvatten de handel in goederen en diensten "
+"van bedrijven naar consumenten (B2C), waarbij de verkoper geregistreerd "
+"is voor BTW-doeleinden in een EU-lidstaat en de koper zich bevindt in een"
+" andere EU-lidstaat. Deze transacties, veelal via online platforms, "
+"postorders, telefoon of andere communicatiemiddelen, vormen een vorm van "
+"grensoverschrijdende handel binnen de Europese Unie."
+msgstr ""
+
+#: ../../docs/boekhouding/belastingen/belastingen-afstandsverkopen-eu.rst:9
+msgid ""
+"Als goederen binnen de EU worden verkocht aan klanten die geen btw-"
+"aangifte doen, moet doorgaans de btw worden aangegeven in het EU-land van"
+" ontvangst, waarbij het tarief van dat specifieke EU-land geldt. Een "
+"alternatieve, vereenvoudigde aanpak is beschikbaar via de 'Unieregeling' "
+"binnen het éénloketsysteem (One Stop Shop, OSS), waarmee de btw op een "
+"centrale wijze kan worden afgehandeld."
+msgstr ""
+
+#: ../../docs/boekhouding/belastingen/belastingen-afstandsverkopen-eu.rst:13
+msgid ""
+"Klanten die geen btw-aangifte doen, zoals particulieren, ondernemers met "
+"alleen vrijgestelde prestaties en niet-ondernemende rechtspersonen, "
+"vallen onder deze regeling. Voor deze groep geldt echter een drempel; "
+"wanneer hun aankopen het drempelbedrag overschrijden, zijn zij verplicht "
+"btw-aangifte te doen en kunnen zij geen gebruik maken van de "
+"Unieregeling."
+msgstr ""
+
+#: ../../docs/boekhouding/belastingen/belastingen-afstandsverkopen-eu.rst:18
+msgid ""
+"Meer informatie vind je hier op de website van de belastingdienst "
+"`Afstandsverkopen, zoals e-commerce, binnen de EU "
+"<https://www.belastingdienst.nl/wps/wcm/connect/bldcontentnl/belastingdienst/zakelijk/btw/zakendoen_met_het_buitenland"
+"/afstandsverkopen-zoals-e-commerce-en-diensten-voor-particulieren-in-"
+"andere-eu-landen/afstandsverkopen-zoals-e-commerce-binnen-de-eu/>`_"
+msgstr ""
+
+#: ../../docs/boekhouding/belastingen/belastingen-afstandsverkopen-eu.rst:22
+msgid "Activeren BTW voor EU intracommunautaire verkoop op afstand"
+msgstr ""
+
+#: ../../docs/boekhouding/belastingen/belastingen-afstandsverkopen-eu.rst:24
+msgid ""
+"CURQ vergemakkelijkt afstandsverkopen binnen de EU door vooraf BTW-codes "
+"per land te definiëren. Deze functionaliteit is beschikbaar via "
+"Facturatie > Configuratie > Instellingen. Schakel de optie \"EU "
+"intracommunautaire verkoop op afstand\" in om hiervan gebruik te maken."
+msgstr ""
+
+#: ../../docs/boekhouding/belastingen/belastingen-afstandsverkopen-eu.rst:29
+msgid ""
+"CURQ genereert vervolgens de BTW-codes en fiscale posities per land. Je "
+"kunt deze gegevens terugvinden onder Facturatie > Configuratie > BTW of "
+"Fiscale Posities."
+msgstr ""
+
+#: ../../docs/boekhouding/belastingen/belastingen-afstandsverkopen-eu.rst:34
+msgid ""
+"De BTW-codes zijn te onderscheiden aan de hand van het percentage en de "
+"landcode, en ze kunnen direct worden toegepast. Het is echter verstandig "
+"om de BTW-codes te verifiëren en ervoor te zorgen dat de instellingen in "
+"lijn zijn met jouw boekhouding. Dit kun je bespreken met je accountant of"
+" boekhouder."
+msgstr ""
+
+#: ../../docs/boekhouding/belastingen/belastingen-afstandsverkopen-eu.rst:40
+msgid ""
+"Fiscale posities kunnen worden geïdentificeerd aan de hand van \"OSS "
+"B2C\" in de naam. Elke fiscale positie is verbonden met een specifiek "
+"land, waardoor CURQ automatisch de correcte BTW kan bepalen op basis "
+"hiervan."
+msgstr ""
+
+#: ../../docs/boekhouding/belastingen/belastingen-afstandsverkopen-eu.rst:44
+msgid "Rapportages"
+msgstr ""
+
+#: ../../docs/boekhouding/belastingen/belastingen-afstandsverkopen-eu.rst:46
+msgid ""
+"Voor afstandsverkopen biedt CURQ geen specifieke rapportage aan. De "
+"relevante gegevens worden vastgelegd op de boekingsregels, inclusief een "
+"BTW-code en de bijbehorende BTW-rubriek. Met deze informatie kan een "
+"overzicht worden gegenereerd voor de belastingdienst."
+msgstr ""

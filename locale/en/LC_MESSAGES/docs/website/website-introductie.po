@@ -1,0 +1,62 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2025, Onestein
+# This file is distributed under the same license as the CURQ package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2025.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: CURQ \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-05-28 09:55+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: en\n"
+"Language-Team: en <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.17.0\n"
+
+#: ../../docs/website/website-introductie.rst:2
+msgid "Website"
+msgstr ""
+
+#: ../../docs/website/website-introductie.rst:4
+msgid ""
+"Binnen de CURQ-omgeving is het moeiteloos om een volledige en "
+"professionele website te creëren met behulp van thema's en de intuïtieve "
+"bouwer die pagina's opbouwt met bouwblokken. Met de website-applicatie "
+"kun je niet alleen je eigen webshop opzetten, maar ook blogs starten en "
+"bijhouden, vacatures plaatsen, evenementen adverteren, en nog veel meer."
+msgstr ""
+
+#: ../../docs/website/website-introductie.rst:11
+msgid ""
+"Bovendien biedt CURQ naadloze integratie met populaire tools zoals "
+"OpenStreet Maps, waardoor je locatiegerichte functies kunt toevoegen aan "
+"je website, zoals kaarten, routebeschrijvingen en locatiepinnen. "
+"Daarnaast heb je toegang tot de uitgebreide Font Awesome-bibliotheek, "
+"waarmee je je website kunt verrijken met een breed scala aan prachtige "
+"iconen voor een unieke visuele uitstraling."
+msgstr ""
+
+#: ../../docs/website/website-introductie.rst:16
+msgid ""
+"Door de volledige integratie met alle andere applicaties binnen CURQ, kun"
+" je jouw website aanpassen aan de specifieke behoeften van jouw bedrijf. "
+"Of het nu gaat om het automatiseren van marketingcampagnes of directe "
+"interacie met uw klanten. CURQ biedt een naadloze ervaring om jouw online"
+" aanwezigheid te optimaliseren en je bedrijf te laten groeien."
+msgstr ""
+
+#: ../../docs/website/website-introductie.rst:21
+msgid ""
+"Met CURQ kun je ook eenvoudig de stijl van je website aanpassen wanneer "
+"je maar wilt, dankzij verschillende thema's, animaties en een uitgebreide"
+" selectie van lettertypen. Of je nu een strak en professioneel design "
+"wilt of een creatieve en levendige uitstraling nastreeft, CURQ biedt alle"
+" tools die je nodig hebt om je website te laten opvallen en je merk te "
+"versterken."
+msgstr ""

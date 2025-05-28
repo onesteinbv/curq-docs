@@ -1,0 +1,179 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2025, Onestein
+# This file is distributed under the same license as the CURQ package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2025.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: CURQ \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-05-28 09:55+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: en\n"
+"Language-Team: en <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.17.0\n"
+
+#: ../../docs/boekhouding/kilometerregistratie.rst:2
+msgid "Kilometerregistratie"
+msgstr ""
+
+#: ../../docs/boekhouding/kilometerregistratie.rst:4
+msgid ""
+"Deze module is een uitbreiding op de Wagenpark module en geeft de "
+"gebruiker de mogelijkheid om zakelijke ritten te registreren en te "
+"declareren. De module is gebaseerd op de Nederlandse belastingregels, "
+"maar kan ook worden gebruikt voor kilometerregistratie in het algemeen. "
+"In Nederland is het soms nodig om ook de privékilometers te registreren, "
+"vandaar dat we het (niet verplichte) veld 'Is privérit' hebben "
+"toegevoegd. Deze module verbindt de wagenparkmodule met de "
+"onkostenmodule."
+msgstr ""
+
+#: ../../docs/boekhouding/kilometerregistratie.rst:9
+msgid ""
+"Op de website van de belastingdienst vind je meer informatie over de "
+"wettelijke richtlijnen, zie hiervoor"
+msgstr ""
+
+#: ../../docs/boekhouding/kilometerregistratie.rst:11
+msgid "https://www.belastingdienst.nl/wps/wcm/connect/bldcontentnl/belastingdienst/zakelijk/winst/inkomstenbelasting/inkomstenbelasting_voor_ondernemers/privegebruik_auto/rittenregistratie"
+msgstr ""
+
+#: ../../docs/boekhouding/kilometerregistratie.rst:14
+msgid "Voorbereidingen"
+msgstr ""
+
+#: ../../docs/boekhouding/kilometerregistratie.rst:15
+msgid "Om met de module te kunnen werken dien je de volgende zaken in te richten:"
+msgstr ""
+
+#: ../../docs/boekhouding/kilometerregistratie.rst:17
+msgid ""
+"Via Menu > Werknemers maak je een werknemer aan en koppel je je "
+"gebruikersaccount (tab Personeelsbeheer instellingen) aan de werknemer."
+msgstr ""
+
+#: ../../docs/boekhouding/kilometerregistratie.rst:23
+msgid ""
+"Om de geregistreerde kilometers te kunnen declareren, ga naar Menu > "
+"Declaraties > Configuratie > Declaratiecategorieën. In de "
+"onkostencategorie Kilometerstand (of maak een nieuwe categorie aan) moet "
+"het selectievakje ‘Kan gebruikt worden in de wagenpark module’ aangevinkt"
+" staan en bij **FACTURATIE** de optie ‘Verkoopprijs’ geselecteerd worden."
+" Bij **BOEKHOUDING** is het ook mogelijk om een specifieke kostenrekening"
+" (grootboek) of analytisch account (kostenplaats) toe te voegen. Bij "
+"**ALGEMENE INFORMATIE** kun je ook de kilometervergoeding (Verkoopprijs) "
+"ingeven en kiezen voor de maateenheid km (kilometer) of mi (miles)."
+msgstr ""
+
+#: ../../docs/boekhouding/kilometerregistratie.rst:34
+msgid ""
+"Bij Menu > Wagenpark dien je een auto aan te maken. Merk en Kentekenplaat"
+" zijn verplichte velden. Ook kan de standaard onkostencategorie worden "
+"toegevoegd (Declaratie categorie), dit vereenvoudigt de invoer van je "
+"kilometer registratie."
+msgstr ""
+
+#: ../../docs/boekhouding/kilometerregistratie.rst:42
+msgid "Invulscherm kilometerregistratie"
+msgstr ""
+
+#: ../../docs/boekhouding/kilometerregistratie.rst:44
+msgid "We hebben nieuwe velden toegevoegd aan het menu 'Kilometerregistratie'."
+msgstr ""
+
+#: ../../docs/boekhouding/kilometerregistratie.rst:46
+msgid ""
+"**Contact**. Vul hier de klantnaam in van je bezoek. Je ziet in de "
+"dropdown lijst je bestaande klanten staan, maar je kunt ook vanaf deze "
+"plek direct een nieuwe klant aanmaken. Dit is geen verplicht veld."
+msgstr ""
+
+#: ../../docs/boekhouding/kilometerregistratie.rst:48
+msgid "**Van**. Vul hier het vertrekpunt van je rit in."
+msgstr ""
+
+#: ../../docs/boekhouding/kilometerregistratie.rst:49
+msgid "**Naar**. Vul hier de bestemming van je rit in."
+msgstr ""
+
+#: ../../docs/boekhouding/kilometerregistratie.rst:50
+msgid "**Enkele reis**. Vul hier de afstand van de enkele reis in."
+msgstr ""
+
+#: ../../docs/boekhouding/kilometerregistratie.rst:51
+msgid ""
+"**Is een retourrit?** Vink dit veld aan als je een heen- en een terugreis"
+" wil registreren."
+msgstr ""
+
+#: ../../docs/boekhouding/kilometerregistratie.rst:52
+msgid ""
+"**Totale km-rit**. Als het veld 'is een retourrit' niet is aangekruist "
+"dan zie je de waarde van 'enkele reis', anders verdubbelt CURQ de enkele "
+"reis waarde."
+msgstr ""
+
+#: ../../docs/boekhouding/kilometerregistratie.rst:54
+msgid ""
+"**Totaal km's**. Dit is een berekend veld van het totaal aantal "
+"kilometers van de rit."
+msgstr ""
+
+#: ../../docs/boekhouding/kilometerregistratie.rst:55
+msgid ""
+"**Is een prive rit?**. Vink dit veld aleen aan als het een niet-zakelijke"
+" rit betreft. Prive rit regels krijgen een niet-declarabele status en kun"
+" je niet doorbelasten. De belastingdienst zegt hierover het volgende:"
+msgstr ""
+
+#: ../../docs/boekhouding/kilometerregistratie.rst:58
+msgid ""
+"*Als uw rittenregistratie niet voldoet aan deze eisen of als u geen "
+"rittenregistratie hebt bijgehouden, dan moet u de bijtelling privégebruik"
+" auto verrekenen met de autokosten van uw onderneming. Kunt u echter op "
+"een andere manier aantonen dat u op jaarbasis niet meer dan 500 kilometer"
+" privé hebt gereden, dan hoeft u niets te verrekenen.*"
+msgstr ""
+
+#: ../../docs/boekhouding/kilometerregistratie.rst:62
+msgid ""
+"**Onkostencategorie**. De waarde wordt overgenomen van de auto, je kan "
+"deze overschrijven als je meerdere categorieeen gebruikt."
+msgstr ""
+
+#: ../../docs/boekhouding/kilometerregistratie.rst:64
+msgid ""
+"**kilometerstand start**. Vul hier de kilometerstand in bij aanvang van "
+"de rit. Dit is geen verplicht veld."
+msgstr ""
+
+#: ../../docs/boekhouding/kilometerregistratie.rst:66
+msgid ""
+"**kilometerstand einde**, Vul hier de kilometerstand in bij einde van de "
+"rit. Dit is geen verplicht veld."
+msgstr ""
+
+#: ../../docs/boekhouding/kilometerregistratie.rst:68
+msgid "Invoerscherm kilometer registratie"
+msgstr ""
+
+#: ../../docs/boekhouding/kilometerregistratie.rst:75
+msgid "Kilometers doorbelasten"
+msgstr ""
+
+#: ../../docs/boekhouding/kilometerregistratie.rst:77
+msgid ""
+"Via Menu > Wagenpark > Wagenpark > Kilometertellers kun je vanuit de "
+"lijstweergave de regels doorbelasten die de status ‘Te declareren’ "
+"hebben. Je selecteert deze regels, en declareert ze vervolgens via de "
+"actieknop. De status van de kilometer regels verandert vervolgens naar "
+"‘Gedeclareerd’. Als het veld status in de lijstweergave staat dan zie je "
+"aangepaste status staan."
+msgstr ""

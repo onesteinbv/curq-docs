@@ -1,0 +1,74 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2025, Onestein
+# This file is distributed under the same license as the CURQ package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2025.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: CURQ \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-05-28 09:55+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: en\n"
+"Language-Team: en <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.17.0\n"
+
+#: ../../docs/boekhouding/betalingen/betalingen-interne-transfers.rst:2
+msgid "Interne overboekingen"
+msgstr ""
+
+#: ../../docs/boekhouding/betalingen/betalingen-interne-transfers.rst:4
+msgid ""
+"Interne overboekingen kunnen worden afgehandeld in CURQ. Denk hierbij aan"
+" overboekingen tussen eigen bankrekeningen. Je kan niet direct een "
+"boeking doen van de ene bank naar de andere, met interne overboekingen "
+"doe je dit wel op de correcte manier. Er zijn minstens twee "
+"bankrekeningen nodig om interne overschrijvingen te doen."
+msgstr ""
+
+#: ../../docs/boekhouding/betalingen/betalingen-interne-transfers.rst:9
+msgid "Configuratie"
+msgstr ""
+
+#: ../../docs/boekhouding/betalingen/betalingen-interne-transfers.rst:11
+msgid ""
+"Een interne overboekingsrekening wordt automatisch aangemaakt in je "
+"database op basis van het in CURQ gebruikte RGS. Om de standaardrekening "
+"voor interne overschrijvingen te wijzigen, ga naar Boekhouding ‣ "
+"Configuratie ‣ Instellingen en scroll naar beneden naar de sectie "
+"Standaardrekeningen. Wij adviseren deze aanpassing alleen te doen in "
+"overleg met je boekhouder."
+msgstr ""
+
+#: ../../docs/boekhouding/betalingen/betalingen-interne-transfers.rst:16
+msgid "Een interne overschrijving van de ene bank naar de andere registreren"
+msgstr ""
+
+#: ../../docs/boekhouding/betalingen/betalingen-interne-transfers.rst:18
+msgid ""
+"Als je geld wilt overmaken van de ene bank naar de andere, ga dan naar "
+"het Boekhouddashboard, klik op de keuzeknop (⋮) bij de bank van waaruit "
+"je de overschrijving wil doen en klik vervolgens op Betalingen. Selecteer"
+" of creëer een betaling, vink Interne overboeking aan en selecteer een "
+"Bestemmingsjournaal voordat je de interne overboeking bevestigt."
+msgstr ""
+
+#: ../../docs/boekhouding/betalingen/betalingen-interne-transfers.rst:26
+msgid ""
+"Het geld wordt nu geboekt op de overboekingsrekening en er wordt "
+"automatisch nog een betaling aangemaakt in het bestemmingsjournaal. Zodra"
+" dit is gebeurd, kun je de bankafschriftregels boeken en afletteren. Bij "
+"beide banken zie je dat er een openstaand tussenrekening saldo is. "
+"Wanneer je het geld daadwerkelijk hebt overmaakt, kun je de betaling en "
+"de ontvangstregel afletteren met de tussenrekeningen."
+msgstr ""
+
+#: ../../docs/boekhouding/betalingen/betalingen-interne-transfers.rst:35
+msgid "De boeking van de 'uitgaande' bankoverschrijving ziet er als volgt uit:"
+msgstr ""

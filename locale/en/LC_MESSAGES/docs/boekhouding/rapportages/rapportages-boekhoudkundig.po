@@ -1,0 +1,92 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2025, Onestein
+# This file is distributed under the same license as the CURQ package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2025.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: CURQ \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-05-28 09:55+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: en\n"
+"Language-Team: en <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.17.0\n"
+
+#: ../../docs/boekhouding/rapportages/rapportages-boekhoudkundig.rst:2
+msgid "Boekhoud rapportages"
+msgstr ""
+
+#: ../../docs/boekhouding/rapportages/rapportages-boekhoudkundig.rst:4
+msgid ""
+"In CURQ maken we gebruik van de standaard boekhoudrapportages zoals die "
+"door de OCA (Odoo Community Organisation) worden onderhouden. De "
+"rapportages worden hieronder besproken."
+msgstr ""
+
+#: ../../docs/boekhouding/rapportages/rapportages-boekhoudkundig.rst:8
+msgid "Grootboek"
+msgstr ""
+
+#: ../../docs/boekhouding/rapportages/rapportages-boekhoudkundig.rst:10
+msgid ""
+"Dit overzicht geeft een overzicht van alle boekingen per grootboek. Er is"
+" een aantal filter opties om het gewenste overzicht te zien:"
+msgstr ""
+
+#: ../../docs/boekhouding/rapportages/rapportages-boekhoudkundig.rst:12
+msgid "**Datumreeks**. Hier geef je het gewenste boekjaar in."
+msgstr ""
+
+#: ../../docs/boekhouding/rapportages/rapportages-boekhoudkundig.rst:14
+msgid ""
+"**Gegroepeerd op**. Je kan kiezen om het rapport per klant/leverancier te"
+" tonen, per belastinggroep, of zonder selectie. Wanneer je eeen totaal "
+"overzicht wil hebben van het openstaande saldo dan is het advies om te "
+"kiezen niet te groeperen."
+msgstr ""
+
+#: ../../docs/boekhouding/rapportages/rapportages-boekhoudkundig.rst:17
+msgid ""
+"**Datum vanaf - tot**. Gebruik de datumselectie als je een afwijkende "
+"periode wil controleren."
+msgstr ""
+
+#: ../../docs/boekhouding/rapportages/rapportages-boekhoudkundig.rst:19
+msgid ""
+"**Doel boekingen**. Hier selecteer je of je alleen de geboekte regels wil"
+" zien, of dat je ook alle conceptboekingen mee wil nemen in het rapport."
+msgstr ""
+
+#: ../../docs/boekhouding/rapportages/rapportages-boekhoudkundig.rst:23
+msgid "Filter opties"
+msgstr ""
+
+#: ../../docs/boekhouding/rapportages/rapportages-boekhoudkundig.rst:25
+msgid ""
+"Je kan het rapport filteren zodat bijvoorbeeld alleen de debiteuren of "
+"crediteuren getoond worden. Het is ook mogelijk het rapport via "
+"aanvullende filter regels samen te stellen. Je doet dit op het tabblad "
+"'Aanvullende filters'. Via de knop 'Domein' kun je meerdere "
+"selectieregels opgeven."
+msgstr ""
+
+#: ../../docs/boekhouding/rapportages/rapportages-boekhoudkundig.rst:33
+msgid ""
+"Na maken van de selectie kun je vervolgens de detailinformatie van de "
+"regels inzien door op de velden te klikken die blauw gekleurd zijn."
+msgstr ""
+
+#: ../../docs/boekhouding/rapportages/rapportages-boekhoudkundig.rst:41
+msgid "Afdrukken of exporteren Grootboek"
+msgstr ""
+
+#: ../../docs/boekhouding/rapportages/rapportages-boekhoudkundig.rst:43
+msgid "Je kunt de gemaakte selectie naar keuze exporteren naar Excel of naar PDF."
+msgstr ""

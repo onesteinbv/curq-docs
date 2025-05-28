@@ -1,0 +1,128 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2025, Onestein
+# This file is distributed under the same license as the CURQ package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2025.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: CURQ \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-05-28 09:55+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: en\n"
+"Language-Team: en <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.17.0\n"
+
+#: ../../docs/boekhouding/bankrekeningen/bankrekeningen-myponto.rst:2
+msgid "Bankrekening en My Ponto Bank Feed"
+msgstr ""
+
+#: ../../docs/boekhouding/bankrekeningen/bankrekeningen-myponto.rst:4
+msgid ""
+"In CURQ kunnen bankafschriften worden gesynchroniseerd met je bank via de"
+" MyPonto verbinding. Maak eerst je bank aan in CURQ en koppel dit dagboek"
+" vervolgens aan my Ponto."
+msgstr ""
+
+#: ../../docs/boekhouding/bankrekeningen/bankrekeningen-myponto.rst:7
+msgid ""
+"**Koppelen banknummer**: Standaard hebben we 1 bank geconfigureerd in "
+"CURQ. Voeg je bankrekening toe, zoals getoond in onderstaand voorbeeld. "
+"Activeer ook de optie (OCA)Online, hiermee activeer je de optie voor bank"
+" synchronisatie."
+msgstr ""
+
+#: ../../docs/boekhouding/bankrekeningen/bankrekeningen-myponto.rst:15
+msgid ""
+"Wanneer je extra banknummers wil toevoegen, doe dit dan via menufunctie "
+"'Facturatie'-> 'Configuratie'-> 'Voeg een bankrekening toe'. Je hoeft "
+"alleen je banknummer in te geven, CURQ zal bij opslaan een nieuw dagboek "
+"aanmaken en alle gegevens direct goed invullen. Er is wel een controle of"
+" het IBAN nummer dat wordt ingevoerd, correct is, maar dit is alleen een "
+"controle."
+msgstr ""
+
+#: ../../docs/boekhouding/bankrekeningen/bankrekeningen-myponto.rst:23
+msgid ""
+"Wanneer je een bankrekening hebt met een andere valuta dan EUR (de "
+"basisvaluta in CURQ), dan kun je een bankjournaal koppelen aan de andere "
+"valuta. Activeer eerst de valuta via onderstaand menu."
+msgstr ""
+
+#: ../../docs/boekhouding/bankrekeningen/bankrekeningen-myponto.rst:29
+msgid "Stappen om de verbinding te maken op MyPonto."
+msgstr ""
+
+#: ../../docs/boekhouding/bankrekeningen/bankrekeningen-myponto.rst:30
+msgid "Stel je My Ponto verbinding in, zie https://myponto.com/en/."
+msgstr ""
+
+#: ../../docs/boekhouding/bankrekeningen/bankrekeningen-myponto.rst:32
+msgid "Ga na het registreren naar 'Integraties'."
+msgstr ""
+
+#: ../../docs/boekhouding/bankrekeningen/bankrekeningen-myponto.rst:34
+msgid "Kies 'Maak een aangepaste ingratie'."
+msgstr ""
+
+#: ../../docs/boekhouding/bankrekeningen/bankrekeningen-myponto.rst:36
+msgid "Vul je bankrekeningnummer in en kies 'Toevoegen'."
+msgstr ""
+
+#: ../../docs/boekhouding/bankrekeningen/bankrekeningen-myponto.rst:38
+msgid ""
+"Als resultaat zie je de klant- en geheime id. Deze informatie later nodig"
+" in CURQ."
+msgstr ""
+
+#: ../../docs/boekhouding/bankrekeningen/bankrekeningen-myponto.rst:54
+msgid "Configuratie in CURQ"
+msgstr ""
+
+#: ../../docs/boekhouding/bankrekeningen/bankrekeningen-myponto.rst:55
+msgid "Maak eerst je bankrekening aan in CURQ"
+msgstr ""
+
+#: ../../docs/boekhouding/bankrekeningen/bankrekeningen-myponto.rst:57
+msgid "Het bijbehorende Bankjournaal wordt automatisch aangemaakt"
+msgstr ""
+
+#: ../../docs/boekhouding/bankrekeningen/bankrekeningen-myponto.rst:59
+msgid "Ga naar het menu 'Online Bank afschrift aanbieders'"
+msgstr ""
+
+#: ../../docs/boekhouding/bankrekeningen/bankrekeningen-myponto.rst:61
+msgid "Maak een nieuw record aan, kies het juiste Bankjournaal"
+msgstr ""
+
+#: ../../docs/boekhouding/bankrekeningen/bankrekeningen-myponto.rst:63
+msgid "Kies MyPonto"
+msgstr ""
+
+#: ../../docs/boekhouding/bankrekeningen/bankrekeningen-myponto.rst:65
+msgid "Kies tussen een dagelijks, wekelijks of maandelijks overzicht"
+msgstr ""
+
+#: ../../docs/boekhouding/bankrekeningen/bankrekeningen-myponto.rst:67
+msgid "Vul in het veld Login de Client ID string in van de Ponto integratie"
+msgstr ""
+
+#: ../../docs/boekhouding/bankrekeningen/bankrekeningen-myponto.rst:70
+msgid "Vul in het veld Secret id het geheim van MyPonto in"
+msgstr ""
+
+#: ../../docs/boekhouding/bankrekeningen/bankrekeningen-myponto.rst:72
+msgid "Je bent nu klaar om gegevens van je bank op te halen"
+msgstr ""
+
+#: ../../docs/boekhouding/bankrekeningen/bankrekeningen-myponto.rst:74
+msgid ""
+"De banktransacties worden op de achtergrond vervolgens iedere dag "
+"automatisch opgehaald"
+msgstr ""

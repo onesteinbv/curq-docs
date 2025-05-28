@@ -1,0 +1,197 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2025, Onestein
+# This file is distributed under the same license as the CURQ package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2025.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: CURQ \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-05-28 09:55+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: en\n"
+"Language-Team: en <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.17.0\n"
+
+#: ../../docs/boekhouding/bankrekeningen/bankrekeningen.rst:2
+msgid "Bank"
+msgstr ""
+
+#: ../../docs/boekhouding/bankrekeningen/bankrekeningen.rst:4
+msgid ""
+"Het bankboek fungeert als een gedetailleerd financieel dagboek waarin "
+"alle banktransacties worden vastgelegd, waaronder stortingen, opnames en "
+"afschrijvingen. Het zorgvuldig bijhouden van deze transacties via het "
+"bankboek biedt niet alleen de mogelijkheid om financiële bewegingen "
+"nauwkeurig te monitoren, maar speelt tevens een cruciale rol bij het "
+"vaststellen van budgetten en het analyseren van uitgavenpatronen."
+msgstr ""
+
+#: ../../docs/boekhouding/bankrekeningen/bankrekeningen.rst:9
+msgid ""
+"Wanneer je start met CURQ dan is er al 1 bank dagboek aangemaakt, je "
+"dient hier alleen nog je eigen bankrekening aan toe te voegen. Ook kun je"
+" de omschrijving aanpassen. Belangrijk om te weten is dat als je een "
+"tweede of aanvullende bankrekening wil toevoegen, je dit doet via het "
+"menu 'Toevoegen bank'. Je hoeft in dat menu alleen je bankrekening toe te"
+" voegen, CURQ zal na opslaan zelf een nieuw dagboek aanmaken dat aan deze"
+" bankrekening is gekoppeld."
+msgstr ""
+
+#: ../../docs/boekhouding/bankrekeningen/bankrekeningen.rst:15
+msgid "Hieronder zie je hoe je een tweede en volgende bankdagboek aanmaakt."
+msgstr ""
+
+#: ../../docs/boekhouding/bankrekeningen/bankrekeningen.rst:25
+msgid "De configuratie van het eerste bankboek ziet er als volgt uit."
+msgstr ""
+
+#: ../../docs/boekhouding/bankrekeningen/bankrekeningen.rst:29
+msgid "**Bankrekening:** Koppel de juiste grootboekrekening aan de bank hier."
+msgstr ""
+
+#: ../../docs/boekhouding/bankrekeningen/bankrekeningen.rst:30
+msgid ""
+"**Afletteringsmodus:** Bepaal of het mogelijk is om een aflettering op de"
+" bank ongedaan te maken na uitvoering."
+msgstr ""
+
+#: ../../docs/boekhouding/bankrekeningen/bankrekeningen.rst:32
+msgid ""
+"Boekingsbewerking: Afletteringen kunnen ongedaan worden gemaakt en "
+"bewerkt."
+msgstr ""
+
+#: ../../docs/boekhouding/bankrekeningen/bankrekeningen.rst:33
+msgid ""
+"Tussenrekening behouden: Het is niet mogelijk om een aflettering ongedaan"
+" te maken."
+msgstr ""
+
+#: ../../docs/boekhouding/bankrekeningen/bankrekeningen.rst:35
+msgid ""
+"**Tussenrekening:** Bankafschriftregels worden tijdelijk hier geboekt "
+"totdat de daadwerkelijke aflettering plaatsvindt."
+msgstr ""
+
+#: ../../docs/boekhouding/bankrekeningen/bankrekeningen.rst:36
+msgid ""
+"**Winstrekening:** Deze rekening behandelt positieve kasverschillen in "
+"het eindsaldo van de POS-app"
+msgstr ""
+
+#: ../../docs/boekhouding/bankrekeningen/bankrekeningen.rst:37
+msgid ""
+"**Verliesrekening:** Deze rekening behandelt negatieve kasverschillen in "
+"het eindsaldo van de POS-app."
+msgstr ""
+
+#: ../../docs/boekhouding/bankrekeningen/bankrekeningen.rst:38
+msgid ""
+"**Specifieke betalingsvolgorde:** Vink dit aan als je niet dezelfde "
+"nummerreeks wilt gebruiken voor betalingen en banktransacties die in dit "
+"dagboek zijn geboekt."
+msgstr ""
+
+#: ../../docs/boekhouding/bankrekeningen/bankrekeningen.rst:40
+msgid ""
+"**Korte code:** Een korte code voor de weergave. Daarnaast worden "
+"transacties voorzien van dit voorvoegsel."
+msgstr ""
+
+#: ../../docs/boekhouding/bankrekeningen/bankrekeningen.rst:41
+msgid ""
+"**Valuta:** De valuta van dit dagboek. Als je een dollarbankrekening "
+"hebt, vul dan hier de US dollar in."
+msgstr ""
+
+#: ../../docs/boekhouding/bankrekeningen/bankrekeningen.rst:42
+msgid ""
+"**Rekeningnummer:** Jouw bankrekeningnummer. Maak dit hier aan of koppel "
+"jouw rekening."
+msgstr ""
+
+#: ../../docs/boekhouding/bankrekeningen/bankrekeningen.rst:43
+msgid ""
+"**Bank feeds:** Dit bepaalt de manier waarop bankafschriften worden "
+"ingelezen."
+msgstr ""
+
+#: ../../docs/boekhouding/bankrekeningen/bankrekeningen.rst:45
+msgid ""
+"Importeer(camt.053.001.02, camt.054.001.02): Handmatig importeren van een"
+" CAMT-bestand. Je kunt dit bestand bij de meeste banken downloaden."
+msgstr ""
+
+#: ../../docs/boekhouding/bankrekeningen/bankrekeningen.rst:47
+msgid "Nog niet gedefinieerd: Handmatig of nog onbekend."
+msgstr ""
+
+#: ../../docs/boekhouding/bankrekeningen/bankrekeningen.rst:48
+msgid ""
+"Mollie Synchronization: Via Mollie payment provider. Meer informatie over"
+" Mollie vind je in de Mollie handleiding."
+msgstr ""
+
+#: ../../docs/boekhouding/bankrekeningen/bankrekeningen.rst:49
+msgid ""
+"Online (OCA): Synchronisatie via een online dienst. In Nederland wordt "
+"Ponto gebruikt."
+msgstr ""
+
+#: ../../docs/boekhouding/bankrekeningen/bankrekeningen.rst:51
+msgid ""
+"Op het tabblad \"Inkomende betalingen\" kun je aangeven welke "
+"betalingsmethoden beschikbaar zijn in dit dagboek. Als je van plan bent "
+"om facturen van je klanten te innen, kun je gebruikmaken van Sepa Direct "
+"Debit, dat standaard al voor je is geactiveerd."
+msgstr ""
+
+#: ../../docs/boekhouding/bankrekeningen/bankrekeningen.rst:56
+msgid ""
+"Op het tabblad \"Uitgaande betalingen\" kun je aangeven welke "
+"betalingsmethoden beschikbaar zijn in dit dagboek. Als je van plan bent "
+"om je leveranciers via de boekhouding te betalen, kun je gebruikmaken van"
+" Sepa Credit Transfer. Hiermee genereer je een bestand dat je vervolgens "
+"kunt uploaden naar je bank. Daarna kun je de betaling verder afhandelen "
+"in je bankomgeving. Hiermee voorkom je dubbele invoer en fouten die "
+"kunnen optreden bij handmatige betalingsverwerking."
+msgstr ""
+
+#: ../../docs/boekhouding/bankrekeningen/bankrekeningen.rst:63
+msgid ""
+"Op het tabblad \"Geavanceerde instellingen\" kun je de volgende "
+"instellingen configureren."
+msgstr ""
+
+#: ../../docs/boekhouding/bankrekeningen/bankrekeningen.rst:67
+msgid ""
+"**Toegestane rekeningen:** Bepaalt welke grootboekrekeningen mogen worden"
+" gebruikt in dit dagboek."
+msgstr ""
+
+#: ../../docs/boekhouding/bankrekeningen/bankrekeningen.rst:68
+msgid ""
+"**Saldolijn toevoegen:** Voegt een extra regel toe aan het bankafschrift "
+"voor het saldo."
+msgstr ""
+
+#: ../../docs/boekhouding/bankrekeningen/bankrekeningen.rst:69
+msgid ""
+"**Blokkeer datum:** Vergrendelt het dagboek volledig, zodat niemand "
+"wijzigingen kan aanbrengen na de opgegeven datum."
+msgstr ""
+
+#: ../../docs/boekhouding/bankrekeningen/bankrekeningen.rst:70
+msgid ""
+"**Blokkeerdatum voor standaard gebruiker:** Alleen de facturatiebeheerder"
+" kan nog wijzigingen aanbrengen in dit dagboek. Dit is handig als de "
+"boekhouder wel wijzigingen mag aanbrengen, maar een standaard gebruiker "
+"niet."
+msgstr ""

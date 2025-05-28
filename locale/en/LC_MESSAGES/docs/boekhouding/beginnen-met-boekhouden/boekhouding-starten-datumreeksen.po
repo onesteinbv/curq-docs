@@ -1,0 +1,186 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2025, Onestein
+# This file is distributed under the same license as the CURQ package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2025.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: CURQ \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-05-28 09:55+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: en\n"
+"Language-Team: en <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.17.0\n"
+
+#: ../../docs/boekhouding/beginnen-met-boekhouden/boekhouding-starten-datumreeksen.rst:2
+msgid "Datumreeksen"
+msgstr ""
+
+#: ../../docs/boekhouding/beginnen-met-boekhouden/boekhouding-starten-datumreeksen.rst:4
+msgid ""
+"CURQ is volledig gebaseerd op datums in de administratie, zonder gebruik "
+"te maken van specifieke boekhoudperiodes. In plaats daarvan worden "
+"datumreeksen ingezet om zowel de invoer als het genereren van overzichten"
+" te vergemakkelijken. Deze benadering biedt flexibiliteit en "
+"gestructureerd beheer van financiële informatie."
+msgstr ""
+
+#: ../../docs/boekhouding/beginnen-met-boekhouden/boekhouding-starten-datumreeksen.rst:9
+msgid "Datumreeksen beheren"
+msgstr ""
+
+#: ../../docs/boekhouding/beginnen-met-boekhouden/boekhouding-starten-datumreeksen.rst:11
+msgid ""
+"CURQ zal jaarlijks automatisch de datumreeksen met maanden, kwartalen en "
+"jaren bijwerken. Gebruikers hebben ook de mogelijkheid om deze reeksen "
+"handmatig te beheren. Om toegang te krijgen tot de beheersfunctie, is het"
+" noodzakelijk om eerst de ontwikkelaarsmodus in te schakelen. "
+"Datumreeksen kunnen worden aangepast via Instellingen > Technisch > "
+"Datumreeksen."
+msgstr ""
+
+#: ../../docs/boekhouding/beginnen-met-boekhouden/boekhouding-starten-datumreeksen.rst:17
+msgid ""
+"In dit venster kun je direct de gegevens aanpassen of klikken op [NIEUW] "
+"om een nieuwe reeks te creëren."
+msgstr ""
+
+#: ../../docs/boekhouding/beginnen-met-boekhouden/boekhouding-starten-datumreeksen.rst:20
+msgid ""
+"Houd er rekening mee dat als je op 'NIEUW' klikt, je cursor automatisch "
+"naar beneden springt."
+msgstr ""
+
+#: ../../docs/boekhouding/beginnen-met-boekhouden/boekhouding-starten-datumreeksen.rst:22
+msgid "**Naam:** Voer hier de naam in voor jouw datumreeks."
+msgstr ""
+
+#: ../../docs/boekhouding/beginnen-met-boekhouden/boekhouding-starten-datumreeksen.rst:23
+msgid "**Type:** Maak een keuze tussen Jaar, Kwartaal of Maand."
+msgstr ""
+
+#: ../../docs/boekhouding/beginnen-met-boekhouden/boekhouding-starten-datumreeksen.rst:24
+msgid "**Startdatum:** Startdatum van jouw reeks."
+msgstr ""
+
+#: ../../docs/boekhouding/beginnen-met-boekhouden/boekhouding-starten-datumreeksen.rst:25
+msgid "**Einddatum:** Einddatum van jouw reeks."
+msgstr ""
+
+#: ../../docs/boekhouding/beginnen-met-boekhouden/boekhouding-starten-datumreeksen.rst:26
+msgid "**Actief:**  Schakel dit vinkje in als je de datumreeks wilt tonen."
+msgstr ""
+
+#: ../../docs/boekhouding/beginnen-met-boekhouden/boekhouding-starten-datumreeksen.rst:29
+msgid ""
+"De onderstaande secties zijn uitsluitend bedoeld voor situaties waarin "
+"afwijkende configuraties vereist zijn. De meeste bedrijven zullen hier "
+"geen behoefte aan hebben."
+msgstr ""
+
+#: ../../docs/boekhouding/beginnen-met-boekhouden/boekhouding-starten-datumreeksen.rst:33
+msgid "Datumreekssoorten beheren"
+msgstr ""
+
+#: ../../docs/boekhouding/beginnen-met-boekhouden/boekhouding-starten-datumreeksen.rst:35
+msgid ""
+"Via Instellingen > Technisch > Datumreekssoorten kun je verschillende "
+"soorten configureren die van toepassing zijn op jouw datumreeksen of die "
+"gebruikt kunnen worden bij het genereren ervan."
+msgstr ""
+
+#: ../../docs/boekhouding/beginnen-met-boekhouden/boekhouding-starten-datumreeksen.rst:40
+msgid "**Naam:** Geef hier de naam op voor de datumreekssoort."
+msgstr ""
+
+#: ../../docs/boekhouding/beginnen-met-boekhouden/boekhouding-starten-datumreeksen.rst:41
+msgid ""
+"**Overlappen toestaan:** Datumreeksen met deze soort mogen elkaar "
+"overlappen qua datum."
+msgstr ""
+
+#: ../../docs/boekhouding/beginnen-met-boekhouden/boekhouding-starten-datumreeksen.rst:42
+msgid ""
+"**Is fiscal month?** Niet van toepassing. Deze soorten zijn al reeds aan "
+"gemaakt in CURQ en kunnen niet meer gewijzigd worden."
+msgstr ""
+
+#: ../../docs/boekhouding/beginnen-met-boekhouden/boekhouding-starten-datumreeksen.rst:43
+msgid ""
+"**Is fiscal quarter?** Niet van toepassing. Deze soorten zijn al reeds "
+"aan gemaakt in CURQ en kunnen niet meer gewijzigd worden."
+msgstr ""
+
+#: ../../docs/boekhouding/beginnen-met-boekhouden/boekhouding-starten-datumreeksen.rst:44
+msgid ""
+"**Is fiscal year?** Niet van toepassing. Deze soorten zijn al reeds aan "
+"gemaakt in CURQ en kunnen niet meer gewijzigd worden."
+msgstr ""
+
+#: ../../docs/boekhouding/beginnen-met-boekhouden/boekhouding-starten-datumreeksen.rst:46
+msgid ""
+"Op tabblad [Generatie] kun je de configuratie wijzigen voor het "
+"automatisch genereren van datumreeksen."
+msgstr ""
+
+#: ../../docs/boekhouding/beginnen-met-boekhouden/boekhouding-starten-datumreeksen.rst:50
+msgid "**Duur:** Standaard tijdsduur voor dit type."
+msgstr ""
+
+#: ../../docs/boekhouding/beginnen-met-boekhouden/boekhouding-starten-datumreeksen.rst:51
+msgid ""
+"**Voorvoegsel voor reeksnaam:** Deze tekst wordt toegevoegd aan de namen "
+"van de datumreeksen als een voorvoegsel. Elke datumreeks begint dan met "
+"deze specifieke tekst."
+msgstr ""
+
+#: ../../docs/boekhouding/beginnen-met-boekhouden/boekhouding-starten-datumreeksen.rst:53
+msgid ""
+"**Uitdrukking reeksnaam:** Hier kun je met behulp van een formule de "
+"reeksnaam op een slimme manier instellen."
+msgstr ""
+
+#: ../../docs/boekhouding/beginnen-met-boekhouden/boekhouding-starten-datumreeksen.rst:54
+msgid ""
+"**Aanmaken:** Hier kun je aangeven hoe ver van tevoren een reeks moet "
+"worden aangemaakt."
+msgstr ""
+
+#: ../../docs/boekhouding/beginnen-met-boekhouden/boekhouding-starten-datumreeksen.rst:57
+msgid "Genereer Datumreeksen"
+msgstr ""
+
+#: ../../docs/boekhouding/beginnen-met-boekhouden/boekhouding-starten-datumreeksen.rst:59
+msgid ""
+"Als je een groot aantal reeksen tegelijk wilt genereren, kun je "
+"gebruikmaken van de optie om een datumreeks te laten genereren. Ga "
+"hiervoor naar Instellingen > Technisch > Genereer Datumreeksen."
+msgstr ""
+
+#: ../../docs/boekhouding/beginnen-met-boekhouden/boekhouding-starten-datumreeksen.rst:64
+msgid ""
+"Zodra je een bepaald type hebt geselecteerd, worden de instellingen "
+"overgenomen van de betreffende datumreekssoort. De uitleg van de meeste "
+"velden staat hierboven."
+msgstr ""
+
+#: ../../docs/boekhouding/beginnen-met-boekhouden/boekhouding-starten-datumreeksen.rst:67
+msgid "**Startdatum:** Vanaf deze datum worden de datumreeksen gegenereerd."
+msgstr ""
+
+#: ../../docs/boekhouding/beginnen-met-boekhouden/boekhouding-starten-datumreeksen.rst:68
+msgid "**Tot:** Tot deze datum worden de datumreeksen gegenereerd."
+msgstr ""
+
+#: ../../docs/boekhouding/beginnen-met-boekhouden/boekhouding-starten-datumreeksen.rst:69
+msgid ""
+"**of genereren .. items:** Als je geen specifieke datum invoert, kun je "
+"hier aangeven hoeveel reeksen er gegenereerd moeten worden."
+msgstr ""

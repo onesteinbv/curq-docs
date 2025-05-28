@@ -1,0 +1,223 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2025, Onestein
+# This file is distributed under the same license as the CURQ package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2025.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: CURQ \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-05-28 09:55+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: en\n"
+"Language-Team: en <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.17.0\n"
+
+#: ../../docs/boekhouding/abonnementen/verkoopcontracten.rst:2
+msgid "Contracten"
+msgstr ""
+
+#: ../../docs/boekhouding/abonnementen/verkoopcontracten.rst:4
+msgid ""
+"Met de contractenmodule kun je diensten en of producten als abonnement "
+"verkopen aan klanten. Je klant kan dit abonnement zelf inzien via de "
+"klanten portal. Na aanmaken van een contract zal CURQ op basis van de "
+"ingegeven startdatum automatisch de periodieke factuur genereren."
+msgstr ""
+
+#: ../../docs/boekhouding/abonnementen/verkoopcontracten.rst:8
+msgid ""
+"Je kunt een contract los invoeren, maar dit kan ook door eerst een "
+"sjabloon aan te maken. Heb je een vaak terugkerend abonnement dan is het "
+"aan te raden om met sjablonen te werken."
+msgstr ""
+
+#: ../../docs/boekhouding/abonnementen/verkoopcontracten.rst:11
+msgid ""
+"De werkwijze van invoeren van een contract bestaat uit de volgende "
+"stappen:"
+msgstr ""
+
+#: ../../docs/boekhouding/abonnementen/verkoopcontracten.rst:13
+msgid "Maak een contract aan, eventueel gebaseerd op een contractsjabloon"
+msgstr ""
+
+#: ../../docs/boekhouding/abonnementen/verkoopcontracten.rst:14
+msgid "Geef aan hoe vaak en voor welke periode je het abonnement wil laten lopen"
+msgstr ""
+
+#: ../../docs/boekhouding/abonnementen/verkoopcontracten.rst:15
+msgid ""
+"Voeg minimaal de verplichte velden aan en voeg de dienst(en) en /of "
+"producten die je wil gaan factureren"
+msgstr ""
+
+#: ../../docs/boekhouding/abonnementen/verkoopcontracten.rst:16
+msgid ""
+"Na ingeven van de velden zal CURQ de factuur genereren via een "
+"automatisch proces. Voor de eerste factuur kun je ervoor kiezen deze "
+"meteen aan te maken via menu 'Handmatig factureren verkoopcontracten'."
+msgstr ""
+
+#: ../../docs/boekhouding/abonnementen/verkoopcontracten.rst:18
+msgid ""
+"Na ingeven van alle gegevens kun je via de knop 'verzenden via mail' de "
+"klant het contract mailen."
+msgstr ""
+
+#: ../../docs/boekhouding/abonnementen/verkoopcontracten.rst:21
+msgid "Aanmaken verkoopcontract"
+msgstr ""
+
+#: ../../docs/boekhouding/abonnementen/verkoopcontracten.rst:23
+msgid ""
+"Contracten zijn voor klanten te vinden in Facturatie > Klanten > Klant en"
+" Facturatie  en voor leveranciers onder Leveranciers > "
+"Leverancierscontracten."
+msgstr ""
+
+#: ../../docs/boekhouding/abonnementen/verkoopcontracten.rst:31
+msgid "Algemene gegevens contract"
+msgstr ""
+
+#: ../../docs/boekhouding/abonnementen/verkoopcontracten.rst:33
+msgid ""
+"Vul bij het maken van een contract de velden in voor het selecteren van "
+"de factureringsparameters:"
+msgstr ""
+
+#: ../../docs/boekhouding/abonnementen/verkoopcontracten.rst:35
+msgid "**Contractnaam** **Klantnaam**. Hier kies je de klant."
+msgstr ""
+
+#: ../../docs/boekhouding/abonnementen/verkoopcontracten.rst:38
+msgid ""
+"**Betaalmode**. Wanneer je met de klant afpreekt dat je het abonnement "
+"iedere maand incasseert, dan kun je kiezen voor betaalwijze 'Direct "
+"debit'. Voor deze betaalwijze dien je dan wel een mandaat te hebben "
+"ingesteld via menu Facturatie -> klanten-> bankmandaten."
+msgstr ""
+
+#: ../../docs/boekhouding/abonnementen/verkoopcontracten.rst:42
+msgid ""
+"**Prijslijst (optioneel)**. Indien je afwijkende prijsafspraken wil "
+"vastleggen, dan kun je de aangepaste prijslijst hier kiezen (dit kan ook "
+"via het contractsjabloon)."
+msgstr ""
+
+#: ../../docs/boekhouding/abonnementen/verkoopcontracten.rst:47
+msgid "facturatie instellingen"
+msgstr ""
+
+#: ../../docs/boekhouding/abonnementen/verkoopcontracten.rst:49
+msgid ""
+"**Herhalend op regelniveau**. Wanneer je dit vinkje aanzet, dan kun je op"
+" regelniveau de herhalingsinstellingen aanpassen. Met deze optie wordt "
+"het mogelijk om verschillende abonnementen onder 1 contract vast te "
+"leggen. CURQ zal op basis van de regel een factuur genereren. In het "
+"schermvoorbeeld hieronder is een maand en een jaarabonnement op 1 "
+"contract gezet."
+msgstr ""
+
+#: ../../docs/boekhouding/abonnementen/verkoopcontracten.rst:57
+msgid ""
+"**Factureer iedere**. de herhalingsparameters: interval (dagen, weken, "
+"maanden, maanden laatste dag of jaren), begindatum, datum van de volgende"
+" factuur (automatisch berekend, kan worden gewijzigd) en einddatum "
+"(optioneel)"
+msgstr ""
+
+#: ../../docs/boekhouding/abonnementen/verkoopcontracten.rst:60
+msgid ""
+"**Factuursoort**. Pre-paid (factuur aan het begin van de periode) of "
+"post-paid (factuur aan het begin van de volgende periode)"
+msgstr ""
+
+#: ../../docs/boekhouding/abonnementen/verkoopcontracten.rst:62
+msgid ""
+"**Datum eerste factuur**. Datum van de eerste factuur. De factuurdatum "
+"van de tweede factuur wordt bepaaald op basis van de gekozen factuursoort"
+msgstr ""
+
+#: ../../docs/boekhouding/abonnementen/verkoopcontracten.rst:65
+msgid "**Einddatum factuur**. Optioneel veld om te vullen"
+msgstr ""
+
+#: ../../docs/boekhouding/abonnementen/verkoopcontracten.rst:68
+msgid "Type van herhaling"
+msgstr ""
+
+#: ../../docs/boekhouding/abonnementen/verkoopcontracten.rst:69
+msgid ""
+"Dit onderdeel gaat over de inhoud van het contract; welke producten en/of"
+" diensten wil je aanbieden aan de klant?"
+msgstr ""
+
+#: ../../docs/boekhouding/abonnementen/verkoopcontracten.rst:71
+msgid ""
+"**Aan te maken soort**. Bij verkoopcontracten zal hier 'invoice staan', "
+"bij leverancierscontracten 'vendorbill'."
+msgstr ""
+
+#: ../../docs/boekhouding/abonnementen/verkoopcontracten.rst:73
+msgid "Voeg de regels toe waarmee gefactureerd moet worden:"
+msgstr ""
+
+#: ../../docs/boekhouding/abonnementen/verkoopcontracten.rst:76
+msgid "Abonnementsproduct"
+msgstr ""
+
+#: ../../docs/boekhouding/abonnementen/verkoopcontracten.rst:77
+msgid "Het product met een beschrijving, een hoeveelheid en een prijs"
+msgstr ""
+
+#: ../../docs/boekhouding/abonnementen/verkoopcontracten.rst:79
+msgid "**auto-price**.  Om automatisch een prijs uit de prijslijst te laten halen"
+msgstr ""
+
+#: ../../docs/boekhouding/abonnementen/verkoopcontracten.rst:81
+msgid ""
+"#START# of #END# in het beschrijvingsveld om de begin-/einddatum van de "
+"gefactureerde periode weer te geven in de beschrijving van de "
+"factuurregel"
+msgstr ""
+
+#: ../../docs/boekhouding/abonnementen/verkoopcontracten.rst:84
+msgid ""
+"**Stop**. Met deze knop kun je het contract van de regel stopzetten. Je "
+"kan hierbij de reden van opzegging invoeren en een einddatum van het "
+"contract."
+msgstr ""
+
+#: ../../docs/boekhouding/abonnementen/verkoopcontracten.rst:87
+msgid ""
+"De \"Generate Recurring Invoices from Contracts\" cron draait dagelijks "
+"om de facturen te genereren. Als je je in debugmodus bevindt, kun je op "
+"de knop voor het aanmaken van facturen klikken."
+msgstr ""
+
+#: ../../docs/boekhouding/abonnementen/verkoopcontracten.rst:90
+msgid ""
+"De snelkoppeling Toon terugkerende facturen op contracten toont alle "
+"facturen die zijn aangemaakt op basis van het contract."
+msgstr ""
+
+#: ../../docs/boekhouding/abonnementen/verkoopcontracten.rst:92
+msgid "Het contractoverzicht kan worden afgedrukt via het menu Afdrukken."
+msgstr ""
+
+#: ../../docs/boekhouding/abonnementen/verkoopcontracten.rst:94
+msgid ""
+"Het contract kan per e-mail worden verzonden met de knop Verzenden per "
+"e-mail"
+msgstr ""
+
+#: ../../docs/boekhouding/abonnementen/verkoopcontracten.rst:96
+msgid "Hieronder zie je een voorbeeld van een ingevoerd voorbeeld abonnement:"
+msgstr ""

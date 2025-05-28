@@ -1,0 +1,111 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2025, Onestein
+# This file is distributed under the same license as the CURQ package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2025.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: CURQ \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-05-28 09:55+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: en\n"
+"Language-Team: en <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.17.0\n"
+
+#: ../../docs/boekhouding/beginnen-met-boekhouden/boekhouding-starten-beginbalans.rst:2
+msgid "Openingsbalans"
+msgstr ""
+
+#: ../../docs/boekhouding/beginnen-met-boekhouden/boekhouding-starten-beginbalans.rst:4
+msgid ""
+"Als je begint met het opzetten van een boekhouding, is het gebruikelijk "
+"om te starten met een openingsbalans. Dit vormt financieel gezien het "
+"vertrekpunt van de boekhouding en wordt vaak in samenwerking met een "
+"boekhouder opgesteld."
+msgstr ""
+
+#: ../../docs/boekhouding/beginnen-met-boekhouden/boekhouding-starten-beginbalans.rst:7
+msgid ""
+"Indien je een startende ondernemer bent, is het mogelijk dat je een deel "
+"van je vermogen investeert in je bedrijf; dit wordt vervolgens opgenomen "
+"in je openingsbalans. Voor bestaande bedrijven die willen overstappen "
+"naar CURQ, kan de boekhouding worden overgedragen met behulp van een "
+"openingsbalans."
+msgstr ""
+
+#: ../../docs/boekhouding/beginnen-met-boekhouden/boekhouding-starten-beginbalans.rst:11
+msgid ""
+"Een openingsbalans wordt opgesteld in het memoriaal dagboek. Zo'n "
+"memoriaalboeking maak je via Facturatie > Boekhouding > Boekingen."
+msgstr ""
+
+#: ../../docs/boekhouding/beginnen-met-boekhouden/boekhouding-starten-beginbalans.rst:15
+msgid "Klik vervolgens op de knop [NIEUW]. Het volgende scherm verschijnt."
+msgstr ""
+
+#: ../../docs/boekhouding/beginnen-met-boekhouden/boekhouding-starten-beginbalans.rst:19
+msgid ""
+"**Referentie:** Geef hier een duidelijke omschrijving mee, zodat je weet "
+"waar deze boeking voor bedoeld is."
+msgstr ""
+
+#: ../../docs/boekhouding/beginnen-met-boekhouden/boekhouding-starten-beginbalans.rst:20
+msgid ""
+"**Boekhouddatum:** Dit is de datum van deze boeking. Voor een "
+"openingsbalans wordt vaak het einde van een periode gekozen, meestal 31 "
+"december voor de meeste bedrijven. Als je ergens in het jaar overgaat, "
+"kies dan de laatste dag van de vorige maand. Mocht je twijfelen, overleg "
+"dan met je boekhouder welke datum geschikt is."
+msgstr ""
+
+#: ../../docs/boekhouding/beginnen-met-boekhouden/boekhouding-starten-beginbalans.rst:23
+msgid "**Dagboek:** Kies hier het memoriaal dagboek dat hiervoor bestemd is."
+msgstr ""
+
+#: ../../docs/boekhouding/beginnen-met-boekhouden/boekhouding-starten-beginbalans.rst:25
+msgid "Op de boekingsregels geef je de details van de boeking in."
+msgstr ""
+
+#: ../../docs/boekhouding/beginnen-met-boekhouden/boekhouding-starten-beginbalans.rst:29
+msgid "**Rekening:** Vul hier de grootboekrekening in."
+msgstr ""
+
+#: ../../docs/boekhouding/beginnen-met-boekhouden/boekhouding-starten-beginbalans.rst:30
+msgid ""
+"**Relatie:** Voeg een relatie toe als je ook openstaande posten of "
+"facturen in de openingsbalans opneemt. Maak per relatie een regel aan, "
+"zowel voor klanten als leveranciers. Als je veel regels moet invoeren, is"
+" het voor overzichtelijkheid aan te raden om meerdere "
+"openingsbalansboekingen te maken. Je kunt bijvoorbeeld een aparte boeking"
+" maken voor klanten en een aparte voor leveranciers."
+msgstr ""
+
+#: ../../docs/boekhouding/beginnen-met-boekhouden/boekhouding-starten-beginbalans.rst:33
+msgid ""
+"**Label:** Geef hier een duidelijke omschrijving zodat je weet waar deze "
+"boekingsregel voor bedoeld is. Als je openstaande facturen meeneemt, vul "
+"dan hier de factuurnummers in."
+msgstr ""
+
+#: ../../docs/boekhouding/beginnen-met-boekhouden/boekhouding-starten-beginbalans.rst:35
+msgid "**Debet:** Bedrag aan de debetzijde."
+msgstr ""
+
+#: ../../docs/boekhouding/beginnen-met-boekhouden/boekhouding-starten-beginbalans.rst:36
+msgid "**Credit:** Bedrag aan de creditzijde."
+msgstr ""
+
+#: ../../docs/boekhouding/beginnen-met-boekhouden/boekhouding-starten-beginbalans.rst:38
+msgid ""
+"Je kunt de openingsbalansboeking pas opslaan wanneer deze in balans is. "
+"Controleer voordat je de boeking opslaat of het totaalbedrag aan zowel de"
+" debet- als creditzijde gelijk is. CURQ toont het totaal van beide "
+"kolommen onderaan."
+msgstr ""

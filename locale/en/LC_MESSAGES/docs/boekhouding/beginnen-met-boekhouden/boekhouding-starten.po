@@ -1,0 +1,136 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2025, Onestein
+# This file is distributed under the same license as the CURQ package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2025.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: CURQ \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-05-28 09:55+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: en\n"
+"Language-Team: en <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.17.0\n"
+
+#: ../../docs/boekhouding/beginnen-met-boekhouden/boekhouding-starten.rst:2
+msgid "Starten met boekhouding"
+msgstr ""
+
+#: ../../docs/boekhouding/beginnen-met-boekhouden/boekhouding-starten.rst:4
+msgid "Om te beginnen met de boekhouding in CURQ, volg je deze stappen:"
+msgstr ""
+
+#: ../../docs/boekhouding/beginnen-met-boekhouden/boekhouding-starten.rst:7
+msgid "Bedrijfsgegevens configureren"
+msgstr ""
+
+#: ../../docs/boekhouding/beginnen-met-boekhouden/boekhouding-starten.rst:9
+msgid ""
+"Ga naar de instellingen van jouw bedrijf in CURQ. Je kunt deze "
+"instellingen benaderen via Instellingen > Gebruikers & Bedrijven > "
+"Bedrijven. Open jouw bedrijf en configureer de bedrijfsgegevens."
+msgstr ""
+
+#: ../../docs/boekhouding/beginnen-met-boekhouden/boekhouding-starten.rst:15
+msgid "Bankkoppeling"
+msgstr ""
+
+#: ../../docs/boekhouding/beginnen-met-boekhouden/boekhouding-starten.rst:17
+msgid ""
+"Als je een bankrekening hebt, kun je deze koppelen aan CURQ om "
+"transacties automatisch te importeren en af te stemmen. De koppeling "
+"maakt gebruik van de diensten van Ponto. Ponto is een serviceprovider die"
+" jouw bankrekeninggegevens doorstuurt van jouw bank naar CURQ. Een "
+"abonnement aanschaffen kan via www.myponto.com."
+msgstr ""
+
+#: ../../docs/boekhouding/beginnen-met-boekhouden/boekhouding-starten.rst:20
+msgid ""
+"De koppeling van Ponto wordt op de volgende manier ingesteld. Ga naar "
+"Facturatie > Configuratie > Online Bankafschrift Aanbieders. Klik op "
+"[NIEUW]. In het scherm vul je de volgende gegevens in:"
+msgstr ""
+
+#: ../../docs/boekhouding/beginnen-met-boekhouden/boekhouding-starten.rst:25
+msgid ""
+"Als je net bent gestart, heb je nog geen dagboek met je eigen "
+"bankrekening. Kies hier voor 'Bank'."
+msgstr ""
+
+#: ../../docs/boekhouding/beginnen-met-boekhouden/boekhouding-starten.rst:26
+msgid "Bij 'Service' moet 'MyPonto.com' ingevuld worden."
+msgstr ""
+
+#: ../../docs/boekhouding/beginnen-met-boekhouden/boekhouding-starten.rst:27
+msgid ""
+"De Login en Secret Key kunnen worden opgehaald via jouw account bij "
+"MyPonto."
+msgstr ""
+
+#: ../../docs/boekhouding/beginnen-met-boekhouden/boekhouding-starten.rst:28
+msgid ""
+"De andere gegevens staan verder goed. Het is raadzaam om de "
+"Opvraaginterval niet lager in te stellen dan 1 uur."
+msgstr ""
+
+#: ../../docs/boekhouding/beginnen-met-boekhouden/boekhouding-starten.rst:29
+msgid ""
+"Na het selecteren van het Bankdagboek, vullen we jouw bankgegevens in het"
+" dagboek. Dit doe je door met je muis op het Bankdagboek te staan. Aan de"
+" rechterkant vind je een pijl."
+msgstr ""
+
+#: ../../docs/boekhouding/beginnen-met-boekhouden/boekhouding-starten.rst:34
+msgid "Zodra je hier op klikt, verschijnen de instellingen van het dagboek."
+msgstr ""
+
+#: ../../docs/boekhouding/beginnen-met-boekhouden/boekhouding-starten.rst:38
+msgid ""
+"Vul daar het juiste rekeningnummer in. Kies dan voor 'Aanmaken en "
+"Bewerken'. In het nieuwe scherm vul je de resterende bankgegevens in."
+msgstr ""
+
+#: ../../docs/boekhouding/beginnen-met-boekhouden/boekhouding-starten.rst:41
+msgid ""
+"CURQ slaat automatisch de gegevens op bij elke wijziging. Je hoeft binnen"
+" CURQ niet apart een gegeven op te slaan."
+msgstr ""
+
+#: ../../docs/boekhouding/beginnen-met-boekhouden/boekhouding-starten.rst:44
+msgid "Belastingen configureren"
+msgstr ""
+
+#: ../../docs/boekhouding/beginnen-met-boekhouden/boekhouding-starten.rst:46
+msgid ""
+"Configureer de belastingen op basis van jouw locatie en "
+"bedrijfsactiviteiten. In CURQ zijn de standaard BTW-codes al ingericht "
+"voor NL (hoog en laag), voor binnen de EU en voor buiten de EU. Je vindt "
+"de BTW-codes terug via Facturatie > Configuratie > BTW. Mocht je hier "
+"vragen over hebben, neem dan contact op met ons CURQ Support Team."
+msgstr ""
+
+#: ../../docs/boekhouding/beginnen-met-boekhouden/boekhouding-starten.rst:53
+msgid "Grootboek Rekeningschema"
+msgstr ""
+
+#: ../../docs/boekhouding/beginnen-met-boekhouden/boekhouding-starten.rst:55
+msgid ""
+"CURQ laadt het RGS Nederlandse Rekeningschema (Referentie "
+"Grootboekschema) in voor jouw bedrijf. Dit omvat onder andere "
+"grootboekrekeningen, debiteuren- en crediteurenrekeningen, en andere "
+"financiële categorieën. RGS is het grootboekrekeningschema dat is "
+"gebaseerd op een gestandaardiseerde codering van financiële gegevens."
+msgstr ""
+
+#: ../../docs/boekhouding/beginnen-met-boekhouden/boekhouding-starten.rst:61
+msgid ""
+"Houd er rekening mee dat het instellen van boekhouding in CURQ enigszins "
+"kan variëren, afhankelijk van jouw specifieke behoeften."
+msgstr ""

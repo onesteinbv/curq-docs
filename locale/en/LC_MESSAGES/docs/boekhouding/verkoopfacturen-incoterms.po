@@ -1,0 +1,185 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2025, Onestein
+# This file is distributed under the same license as the CURQ package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2025.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: CURQ \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-05-28 09:55+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: en\n"
+"Language-Team: en <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.17.0\n"
+
+#: ../../docs/boekhouding/verkoopfacturen-incoterms.rst:2
+msgid "Incoterms"
+msgstr ""
+
+#: ../../docs/boekhouding/verkoopfacturen-incoterms.rst:4
+msgid ""
+"Incoterms, afgeleid van de term \"International Commercial Terms\", "
+"vormen een cruciaal instrument in de wereld van internationale handel. Ze"
+" zijn ontworpen om duidelijkheid te bieden en de wederzijdse "
+"verplichtingen tussen kopers en verkopers te reguleren tijdens de "
+"verschillende fasen van een internationale transactie."
+msgstr ""
+
+#: ../../docs/boekhouding/verkoopfacturen-incoterms.rst:8
+msgid ""
+"Deze gestandaardiseerde voorwaarden, die regelmatig worden bijgewerkt "
+"door de Internationale Kamer van Koophandel (ICC), dienen als een "
+"gemeenschappelijke taal voor handelspartijen wereldwijd. Incoterms "
+"omvatten essentiële informatie over de overdracht van goederen, het "
+"risico op schade of verlies, evenals de verdeling van kosten."
+msgstr ""
+
+#: ../../docs/boekhouding/verkoopfacturen-incoterms.rst:12
+msgid ""
+"Een belangrijk aspect dat Incoterms regelen, is het specifiëren van het "
+"exacte punt waarop de verantwoordelijkheid overgaat van de verkoper naar "
+"de koper. Dit omvat details over transport, verzekering, "
+"douaneafhandeling, en andere relevante logistieke aspecten. Bijvoorbeeld,"
+" bepalen ze of de koper verantwoordelijk is voor de kosten en risico's "
+"van het transport vanaf het moment dat de goederen de verkoper's "
+"faciliteit verlaten."
+msgstr ""
+
+#: ../../docs/boekhouding/verkoopfacturen-incoterms.rst:17
+msgid ""
+"Incoterms bieden duidelijkheid en voorkomen misverstanden tussen "
+"handelspartners, waardoor ze essentieel zijn voor een soepele en "
+"efficiënte internationale handel. Ze variëren van termen die geschikt "
+"zijn voor elk type transport, zoals \"CIF\" (Cost, Insurance, Freight) "
+"voor zeevracht, tot termen die meer geschikt zijn voor multimodaal "
+"transport, zoals \"EXW\" (Ex Works). Het begrijpen en correct toepassen "
+"van Incoterms is van groot belang om geschillen te voorkomen en het "
+"internationale handelsproces te stroomlijnen."
+msgstr ""
+
+#: ../../docs/boekhouding/verkoopfacturen-incoterms.rst:22
+msgid ""
+"Het is belangrijk om de specifieke Incoterm overeen te komen bij "
+"internationale transacties om duidelijkheid te verschaffen over de "
+"rechten en verantwoordelijkheden van de betrokken partijen."
+msgstr ""
+
+#: ../../docs/boekhouding/verkoopfacturen-incoterms.rst:27
+msgid "Instellingen en gebruik op factuur"
+msgstr ""
+
+#: ../../docs/boekhouding/verkoopfacturen-incoterms.rst:28
+msgid ""
+"Binnen Instellingen > Facturatie > Sectie Klantfacturen, heb je de "
+"mogelijkheid om de standaard Incoterm aan te geven. Deze geselecteerde "
+"Incoterm wordt automatisch ingevuld bij het opstellen van je facturen."
+msgstr ""
+
+#: ../../docs/boekhouding/verkoopfacturen-incoterms.rst:33
+msgid ""
+"Bij het opstellen van een factuur kun je de Incoterms vinden onder het "
+"tabblad [Overige info] bij de leveringscondities. Het is ook mogelijk om "
+"hiervan af te wijken door een andere waarde in te vullen. De "
+"geselecteerde leveringscondities verschijnen onderaan op de afgedrukte "
+"factuur."
+msgstr ""
+
+#: ../../docs/boekhouding/verkoopfacturen-incoterms.rst:40
+msgid "Beschikbare Incoterms (2020)"
+msgstr ""
+
+#: ../../docs/boekhouding/verkoopfacturen-incoterms.rst:41
+msgid ""
+"De 11 actuele Incoterms van 2020 zijn beschikbaar in CURQ. Indien het "
+"nodig is om een Incoterm aan te passen of toe te voegen, kan dit worden "
+"gedaan via Facturatie > Configuratie > Leveringscondities."
+msgstr ""
+
+#: ../../docs/boekhouding/verkoopfacturen-incoterms.rst:46
+msgid ""
+"**EXW - Ex Works (Af fabriek):** De verkoper levert de goederen aan de "
+"koper op het eigen bedrijf of een andere benoemde plaats (fabriek, "
+"magazijn, enz.), en is niet verantwoordelijk voor transport, verzekering "
+"of douaneafhandeling."
+msgstr ""
+
+#: ../../docs/boekhouding/verkoopfacturen-incoterms.rst:49
+msgid ""
+"**FCA - Free Carrier (Vrachtvrij tot vervoerder):** De verkoper levert de"
+" goederen, betaalt voor het laden op het vervoermiddel, en draagt de "
+"kosten en risico's tot op het moment van levering aan de vervoerder."
+msgstr ""
+
+#: ../../docs/boekhouding/verkoopfacturen-incoterms.rst:52
+msgid ""
+"**CPT - Carriage Paid To (Vrachtvrij tot):** De verkoper levert de "
+"goederen aan de vervoerder en betaalt de vrachtkosten tot op de "
+"afgesproken bestemming."
+msgstr ""
+
+#: ../../docs/boekhouding/verkoopfacturen-incoterms.rst:55
+msgid ""
+"**CIP - Carriage and Insurance Paid To (Vrachtvrij inclusief verzekering "
+"tot):** De verkoper levert de goederen aan de vervoerder, betaalt de "
+"vrachtkosten en voorziet in een verzekering tot op de afgesproken "
+"bestemming."
+msgstr ""
+
+#: ../../docs/boekhouding/verkoopfacturen-incoterms.rst:58
+msgid ""
+"**DAP - Delivered at Place (Afgeleverd op adres):** De verkoper levert de"
+" goederen op de afgesproken plaats in het land van bestemming, en draagt "
+"alle kosten en risico's tot aan dit punt."
+msgstr ""
+
+#: ../../docs/boekhouding/verkoopfacturen-incoterms.rst:61
+msgid ""
+"**DPU - Delivered at Place Unloaded (Geleverd op plaats uitgeladen):** De"
+" verkoper levert de goederen op de afgesproken plaats in het land van "
+"bestemming, en draagt alle kosten en risico's totdat de goederen zijn "
+"gelost op de aangewezen locatie."
+msgstr ""
+
+#: ../../docs/boekhouding/verkoopfacturen-incoterms.rst:64
+msgid ""
+"**DDP - Delivered Duty Paid (Franco inclusief rechten):** De verkoper "
+"levert de goederen op de afgesproken plaats in het land van bestemming, "
+"inclusief alle kosten en belastingen, en neemt alle risico's tot aan de "
+"levering."
+msgstr ""
+
+#: ../../docs/boekhouding/verkoopfacturen-incoterms.rst:67
+msgid ""
+"**FAS - Free Alongside Ship (Vrij langszij schip):** De verkoper levert "
+"de goederen langs het schip in de haven van verzending, draagt de kosten "
+"en risico's tot dat punt."
+msgstr ""
+
+#: ../../docs/boekhouding/verkoopfacturen-incoterms.rst:70
+msgid ""
+"**FOB - Free on Board (Vrij aan boord):** De verkoper levert de goederen "
+"aan boord van het schip in de haven van verzending, betaalt voor de "
+"kosten en risico's tot aan boord van het schip."
+msgstr ""
+
+#: ../../docs/boekhouding/verkoopfacturen-incoterms.rst:73
+msgid ""
+"**CFR - Cost and Freight (Kostprijs en vracht):** De verkoper levert de "
+"goederen aan boord van het schip in de haven van verzending en betaalt "
+"voor de vrachtkosten tot aan de haven van bestemming."
+msgstr ""
+
+#: ../../docs/boekhouding/verkoopfacturen-incoterms.rst:76
+msgid ""
+"**CIF - Cost, Insurance, and Freight (Kostprijs, verzekering en "
+"vracht):** De verkoper levert de goederen aan boord van het schip in de "
+"haven van verzending, betaalt voor de vrachtkosten en voorziet in een "
+"verzekering tot aan de haven van bestemming."
+msgstr ""

@@ -1,0 +1,51 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2025, Onestein
+# This file is distributed under the same license as the CURQ package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2025.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: CURQ \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-05-28 09:55+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: en\n"
+"Language-Team: en <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.17.0\n"
+
+#: ../../docs/boekhouding/abonnementen/verkoopcontracten-factureren.rst:2
+msgid "Factureren van een verkoop- of inkoopcontract"
+msgstr ""
+
+#: ../../docs/boekhouding/abonnementen/verkoopcontracten-factureren.rst:4
+msgid ""
+"Wanneer alle gegevens van het contract/abonnement zijn ingevoerd kun je "
+"direct de eerste factuur laten genereren. Dit doe je direct via de knop "
+"'Facturen aanmaken' in het contracten scherm of via menu Handmatig "
+"factureren verkoopcontract. Met deze laatste optie worden alle contracten"
+" die in aanmerking komen voor een factuur gefactureerd."
+msgstr ""
+
+#: ../../docs/boekhouding/abonnementen/verkoopcontracten-factureren.rst:8
+msgid ""
+"De \"Generate Recurring Invoices from Contracts\" cron draait dagelijks "
+"om de facturen te genereren. Als je je in debugmodus bevindt, kun je op "
+"de knop voor het aanmaken van facturen klikken."
+msgstr ""
+
+#: ../../docs/boekhouding/abonnementen/verkoopcontracten-factureren.rst:16
+msgid "Klantenportaal weergave"
+msgstr ""
+
+#: ../../docs/boekhouding/abonnementen/verkoopcontracten-factureren.rst:17
+msgid ""
+"De klant ziet het afgesloten abonnement ook in het klantenportaal. Indien"
+" dit bij het contract is ingegeven dan kan de klant zelf het abonnement "
+"beeindigen."
+msgstr ""

@@ -1,0 +1,50 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2025, Onestein
+# This file is distributed under the same license as the CURQ package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2025.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: CURQ \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-05-28 09:55+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: en\n"
+"Language-Team: en <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.17.0\n"
+
+#: ../../docs/boekhouding/belastingen/belastingen-vies.rst:2
+msgid "BTW nummers verificatie (VIES)"
+msgstr ""
+
+#: ../../docs/boekhouding/belastingen/belastingen-vies.rst:4
+msgid ""
+"CURQ maakt gebruik van de `VAT Information Exchange System (VIES) "
+"<https://ec.europa.eu/taxation_customs/vies/>`_ dienst. Dit is een dienst"
+" van de Europese Commissie om de geldigheid van een BTW-nummer te "
+"controleren van bedrijven binnen de EU. Je kunt het BTW-nummer van een "
+"contact direct in CURQ controleren. Daarnaast controleert CURQ "
+"automatisch het formaat van het BTW-nummer, ongeacht of je gebruikmaakt "
+"van VIES."
+msgstr ""
+
+#: ../../docs/boekhouding/belastingen/belastingen-vies.rst:9
+msgid ""
+"Bij het adres van een contact vind je het BTW-nummer terug. De controle "
+"wordt pas uitgevoerd als ook het land is ingevuld. Zodra de controle "
+"heeft plaatsgevonden, verandert het VIES-validatievinkje. Eenmaal de "
+"controle succesvol is uitgevoerd en het BTW-nummer correct is, wordt het "
+"vinkje aangezet."
+msgstr ""
+
+#: ../../docs/boekhouding/belastingen/belastingen-vies.rst:15
+msgid ""
+"Als het BTW-nummer onjuist is, verschijnt er een foutmelding. Hiermee "
+"voorkom je dat onjuiste gegevens bij de contacten worden opgeslagen."
+msgstr ""

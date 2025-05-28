@@ -1,0 +1,385 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2025, Onestein
+# This file is distributed under the same license as the CURQ package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2025.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: CURQ \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-05-28 09:55+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: en\n"
+"Language-Team: en <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.17.0\n"
+
+#: ../../docs/boekhouding/verkoopfacturen/verkoopfacturen.rst:2
+msgid "Verkoopfacturen"
+msgstr ""
+
+#: ../../docs/boekhouding/verkoopfacturen/verkoopfacturen.rst:4
+msgid ""
+"Het opstellen van facturen is een essentieel onderdeel van een goede "
+"boekhouding. Een fraaie en professionele factuur fungeert als een soort "
+"visitekaartje. Door aan klanten te laten zien dat je zorgvuldig en "
+"professioneel bent, verklein je de kans op betalingsproblemen. Met CURQ "
+"kun je eenvoudig een factuur opstellen en verzenden naar je klanten. Via "
+"CURQ kun je moeiteloos jouw huisstijl toevoegen door kleuren en jouw logo"
+" te integreren. Vervolgens verstuur je deze facturen gemakkelijk met "
+"slechts een paar klikken."
+msgstr ""
+
+#: ../../docs/boekhouding/verkoopfacturen/verkoopfacturen.rst:11
+msgid "Aanpassen huisstijl"
+msgstr ""
+
+#: ../../docs/boekhouding/verkoopfacturen/verkoopfacturen.rst:12
+msgid ""
+"Als je je huisstijl niet hebt opgegeven tijdens de aanmaak van je "
+"omgeving, kun je dit alsnog doen via Instellingen > Algemene "
+"instellingen, onder het kopje Bedrijven."
+msgstr ""
+
+#: ../../docs/boekhouding/verkoopfacturen/verkoopfacturen.rst:17
+msgid ""
+"Kies \"Configureer documentlay-out\". In het volgende scherm heb je de "
+"mogelijkheid om jouw huisstijl toe te voegen."
+msgstr ""
+
+#: ../../docs/boekhouding/verkoopfacturen/verkoopfacturen.rst:21
+msgid ""
+"**Lay-out:** Hier zijn vier opties beschikbaar om het ontwerp van jouw "
+"facturen of andere documenten te configureren."
+msgstr ""
+
+#: ../../docs/boekhouding/verkoopfacturen/verkoopfacturen.rst:22
+msgid "**Lettertype:** Kies hier een van de beschikbare lettertypes"
+msgstr ""
+
+#: ../../docs/boekhouding/verkoopfacturen/verkoopfacturen.rst:23
+msgid "**Bedrijfslogo:** Upload hier je Bedrijfslogo."
+msgstr ""
+
+#: ../../docs/boekhouding/verkoopfacturen/verkoopfacturen.rst:24
+msgid "**Kleuren:** CURQ stelt de kleuren voor op basis van je bedrijfslogo."
+msgstr ""
+
+#: ../../docs/boekhouding/verkoopfacturen/verkoopfacturen.rst:25
+msgid "**Achtergrond lay-out:** Kies een optie of upload je eigen achtergrond."
+msgstr ""
+
+#: ../../docs/boekhouding/verkoopfacturen/verkoopfacturen.rst:26
+msgid "**Bedrijfsslogan:** Vul hier jouw slogan in. Dit is optioneel."
+msgstr ""
+
+#: ../../docs/boekhouding/verkoopfacturen/verkoopfacturen.rst:27
+msgid "**Bedrijfsgegevens:** Vul hier jouw bedrijfsgegevens in."
+msgstr ""
+
+#: ../../docs/boekhouding/verkoopfacturen/verkoopfacturen.rst:28
+msgid ""
+"**Voettekst:** Vul hier de voettekst in. Denk aan je telefoonnummer, "
+"website, mailadres, KvK, BTW-Nummer of je bankrekeningnummer."
+msgstr ""
+
+#: ../../docs/boekhouding/verkoopfacturen/verkoopfacturen.rst:29
+msgid "**Papierformaat:** Kies het juiste formaat."
+msgstr ""
+
+#: ../../docs/boekhouding/verkoopfacturen/verkoopfacturen.rst:31
+msgid ""
+"Aan de rechterkant zie je meteen hoe jouw documenten in CURQ eruit zullen"
+" zien. Onder dit voorbeeld kun je ook nog een PDF downloaden om te zien "
+"hoe jouw klanten jouw factuur ontvangen. Nu kunnen we verdergaan met het "
+"opstellen van jouw verkoopfactuur."
+msgstr ""
+
+#: ../../docs/boekhouding/verkoopfacturen/verkoopfacturen.rst:35
+msgid "Aanmaken verkoopfactuur"
+msgstr ""
+
+#: ../../docs/boekhouding/verkoopfacturen/verkoopfacturen.rst:37
+msgid ""
+"Heb je een uitgebreidere versie van CURQ, dan kunnen verkoopfacturen ook "
+"worden aangemaakt vanuit bijvoorbeeld een verkooporder of een website-"
+"order. Hier volgt de handmatige procedure voor het aanmaken van een "
+"verkoopfactuur: ga naar Facturatie > Klanten > Facturen. In dit scherm "
+"zie je al jouw verkoopfacturen in een mooi overzicht. Je kunt meteen zien"
+" of een factuur openstaat of al reeds betaald is."
+msgstr ""
+
+#: ../../docs/boekhouding/verkoopfacturen/verkoopfacturen.rst:42
+msgid ""
+"Voor het aanmaken van een factuur klik je linksboven op [Nieuw]. Mochten "
+"de facturen vanuit een ander softwarepakket zijn verstuurd, maar je wilt "
+"ze wel in CURQ bijhouden, dan kun je ook gebruikmaken van de knop "
+"[UPLOADEN]."
+msgstr ""
+
+#: ../../docs/boekhouding/verkoopfacturen/verkoopfacturen.rst:45
+msgid "Het volgende scherm verschijnt wanneer je een nieuwe factuur aanmaakt."
+msgstr ""
+
+#: ../../docs/boekhouding/verkoopfacturen/verkoopfacturen.rst:49
+msgid "Het scherm is opgebouwd uit 3 gedeeltes."
+msgstr ""
+
+#: ../../docs/boekhouding/verkoopfacturen/verkoopfacturen.rst:51
+msgid "Hoofdgegevens van de factuur."
+msgstr ""
+
+#: ../../docs/boekhouding/verkoopfacturen/verkoopfacturen.rst:53
+msgid ""
+"Hier vul je de gegevens van de klant in, inclusief het afleveradres "
+"indien van toepassing. Als deze gelijk zijn, worden beide velden "
+"ingevuld."
+msgstr ""
+
+#: ../../docs/boekhouding/verkoopfacturen/verkoopfacturen.rst:55
+msgid ""
+"**Factuurdatum:** Laat dit veld leeg als de datum van vandaag moet worden"
+" gebruikt."
+msgstr ""
+
+#: ../../docs/boekhouding/verkoopfacturen/verkoopfacturen.rst:56
+msgid ""
+"**Betaalreferentie:** Dit wordt automatisch ingevuld zodra de factuur "
+"wordt bevestigd."
+msgstr ""
+
+#: ../../docs/boekhouding/verkoopfacturen/verkoopfacturen.rst:57
+msgid ""
+"**Vervaldatum:** Deze wordt berekend aan de hand van de "
+"betalingsconditie, die je kunt invullen waar nu \"Voorwaarden\" staat. "
+"Door gebruik te maken van een betalingsconditie hoef je niet handmatig de"
+" vervaldatum te berekenen. De vervaldatum is belangrijk, omdat op die dag"
+" de factuur uiterlijk betaald moet worden. Spreek daarom met je klanten "
+"de juiste betalingsvoorwaarden af. Volgens een Europese richtlijn geldt "
+"een betalingstermijn van 30 dagen als er geen termijn is overeengekomen."
+msgstr ""
+
+#: ../../docs/boekhouding/verkoopfacturen/verkoopfacturen.rst:61
+msgid ""
+"**Dagboek:** Laat dit op \"Klantfacturen\" staan, tenzij je meerdere "
+"dagboeken hebt voor verkoopfacturen. Een dagboek is een soort "
+"subadministratie binnen de boekhouding waarmee je facturen, boekingen en "
+"transacties groepeert naar de soort waar ze bij horen. Via het "
+"bankdagboek verwerk je alle banktransacties, het verkoopboek bevat een "
+"overzicht van al je verkoopfacturen, en het inkoopboek geeft een "
+"overzicht van je inkoopfacturen."
+msgstr ""
+
+#: ../../docs/boekhouding/verkoopfacturen/verkoopfacturen.rst:66
+msgid "Factuurregels of overige info."
+msgstr ""
+
+#: ../../docs/boekhouding/verkoopfacturen/verkoopfacturen.rst:68
+msgid ""
+"De factuurregels bevatten de details van de factuur, waarin staat wat er "
+"is verkocht tegen welk bedrag en met welke BTW."
+msgstr ""
+
+#: ../../docs/boekhouding/verkoopfacturen/verkoopfacturen.rst:70
+msgid ""
+"**Product:** Vul hier een product in als je gebruikmaakt van producten "
+"binnen CURQ. Een product kan ook een dienst zijn; in dat geval heeft het "
+"product het type \"dienst\". Het is niet verplicht om gebruik te maken "
+"van producten."
+msgstr ""
+
+#: ../../docs/boekhouding/verkoopfacturen/verkoopfacturen.rst:72
+msgid ""
+"**Label:** Dit verschijnt op de factuur, dus vul dit correct in. Als je "
+"producten gebruikt, wordt dit automatisch overgenomen, maar je kunt het "
+"altijd achteraf aanpassen."
+msgstr ""
+
+#: ../../docs/boekhouding/verkoopfacturen/verkoopfacturen.rst:74
+msgid ""
+"**Rekening:** Het is verplicht om de juiste grootboekrekening op te "
+"geven. De omzet wordt geboekt op deze grootboekrekening. CURQ kan deze "
+"automatisch invullen op basis van de producten."
+msgstr ""
+
+#: ../../docs/boekhouding/verkoopfacturen/verkoopfacturen.rst:76
+msgid "**Aantal:** Het aantal verkochte eenheden."
+msgstr ""
+
+#: ../../docs/boekhouding/verkoopfacturen/verkoopfacturen.rst:77
+msgid "**Prijs:** De prijs per eenheid."
+msgstr ""
+
+#: ../../docs/boekhouding/verkoopfacturen/verkoopfacturen.rst:78
+msgid ""
+"**BTW:** CURQ stelt automatisch de meest logische BTW-code voor. Wijk "
+"hier alleen van af als er een andere BTW van toepassing is."
+msgstr ""
+
+#: ../../docs/boekhouding/verkoopfacturen/verkoopfacturen.rst:79
+msgid "**Subtotaal:** Aantal x Prijs."
+msgstr ""
+
+#: ../../docs/boekhouding/verkoopfacturen/verkoopfacturen.rst:80
+msgid ""
+"**Algemene voorwaarden:** Links onder de factuurregels zie je de algemene"
+" voorwaarden staan. Deze tekst verschijnt op je facturen. TIP: Als je "
+"deze op je website hebt staan, kun je daarnaar verwijzen."
+msgstr ""
+
+#: ../../docs/boekhouding/verkoopfacturen/verkoopfacturen.rst:82
+msgid ""
+"**Totalen:** Rechts onder de factuurregels zie je de totalen van de "
+"factuur, inclusief toegepaste BTW."
+msgstr ""
+
+#: ../../docs/boekhouding/verkoopfacturen/verkoopfacturen.rst:84
+msgid "Tabblad [Boekingsregels]"
+msgstr ""
+
+#: ../../docs/boekhouding/verkoopfacturen/verkoopfacturen.rst:86
+msgid ""
+"Hier wordt de journaalpost van de factuur getoond. Dit is belangrijke "
+"informatie voor de boekhouder."
+msgstr ""
+
+#: ../../docs/boekhouding/verkoopfacturen/verkoopfacturen.rst:88
+msgid "Tabblad [Overige Info]"
+msgstr ""
+
+#: ../../docs/boekhouding/verkoopfacturen/verkoopfacturen.rst:92
+msgid ""
+"**Referentie klant:** Hier kun je extra informatie vastleggen die voor de"
+" klant van belang kan zijn, bijvoorbeeld hun inkoopnummer of een "
+"afdelingsnaam binnen het bedrijf. Zodra je hier iets invult, wordt dit "
+"ook afgedrukt op de factuur."
+msgstr ""
+
+#: ../../docs/boekhouding/verkoopfacturen/verkoopfacturen.rst:94
+msgid "**Verkoper:** De verkoper die gebruikt kan worden in rapportages."
+msgstr ""
+
+#: ../../docs/boekhouding/verkoopfacturen/verkoopfacturen.rst:95
+msgid "**Verkoopteam:** Het verkoopteam dat gebruikt kan worden in rapportages."
+msgstr ""
+
+#: ../../docs/boekhouding/verkoopfacturen/verkoopfacturen.rst:96
+msgid "**Recipient Bank:** Alleen van toepassing als je je klanten incasseert."
+msgstr ""
+
+#: ../../docs/boekhouding/verkoopfacturen/verkoopfacturen.rst:97
+msgid ""
+"**Leveringscondities:** Als INCOTERMS van belang zijn, dan kun je die "
+"hier invullen. In CURQ zijn de meest gebruikte aanwezig."
+msgstr ""
+
+#: ../../docs/boekhouding/verkoopfacturen/verkoopfacturen.rst:98
+msgid "**Fiscale Positie:** Het BTW-regime dat van toepassing is op de factuur."
+msgstr ""
+
+#: ../../docs/boekhouding/verkoopfacturen/verkoopfacturen.rst:99
+msgid ""
+"**Automatische boeken:** Alleen op een conceptfactuur kan dit worden "
+"ingesteld. Je kunt een factuur al vooruit plannen om deze later te laten "
+"boeken, of je kunt terugkerende facturen automatisch laten boeken tot een"
+" bepaalde tijd door CURQ. Dit is handig als je elke maand dezelfde "
+"factuur wilt laten aanmaken."
+msgstr ""
+
+#: ../../docs/boekhouding/verkoopfacturen/verkoopfacturen.rst:102
+msgid ""
+"**Te controleren:** De factuur krijgt de status \"te controleren\". Je "
+"kunt bijvoorbeeld jouw boekhouder hiermee attenderen dat deze factuur nog"
+" een keer extra moet worden gecontroleerd."
+msgstr ""
+
+#: ../../docs/boekhouding/verkoopfacturen/verkoopfacturen.rst:105
+msgid "Logging van de factuur."
+msgstr ""
+
+#: ../../docs/boekhouding/verkoopfacturen/verkoopfacturen.rst:107
+msgid ""
+"Alle belangrijke wijzigingen met betrekking tot de factuur worden hier "
+"bijgehouden. Je ziet hier ook de e-mails die zijn verzonden. Als je ook "
+"gebruikmaakt van de volledige integratie met mailfunctionaliteit, "
+"verschijnt hier ook het antwoord van de klant als hij reageert op de "
+"mail."
+msgstr ""
+
+#: ../../docs/boekhouding/verkoopfacturen/verkoopfacturen.rst:111
+msgid "**Verzend bericht:** Hiermee verzend je een mail naar de klant."
+msgstr ""
+
+#: ../../docs/boekhouding/verkoopfacturen/verkoopfacturen.rst:112
+msgid ""
+"**Log notitie:** Dit is een interne notitie die alleen intern zichtbaar "
+"is. Voor de klant is deze niet zichtbaar."
+msgstr ""
+
+#: ../../docs/boekhouding/verkoopfacturen/verkoopfacturen.rst:113
+msgid ""
+"**Activiteiten:** Je kunt een bepaalde activiteit inplannen voor iemand. "
+"Dit kan een to-do zijn, maar ook een afspraak."
+msgstr ""
+
+#: ../../docs/boekhouding/verkoopfacturen/verkoopfacturen.rst:117
+msgid ""
+"**Volgers:** Contacten en medewerkers kunnen volgers zijn van het "
+"document. Afhankelijk van hun aanmelding worden deze volgers op de hoogte"
+" gehouden van wijzigingen op dit document."
+msgstr ""
+
+#: ../../docs/boekhouding/verkoopfacturen/verkoopfacturen.rst:120
+msgid ""
+"Zodra de factuur gereed is, kan de factuur worden bevestigd via de knop "
+"[BEVESTIGEN]. De factuur wordt op dit moment dan financieel geboekt."
+msgstr ""
+
+#: ../../docs/boekhouding/verkoopfacturen/verkoopfacturen.rst:125
+msgid ""
+"De factuur staat nu open in de boekhouding en de status verandert naar "
+"\"geboekt\". Er verschijnen nu andere knoppen. Wil je nog eerst de "
+"factuur controleren, dan kun je via de knop midden in het scherm eerst "
+"een afdruk downloaden. Bij het afdrukken kies dan voor \"Facturen\". Als "
+"je de factuur wilt verbeteren, dan kun je de factuur terugzetten via de "
+"knop [TERUGZETTEN NAAR CONCEPT]."
+msgstr ""
+
+#: ../../docs/boekhouding/verkoopfacturen/verkoopfacturen.rst:132
+msgid ""
+"Met de knop [VERZEND & AFDRUKKEN] kun je meteen de factuur via de mail "
+"versturen. Als er een e-mailadres ontbreekt, zal CURQ om deze informatie "
+"vragen. Het volgende verzendscherm verschijnt."
+msgstr ""
+
+#: ../../docs/boekhouding/verkoopfacturen/verkoopfacturen.rst:137
+msgid ""
+"In dit scherm heb je de optie om een factuur af te drukken en te mailen. "
+"Zorg dat de juiste optie is geselecteerd. Hier kun je ook de mail "
+"aanpassen en een persoonlijk tintje meegeven. CURQ zal de factuur als "
+"PDF-bestand meesturen naar de klant."
+msgstr ""
+
+#: ../../docs/boekhouding/verkoopfacturen/verkoopfacturen.rst:140
+msgid "Eenmaal goed, dan kun je jouw factuur versturen via [VERZEND & AFDRUKKEN]."
+msgstr ""
+
+#: ../../docs/boekhouding/verkoopfacturen/verkoopfacturen.rst:142
+msgid ""
+"Heb je een persoonlijke mail aangemaakt en wil je die de volgende keer "
+"weer gebruiken, dan kun je die opslaan via de knop [OPSLAAN ALS NIEUW "
+"SJABLOON]."
+msgstr ""
+
+#: ../../docs/boekhouding/verkoopfacturen/verkoopfacturen.rst:145
+msgid ""
+"Zodra de factuur is verzonden binnen CURQ, is dit meteen zichtbaar in het"
+" loggingsdeel. Je ziet jouw mail terug en aan de hand van de enveloppe "
+"kun je de status van jouw mail terugvinden. Je kunt eventueel "
+"corrigerende acties ondernemen door te klikken op de enveloppe."
+msgstr ""

@@ -1,0 +1,87 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2025, Onestein
+# This file is distributed under the same license as the CURQ package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2025.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: CURQ \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-05-28 09:55+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: en\n"
+"Language-Team: en <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.17.0\n"
+
+#: ../../docs/boekhouding/rapportages/rapportages-icp.rst:2
+msgid "ICP Aangifte"
+msgstr ""
+
+#: ../../docs/boekhouding/rapportages/rapportages-icp.rst:4
+msgid ""
+"Een Intracommunautaire Prestaties (ICP) opgaaf is een formulier dat "
+"ondernemers moeten invullen als ze goederen of diensten uitwisselen met "
+"bedrijven in de Europese Unie (EU). Het doel is om de belastingdienst te "
+"laten weten wat er gebeurt bij handel tussen bedrijven in verschillende "
+"EU-landen, vooral als het gaat om het leveren van goederen of diensten."
+msgstr ""
+
+#: ../../docs/boekhouding/rapportages/rapportages-icp.rst:8
+msgid ""
+"Op dat formulier schrijf je dingen zoals welke goederen je hebt geleverd "
+"(Intracommunautaire leveringen ICL) of welke diensten je hebt verricht "
+"(Intracommunautaire diensten ICD). Dat helpt de belastingdienst om te "
+"weten waar ze de btw moeten innen. Het is belangrijk omdat het ervoor "
+"zorgt dat de regels voor btw op de juiste manier worden toegepast. Dus "
+"eigenlijk geeft de ICP-opgaaf een overzicht aan belastingautoriteiten van"
+" handel over grenzen heen en helpt ondernemers om hun transacties correct"
+" te melden."
+msgstr ""
+
+#: ../../docs/boekhouding/rapportages/rapportages-icp.rst:13
+msgid ""
+"Het indienen van zo'n ICP-opgaaf is niet alleen iets wat moet, het helpt "
+"ondernemers ook om geen problemen te krijgen met boetes en om de btw-"
+"regels goed te volgen. Door dit formulier regelmatig en correct in te "
+"vullen, zorgen ondernemers ervoor dat de btw-behandeling van hun "
+"transacties binnen de EU op orde is en dat ze zich aan de regels houden."
+msgstr ""
+
+#: ../../docs/boekhouding/rapportages/rapportages-icp.rst:18
+msgid ""
+"Meer informatie over Opgaaf ICP vind je hier op de website van de "
+"belastingdienst `Opgaaf ICP "
+"<https://www.belastingdienst.nl/wps/wcm/connect/bldcontentnl/belastingdienst/zakelijk/btw/zakendoen_met_het_buitenland/goederen_en_diensten_naar_andere_eu_landen/opgaaf_icp/>`_"
+msgstr ""
+
+#: ../../docs/boekhouding/rapportages/rapportages-icp.rst:22
+msgid "ICP aangifte aanmaken"
+msgstr ""
+
+#: ../../docs/boekhouding/rapportages/rapportages-icp.rst:24
+msgid ""
+"Nadat je een BTW-aangifte hebt ingediend in CURQ (verzonden), kun je de "
+"benodigde informatie voor de ICP-opgaaf bekijken op het tabblad ICP-"
+"aangifte."
+msgstr ""
+
+#: ../../docs/boekhouding/rapportages/rapportages-icp.rst:29
+msgid ""
+"Klik op [Bijwerken] om de meest recente gegevens op te halen. Deze "
+"gegevens kun je vervolgens overnemen bij het invullen van de ICP-opgaaf "
+"bij de belastingdienst. Bevestig de aangifte zodra deze is ingediend bij "
+"de belastingdienst."
+msgstr ""
+
+#: ../../docs/boekhouding/rapportages/rapportages-icp.rst:32
+msgid ""
+"Bovendien bestaat de mogelijkheid om de ICP-opgaaf af te drukken of te "
+"downloaden als een Excel-bestand. Dit kan eenvoudig worden gedaan door te"
+" klikken op de [Afdrukken]-knop bovenaan."
+msgstr ""

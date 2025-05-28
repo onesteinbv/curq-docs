@@ -1,0 +1,37 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2025, Onestein
+# This file is distributed under the same license as the CURQ package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2025.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: CURQ \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-05-28 09:55+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: en\n"
+"Language-Team: en <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.17.0\n"
+
+#: ../../docs/boekhouding/abonnementen/verkoopcontracten-beeindigen.rst:2
+msgid "Beeindigen verkoopcontracten"
+msgstr ""
+
+#: ../../docs/boekhouding/abonnementen/verkoopcontracten-beeindigen.rst:4
+msgid ""
+"Je kunt op een lopend contract de regels stopzetten via de Stop knop die "
+"naast de contract regel staat. Je kunt zelf de einddatum opgeven en "
+"daarnaast ook aangeven of het een opschorting is zonder einddatum."
+msgstr ""
+
+#: ../../docs/boekhouding/abonnementen/verkoopcontracten-beeindigen.rst:11
+msgid ""
+"Een beeindigde contractregel kun je eenvoudig weer hernieuwen door op de "
+"Startdatum kalender knop te klikken links van de Stop knop."
+msgstr ""

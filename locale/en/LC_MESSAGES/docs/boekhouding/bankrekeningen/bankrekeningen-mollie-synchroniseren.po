@@ -1,0 +1,61 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2025, Onestein
+# This file is distributed under the same license as the CURQ package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2025.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: CURQ \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-05-28 09:55+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: en\n"
+"Language-Team: en <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.17.0\n"
+
+#: ../../docs/boekhouding/bankrekeningen/bankrekeningen-mollie-synchroniseren.rst:2
+msgid "Mollie banksynchronisatie"
+msgstr ""
+
+#: ../../docs/boekhouding/bankrekeningen/bankrekeningen-mollie-synchroniseren.rst:4
+msgid ""
+"Wanneer je klanten in CURQ facturen online betalen (dat kan ofwel via de "
+"webshop ofwel vanuit het klantenportaal) en je maakt gebruik van Mollie "
+"als betalingsprovider, dan kun je de betalingen via Mollie direct "
+"synchroniseren met het Mollie dagboek in CURQ."
+msgstr ""
+
+#: ../../docs/boekhouding/bankrekeningen/bankrekeningen-mollie-synchroniseren.rst:7
+msgid ""
+"Het Mollie dagboek maak je aan via menufunctie Boekhouding -> "
+"Configuratie -> Voeg een bankrekening toe. Je kunt hier gewoon de tekst "
+"Mollie gebruiken als bankrekening nummer. Het voordeel is dat alle "
+"informatie rondom het nieuwe dagboek automatisch goed ingesteld staat."
+msgstr ""
+
+#: ../../docs/boekhouding/bankrekeningen/bankrekeningen-mollie-synchroniseren.rst:10
+msgid ""
+"In het nieuwe dagboek kies je vervolgens bij 'bank feeds' voor 'Mollie "
+"synchronisatie'."
+msgstr ""
+
+#: ../../docs/boekhouding/bankrekeningen/bankrekeningen-mollie-synchroniseren.rst:16
+msgid ""
+"In dit scherm geef je ook de Mollie Organisation Access Token in. Dit is "
+"niet de live API key zoals Mollie dit in haar eigen handleiding vermeld, "
+"maar je dient hiervoor zelf een key aan te maken onder het onderdeel "
+"Organisation Access Tokens. In dit scherm kies je voor de payment opties "
+"lezen en schrijven, hierna maak je de sleutel aan."
+msgstr ""
+
+#: ../../docs/boekhouding/bankrekeningen/bankrekeningen-mollie-synchroniseren.rst:24
+msgid ""
+"CURQ staat zo ingesteld dat de afschriften iedere dag automatisch worden "
+"ingelezen."
+msgstr ""

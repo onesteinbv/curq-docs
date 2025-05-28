@@ -1,0 +1,382 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2025, Onestein
+# This file is distributed under the same license as the CURQ package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2025.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: CURQ \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-05-28 09:55+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: en\n"
+"Language-Team: en <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.17.0\n"
+
+#: ../../docs/boekhouding/beginnen-met-boekhouden/boekhouding-starten-dagboeken.rst:2
+msgid "Dagboeken"
+msgstr ""
+
+#: ../../docs/boekhouding/beginnen-met-boekhouden/boekhouding-starten-dagboeken.rst:4
+msgid ""
+"Dagboeken vormen essentiële onderdelen van een gedegen boekhoudsysteem, "
+"waarbij elk dagboek een specifieke subadministratie vertegenwoordigt. Het"
+" bankboek behandelt zorgvuldig alle banktransacties, het verkoopboek "
+"geeft overzichtelijke informatie over verkoopfacturen, het inkoopboek "
+"registreert gedetailleerd inkoopfacturen, en het memoriaalboek vangt alle"
+" overige transacties op die niet elders passen."
+msgstr ""
+
+#: ../../docs/boekhouding/beginnen-met-boekhouden/boekhouding-starten-dagboeken.rst:9
+msgid ""
+"De beheerfunctie voor dagboeken is te vinden onder Facturatie > "
+"Configuratie > Dagboeken. In CURQ zijn de meest gangbare dagboeken alvast"
+" voor je ingesteld."
+msgstr ""
+
+#: ../../docs/boekhouding/beginnen-met-boekhouden/boekhouding-starten-dagboeken.rst:15
+msgid "Bank"
+msgstr ""
+
+#: ../../docs/boekhouding/beginnen-met-boekhouden/boekhouding-starten-dagboeken.rst:17
+msgid ""
+"Het bankboek fungeert als een gedetailleerd financieel dagboek waarin "
+"alle banktransacties worden vastgelegd, waaronder stortingen, opnames en "
+"afschrijvingen. Het zorgvuldig bijhouden van deze transacties via het "
+"bankboek biedt niet alleen de mogelijkheid om financiële bewegingen "
+"nauwkeurig te monitoren, maar speelt tevens een cruciale rol bij het "
+"vaststellen van budgetten en het analyseren van uitgavenpatronen."
+msgstr ""
+
+#: ../../docs/boekhouding/beginnen-met-boekhouden/boekhouding-starten-dagboeken.rst:23
+msgid ""
+"Een bankrekening moet worden toegevoegd via Facturatie > Configuratie > "
+"Voeg een bankrekening toe."
+msgstr ""
+
+#: ../../docs/boekhouding/beginnen-met-boekhouden/boekhouding-starten-dagboeken.rst:25
+msgid "De configuratie van het bankboek ziet er als volgt uit."
+msgstr ""
+
+#: ../../docs/boekhouding/beginnen-met-boekhouden/boekhouding-starten-dagboeken.rst:29
+msgid "**Bankrekening:** Koppel de juiste grootboekrekening aan de bank hier."
+msgstr ""
+
+#: ../../docs/boekhouding/beginnen-met-boekhouden/boekhouding-starten-dagboeken.rst:30
+msgid ""
+"**Afletteringsmodus:** Bepaal of het mogelijk is om een aflettering op de"
+" bank ongedaan te maken na uitvoering."
+msgstr ""
+
+#: ../../docs/boekhouding/beginnen-met-boekhouden/boekhouding-starten-dagboeken.rst:32
+msgid ""
+"Boekingsbewerking: Afletteringen kunnen ongedaan worden gemaakt en "
+"bewerkt."
+msgstr ""
+
+#: ../../docs/boekhouding/beginnen-met-boekhouden/boekhouding-starten-dagboeken.rst:33
+msgid ""
+"Tussenrekening behouden: Het is niet mogelijk om een aflettering ongedaan"
+" te maken."
+msgstr ""
+
+#: ../../docs/boekhouding/beginnen-met-boekhouden/boekhouding-starten-dagboeken.rst:35
+msgid ""
+"**Tussenrekening:** Bankafschriftregels worden tijdelijk hier geboekt "
+"totdat de daadwerkelijke aflettering plaatsvindt."
+msgstr ""
+
+#: ../../docs/boekhouding/beginnen-met-boekhouden/boekhouding-starten-dagboeken.rst:36
+msgid ""
+"**Winstrekening:** Deze rekening behandelt positieve kasverschillen in "
+"het eindsaldo van de POS-app"
+msgstr ""
+
+#: ../../docs/boekhouding/beginnen-met-boekhouden/boekhouding-starten-dagboeken.rst:37
+msgid ""
+"**Verliesrekening:** Deze rekening behandelt negatieve kasverschillen in "
+"het eindsaldo van de POS-app."
+msgstr ""
+
+#: ../../docs/boekhouding/beginnen-met-boekhouden/boekhouding-starten-dagboeken.rst:38
+msgid ""
+"**Specifieke betalingsvolgorde:** Vink dit aan als je niet dezelfde "
+"nummerreeks wilt gebruiken voor betalingen en banktransacties die in dit "
+"dagboek zijn geboekt."
+msgstr ""
+
+#: ../../docs/boekhouding/beginnen-met-boekhouden/boekhouding-starten-dagboeken.rst:40
+#: ../../docs/boekhouding/beginnen-met-boekhouden/boekhouding-starten-dagboeken.rst:89
+#: ../../docs/boekhouding/beginnen-met-boekhouden/boekhouding-starten-dagboeken.rst:133
+#: ../../docs/boekhouding/beginnen-met-boekhouden/boekhouding-starten-dagboeken.rst:162
+msgid ""
+"**Korte code:** Een korte code voor de weergave. Daarnaast worden "
+"transacties voorzien van dit voorvoegsel."
+msgstr ""
+
+#: ../../docs/boekhouding/beginnen-met-boekhouden/boekhouding-starten-dagboeken.rst:41
+msgid ""
+"**Valuta:** De valuta van dit dagboek. Als je een dollarbankrekening "
+"hebt, vul dan hier de US dollar in."
+msgstr ""
+
+#: ../../docs/boekhouding/beginnen-met-boekhouden/boekhouding-starten-dagboeken.rst:42
+msgid ""
+"**Rekeningnummer:** Jouw bankrekeningnummer. Maak dit hier aan of koppel "
+"jouw rekening."
+msgstr ""
+
+#: ../../docs/boekhouding/beginnen-met-boekhouden/boekhouding-starten-dagboeken.rst:43
+msgid ""
+"**Bank feeds:** Dit bepaalt de manier waarop bankafschriften worden "
+"ingelezen."
+msgstr ""
+
+#: ../../docs/boekhouding/beginnen-met-boekhouden/boekhouding-starten-dagboeken.rst:45
+msgid ""
+"Importeer(TXT/CSV/XSLX, camt.053.001.02, camt.054.001.02): Handmatig "
+"importeren van een TXT, CSV, XLSX, CAMT-bestand. Je kunt dit bestand bij "
+"de meeste banken downloaden."
+msgstr ""
+
+#: ../../docs/boekhouding/beginnen-met-boekhouden/boekhouding-starten-dagboeken.rst:47
+msgid "Nog niet gedefinieerd: Handmatig of nog onbekend."
+msgstr ""
+
+#: ../../docs/boekhouding/beginnen-met-boekhouden/boekhouding-starten-dagboeken.rst:48
+msgid ""
+"Mollie Synchronization: Via Mollie payment provider. Meer informatie over"
+" Mollie vind je in de Mollie handleiding."
+msgstr ""
+
+#: ../../docs/boekhouding/beginnen-met-boekhouden/boekhouding-starten-dagboeken.rst:49
+msgid ""
+"Online (OCA): Synchronisatie via een online dienst. In Nederland wordt "
+"Ponto gebruikt."
+msgstr ""
+
+#: ../../docs/boekhouding/beginnen-met-boekhouden/boekhouding-starten-dagboeken.rst:51
+msgid ""
+"Op het tabblad \"Inkomende betalingen\" kun je aangeven welke "
+"betalingsmethoden beschikbaar zijn in dit dagboek. Als je van plan bent "
+"om facturen van je klanten te innen, kun je gebruikmaken van Sepa Direct "
+"Debit, dat standaard al voor je is geactiveerd."
+msgstr ""
+
+#: ../../docs/boekhouding/beginnen-met-boekhouden/boekhouding-starten-dagboeken.rst:56
+msgid ""
+"Op het tabblad \"Uitgaande betalingen\" kun je aangeven welke "
+"betalingsmethoden beschikbaar zijn in dit dagboek. Als je van plan bent "
+"om je leveranciers via de boekhouding te betalen, kun je gebruikmaken van"
+" Sepa Credit Transfer. Hiermee genereer je een bestand dat je vervolgens "
+"kunt uploaden naar je bank. Daarna kun je de betaling verder afhandelen "
+"in je bankomgeving. Hiermee voorkom je dubbele invoer en fouten die "
+"kunnen optreden bij handmatige betalingsverwerking."
+msgstr ""
+
+#: ../../docs/boekhouding/beginnen-met-boekhouden/boekhouding-starten-dagboeken.rst:63
+#: ../../docs/boekhouding/beginnen-met-boekhouden/boekhouding-starten-dagboeken.rst:95
+msgid ""
+"Op het tabblad \"Geavanceerde instellingen\" kun je de volgende "
+"instellingen configureren."
+msgstr ""
+
+#: ../../docs/boekhouding/beginnen-met-boekhouden/boekhouding-starten-dagboeken.rst:67
+msgid ""
+"**Saldolijn toevoegen:** Voegt een extra regel toe aan het bankafschrift "
+"voor het saldo."
+msgstr ""
+
+#: ../../docs/boekhouding/beginnen-met-boekhouden/boekhouding-starten-dagboeken.rst:68
+#: ../../docs/boekhouding/beginnen-met-boekhouden/boekhouding-starten-dagboeken.rst:100
+#: ../../docs/boekhouding/beginnen-met-boekhouden/boekhouding-starten-dagboeken.rst:142
+#: ../../docs/boekhouding/beginnen-met-boekhouden/boekhouding-starten-dagboeken.rst:168
+msgid ""
+"**Blokkeer datum:** Vergrendelt het dagboek volledig, zodat niemand "
+"wijzigingen kan aanbrengen na de opgegeven datum."
+msgstr ""
+
+#: ../../docs/boekhouding/beginnen-met-boekhouden/boekhouding-starten-dagboeken.rst:69
+#: ../../docs/boekhouding/beginnen-met-boekhouden/boekhouding-starten-dagboeken.rst:101
+#: ../../docs/boekhouding/beginnen-met-boekhouden/boekhouding-starten-dagboeken.rst:143
+#: ../../docs/boekhouding/beginnen-met-boekhouden/boekhouding-starten-dagboeken.rst:169
+msgid ""
+"**Blokkeerdatum voor standaard gebruiker:** Alleen de facturatiebeheerder"
+" kan nog wijzigingen aanbrengen in dit dagboek. Dit is handig als de "
+"boekhouder wel wijzigingen mag aanbrengen, maar een standaard gebruiker "
+"niet."
+msgstr ""
+
+#: ../../docs/boekhouding/beginnen-met-boekhouden/boekhouding-starten-dagboeken.rst:73
+msgid "Verkoop"
+msgstr ""
+
+#: ../../docs/boekhouding/beginnen-met-boekhouden/boekhouding-starten-dagboeken.rst:75
+msgid ""
+"In het verkoopboek wordt gedetailleerde informatie bijgehouden over alle "
+"verkopen. Het omvat niet alleen de datum van de verkoop, maar ook de naam"
+" van de klant, de aard van de verkochte goederen of diensten, en het "
+"ontvangen bedrag. Dit specifieke dagboek is met name van belang voor "
+"bedrijven die frequent goederen of diensten verkopen. Het verkoopboek "
+"vormt niet alleen een beheersinstrument voor de cashflow, maar levert ook"
+" waardevolle gegevens voor het opstellen van toekomstige verkoopprognoses"
+" en het formuleren van doeltreffende bedrijfsstrategieën."
+msgstr ""
+
+#: ../../docs/boekhouding/beginnen-met-boekhouden/boekhouding-starten-dagboeken.rst:81
+#: ../../docs/boekhouding/beginnen-met-boekhouden/boekhouding-starten-dagboeken.rst:125
+#: ../../docs/boekhouding/beginnen-met-boekhouden/boekhouding-starten-dagboeken.rst:158
+msgid "De configuratie van het verkoopboek ziet er als volgt uit."
+msgstr ""
+
+#: ../../docs/boekhouding/beginnen-met-boekhouden/boekhouding-starten-dagboeken.rst:85
+msgid ""
+"**Standaard omzetrekening:** De standaard grootboekrekening die wordt "
+"gebruikt wanneer een factuur wordt aangemaakt. Als er vanuit andere "
+"processen geen specifieke omzetrekening wordt opgegeven, zal deze "
+"standaardrekening worden gebruikt."
+msgstr ""
+
+#: ../../docs/boekhouding/beginnen-met-boekhouden/boekhouding-starten-dagboeken.rst:87
+#: ../../docs/boekhouding/beginnen-met-boekhouden/boekhouding-starten-dagboeken.rst:131
+msgid ""
+"**Specifieke creditfactuur reeks:** Vink dit aan als je niet dezelfde "
+"nummerreeks wilt gebruiken voor creditfacturen die in dit dagboek zijn "
+"geboekt."
+msgstr ""
+
+#: ../../docs/boekhouding/beginnen-met-boekhouden/boekhouding-starten-dagboeken.rst:90
+#: ../../docs/boekhouding/beginnen-met-boekhouden/boekhouding-starten-dagboeken.rst:134
+msgid ""
+"**Chronologie controleren?:** Als de datum van een boeking niet "
+"chronologisch opvolgt, kan de boeking niet worden bevestigd. Dit voorkomt"
+" onbedoelde boekingen in de verkeerde periode."
+msgstr ""
+
+#: ../../docs/boekhouding/beginnen-met-boekhouden/boekhouding-starten-dagboeken.rst:92
+msgid ""
+"**Valuta:** De valuta van dit dagboek. In de meeste gevallen is dit leeg "
+"voor verkoop. Als je een factuur in een andere valuta wilt opstellen, kun"
+" je dat direct op de factuur instellen."
+msgstr ""
+
+#: ../../docs/boekhouding/beginnen-met-boekhouden/boekhouding-starten-dagboeken.rst:99
+#: ../../docs/boekhouding/beginnen-met-boekhouden/boekhouding-starten-dagboeken.rst:141
+#: ../../docs/boekhouding/beginnen-met-boekhouden/boekhouding-starten-dagboeken.rst:167
+msgid "**Saldolijn toevoegen:** Deze is alleen van toepassing voor het bankboek."
+msgstr ""
+
+#: ../../docs/boekhouding/beginnen-met-boekhouden/boekhouding-starten-dagboeken.rst:103
+#: ../../docs/boekhouding/beginnen-met-boekhouden/boekhouding-starten-dagboeken.rst:145
+msgid ""
+"**Vergrendel ingevoerde gegevens met hash:** Zodra een factuur wordt "
+"geboekt, wordt deze vergrendeld. Achteraf aanpassingen maken op de "
+"factuur is hierdoor niet mogelijk."
+msgstr ""
+
+#: ../../docs/boekhouding/beginnen-met-boekhouden/boekhouding-starten-dagboeken.rst:105
+msgid ""
+"**E-mailservers configureren:** Hiermee kun je een mailbox koppelen aan "
+"je verkoopfacturen. CURQ leest dan automatisch je e-mails uit en maakt de"
+" factuur automatisch aan. Je hoeft de PDF dan niet apart in CURQ te "
+"uploaden. Dit is handig als je verkoopfacturen elders worden aangemaakt."
+msgstr ""
+
+#: ../../docs/boekhouding/beginnen-met-boekhouden/boekhouding-starten-dagboeken.rst:108
+msgid ""
+"**Elektronische facturatie:** Je kunt een factuur ook via XML of EDI "
+"versturen. Je hebt de keuze tussen NLCIUS of Peppol BIS Billing 3.0 "
+"formaat. De ontvangende partij kan hierdoor sneller jouw factuur invoeren"
+" als ze hiervan gebruik maken. Alle factuurgegevens zijn dan opgeslagen "
+"in het XML- of EDI-formaat."
+msgstr ""
+
+#: ../../docs/boekhouding/beginnen-met-boekhouden/boekhouding-starten-dagboeken.rst:111
+msgid ""
+"**Communicatiesoort:** Bepaalt hoe de referentie op de factuur zal "
+"verschijnen, zodat de klant beter zijn betaling kan uitvoeren."
+msgstr ""
+
+#: ../../docs/boekhouding/beginnen-met-boekhouden/boekhouding-starten-dagboeken.rst:112
+msgid ""
+"**Standaard communicatie:** Bepaalt hoe de referentie wordt opgebouwd. "
+"Standaard staat deze instelling op Odoo."
+msgstr ""
+
+#: ../../docs/boekhouding/beginnen-met-boekhouden/boekhouding-starten-dagboeken.rst:113
+msgid ""
+"**Plan activiteit:** Hiermee kun je een activiteit laten inplannen op de "
+"vervaldag van de factuur. Dit kan helpen om het betalingsproces te "
+"verbeteren en je facturen beter op te volgen."
+msgstr ""
+
+#: ../../docs/boekhouding/beginnen-met-boekhouden/boekhouding-starten-dagboeken.rst:117
+msgid "Inkoop"
+msgstr ""
+
+#: ../../docs/boekhouding/beginnen-met-boekhouden/boekhouding-starten-dagboeken.rst:119
+msgid ""
+"Het inkoopboek richt zich op alle aankopen van goederen en diensten door "
+"het bedrijf. Het zorgvuldig noteren van gegevens zoals de aankoopdatum, "
+"leveranciersnaam, aard van de gekochte goederen en diensten, en het "
+"betaalde bedrag biedt waardevol inzicht in de uitgaven van het bedrijf. "
+"Het inkoopboek komt vooral van pas voor bedrijven die nauwgezet hun "
+"uitgaven willen volgen en financiële gegevens op georganiseerde wijze "
+"willen beheren. Dit resulteert niet alleen in een beter begrip van de "
+"cashflow, maar versterkt ook de controle over de budgetten."
+msgstr ""
+
+#: ../../docs/boekhouding/beginnen-met-boekhouden/boekhouding-starten-dagboeken.rst:129
+msgid ""
+"**Standaard kostenrekening:** De standaard grootboekrekening die wordt "
+"gebruikt wanneer een factuur wordt aangemaakt. Als er vanuit andere "
+"processen geen specifieke kostenrekening wordt opgegeven, zal deze "
+"standaardrekening worden gebruikt."
+msgstr ""
+
+#: ../../docs/boekhouding/beginnen-met-boekhouden/boekhouding-starten-dagboeken.rst:136
+msgid ""
+"**Valuta:** De valuta van dit dagboek. In de meeste gevallen is dit leeg "
+"voor inkoop. Als je een factuur in een andere valuta wilt opstellen, kun "
+"je dat direct op de factuur instellen."
+msgstr ""
+
+#: ../../docs/boekhouding/beginnen-met-boekhouden/boekhouding-starten-dagboeken.rst:147
+msgid ""
+"**E-mailservers configureren:** Hiermee kun je een mailbox koppelen aan "
+"je inkoopfacturen. CURQ leest dan automatisch je e-mails uit en maakt de "
+"factuur automatisch aan. Je hoeft de PDF dan niet apart in CURQ te "
+"uploaden."
+msgstr ""
+
+#: ../../docs/boekhouding/beginnen-met-boekhouden/boekhouding-starten-dagboeken.rst:152
+msgid "Diversen / Memoriaal"
+msgstr ""
+
+#: ../../docs/boekhouding/beginnen-met-boekhouden/boekhouding-starten-dagboeken.rst:154
+msgid ""
+"Een bijzonder dagboek is het dagboek memoriaal, dat fungeert als een "
+"veelzijdig administratief instrument. Dit dagboek komt van pas voor "
+"boekingen die geen specifieke thuisbasis hebben in andere dagboeken. "
+"Voorbeelden hiervan zijn correcties, het verrekenen van openstaande en "
+"oninbare facturen, salarisboekingen en standaardboekingen."
+msgstr ""
+
+#: ../../docs/boekhouding/beginnen-met-boekhouden/boekhouding-starten-dagboeken.rst:163
+msgid ""
+"**Valuta:** De valuta van dit dagboek. In de meeste gevallen is dit leeg "
+"voor memoriaal."
+msgstr ""
+
+#: ../../docs/boekhouding/beginnen-met-boekhouden/boekhouding-starten-dagboeken.rst:171
+msgid ""
+"**Vergrendel ingevoerde gegevens met hash:** Zodra een boeking wordt "
+"geboekt, wordt deze vergrendeld. Achteraf aanpassingen maken op de "
+"boeking is hierdoor niet mogelijk."
+msgstr ""

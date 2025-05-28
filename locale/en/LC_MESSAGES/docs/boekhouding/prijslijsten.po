@@ -1,0 +1,242 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2025, Onestein
+# This file is distributed under the same license as the CURQ package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2025.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: CURQ \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-05-28 09:55+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: en\n"
+"Language-Team: en <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.17.0\n"
+
+#: ../../docs/boekhouding/prijslijsten.rst:2
+msgid "Prijslijsten"
+msgstr ""
+
+#: ../../docs/boekhouding/prijslijsten.rst:4
+msgid ""
+"Prijslijsten zijn noodzakelijk wanneer groepen klanten aangepaste prijzen"
+" moeten krijgen. Denk hierbij aan kortingen zoals loyaliteitskorting of "
+"Black Friday-kortingen."
+msgstr ""
+
+#: ../../docs/boekhouding/prijslijsten.rst:7
+msgid ""
+"Om prijslijsten te gebruiken, moeten deze eerst worden ingeschakeld in de"
+" instellingen van verkoop."
+msgstr ""
+
+#: ../../docs/boekhouding/prijslijsten.rst:11
+msgid ""
+"In de verkoopmodule ga je naar Configuratie > Instellingen. Onder de "
+"sectie Prijzen, vink Prijslijsten aan. Onder Prijslijsten zijn er twee "
+"opties: Meerdere prijzen per product en Geavanceerde prijsstelling"
+msgstr ""
+
+#: ../../docs/boekhouding/prijslijsten.rst:16
+msgid ""
+"Om naar de pagina met prijslijsten te gaan, selecteer je in de "
+"instellingen de -> Prijslijsten-knop of ga je naar het kopje Producten > "
+"Prijslijsten. Op de prijslijstpagina selecteer je de +Nieuw-knop. Hierna "
+"kom je op de pagina voor het aanmaken van een nieuwe prijslijst."
+msgstr ""
+
+#: ../../docs/boekhouding/prijslijsten.rst:25
+msgid "Meerdere prijzen per product"
+msgstr ""
+
+#: ../../docs/boekhouding/prijslijsten.rst:26
+msgid ""
+"De optie Meerdere prijzen per product is ideaal wanneer er eenvoudig en "
+"snel tijdelijke wijzigingen moeten worden aangebracht aan een aantal "
+"specifieke producten. Op de nieuwe prijslijstpagina zijn verschillende "
+"opties aanwezig. Geef de prijslijst een naam; dit is verplicht om de "
+"prijslijst op te slaan. Selecteer hierna de valuta waarin de prijslijst "
+"wordt weergegeven; dit is voorgeselecteerd als de standaard valuta. Onder"
+" het kopje Prijsregels kunnen de artikelen worden geselecteerd waarvoor "
+"een andere prijs moet worden ingesteld."
+msgstr ""
+
+#: ../../docs/boekhouding/prijslijsten.rst:34
+msgid ""
+"Selecteer eerst Regel toevoegen, kies hierna het product dat een nieuwe "
+"prijs moet krijgen. Kies vervolgens de minimumhoeveelheid van het product"
+" die gekocht moet worden om de nieuwe prijs in te laten gaan. Vul hierna "
+"onder Prijs de nieuwe prijs voor het product in. Achter Prijs staan de "
+"start- en einddatum; hier kun je de datums aangeven gedurende welke tijd "
+"het product de aangepaste prijs moet hebben. Wanneer deze leeg gelaten "
+"wordt, geldt de prijs tot de prijslijst verwijderd wordt. Onder "
+"Configuratie zijn enkele opties aanwezig. Onder Beschikbaarheid staat de "
+"optie Landgroepen; hier kun je selecteren voor welke groepen de "
+"prijslijst geldt, zoals Europa, Noord-Amerika, SEPA-landen of enige "
+"andere die te selecteren en aan te maken zijn. Onder het kopje 'Website' "
+"staan drie opties:"
+msgstr ""
+
+#: ../../docs/boekhouding/prijslijsten.rst:42
+msgid "**Website:**"
+msgstr ""
+
+#: ../../docs/boekhouding/prijslijsten.rst:44
+msgid "voor welke website de prijslijst geldt."
+msgstr ""
+
+#: ../../docs/boekhouding/prijslijsten.rst:46
+msgid "**Kiesbaar:**"
+msgstr ""
+
+#: ../../docs/boekhouding/prijslijsten.rst:48
+msgid "of de klant de prijslijst in de webshop kan selecteren."
+msgstr ""
+
+#: ../../docs/boekhouding/prijslijsten.rst:50
+msgid "**E-commerce promotiecode:**"
+msgstr ""
+
+#: ../../docs/boekhouding/prijslijsten.rst:52
+msgid ""
+"de code die een klant kan invullen op de webshop om toegang te krijgen "
+"tot de prijslijst."
+msgstr ""
+
+#: ../../docs/boekhouding/prijslijsten.rst:57
+msgid "Geavanceerde prijsstelling"
+msgstr ""
+
+#: ../../docs/boekhouding/prijslijsten.rst:59
+msgid ""
+"De geavanceerde prijsstellingsoptie is bedoeld voor complexere "
+"prijslijsten, zoals kortingen voor alle producten of wanneer de nieuwe "
+"prijs moet worden gedefinieerd via een formule."
+msgstr ""
+
+#: ../../docs/boekhouding/prijslijsten.rst:62
+msgid ""
+"In deze optie ziet de pagina er hetzelfde uit als in de Meerdere prijzen "
+"per product-optie. Het verschil wordt merkbaar wanneer Regel toevoegen "
+"wordt geselecteerd; er verschijnt nu een pop-up menu met verschillende "
+"opties."
+msgstr ""
+
+#: ../../docs/boekhouding/prijslijsten.rst:66
+msgid "Prijsberekening"
+msgstr ""
+
+#: ../../docs/boekhouding/prijslijsten.rst:68
+msgid ""
+"De bewerkingsoptie bepaalt wat de regel aan de prijs aanpast. Er zijn "
+"drie opties: vaste prijs, korting en formule. Onder Vaste prijs wordt de "
+"prijs aangepast naar de opgegeven prijs, hetzelfde als bij de Meerdere "
+"prijzen per product-optie."
+msgstr ""
+
+#: ../../docs/boekhouding/prijslijsten.rst:73
+msgid ""
+"Wanneer korting wordt geselecteerd, wordt het ingevoerde percentage van "
+"de prijs afgetrokken. Ook kan er een negatief getal worden ingevoerd om "
+"een percentage aan de prijs toe te voegen."
+msgstr ""
+
+#: ../../docs/boekhouding/prijslijsten.rst:78
+msgid ""
+"De Formule-knop is complexer en bevat meerdere velden die de prijs "
+"beïnvloeden."
+msgstr ""
+
+#: ../../docs/boekhouding/prijslijsten.rst:80
+msgid ""
+"Het eerste veld is gebaseerd op. Dit beïnvloedt waarop de nieuwe prijs "
+"wordt gebaseerd."
+msgstr ""
+
+#: ../../docs/boekhouding/prijslijsten.rst:82
+msgid ""
+"Verkoopprijs: De prijs wordt berekend op basis van de prijs die is "
+"aangegeven op de productpagina."
+msgstr ""
+
+#: ../../docs/boekhouding/prijslijsten.rst:84
+msgid ""
+"Kostprijs: Hier wordt de prijs gebaseerd op de kosten die zijn gemaakt om"
+" het product te kunnen verkopen, zoals de inkoopprijs. Het kan ook andere"
+" kosten bevatten, zoals de productiekosten als het product in-house wordt"
+" gemaakt."
+msgstr ""
+
+#: ../../docs/boekhouding/prijslijsten.rst:87
+msgid ""
+"Eerder gemaakte prijslijst: Denk aan eerst een prijslijst om de "
+"verkoopprijs te berekenen van de kostprijs en hierna met de nieuwe "
+"prijslijst korting op de berekende verkoopprijs."
+msgstr ""
+
+#: ../../docs/boekhouding/prijslijsten.rst:90
+msgid ""
+"Het tweede veld is korting. Hier wordt de korting berekend per "
+"percentage. Dit kan ook een negatief nummer zijn om het product een "
+"bepaald percentage duurder te maken."
+msgstr ""
+
+#: ../../docs/boekhouding/prijslijsten.rst:93
+msgid ""
+"Het derde veld zijn extra kosten. Dit is een vast getal dat aan de prijs "
+"wordt toegevoegd. Dit kan ook een negatief getal zijn, denk aan -0,01 om "
+"de prijs te laten eindigen op 0,99. Om dit goed te berekenen is het "
+"vierde veld nodig."
+msgstr ""
+
+#: ../../docs/boekhouding/prijslijsten.rst:96
+msgid ""
+"Het vierde veld is de afrondmethode. Dit is de manier waarop de "
+"berekening wordt afgerond, zoals op een heel getal, op een getal achter "
+"de komma, per vijf of per tiental. Hiermee kun je in één keer een mooi "
+"rond getal krijgen of met de negatieve getallen in het extra kosten-veld "
+"een strategisch verantwoorde prijs."
+msgstr ""
+
+#: ../../docs/boekhouding/prijslijsten.rst:100
+msgid ""
+"Het laatste veld, marges, kan een minimum- en maximumwinstmarge worden "
+"ingesteld, gebaseerd op de kostprijs"
+msgstr ""
+
+#: ../../docs/boekhouding/prijslijsten.rst:105
+msgid "Voorwaarden"
+msgstr ""
+
+#: ../../docs/boekhouding/prijslijsten.rst:107
+msgid "Onder voorwaarden staan drie velden."
+msgstr ""
+
+#: ../../docs/boekhouding/prijslijsten.rst:109
+msgid ""
+"Toepassen op heeft vier opties: alle producten, productcategorie - deze "
+"zijn per product in te stellen en groeperen producten onder een naam, "
+"zoals bijvoorbeeld broeken, product - dit is een specifiek product, zoals"
+" een soort spijkerbroek, en productvariant - dit is een specifieke "
+"variant van een product, zoals een donkerblauwe spijkerbroek. Voor meer "
+"informatie over productvarianten, ga naar onze documentatie over "
+"productvarianten. Minimum hoeveelheid is de minimale hoeveelheid van de "
+"producten die gekocht moeten worden om de regel te laten gelden. De "
+"laatste optie is Geldig tot hier kan de begin- en einddatum ingesteld "
+"worden gedurende wanneer de regel geldig is. Wanneer dit leeg gelaten "
+"wordt, is dit tot de regel of prijslijst verwijderd wordt."
+msgstr ""
+
+#: ../../docs/boekhouding/prijslijsten.rst:117
+msgid ""
+"Wanneer alle benodigde informatie is toegevoegd kan onder aan het pop-up "
+"scherm gekozen worden voor opslaan en sluiten waneer alle wijzegingen "
+"zijn doorgevoerd en opslaan en nieuw wanneer er meer regels moeten worden"
+" toegevoegd."
+msgstr ""

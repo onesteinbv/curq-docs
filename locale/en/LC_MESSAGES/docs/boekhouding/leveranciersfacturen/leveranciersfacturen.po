@@ -1,0 +1,250 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2025, Onestein
+# This file is distributed under the same license as the CURQ package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2025.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: CURQ \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-05-28 09:55+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: en\n"
+"Language-Team: en <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.17.0\n"
+
+#: ../../docs/boekhouding/leveranciersfacturen/leveranciersfacturen.rst:2
+msgid "Leveranciersfactuur"
+msgstr ""
+
+#: ../../docs/boekhouding/leveranciersfacturen/leveranciersfacturen.rst:4
+msgid "Open de Facturatie/Boekhouding module in Odoo."
+msgstr ""
+
+#: ../../docs/boekhouding/leveranciersfacturen/leveranciersfacturen.rst:8
+msgid ""
+"Kies \"Leveranciers\" boven in het scherm en selecteer in het dropdown-"
+"menu \"Leveranciers Facturatie\"."
+msgstr ""
+
+#: ../../docs/boekhouding/leveranciersfacturen/leveranciersfacturen.rst:10
+msgid ""
+"Kies upload als je een van de leverancier ontvangen inkoopfactuur wil "
+"inlezen, klik op nieuw om handmatig een inkoopfactuur aan te maken."
+msgstr ""
+
+#: ../../docs/boekhouding/leveranciersfacturen/leveranciersfacturen.rst:14
+msgid ""
+"Het factuurscherm is opgedeeld in verschillende vlakken. Vul de algemene "
+"informatie in het hoofdvak in."
+msgstr ""
+
+#: ../../docs/boekhouding/leveranciersfacturen/leveranciersfacturen.rst:16
+msgid ""
+"**Leverancier**. Selecteer de leverancier, waarbij het adres automatisch "
+"wordt ingevuld."
+msgstr ""
+
+#: ../../docs/boekhouding/leveranciersfacturen/leveranciersfacturen.rst:17
+msgid ""
+"**Factuurreferentie**. Vul hier de referentie in die de leverancier heeft"
+" meegegeven."
+msgstr ""
+
+#: ../../docs/boekhouding/leveranciersfacturen/leveranciersfacturen.rst:18
+msgid ""
+"**Automatisch aanvullen**. Voor gebruik van data van inkooporder(s) of "
+"een oude factuur. Kies je voor een inkooporder dan zal CURQ de "
+"orderregels van die inkooporder overnemen naar de factuur. Je kan "
+"meerdere inkooporders aan 1 factuur koppelen."
+msgstr ""
+
+#: ../../docs/boekhouding/leveranciersfacturen/leveranciersfacturen.rst:20
+msgid ""
+"**Factuurdatum**. De factuurdatum is verplicht, en de boekhouddatum staat"
+" automatisch op de huidige dag."
+msgstr ""
+
+#: ../../docs/boekhouding/leveranciersfacturen/leveranciersfacturen.rst:21
+msgid ""
+"**Betaalreferentie**. Kies de betaalwijze (creditcard, iDeal, SEPA, "
+"etc.), en selecteer de bank van de leverancier onder Recipient Bank. "
+"Wanneer je met Sepa werkt dan moet je een banknummer van de leverancier "
+"invullen."
+msgstr ""
+
+#: ../../docs/boekhouding/leveranciersfacturen/leveranciersfacturen.rst:23
+msgid ""
+"**Vervaldatum**. Dit is de uiterste datum is waarop de factuur betaald "
+"moet zijn. Bij de leverancier kun je de standaard betaaltermijn ingeven, "
+"deze wordt dan overgenomen naar de inkoopfactuur."
+msgstr ""
+
+#: ../../docs/boekhouding/leveranciersfacturen/leveranciersfacturen.rst:27
+msgid "Factuurregels"
+msgstr ""
+
+#: ../../docs/boekhouding/leveranciersfacturen/leveranciersfacturen.rst:29
+msgid ""
+"**Factuurregels** bevatten de details van de factuur. Hier staat wat er "
+"is gekocht tegen welke bedrag en met welke BTW."
+msgstr ""
+
+#: ../../docs/boekhouding/leveranciersfacturen/leveranciersfacturen.rst:30
+msgid ""
+"**Product** Vul hier een product in als je gebruik maakt van producten "
+"binnen CURQ. Een product kan ook een dienst zijn, dan heeft het product "
+"het type dienst. Het is niet verplicht om gebruik te maken van producten."
+msgstr ""
+
+#: ../../docs/boekhouding/leveranciersfacturen/leveranciersfacturen.rst:32
+msgid ""
+"**Label** Deze verschijnt op de factuur, dus vul deze correct in. Als je "
+"producten gebruikt wordt deze automatisch overgenomen, maar je kan die "
+"altijd achteraf aanpassen."
+msgstr ""
+
+#: ../../docs/boekhouding/leveranciersfacturen/leveranciersfacturen.rst:34
+msgid ""
+"**Rekening** Het is verplicht om de juiste grootboekrekening op te geven."
+" De kosten wordt geboekt op deze grootboekrekening. CURQ kan deze "
+"automatisch invullen op basis van de producten."
+msgstr ""
+
+#: ../../docs/boekhouding/leveranciersfacturen/leveranciersfacturen.rst:36
+msgid "**Aantal** Het aantal ingekocht."
+msgstr ""
+
+#: ../../docs/boekhouding/leveranciersfacturen/leveranciersfacturen.rst:37
+msgid "**Prijs** De prijs per eenheid."
+msgstr ""
+
+#: ../../docs/boekhouding/leveranciersfacturen/leveranciersfacturen.rst:38
+msgid ""
+"**BTW** CURQ stelt automatisch de meest logische BTW code voor. Wijk hier"
+" alleen af als er een andere BTW van toepassing is."
+msgstr ""
+
+#: ../../docs/boekhouding/leveranciersfacturen/leveranciersfacturen.rst:39
+msgid "**Subtotaal** Aantal x Prijs."
+msgstr ""
+
+#: ../../docs/boekhouding/leveranciersfacturen/leveranciersfacturen.rst:40
+msgid ""
+"**Algemene voorwaarden** Links onder de factuurregels zie je de algemene "
+"voorwaarden staan. Deze tekst verschijnt op je facturen. TIP: Heb je deze"
+" op je website staan, dan kan je daar naar verwijzen."
+msgstr ""
+
+#: ../../docs/boekhouding/leveranciersfacturen/leveranciersfacturen.rst:42
+msgid ""
+"**Totalen** Rechts onder de factuurregels zie je de totalen van de "
+"factuur inclusief welke BTW wordt toegepast."
+msgstr ""
+
+#: ../../docs/boekhouding/leveranciersfacturen/leveranciersfacturen.rst:47
+msgid "Boekingsregels"
+msgstr ""
+
+#: ../../docs/boekhouding/leveranciersfacturen/leveranciersfacturen.rst:49
+msgid ""
+"Hier wordt de journaalpost getoond van de factuur, met daarbij "
+"bijvoorbeeld de BTW -e en kostenrekeningen."
+msgstr ""
+
+#: ../../docs/boekhouding/leveranciersfacturen/leveranciersfacturen.rst:54
+msgid "Overige informatie"
+msgstr ""
+
+#: ../../docs/boekhouding/leveranciersfacturen/leveranciersfacturen.rst:56
+msgid ""
+"Hier worden leveringscondities, fiscale positie, automatisch boeken en "
+"controle van de factuur aangegeven."
+msgstr ""
+
+#: ../../docs/boekhouding/leveranciersfacturen/leveranciersfacturen.rst:58
+msgid ""
+"**Leveringscondities:** Als INCOTERMS van belang is, dan kan je die hier "
+"invullen. In CURQ zijn de meest gebruikte aanwezig."
+msgstr ""
+
+#: ../../docs/boekhouding/leveranciersfacturen/leveranciersfacturen.rst:59
+msgid "**Fiscale Positie:** Het BTW regime dat van toepassing is op de factuur."
+msgstr ""
+
+#: ../../docs/boekhouding/leveranciersfacturen/leveranciersfacturen.rst:60
+msgid ""
+"**Automatische boeken:** Alleen op een concept factuur kan dit worden "
+"ingesteld. Je kan een factuur al vooruit plannen om die later te laten "
+"boeken. Of je kan terugkerende facturen automatisch laten boeken tot een "
+"bepaalde tijd door CURQ. Dit is handig als je elke maand dezelfde factuur"
+" wilt laten aanmaken."
+msgstr ""
+
+#: ../../docs/boekhouding/leveranciersfacturen/leveranciersfacturen.rst:63
+msgid ""
+"**Te controleren:** De factuur krijgt de status te controleren. Je kan "
+"bijv. jouw boekhouder hiermee attenderen dat deze factuur nog een keer "
+"extra moet worden gecontroleerd."
+msgstr ""
+
+#: ../../docs/boekhouding/leveranciersfacturen/leveranciersfacturen.rst:68
+msgid ""
+"Wanneer een factuur geüpload wordt verschijnt dezen aan de rechter kant "
+"van het scherm en kan de informatie direct overgenomen worden."
+msgstr ""
+
+#: ../../docs/boekhouding/leveranciersfacturen/leveranciersfacturen.rst:71
+msgid "Logging van de factuur"
+msgstr ""
+
+#: ../../docs/boekhouding/leveranciersfacturen/leveranciersfacturen.rst:73
+msgid ""
+"Alle belangrijke wijzigingen met betrekking tot de factuur worden hier "
+"bijgehouden. Je ziet hier ook de mailtjes die verzonden zijn. Als je ook "
+"nog gebruik maakt van de volledige integratie met mailfunctionaliteit, "
+"dan verschijnt hier ook het antwoord van de klant als hij reageert op de "
+"mail."
+msgstr ""
+
+#: ../../docs/boekhouding/leveranciersfacturen/leveranciersfacturen.rst:77
+msgid "**Verzend bericht:** Hiermee verzend je een mail naar de klant."
+msgstr ""
+
+#: ../../docs/boekhouding/leveranciersfacturen/leveranciersfacturen.rst:78
+msgid ""
+"**Log notitie:** Dit is een interne notitie die alleen intern zichtbaar "
+"is. Voor de klant is deze niet zichtbaar."
+msgstr ""
+
+#: ../../docs/boekhouding/leveranciersfacturen/leveranciersfacturen.rst:79
+msgid ""
+"**Activiteiten:** Je kan een bepaalde activiteit inplannen voor iemand. "
+"Dit kan een todo zijn, maar ook een afspraak."
+msgstr ""
+
+#: ../../docs/boekhouding/leveranciersfacturen/leveranciersfacturen.rst:83
+msgid ""
+"**Volgers:** Contacten en/of medewerkers kunnen volgers zijn van het "
+"documenten. Afhankelijk van hun aanmelding worden deze volgers op de "
+"hoogte gehouden van wijzigingen op dit document."
+msgstr ""
+
+#: ../../docs/boekhouding/leveranciersfacturen/leveranciersfacturen.rst:86
+msgid ""
+"Wanneer alle informatie is ingevuld, selecteer \"Bevestigen\" links boven"
+" in de hoek."
+msgstr ""
+
+#: ../../docs/boekhouding/leveranciersfacturen/leveranciersfacturen.rst:90
+msgid ""
+"Hierna kan de betaling geregistreerd worden, een creditfactuur voor de "
+"huidige factuur worden aangemaakt en de factuur teruggezet worden naar "
+"een concept om aanpassingen te maken."
+msgstr ""

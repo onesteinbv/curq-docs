@@ -1,0 +1,120 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2025, Onestein
+# This file is distributed under the same license as the CURQ package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2025.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: CURQ \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-05-28 09:55+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: en\n"
+"Language-Team: en <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.17.0\n"
+
+#: ../../docs/inkoop/inkoop-extra-kosten-voor-producten-logistieke-kosten.rst:3
+msgid "Inkoop | Extra kosten voor producten (Logistieke kosten)"
+msgstr ""
+
+#: ../../docs/inkoop/inkoop-extra-kosten-voor-producten-logistieke-kosten.rst:5
+msgid ""
+"De grondprijs van een product is de totale kosten die aan de koper worden"
+" doorberekend na aftrek van verschillende gerelateerde uitgaven, zoals de"
+" kosten van het product zelf, verzendkosten, leveringskosten en andere "
+"relevante kosten. Deze uitgaven bepalen de initiële verkoopprijs van het "
+"product. Omdat de *Logistieke kosten* van een product kan variëren op "
+"basis van het bedrijfsbeleid en de bedrijfsactiviteiten, is het mogelijk "
+"dat twee bedrijven verschillende *Logistieke kosten* hebben voor "
+"hetzelfde product."
+msgstr ""
+
+#: ../../docs/inkoop/inkoop-extra-kosten-voor-producten-logistieke-kosten.rst:11
+msgid ""
+"Om *Logistieke kosten* te activeren, ga je naar de *Waarde* sectie in het"
+" venster **Instellingen**."
+msgstr ""
+
+#: ../../docs/inkoop/inkoop-extra-kosten-voor-producten-logistieke-kosten.rst:15
+msgid ""
+"Nu wordt het menu *Logistieke kosten* weergegeven in de vervolgkeuzelijst"
+" van het tabblad Bewerkingen. Klik erop om het menu te openen. In dit "
+"venster worden alle *Logistieke kosten* weergegeven die aan de module "
+"zijn toegevoegd. Standaard worden alle details in een lijstweergave "
+"getoond, maar je kunt ookoverschakelen naar een Kanban-weergave door op "
+"de bijbehorende pictogrammen in de rechterbovenhoek van het venster te "
+"klikken. Gebruik de opties *Filters* en *Groeperen op* om de records snel"
+" te identificeren, sorteren en categoriseren. Als je een filter of "
+"criterium hebt dat u vaak gebruikt, voeg het dan toe aan *Favorieten*."
+msgstr ""
+
+#: ../../docs/inkoop/inkoop-extra-kosten-voor-producten-logistieke-kosten.rst:22
+msgid ""
+"Voordat je nieuwe *Logistieke kosten* aanmaakt, ga je naar "
+"*Productcategorieën* op het tabblad **Configuratie**. Selecteer een "
+"categorie uit de lijst die verschijnt."
+msgstr ""
+
+#: ../../docs/inkoop/inkoop-extra-kosten-voor-producten-logistieke-kosten.rst:27
+msgid ""
+"Het product waarop de grondprijs wordt toegepast, moet een "
+"productcategorie hebben die is ingesteld op een FIFO- of een AVCO-"
+"methode. Stel dus de *Kostenprijsbepaling* in als *First In First Out "
+"(FIFO)* of *Gemiddelde kostprijs (AVCO)*. Als je de goederen verkoopt in "
+"dezelfde volgorde als ze zijn geleverd, kies dan *FIFO* als de kosten "
+"berekeningsmethode. Bij *Gemiddelde kostprijs* worden de kosten die aan "
+"de producten worden toegewezen berekend door de kosten van alle benodigde"
+" materialen te delen door het totale aantal artikelen."
+msgstr ""
+
+#: ../../docs/inkoop/inkoop-extra-kosten-voor-producten-logistieke-kosten.rst:34
+msgid ""
+"Ga nu naar *Producten* en klik op *Nieuw* om een nieuw artikel aan te "
+"maken. Stel *Productsoort* in als *Dienst* om een service te configureren"
+" die *Logistieke kosten* definieert."
+msgstr ""
+
+#: ../../docs/inkoop/inkoop-extra-kosten-voor-producten-logistieke-kosten.rst:39
+msgid ""
+"Activeer de optie *Zijn logistieke kosten* onder het tabblad **Inkoop** "
+"om de kosten berekeningsmethoden toe te wijzen aan deze service. In het "
+"veld **Standaard Splitsingsmethode** kunt u aangeven hoe u de kosten wilt"
+" splitsen."
+msgstr ""
+
+#: ../../docs/inkoop/inkoop-extra-kosten-voor-producten-logistieke-kosten.rst:45
+msgid ""
+"Om een nieuwe *Logistieke kosten* aan te maken, klikt u op de knop "
+"*Nieuw*. Geef de velden op zoals **Datum, Verplaatsingen, Dagboek** en "
+"eventueel **Leveranciersfactuur**. De keuze van *verplaatsing* bepaalt op"
+" welke domeinen je de *Logistieke* kosten wilt toepassen."
+msgstr ""
+
+#: ../../docs/inkoop/inkoop-extra-kosten-voor-producten-logistieke-kosten.rst:51
+msgid ""
+"Klik onder *Aanvullende kosten* op de knop Regel toevoegen. Je kunt het "
+"product selecteren uit de vervolgkeuzelijst in het veld Product. Voeg de "
+"details toe zoals **Omschrijving, Rekening, Splitsingsmethode** (hoe de "
+"logistieke kosten worden gesplitst) en **Kostprijs**. Wanneer u op "
+"*Bevestigen* klikt, ziet u verschillende waarden op het tabblad "
+"**Voorraadwaarde aanpassingen**."
+msgstr ""
+
+#: ../../docs/inkoop/inkoop-extra-kosten-voor-producten-logistieke-kosten.rst:57
+msgid "Planner uitvoeren"
+msgstr ""
+
+#: ../../docs/inkoop/inkoop-extra-kosten-voor-producten-logistieke-kosten.rst:58
+msgid ""
+"Odoo maakt gebruik van een scheduler om in- en verkoop transacties van "
+"jouw bedrijf te automatiseren. De planner draait automatisch 1 x per dag "
+"en kan handmatig gestart worden. Om toegang te krijgen tot deze functie, "
+"klik je op *Planner uitvoeren* in het menu **Bewerkingen**. Vervolgens "
+"verschijnt er een pop-upvenster. Klik op *Planner uitvoeren*."
+msgstr ""

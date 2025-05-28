@@ -1,0 +1,73 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2025, Onestein
+# This file is distributed under the same license as the CURQ package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2025.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: CURQ \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-05-28 09:55+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: en\n"
+"Language-Team: en <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.17.0\n"
+
+#: ../../docs/projecten/urenstaten-goedkeuren.rst:2
+msgid "Urenstaten goedkeuring"
+msgstr ""
+
+#: ../../docs/projecten/urenstaten-goedkeuren.rst:4
+msgid ""
+"Het goedkeuren van urenstaten is essentieel voor nauwkeurigheid, controle"
+" en budgetbeheer. Het verzekert de accuraatheid van ingevoerde uren, "
+"voorkomt fouten en onnauwkeurigheden, en stelt bevoegde personen in staat"
+" om de gebruikte uren te verifiëren voordat ze worden gefactureerd, "
+"waardoor een betere controle over projectkosten en -budgetten mogelijk "
+"is."
+msgstr ""
+
+#: ../../docs/projecten/urenstaten-goedkeuren.rst:10
+msgid "Goedkeuren van uren"
+msgstr ""
+
+#: ../../docs/projecten/urenstaten-goedkeuren.rst:13
+msgid ""
+"In veel bedrijven is het gebruikelijk dat medewerkers wekelijks hun "
+"urenregistratie indienen voor goedkeuring door hun manager. Bij CURQ "
+"wordt dit proces behandeld via een formulier genaamd 'weekstaat', wat "
+"overeenkomt met een urenstaat. Je kunt op elk moment een weekstaat "
+"aanmaken door naar 'Urenstaten' te gaan, vervolgens naar 'Mijn "
+"Timesheets' te navigeren en te kiezen voor 'Mijn weekstaatformulieren'. "
+"Tijdens het aanmaken vul je de periode in waarover de weekstaat gaat. Als"
+" er al uren zijn ingevoerd, worden alle bekende uren voor die periode "
+"weergegeven."
+msgstr ""
+
+#: ../../docs/projecten/urenstaten-goedkeuren.rst:22
+msgid ""
+"Zodra de weekstaat volledig is ingevuld, kan de medewerker deze ter "
+"goedkeuring aanbieden aan de manager. De manager kan alle te accorderen "
+"weekstaten vinden onder 'Urenstaten' > 'Beoordeling' > "
+"'Urenstaatformulieren'."
+msgstr ""
+
+#: ../../docs/projecten/urenstaten-goedkeuren.rst:25
+msgid ""
+"Op het tabblad 'Details' kan de manager alle details van de uren "
+"bekijken, inclusief een overzicht van alle geschreven uren."
+msgstr ""
+
+#: ../../docs/projecten/urenstaten-goedkeuren.rst:29
+msgid ""
+"Een volledig overzicht van alle geschreven uren is te vinden onder "
+"'Urenstaten' > 'Urenstaten' > 'Alle urenstaten'. Bovendien zijn uren ook "
+"beschikbaar in rapportages als draaitabelrapporten, waardoor het "
+"management analyses kan uitvoeren."
+msgstr ""

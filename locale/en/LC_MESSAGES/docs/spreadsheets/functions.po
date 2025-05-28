@@ -1,0 +1,1475 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2025, Onestein
+# This file is distributed under the same license as the CURQ package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2025.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: CURQ \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-05-28 09:55+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: en\n"
+"Language-Team: en <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.17.0\n"
+
+#: ../../docs/spreadsheets/functions.rst:2
+msgid "Functions"
+msgstr ""
+
+#: ../../docs/spreadsheets/functions.rst:4
+msgid "Spreadsheetfuncties zijn verdeeld in de volgende categorieën"
+msgstr ""
+
+#: ../../docs/spreadsheets/functions.rst:6
+msgid ":ref:`Array <functions/array>`"
+msgstr ""
+
+#: ../../docs/spreadsheets/functions.rst:7
+msgid ":ref:`Database <functions/database>`"
+msgstr ""
+
+#: ../../docs/spreadsheets/functions.rst:8
+msgid ":ref:`Date <functions/date>`"
+msgstr ""
+
+#: ../../docs/spreadsheets/functions.rst:9
+msgid ":ref:`Engineering <functions/engineering>`"
+msgstr ""
+
+#: ../../docs/spreadsheets/functions.rst:10
+msgid ":ref:`Filter <functions/filter>`"
+msgstr ""
+
+#: ../../docs/spreadsheets/functions.rst:11
+msgid ":ref:`Financial <functions/financial>`"
+msgstr ""
+
+#: ../../docs/spreadsheets/functions.rst:12
+msgid ":ref:`Info <functions/info>`"
+msgstr ""
+
+#: ../../docs/spreadsheets/functions.rst:13
+msgid ":ref:`Logical <functions/logical>`"
+msgstr ""
+
+#: ../../docs/spreadsheets/functions.rst:14
+msgid ":ref:`Lookup <functions/lookup>`"
+msgstr ""
+
+#: ../../docs/spreadsheets/functions.rst:15
+msgid ":ref:`Math <functions/math>`"
+msgstr ""
+
+#: ../../docs/spreadsheets/functions.rst:16
+msgid ":ref:`Misc <functions/misc>`"
+msgstr ""
+
+#: ../../docs/spreadsheets/functions.rst:17
+msgid ":ref:`Odoo <functions/odoo>`"
+msgstr ""
+
+#: ../../docs/spreadsheets/functions.rst:18
+msgid ":ref:`Operators <functions/operators>`"
+msgstr ""
+
+#: ../../docs/spreadsheets/functions.rst:19
+msgid ":ref:`Statistical <functions/statistical>`"
+msgstr ""
+
+#: ../../docs/spreadsheets/functions.rst:20
+msgid ":ref:`Text <functions/text>`"
+msgstr ""
+
+#: ../../docs/spreadsheets/functions.rst:21
+msgid ":ref:`Web <functions/web>`"
+msgstr ""
+
+#: ../../docs/spreadsheets/functions.rst:26
+msgid "Array"
+msgstr ""
+
+#: ../../docs/spreadsheets/functions.rst:32
+#: ../../docs/spreadsheets/functions.rst:64
+#: ../../docs/spreadsheets/functions.rst:87
+#: ../../docs/spreadsheets/functions.rst:130
+#: ../../docs/spreadsheets/functions.rst:142
+#: ../../docs/spreadsheets/functions.rst:155
+#: ../../docs/spreadsheets/functions.rst:214
+#: ../../docs/spreadsheets/functions.rst:235
+#: ../../docs/spreadsheets/functions.rst:257
+#: ../../docs/spreadsheets/functions.rst:284
+#: ../../docs/spreadsheets/functions.rst:353
+#: ../../docs/spreadsheets/functions.rst:365
+#: ../../docs/spreadsheets/functions.rst:388
+#: ../../docs/spreadsheets/functions.rst:415
+#: ../../docs/spreadsheets/functions.rst:479
+#: ../../docs/spreadsheets/functions.rst:510
+msgid "Name and arguments"
+msgstr ""
+
+#: ../../docs/spreadsheets/functions.rst:33
+msgid "ARRAY.CONSTRAIN(input_range, rows, columns)"
+msgstr ""
+
+#: ../../docs/spreadsheets/functions.rst:34
+msgid "CHOOSECOLS(array, col_num, [col_num2, ...])"
+msgstr ""
+
+#: ../../docs/spreadsheets/functions.rst:35
+msgid "CHOOSEROWS(array, row_num, [row_num2, ...])"
+msgstr ""
+
+#: ../../docs/spreadsheets/functions.rst:36
+msgid "EXPAND(array, rows, [columns], [pad_with])"
+msgstr ""
+
+#: ../../docs/spreadsheets/functions.rst:37
+msgid "FLATTEN(range, [range2, ...])"
+msgstr ""
+
+#: ../../docs/spreadsheets/functions.rst:38
+msgid "FREQUENCY(data, classes)"
+msgstr ""
+
+#: ../../docs/spreadsheets/functions.rst:39
+msgid "HSTACK(range1, [range2, ...])"
+msgstr ""
+
+#: ../../docs/spreadsheets/functions.rst:40
+msgid "MDETERM(square_matrix)"
+msgstr ""
+
+#: ../../docs/spreadsheets/functions.rst:41
+msgid "MINVERSE(square_matrix)"
+msgstr ""
+
+#: ../../docs/spreadsheets/functions.rst:42
+msgid "MMULT(matrix1, matrix2)"
+msgstr ""
+
+#: ../../docs/spreadsheets/functions.rst:43
+msgid "SUMPRODUCT(range1, [range2, ...])"
+msgstr ""
+
+#: ../../docs/spreadsheets/functions.rst:44
+msgid "SUMX2MY2(array_x, array_y)"
+msgstr ""
+
+#: ../../docs/spreadsheets/functions.rst:45
+msgid "SUMX2PY2(array_x, array_y)"
+msgstr ""
+
+#: ../../docs/spreadsheets/functions.rst:46
+msgid "SUMXMY2(array_x, array_y)"
+msgstr ""
+
+#: ../../docs/spreadsheets/functions.rst:47
+msgid "TOCOL(array, [ignore], [scan_by_column])"
+msgstr ""
+
+#: ../../docs/spreadsheets/functions.rst:48
+msgid "TOROW(array, [ignore], [scan_by_column])"
+msgstr ""
+
+#: ../../docs/spreadsheets/functions.rst:49
+msgid "TRANSPOSE(range)"
+msgstr ""
+
+#: ../../docs/spreadsheets/functions.rst:50
+msgid "VSTACK(range1, [range2, ...])"
+msgstr ""
+
+#: ../../docs/spreadsheets/functions.rst:51
+msgid "WRAPCOLS(range, wrap_count, [pad_with])"
+msgstr ""
+
+#: ../../docs/spreadsheets/functions.rst:52
+msgid "WRAPROWS(range, wrap_count, [pad_with])"
+msgstr ""
+
+#: ../../docs/spreadsheets/functions.rst:58
+msgid "Database"
+msgstr ""
+
+#: ../../docs/spreadsheets/functions.rst:65
+msgid "DAVERAGE(database, field, criteria)"
+msgstr ""
+
+#: ../../docs/spreadsheets/functions.rst:66
+msgid "DCOUNT(database, field, criteria)"
+msgstr ""
+
+#: ../../docs/spreadsheets/functions.rst:67
+msgid "DCOUNTA(database, field, criteria)"
+msgstr ""
+
+#: ../../docs/spreadsheets/functions.rst:68
+msgid "DGET(database, field, criteria)"
+msgstr ""
+
+#: ../../docs/spreadsheets/functions.rst:69
+msgid "DMAX(database, field, criteria)"
+msgstr ""
+
+#: ../../docs/spreadsheets/functions.rst:70
+msgid "DMIN(database, field, criteria)"
+msgstr ""
+
+#: ../../docs/spreadsheets/functions.rst:71
+msgid "DPRODUCT(database, field, criteria)"
+msgstr ""
+
+#: ../../docs/spreadsheets/functions.rst:72
+msgid "DSTDEV(database, field, criteria)"
+msgstr ""
+
+#: ../../docs/spreadsheets/functions.rst:73
+msgid "DSTDEVP(database, field, criteria)"
+msgstr ""
+
+#: ../../docs/spreadsheets/functions.rst:74
+msgid "DSUM(database, field, criteria)"
+msgstr ""
+
+#: ../../docs/spreadsheets/functions.rst:75
+msgid "DVAR(database, field, criteria)"
+msgstr ""
+
+#: ../../docs/spreadsheets/functions.rst:76
+msgid "DVARP(database, field, criteria)"
+msgstr ""
+
+#: ../../docs/spreadsheets/functions.rst:81
+msgid "Date"
+msgstr ""
+
+#: ../../docs/spreadsheets/functions.rst:88
+msgid "DATE(year, month, day)"
+msgstr ""
+
+#: ../../docs/spreadsheets/functions.rst:89
+msgid "DATEDIF(start_date, end_date, unit)"
+msgstr ""
+
+#: ../../docs/spreadsheets/functions.rst:90
+msgid "DATEVALUE(date_string)"
+msgstr ""
+
+#: ../../docs/spreadsheets/functions.rst:91
+msgid "DAY(date)"
+msgstr ""
+
+#: ../../docs/spreadsheets/functions.rst:92
+msgid "DAYS(end_date, start_date)"
+msgstr ""
+
+#: ../../docs/spreadsheets/functions.rst:93
+msgid "DAYS360(start_date, end_date, [method])"
+msgstr ""
+
+#: ../../docs/spreadsheets/functions.rst:94
+msgid "EDATE(start_date, months)"
+msgstr ""
+
+#: ../../docs/spreadsheets/functions.rst:95
+msgid "EOMONTH(start_date, months)"
+msgstr ""
+
+#: ../../docs/spreadsheets/functions.rst:96
+msgid "HOUR(time)"
+msgstr ""
+
+#: ../../docs/spreadsheets/functions.rst:97
+msgid "ISOWEEKNUM(date)"
+msgstr ""
+
+#: ../../docs/spreadsheets/functions.rst:98
+msgid "MINUTE(time)"
+msgstr ""
+
+#: ../../docs/spreadsheets/functions.rst:99
+msgid "MONTH(date)"
+msgstr ""
+
+#: ../../docs/spreadsheets/functions.rst:100
+msgid "NETWORKDAYS(start_date, end_date, [holidays])"
+msgstr ""
+
+#: ../../docs/spreadsheets/functions.rst:101
+msgid "NETWORKDAYS.INTL(start_date, end_date, [weekend], [holidays])"
+msgstr ""
+
+#: ../../docs/spreadsheets/functions.rst:102
+msgid "NOW()"
+msgstr ""
+
+#: ../../docs/spreadsheets/functions.rst:103
+msgid "SECOND(time)"
+msgstr ""
+
+#: ../../docs/spreadsheets/functions.rst:104
+msgid "TIME(hour, minute, second)"
+msgstr ""
+
+#: ../../docs/spreadsheets/functions.rst:105
+msgid "TIMEVALUE(time_string)"
+msgstr ""
+
+#: ../../docs/spreadsheets/functions.rst:106
+msgid "TODAY()"
+msgstr ""
+
+#: ../../docs/spreadsheets/functions.rst:107
+msgid "WEEKDAY(date, [type])"
+msgstr ""
+
+#: ../../docs/spreadsheets/functions.rst:108
+msgid "WEEKNUM(date, [type])"
+msgstr ""
+
+#: ../../docs/spreadsheets/functions.rst:109
+msgid "WORKDAY(start_date, num_days, [holidays])"
+msgstr ""
+
+#: ../../docs/spreadsheets/functions.rst:110
+msgid "WORKDAY.INTL(start_date, num_days, [weekend], [holidays])"
+msgstr ""
+
+#: ../../docs/spreadsheets/functions.rst:111
+msgid "YEAR(date)"
+msgstr ""
+
+#: ../../docs/spreadsheets/functions.rst:112
+msgid "YEARFRAC(start_date, end_date, [day_count_convention])"
+msgstr ""
+
+#: ../../docs/spreadsheets/functions.rst:113
+msgid "MONTH.START(date)"
+msgstr ""
+
+#: ../../docs/spreadsheets/functions.rst:114
+msgid "MONTH.END(date)"
+msgstr ""
+
+#: ../../docs/spreadsheets/functions.rst:115
+msgid "QUARTER(date)"
+msgstr ""
+
+#: ../../docs/spreadsheets/functions.rst:116
+msgid "QUARTER.START(date)"
+msgstr ""
+
+#: ../../docs/spreadsheets/functions.rst:117
+msgid "QUARTER.END(date)"
+msgstr ""
+
+#: ../../docs/spreadsheets/functions.rst:118
+msgid "YEAR.START(date)"
+msgstr ""
+
+#: ../../docs/spreadsheets/functions.rst:119
+msgid "YEAR.END(date)"
+msgstr ""
+
+#: ../../docs/spreadsheets/functions.rst:125
+msgid "Engineering"
+msgstr ""
+
+#: ../../docs/spreadsheets/functions.rst:131
+msgid "DELTA(number1, [number2])"
+msgstr ""
+
+#: ../../docs/spreadsheets/functions.rst:137
+msgid "Filter"
+msgstr ""
+
+#: ../../docs/spreadsheets/functions.rst:143
+msgid "FILTER(range, condition1, [condition2, ...])"
+msgstr ""
+
+#: ../../docs/spreadsheets/functions.rst:144
+msgid "UNIQUE(range, [by_column], [exactly_once])"
+msgstr ""
+
+#: ../../docs/spreadsheets/functions.rst:150
+msgid "Financial"
+msgstr ""
+
+#: ../../docs/spreadsheets/functions.rst:156
+msgid "ACCRINTM(issue, maturity, rate, redemption, [day_count_convention])"
+msgstr ""
+
+#: ../../docs/spreadsheets/functions.rst:157
+msgid ""
+"AMORLINC(cost, purchase_date, first_period_end, salvage, period, rate, "
+"[day_count_convention])"
+msgstr ""
+
+#: ../../docs/spreadsheets/functions.rst:158
+msgid "COUPDAYS(settlement, maturity, frequency, [day_count_convention])"
+msgstr ""
+
+#: ../../docs/spreadsheets/functions.rst:159
+msgid "COUPDAYBS(settlement, maturity, frequency, [day_count_convention])"
+msgstr ""
+
+#: ../../docs/spreadsheets/functions.rst:160
+msgid "COUPDAYSNC(settlement, maturity, frequency, [day_count_convention])"
+msgstr ""
+
+#: ../../docs/spreadsheets/functions.rst:161
+msgid "COUPNCD(settlement, maturity, frequency, [day_count_convention])"
+msgstr ""
+
+#: ../../docs/spreadsheets/functions.rst:162
+msgid "COUPNUM(settlement, maturity, frequency, [day_count_convention])"
+msgstr ""
+
+#: ../../docs/spreadsheets/functions.rst:163
+msgid "COUPPCD(settlement, maturity, frequency, [day_count_convention])"
+msgstr ""
+
+#: ../../docs/spreadsheets/functions.rst:164
+msgid ""
+"CUMIPMT(rate, number_of_periods, present_value, first_period, "
+"last_period, [end_or_beginning])"
+msgstr ""
+
+#: ../../docs/spreadsheets/functions.rst:165
+msgid ""
+"CUMPRINC(rate, number_of_periods, present_value, first_period, "
+"last_period, [end_or_beginning])"
+msgstr ""
+
+#: ../../docs/spreadsheets/functions.rst:166
+msgid "DB(cost, salvage, life, period, [month])"
+msgstr ""
+
+#: ../../docs/spreadsheets/functions.rst:167
+msgid "DDB(cost, salvage, life, period, [factor])"
+msgstr ""
+
+#: ../../docs/spreadsheets/functions.rst:168
+msgid "DISC(settlement, maturity, price, redemption, [day_count_convention])"
+msgstr ""
+
+#: ../../docs/spreadsheets/functions.rst:169
+msgid "DOLLARDE(fractional_price, unit)"
+msgstr ""
+
+#: ../../docs/spreadsheets/functions.rst:170
+msgid "DOLLARFR(decimal_price, unit)"
+msgstr ""
+
+#: ../../docs/spreadsheets/functions.rst:171
+msgid ""
+"DURATION(settlement, maturity, rate, yield, frequency, "
+"[day_count_convention])"
+msgstr ""
+
+#: ../../docs/spreadsheets/functions.rst:172
+msgid "EFFECT(nominal_rate, periods_per_year)"
+msgstr ""
+
+#: ../../docs/spreadsheets/functions.rst:173
+msgid ""
+"FV(rate, number_of_periods, payment_amount, [present_value], "
+"[end_or_beginning])"
+msgstr ""
+
+#: ../../docs/spreadsheets/functions.rst:174
+msgid "FVSCHEDULE(principal, rate_schedule)"
+msgstr ""
+
+#: ../../docs/spreadsheets/functions.rst:175
+msgid ""
+"INTRATE(settlement, maturity, investment, redemption, "
+"[day_count_convention])"
+msgstr ""
+
+#: ../../docs/spreadsheets/functions.rst:176
+msgid ""
+"IPMT(rate, period, number_of_periods, present_value, [future_value], "
+"[end_or_beginning])"
+msgstr ""
+
+#: ../../docs/spreadsheets/functions.rst:177
+msgid "IRR(cashflow_amounts, [rate_guess])"
+msgstr ""
+
+#: ../../docs/spreadsheets/functions.rst:178
+msgid "ISPMT(rate, period, number_of_periods, present_value)"
+msgstr ""
+
+#: ../../docs/spreadsheets/functions.rst:179
+msgid ""
+"MDURATION(settlement, maturity, rate, yield, frequency, "
+"[day_count_convention])"
+msgstr ""
+
+#: ../../docs/spreadsheets/functions.rst:180
+msgid "MIRR(cashflow_amounts, financing_rate, reinvestment_return_rate)"
+msgstr ""
+
+#: ../../docs/spreadsheets/functions.rst:181
+msgid "NOMINAL(effective_rate, periods_per_year)"
+msgstr ""
+
+#: ../../docs/spreadsheets/functions.rst:182
+msgid ""
+"NPER(rate, payment_amount, present_value, [future_value], "
+"[end_or_beginning])"
+msgstr ""
+
+#: ../../docs/spreadsheets/functions.rst:183
+msgid "NPV(discount, cashflow1, [cashflow2, ...])"
+msgstr ""
+
+#: ../../docs/spreadsheets/functions.rst:184
+msgid "PDURATION(rate, present_value, future_value)"
+msgstr ""
+
+#: ../../docs/spreadsheets/functions.rst:185
+msgid ""
+"PMT(rate, number_of_periods, present_value, [future_value], "
+"[end_or_beginning])"
+msgstr ""
+
+#: ../../docs/spreadsheets/functions.rst:186
+msgid ""
+"PPMT(rate, period, number_of_periods, present_value, [future_value], "
+"[end_or_beginning])"
+msgstr ""
+
+#: ../../docs/spreadsheets/functions.rst:187
+msgid ""
+"PV(rate, number_of_periods, payment_amount, [future_value], "
+"[end_or_beginning])"
+msgstr ""
+
+#: ../../docs/spreadsheets/functions.rst:188
+msgid ""
+"PRICE(settlement, maturity, rate, yield, redemption, frequency, "
+"[day_count_convention])"
+msgstr ""
+
+#: ../../docs/spreadsheets/functions.rst:189
+msgid ""
+"PRICEDISC(settlement, maturity, discount, redemption, "
+"[day_count_convention])"
+msgstr ""
+
+#: ../../docs/spreadsheets/functions.rst:190
+msgid "PRICEMAT(settlement, maturity, issue, rate, yield, [day_count_convention])"
+msgstr ""
+
+#: ../../docs/spreadsheets/functions.rst:191
+msgid ""
+"RATE(number_of_periods, payment_per_period, present_value, "
+"[future_value], [end_or_beginning], [rate_guess])"
+msgstr ""
+
+#: ../../docs/spreadsheets/functions.rst:192
+msgid ""
+"RECEIVED(settlement, maturity, investment, discount, "
+"[day_count_convention])"
+msgstr ""
+
+#: ../../docs/spreadsheets/functions.rst:193
+msgid "RRI(number_of_periods, present_value, future_value)"
+msgstr ""
+
+#: ../../docs/spreadsheets/functions.rst:194
+msgid "SLN(cost, salvage, life)"
+msgstr ""
+
+#: ../../docs/spreadsheets/functions.rst:195
+msgid "SYD(cost, salvage, life, period)"
+msgstr ""
+
+#: ../../docs/spreadsheets/functions.rst:196
+msgid "TBILLPRICE(settlement, maturity, discount)"
+msgstr ""
+
+#: ../../docs/spreadsheets/functions.rst:197
+msgid "TBILLEQ(settlement, maturity, discount)"
+msgstr ""
+
+#: ../../docs/spreadsheets/functions.rst:198
+msgid "TBILLYIELD(settlement, maturity, price)"
+msgstr ""
+
+#: ../../docs/spreadsheets/functions.rst:199
+msgid "VDB(cost, salvage, life, start, end, [factor], [no_switch])"
+msgstr ""
+
+#: ../../docs/spreadsheets/functions.rst:200
+msgid "XIRR(cashflow_amounts, cashflow_dates, [rate_guess])"
+msgstr ""
+
+#: ../../docs/spreadsheets/functions.rst:201
+msgid "XNPV(discount, cashflow_amounts, cashflow_dates)"
+msgstr ""
+
+#: ../../docs/spreadsheets/functions.rst:202
+msgid ""
+"YIELD(settlement, maturity, rate, price, redemption, frequency, "
+"[day_count_convention])"
+msgstr ""
+
+#: ../../docs/spreadsheets/functions.rst:203
+msgid "YIELDDISC(settlement, maturity, price, redemption, [day_count_convention])"
+msgstr ""
+
+#: ../../docs/spreadsheets/functions.rst:204
+msgid "YIELDMAT(settlement, maturity, issue, rate, price, [day_count_convention])"
+msgstr ""
+
+#: ../../docs/spreadsheets/functions.rst:209
+msgid "Info"
+msgstr ""
+
+#: ../../docs/spreadsheets/functions.rst:215
+msgid "CELL(info_type, reference)"
+msgstr ""
+
+#: ../../docs/spreadsheets/functions.rst:216
+msgid "ISERR(value)"
+msgstr ""
+
+#: ../../docs/spreadsheets/functions.rst:217
+msgid "ISERROR(value)"
+msgstr ""
+
+#: ../../docs/spreadsheets/functions.rst:218
+msgid "ISLOGICAL(value)"
+msgstr ""
+
+#: ../../docs/spreadsheets/functions.rst:219
+msgid "ISNA(value)"
+msgstr ""
+
+#: ../../docs/spreadsheets/functions.rst:220
+msgid "ISNONTEXT(value)"
+msgstr ""
+
+#: ../../docs/spreadsheets/functions.rst:221
+msgid "ISNUMBER(value)"
+msgstr ""
+
+#: ../../docs/spreadsheets/functions.rst:222
+msgid "ISTEXT(value)"
+msgstr ""
+
+#: ../../docs/spreadsheets/functions.rst:223
+msgid "ISBLANK(value)"
+msgstr ""
+
+#: ../../docs/spreadsheets/functions.rst:224
+msgid "NA()"
+msgstr ""
+
+#: ../../docs/spreadsheets/functions.rst:229
+msgid "Logical"
+msgstr ""
+
+#: ../../docs/spreadsheets/functions.rst:236
+msgid "AND(logical_expression1, [logical_expression2, ...])"
+msgstr ""
+
+#: ../../docs/spreadsheets/functions.rst:237
+msgid "FALSE()"
+msgstr ""
+
+#: ../../docs/spreadsheets/functions.rst:238
+msgid "IF(logical_expression, value_if_true, [value_if_false])"
+msgstr ""
+
+#: ../../docs/spreadsheets/functions.rst:239
+msgid "IFERROR(value, [value_if_error])"
+msgstr ""
+
+#: ../../docs/spreadsheets/functions.rst:240
+msgid "IFNA(value, [value_if_error])"
+msgstr ""
+
+#: ../../docs/spreadsheets/functions.rst:241
+msgid "IFS(condition1, value1, [condition2, ...], [value2, ...])"
+msgstr ""
+
+#: ../../docs/spreadsheets/functions.rst:242
+msgid "NOT(logical_expression)"
+msgstr ""
+
+#: ../../docs/spreadsheets/functions.rst:243
+msgid "OR(logical_expression1, [logical_expression2, ...])"
+msgstr ""
+
+#: ../../docs/spreadsheets/functions.rst:244
+msgid "TRUE()"
+msgstr ""
+
+#: ../../docs/spreadsheets/functions.rst:245
+msgid "XOR(logical_expression1, [logical_expression2, ...])"
+msgstr ""
+
+#: ../../docs/spreadsheets/functions.rst:251
+msgid "Lookup"
+msgstr ""
+
+#: ../../docs/spreadsheets/functions.rst:258
+msgid "ADDRESS(row, column, [absolute_relative_mode], [use_a1_notation], [sheet])"
+msgstr ""
+
+#: ../../docs/spreadsheets/functions.rst:259
+msgid "COLUMN([cell_reference])"
+msgstr ""
+
+#: ../../docs/spreadsheets/functions.rst:260
+msgid "COLUMNS(range)"
+msgstr ""
+
+#: ../../docs/spreadsheets/functions.rst:261
+msgid "HLOOKUP(search_key, range, index, [is_sorted])     -"
+msgstr ""
+
+#: ../../docs/spreadsheets/functions.rst:262
+msgid "INDEX(reference, row, column)"
+msgstr ""
+
+#: ../../docs/spreadsheets/functions.rst:263
+msgid "INDIRECT(reference, [use_a1_notation])"
+msgstr ""
+
+#: ../../docs/spreadsheets/functions.rst:264
+msgid "LOOKUP(search_key, search_array, [result_range])"
+msgstr ""
+
+#: ../../docs/spreadsheets/functions.rst:265
+msgid "MATCH(search_key, range, [search_type])"
+msgstr ""
+
+#: ../../docs/spreadsheets/functions.rst:266
+msgid ""
+"PIVOT(pivot_id, measure_name, [domain_field_name, ...], [domain_value, "
+"...])"
+msgstr ""
+
+#: ../../docs/spreadsheets/functions.rst:267
+msgid "PIVOT.HEADER(pivot_id, [domain_field_name, ...], [domain_value, ...])"
+msgstr ""
+
+#: ../../docs/spreadsheets/functions.rst:268
+msgid ""
+"PIVOT.TABLE(pivot_id, [row_count], [include_total], "
+"[include_column_titles])"
+msgstr ""
+
+#: ../../docs/spreadsheets/functions.rst:269
+msgid "ROW([cell_reference])"
+msgstr ""
+
+#: ../../docs/spreadsheets/functions.rst:270
+msgid "ROWS(range)"
+msgstr ""
+
+#: ../../docs/spreadsheets/functions.rst:271
+msgid "VLOOKUP(search_key, range, index, [is_sorted])"
+msgstr ""
+
+#: ../../docs/spreadsheets/functions.rst:272
+msgid ""
+"XLOOKUP(search_key, lookup_range, return_range, [if_not_found], "
+"[match_mode], [search_mode])"
+msgstr ""
+
+#: ../../docs/spreadsheets/functions.rst:278
+msgid "Math"
+msgstr ""
+
+#: ../../docs/spreadsheets/functions.rst:285
+msgid "ABS(value)"
+msgstr ""
+
+#: ../../docs/spreadsheets/functions.rst:286
+msgid "ACOS(value)"
+msgstr ""
+
+#: ../../docs/spreadsheets/functions.rst:287
+msgid "ACOSH(value)"
+msgstr ""
+
+#: ../../docs/spreadsheets/functions.rst:288
+msgid "ACOT(value)"
+msgstr ""
+
+#: ../../docs/spreadsheets/functions.rst:289
+msgid "ACOTH(value)"
+msgstr ""
+
+#: ../../docs/spreadsheets/functions.rst:290
+msgid "ASIN(value)"
+msgstr ""
+
+#: ../../docs/spreadsheets/functions.rst:291
+msgid "ASINH(value)"
+msgstr ""
+
+#: ../../docs/spreadsheets/functions.rst:292
+msgid "ATAN(value)"
+msgstr ""
+
+#: ../../docs/spreadsheets/functions.rst:293
+msgid "ATAN2(x, y)"
+msgstr ""
+
+#: ../../docs/spreadsheets/functions.rst:294
+msgid "ATANH(value)"
+msgstr ""
+
+#: ../../docs/spreadsheets/functions.rst:295
+msgid "CEILING(value, [factor])"
+msgstr ""
+
+#: ../../docs/spreadsheets/functions.rst:296
+msgid "CEILING.MATH(number, [significance], [mode])"
+msgstr ""
+
+#: ../../docs/spreadsheets/functions.rst:297
+msgid "CEILING.PRECISE(number, [significance])"
+msgstr ""
+
+#: ../../docs/spreadsheets/functions.rst:298
+msgid "COS(angle)"
+msgstr ""
+
+#: ../../docs/spreadsheets/functions.rst:299
+msgid "COSH(value)"
+msgstr ""
+
+#: ../../docs/spreadsheets/functions.rst:300
+msgid "COT(angle)"
+msgstr ""
+
+#: ../../docs/spreadsheets/functions.rst:301
+msgid "COTH(value)"
+msgstr ""
+
+#: ../../docs/spreadsheets/functions.rst:302
+msgid "COUNTBLANK(value1, [value2, ...])"
+msgstr ""
+
+#: ../../docs/spreadsheets/functions.rst:303
+msgid "COUNTIF(range, criterion)"
+msgstr ""
+
+#: ../../docs/spreadsheets/functions.rst:304
+msgid ""
+"COUNTIFS(criteria_range1, criterion1, [criteria_range2, ...], "
+"[criterion2, ...])"
+msgstr ""
+
+#: ../../docs/spreadsheets/functions.rst:305
+msgid "COUNTUNIQUE(value1, [value2, ...])"
+msgstr ""
+
+#: ../../docs/spreadsheets/functions.rst:306
+msgid ""
+"COUNTUNIQUEIFS(range, criteria_range1, criterion1, [criteria_range2, "
+"...], [criterion2, ...])"
+msgstr ""
+
+#: ../../docs/spreadsheets/functions.rst:307
+msgid "CSC(angle)"
+msgstr ""
+
+#: ../../docs/spreadsheets/functions.rst:308
+msgid "CSCH(value)"
+msgstr ""
+
+#: ../../docs/spreadsheets/functions.rst:309
+msgid "DECIMAL(value, base)"
+msgstr ""
+
+#: ../../docs/spreadsheets/functions.rst:310
+msgid "DEGREES(angle)"
+msgstr ""
+
+#: ../../docs/spreadsheets/functions.rst:311
+msgid "EXP(value)"
+msgstr ""
+
+#: ../../docs/spreadsheets/functions.rst:312
+msgid "FLOOR(value, [factor])"
+msgstr ""
+
+#: ../../docs/spreadsheets/functions.rst:313
+msgid "FLOOR.MATH(number, [significance], [mode])"
+msgstr ""
+
+#: ../../docs/spreadsheets/functions.rst:314
+msgid "FLOOR.PRECISE(number, [significance])"
+msgstr ""
+
+#: ../../docs/spreadsheets/functions.rst:315
+msgid "INT(value)"
+msgstr ""
+
+#: ../../docs/spreadsheets/functions.rst:316
+msgid "ISEVEN(value)"
+msgstr ""
+
+#: ../../docs/spreadsheets/functions.rst:317
+msgid "ISO.CEILING(number, [significance])"
+msgstr ""
+
+#: ../../docs/spreadsheets/functions.rst:318
+msgid "ISODD(value)"
+msgstr ""
+
+#: ../../docs/spreadsheets/functions.rst:319
+msgid "LN(value)"
+msgstr ""
+
+#: ../../docs/spreadsheets/functions.rst:320
+msgid "MOD(dividend, divisor)     -"
+msgstr ""
+
+#: ../../docs/spreadsheets/functions.rst:321
+msgid "MUNIT(dimension)"
+msgstr ""
+
+#: ../../docs/spreadsheets/functions.rst:322
+msgid "ODD(value)"
+msgstr ""
+
+#: ../../docs/spreadsheets/functions.rst:323
+msgid "PI()"
+msgstr ""
+
+#: ../../docs/spreadsheets/functions.rst:324
+msgid "POWER(base, exponent)"
+msgstr ""
+
+#: ../../docs/spreadsheets/functions.rst:325
+msgid "PRODUCT(factor1, [factor2, ...])"
+msgstr ""
+
+#: ../../docs/spreadsheets/functions.rst:326
+msgid "RAND()"
+msgstr ""
+
+#: ../../docs/spreadsheets/functions.rst:327
+msgid "RANDARRAY([rows], [columns], [min], [max], [whole_number])"
+msgstr ""
+
+#: ../../docs/spreadsheets/functions.rst:328
+msgid "RANDBETWEEN(low, high)"
+msgstr ""
+
+#: ../../docs/spreadsheets/functions.rst:329
+msgid "ROUND(value, [places])"
+msgstr ""
+
+#: ../../docs/spreadsheets/functions.rst:330
+msgid "ROUNDDOWN(value, [places])"
+msgstr ""
+
+#: ../../docs/spreadsheets/functions.rst:331
+msgid "ROUNDUP(value, [places])"
+msgstr ""
+
+#: ../../docs/spreadsheets/functions.rst:332
+msgid "SEC(angle)"
+msgstr ""
+
+#: ../../docs/spreadsheets/functions.rst:333
+msgid "SECH(value)"
+msgstr ""
+
+#: ../../docs/spreadsheets/functions.rst:334
+msgid "SIN(angle)"
+msgstr ""
+
+#: ../../docs/spreadsheets/functions.rst:335
+msgid "SINH(value)"
+msgstr ""
+
+#: ../../docs/spreadsheets/functions.rst:336
+msgid "SQRT(value)"
+msgstr ""
+
+#: ../../docs/spreadsheets/functions.rst:337
+msgid "SUM(value1, [value2, ...])"
+msgstr ""
+
+#: ../../docs/spreadsheets/functions.rst:338
+msgid "SUMIF(criteria_range, criterion, [sum_range])"
+msgstr ""
+
+#: ../../docs/spreadsheets/functions.rst:339
+msgid ""
+"SUMIFS(sum_range, criteria_range1, criterion1, [criteria_range2, ...], "
+"[criterion2, ...])"
+msgstr ""
+
+#: ../../docs/spreadsheets/functions.rst:340
+msgid "TAN(angle)"
+msgstr ""
+
+#: ../../docs/spreadsheets/functions.rst:341
+msgid "TANH(value)"
+msgstr ""
+
+#: ../../docs/spreadsheets/functions.rst:342
+msgid "TRUNC(value, [places])"
+msgstr ""
+
+#: ../../docs/spreadsheets/functions.rst:347
+msgid "Misc"
+msgstr ""
+
+#: ../../docs/spreadsheets/functions.rst:354
+msgid "FORMAT.LARGE.NUMBER(value, [unit])"
+msgstr ""
+
+#: ../../docs/spreadsheets/functions.rst:359
+msgid "Odoo"
+msgstr ""
+
+#: ../../docs/spreadsheets/functions.rst:367
+msgid ""
+"ODOO.CREDIT(account_codes, date_range, [offset], [company_id], "
+"[include_unposted])"
+msgstr ""
+
+#: ../../docs/spreadsheets/functions.rst:368
+msgid ""
+"ODOO.DEBIT(account_codes, date_range, [offset], [company_id], "
+"[include_unposted])"
+msgstr ""
+
+#: ../../docs/spreadsheets/functions.rst:369
+msgid ""
+"ODOO.BALANCE(account_codes, date_range, [offset], [company_id], "
+"[include_unposted])"
+msgstr ""
+
+#: ../../docs/spreadsheets/functions.rst:370
+msgid "ODOO.FISCALYEAR.START(day, [company_id])"
+msgstr ""
+
+#: ../../docs/spreadsheets/functions.rst:371
+msgid "ODOO.FISCALYEAR.END(day, [company_id])"
+msgstr ""
+
+#: ../../docs/spreadsheets/functions.rst:372
+msgid "ODOO.ACCOUNT.GROUP(type)"
+msgstr ""
+
+#: ../../docs/spreadsheets/functions.rst:373
+msgid "ODOO.CURRENCY.RATE(currency_from, currency_to, [date])"
+msgstr ""
+
+#: ../../docs/spreadsheets/functions.rst:374
+msgid "ODOO.LIST(list_id, index, field_name)"
+msgstr ""
+
+#: ../../docs/spreadsheets/functions.rst:375
+msgid "ODOO.LIST.HEADER(list_id, field_name)"
+msgstr ""
+
+#: ../../docs/spreadsheets/functions.rst:376
+msgid "ODOO.FILTER.VALUE(filter_name)"
+msgstr ""
+
+#: ../../docs/spreadsheets/functions.rst:382
+msgid "Operators"
+msgstr ""
+
+#: ../../docs/spreadsheets/functions.rst:389
+msgid "ADD(value1, value2)"
+msgstr ""
+
+#: ../../docs/spreadsheets/functions.rst:390
+msgid "CONCAT(value1, value2)"
+msgstr ""
+
+#: ../../docs/spreadsheets/functions.rst:391
+msgid "DIVIDE(dividend, divisor)"
+msgstr ""
+
+#: ../../docs/spreadsheets/functions.rst:392
+msgid "EQ(value1, value2)"
+msgstr ""
+
+#: ../../docs/spreadsheets/functions.rst:393
+msgid "GT(value1, value2)"
+msgstr ""
+
+#: ../../docs/spreadsheets/functions.rst:394
+msgid "GTE(value1, value2)"
+msgstr ""
+
+#: ../../docs/spreadsheets/functions.rst:395
+msgid "LT(value1, value2)"
+msgstr ""
+
+#: ../../docs/spreadsheets/functions.rst:396
+msgid "LTE(value1, value2)"
+msgstr ""
+
+#: ../../docs/spreadsheets/functions.rst:397
+msgid "MINUS(value1, value2)"
+msgstr ""
+
+#: ../../docs/spreadsheets/functions.rst:398
+msgid "MULTIPLY(factor1, factor2)"
+msgstr ""
+
+#: ../../docs/spreadsheets/functions.rst:399
+msgid "NE(value1, value2)"
+msgstr ""
+
+#: ../../docs/spreadsheets/functions.rst:400
+msgid "POW(base, exponent)"
+msgstr ""
+
+#: ../../docs/spreadsheets/functions.rst:401
+msgid "UMINUS(value)"
+msgstr ""
+
+#: ../../docs/spreadsheets/functions.rst:402
+msgid "UNARY.PERCENT(percentage)"
+msgstr ""
+
+#: ../../docs/spreadsheets/functions.rst:403
+msgid "UPLUS(value)"
+msgstr ""
+
+#: ../../docs/spreadsheets/functions.rst:409
+msgid "Statistical"
+msgstr ""
+
+#: ../../docs/spreadsheets/functions.rst:416
+msgid "AVEDEV(value1, [value2, ...])"
+msgstr ""
+
+#: ../../docs/spreadsheets/functions.rst:417
+msgid "AVERAGE(value1, [value2, ...])"
+msgstr ""
+
+#: ../../docs/spreadsheets/functions.rst:418
+msgid ""
+"AVERAGE.WEIGHTED(values, weights, [additional_values, ...], "
+"[additional_weights, ...])"
+msgstr ""
+
+#: ../../docs/spreadsheets/functions.rst:419
+msgid "AVERAGEA(value1, [value2, ...])"
+msgstr ""
+
+#: ../../docs/spreadsheets/functions.rst:420
+msgid "AVERAGEIF(criteria_range, criterion, [average_range])"
+msgstr ""
+
+#: ../../docs/spreadsheets/functions.rst:421
+msgid ""
+"AVERAGEIFS(average_range, criteria_range1, criterion1, [criteria_range2, "
+"...], [criterion2, ...])"
+msgstr ""
+
+#: ../../docs/spreadsheets/functions.rst:422
+msgid "CORREL(data_y, data_x)"
+msgstr ""
+
+#: ../../docs/spreadsheets/functions.rst:423
+msgid "COUNT(value1, [value2, ...])"
+msgstr ""
+
+#: ../../docs/spreadsheets/functions.rst:424
+msgid "COUNTA(value1, [value2, ...])"
+msgstr ""
+
+#: ../../docs/spreadsheets/functions.rst:425
+msgid "COVAR(data_y, data_x)"
+msgstr ""
+
+#: ../../docs/spreadsheets/functions.rst:426
+msgid "COVARIANCE.P(data_y, data_x)"
+msgstr ""
+
+#: ../../docs/spreadsheets/functions.rst:427
+msgid "COVARIANCE.S(data_y, data_x)"
+msgstr ""
+
+#: ../../docs/spreadsheets/functions.rst:428
+msgid "FORECAST(x, data_y, data_x)"
+msgstr ""
+
+#: ../../docs/spreadsheets/functions.rst:429
+msgid "GROWTH(known_data_y, [known_data_x], [new_data_x], [b])"
+msgstr ""
+
+#: ../../docs/spreadsheets/functions.rst:430
+msgid "INTERCEPT(data_y, data_x)"
+msgstr ""
+
+#: ../../docs/spreadsheets/functions.rst:431
+msgid "LARGE(data, n)"
+msgstr ""
+
+#: ../../docs/spreadsheets/functions.rst:432
+msgid "LINEST(data_y, [data_x], [calculate_b], [verbose])"
+msgstr ""
+
+#: ../../docs/spreadsheets/functions.rst:433
+msgid "LOGEST(data_y, [data_x], [calculate_b], [verbose])"
+msgstr ""
+
+#: ../../docs/spreadsheets/functions.rst:434
+msgid "MATTHEWS(data_x, data_y)"
+msgstr ""
+
+#: ../../docs/spreadsheets/functions.rst:435
+msgid "MAX(value1, [value2, ...])"
+msgstr ""
+
+#: ../../docs/spreadsheets/functions.rst:436
+msgid "MAXA(value1, [value2, ...])"
+msgstr ""
+
+#: ../../docs/spreadsheets/functions.rst:437
+msgid ""
+"MAXIFS(range, criteria_range1, criterion1, [criteria_range2, ...], "
+"[criterion2, ...])"
+msgstr ""
+
+#: ../../docs/spreadsheets/functions.rst:438
+msgid "MEDIAN(value1, [value2, ...])"
+msgstr ""
+
+#: ../../docs/spreadsheets/functions.rst:439
+msgid "MIN(value1, [value2, ...])"
+msgstr ""
+
+#: ../../docs/spreadsheets/functions.rst:440
+msgid "MINA(value1, [value2, ...])"
+msgstr ""
+
+#: ../../docs/spreadsheets/functions.rst:441
+msgid ""
+"MINIFS(range, criteria_range1, criterion1, [criteria_range2, ...], "
+"[criterion2, ...])"
+msgstr ""
+
+#: ../../docs/spreadsheets/functions.rst:442
+msgid "PEARSON(data_y, data_x)"
+msgstr ""
+
+#: ../../docs/spreadsheets/functions.rst:443
+msgid "PERCENTILE(data, percentile)"
+msgstr ""
+
+#: ../../docs/spreadsheets/functions.rst:444
+msgid "PERCENTILE.EXC(data, percentile)"
+msgstr ""
+
+#: ../../docs/spreadsheets/functions.rst:445
+msgid "PERCENTILE.INC(data, percentile)"
+msgstr ""
+
+#: ../../docs/spreadsheets/functions.rst:446
+msgid "POLYFIT.COEFFS(data_y, data_x, order, [intercept])"
+msgstr ""
+
+#: ../../docs/spreadsheets/functions.rst:447
+msgid "POLYFIT.FORECAST(x, data_y, data_x, order, [intercept])"
+msgstr ""
+
+#: ../../docs/spreadsheets/functions.rst:448
+msgid "QUARTILE(data, quartile_number)"
+msgstr ""
+
+#: ../../docs/spreadsheets/functions.rst:449
+msgid "QUARTILE.EXC(data, quartile_number)"
+msgstr ""
+
+#: ../../docs/spreadsheets/functions.rst:450
+msgid "QUARTILE.INC(data, quartile_number)"
+msgstr ""
+
+#: ../../docs/spreadsheets/functions.rst:451
+msgid "RANK(value, data, [is_ascending])"
+msgstr ""
+
+#: ../../docs/spreadsheets/functions.rst:452
+msgid "RSQ(data_y, data_x)"
+msgstr ""
+
+#: ../../docs/spreadsheets/functions.rst:453
+msgid "SMALL(data, n)"
+msgstr ""
+
+#: ../../docs/spreadsheets/functions.rst:454
+msgid "SLOPE(data_y, data_x)"
+msgstr ""
+
+#: ../../docs/spreadsheets/functions.rst:455
+msgid "SPEARMAN(data_y, data_x)"
+msgstr ""
+
+#: ../../docs/spreadsheets/functions.rst:456
+msgid "STDEV(value1, [value2, ...])"
+msgstr ""
+
+#: ../../docs/spreadsheets/functions.rst:457
+msgid "STDEV.P(value1, [value2, ...])"
+msgstr ""
+
+#: ../../docs/spreadsheets/functions.rst:458
+msgid "STDEV.S(value1, [value2, ...])"
+msgstr ""
+
+#: ../../docs/spreadsheets/functions.rst:459
+msgid "STDEVA(value1, [value2, ...])"
+msgstr ""
+
+#: ../../docs/spreadsheets/functions.rst:460
+msgid "STDEVP(value1, [value2, ...])"
+msgstr ""
+
+#: ../../docs/spreadsheets/functions.rst:461
+msgid "STDEVPA(value1, [value2, ...])"
+msgstr ""
+
+#: ../../docs/spreadsheets/functions.rst:462
+msgid "STEYX(data_y, data_x)"
+msgstr ""
+
+#: ../../docs/spreadsheets/functions.rst:463
+msgid "TREND(known_data_y, [known_data_x], [new_data_x], [b])"
+msgstr ""
+
+#: ../../docs/spreadsheets/functions.rst:464
+msgid "VAR(value1, [value2, ...])"
+msgstr ""
+
+#: ../../docs/spreadsheets/functions.rst:465
+msgid "VAR.P(value1, [value2, ...])"
+msgstr ""
+
+#: ../../docs/spreadsheets/functions.rst:466
+msgid "VAR.S(value1, [value2, ...])"
+msgstr ""
+
+#: ../../docs/spreadsheets/functions.rst:467
+msgid "VARA(value1, [value2, ...])"
+msgstr ""
+
+#: ../../docs/spreadsheets/functions.rst:468
+msgid "VARP(value1, [value2, ...])"
+msgstr ""
+
+#: ../../docs/spreadsheets/functions.rst:469
+msgid "VARPA(value1, [value2, ...])"
+msgstr ""
+
+#: ../../docs/spreadsheets/functions.rst:474
+msgid "Text"
+msgstr ""
+
+#: ../../docs/spreadsheets/functions.rst:480
+msgid "CHAR(table_number)"
+msgstr ""
+
+#: ../../docs/spreadsheets/functions.rst:481
+msgid "CLEAN(text)"
+msgstr ""
+
+#: ../../docs/spreadsheets/functions.rst:482
+msgid "CONCATENATE(string1, [string2, ...])"
+msgstr ""
+
+#: ../../docs/spreadsheets/functions.rst:483
+msgid "EXACT(string1, string2)"
+msgstr ""
+
+#: ../../docs/spreadsheets/functions.rst:484
+msgid "FIND(search_for, text_to_search, [starting_at])"
+msgstr ""
+
+#: ../../docs/spreadsheets/functions.rst:485
+msgid "JOIN(delimiter, value_or_array1, [value_or_array2, ...])"
+msgstr ""
+
+#: ../../docs/spreadsheets/functions.rst:486
+msgid "LEFT(text, [number_of_characters])"
+msgstr ""
+
+#: ../../docs/spreadsheets/functions.rst:487
+msgid "LEN(text)"
+msgstr ""
+
+#: ../../docs/spreadsheets/functions.rst:488
+msgid "LOWER(text)"
+msgstr ""
+
+#: ../../docs/spreadsheets/functions.rst:489
+msgid "MID(text, starting_at, extract_length)"
+msgstr ""
+
+#: ../../docs/spreadsheets/functions.rst:490
+msgid "PROPER(text_to_capitalize)"
+msgstr ""
+
+#: ../../docs/spreadsheets/functions.rst:491
+msgid "REPLACE(text, position, length, new_text)"
+msgstr ""
+
+#: ../../docs/spreadsheets/functions.rst:492
+msgid "RIGHT(text, [number_of_characters])"
+msgstr ""
+
+#: ../../docs/spreadsheets/functions.rst:493
+msgid "SEARCH(search_for, text_to_search, [starting_at])"
+msgstr ""
+
+#: ../../docs/spreadsheets/functions.rst:494
+msgid "SPLIT(text, delimiter, [split_by_each], [remove_empty_text])"
+msgstr ""
+
+#: ../../docs/spreadsheets/functions.rst:495
+msgid "SUBSTITUTE(text_to_search, search_for, replace_with, [occurrence_number])"
+msgstr ""
+
+#: ../../docs/spreadsheets/functions.rst:496
+msgid "TEXT(number, format)"
+msgstr ""
+
+#: ../../docs/spreadsheets/functions.rst:497
+msgid "TEXTJOIN(delimiter, ignore_empty, text1, [text2, ...])"
+msgstr ""
+
+#: ../../docs/spreadsheets/functions.rst:498
+msgid "TRIM(text)"
+msgstr ""
+
+#: ../../docs/spreadsheets/functions.rst:499
+msgid "UPPER(text)"
+msgstr ""
+
+#: ../../docs/spreadsheets/functions.rst:504
+msgid "Web"
+msgstr ""
+
+#: ../../docs/spreadsheets/functions.rst:511
+msgid "HYPERLINK(url, [link_label])"
+msgstr ""

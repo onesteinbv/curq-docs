@@ -1,0 +1,102 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2025, Onestein
+# This file is distributed under the same license as the CURQ package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2025.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: CURQ \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-05-28 09:55+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: en\n"
+"Language-Team: en <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.17.0\n"
+
+#: ../../docs/inkoop/inkoop-aanvulopdrachten.rst:3
+msgid "Inkoop - Aanvulopdrachten"
+msgstr ""
+
+#: ../../docs/inkoop/inkoop-aanvulopdrachten.rst:5
+msgid ""
+"Voor bepaalde producten is het van essentieel belang om ervoor te zorgen "
+"dat er altijd een minimale hoeveelheid beschikbaar is. Dit kan worden "
+"bereikt door het toevoegen van een *aanvulopdracht* regel aan het "
+"product, waardoor het bestelproces wordt geautomatiseerd."
+msgstr ""
+
+#: ../../docs/inkoop/inkoop-aanvulopdrachten.rst:9
+msgid ""
+"Aanvulopdrachten kunnen op 2 manieren worden geconfigureerd. Via: -- "
+"**Voorraad app** - **Configuratie** - **Aanvulopdracht regels** -- Open "
+"een product - klik op smartbutton **Aanvulopdrachten** (zie onder)"
+msgstr ""
+
+#: ../../docs/inkoop/inkoop-aanvulopdrachten.rst:16
+msgid ""
+"Houdt er rekening mee dat op productniveau de settings *Kan gekocht "
+"worden* en **Voorraad Product** is ingesteld."
+msgstr ""
+
+#: ../../docs/inkoop/inkoop-aanvulopdrachten.rst:20
+msgid ""
+"We nemen de 1e optie door in deze handleiding. Ga naar **Voorraad app - "
+"Configuratie - Aanvulopdracht regels:**"
+msgstr ""
+
+#: ../../docs/inkoop/inkoop-aanvulopdrachten.rst:25
+msgid ""
+"In dit overzicht staan alle aanvulopdrachten en worden er verschillende "
+"gegevens weergegeven, waaronder het **Product, Beschikbare Voorraad, "
+"Prognose, de Voorkeursroute, de Verkoper, de Minimale en Maximale "
+"hoeveelheid, Te bestellen hoeveelheid en de gebruikte maateenheid**."
+msgstr ""
+
+#: ../../docs/inkoop/inkoop-aanvulopdrachten.rst:29
+msgid ""
+"Er is een veld *Veelvoudige hoeveelheid* beschikbaar dat aangeeft wat de "
+"kleinste eenheid is waarin je items van de leverancier kunt kopen. Het "
+"systeem zal de inkoophoeveelheid afronden naar boven op het veelvoud dat "
+"u in dit veld hebt opgegeven. Als je bijvoorbeeld 0 invoert, zal CURQ de "
+"exacte hoeveelheid gebruiken."
+msgstr ""
+
+#: ../../docs/inkoop/inkoop-aanvulopdrachten.rst:33
+msgid ""
+"Je kunt de voorkeuren voor activering instellen op *Automatisch* of "
+"*Handmatig* in het venster voor aanvulling."
+msgstr ""
+
+#: ../../docs/inkoop/inkoop-aanvulopdrachten.rst:35
+msgid ""
+"De *Minimale hoeveelheid* bepaalt het laagste niveau van het product dat "
+"altijd op voorraad moet zijn. Wanneer de voorraad onder deze waarde "
+"daalt, zal het systeem automatisch een inkoopofferte klaarzetten voor de "
+"ingestelde leverancier om de voorraad weer aan te vullen."
+msgstr ""
+
+#: ../../docs/inkoop/inkoop-aanvulopdrachten.rst:39
+msgid ""
+"We gaan nu een nieuwe aanvulopdracht instellen, klik hiervoor op *Nieuw*."
+" Kies vervolgens een product en geef de minimale en maximale hoeveelheid "
+"in."
+msgstr ""
+
+#: ../../docs/inkoop/inkoop-aanvulopdrachten.rst:44
+msgid ""
+"In kolom *beschikbaar* staat de huidige voorraad. Kolom *prognose* houdt "
+"rekening met gereserveerde aantallen en de aantallen uit openstaande "
+"inkooporders. In onderstaand voorbeeld is de voorraad aangepast naar 3."
+msgstr ""
+
+#: ../../docs/inkoop/inkoop-aanvulopdrachten.rst:50
+msgid ""
+"Er wordt nu automatisch een inkoopofferte klaargezet van 12 stuks "
+"**(voorraad was 3 + aanvullen tot 15 = 12 stuks)**."
+msgstr ""

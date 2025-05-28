@@ -1,0 +1,153 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2025, Onestein
+# This file is distributed under the same license as the CURQ package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2025.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: CURQ \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-05-28 09:55+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: en\n"
+"Language-Team: en <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.17.0\n"
+
+#: ../../docs/chat/chat.rst:2
+msgid "Chat"
+msgstr ""
+
+#: ../../docs/chat/chat.rst:4
+msgid ""
+"De chat-app in CURQ is een krachtige communicatietool die de samenwerking"
+" binnen teams verbetert. Het stelt gebruikers in staat om gesprekken te "
+"beheren, projectupdates te volgen en efficiënt te communiceren. De app "
+"ondersteunt directe berichten, groepskanalen, video- en spraakoproepen, "
+"en het delen van bestanden, wat het een alles-in-één oplossing maakt voor"
+" naadloze samenwerking binnen teams."
+msgstr ""
+
+#: ../../docs/chat/chat.rst:9
+msgid ""
+"Open de chat-app om individueel te chatten door op het + (plus) pictogram"
+" naast **\"Directe Berichten\"** te klikken, waarmee je **een gesprek "
+"zoeken of starten**. Om een groepschat te maken, klik op het + pictogram "
+"naast **\"Kanalen\"** in het linker menu van het dashboard, waar je **een"
+" kanaal kunt zoeken of aanmaken** door een kanaalnaam in te voeren."
+msgstr ""
+
+#: ../../docs/chat/chat.rst:16
+msgid ""
+"Het stelt gebruikers in staat om berichten te sturen, bestanden te delen,"
+" te reageren met emoji's en zelfs audio- en videogesprekken te voeren. "
+"Gebruikers kunnen iemand in een groepschat vermelden door @ gevolgd door "
+"de gebruikersnaam te gebruiken."
+msgstr ""
+
+#: ../../docs/chat/chat.rst:22
+msgid "Open een chat, en je ziet vijf pictogrammen in de rechterbovenhoek:"
+msgstr ""
+
+#: ../../docs/chat/chat.rst:24
+msgid ""
+"**Een gesprek starten** – Door hierop te klikken wordt een audiogesprek "
+"gestart met alle gebruikers die al in het kanaal zitten."
+msgstr ""
+
+#: ../../docs/chat/chat.rst:25
+msgid ""
+"**Een videogesprek starten** - Door hierop te klikken wordt een video-"
+"oproep gestart met alle gebruikers die al in het kanaal zitten."
+msgstr ""
+
+#: ../../docs/chat/chat.rst:26
+msgid ""
+"**Gebruikers toevoegen** – Hiermee kun je nieuwe leden aan het kanaal "
+"toevoegen. Door op dit pictogram te klikken wordt een dialoogvenster "
+"geopend waarin je de naam van de persoon kunt typen die je wilt "
+"toevoegen, en vervolgens op de knop **\"Uitnodigen voor kanaal\"** kunt "
+"klikken. Een e-mailmelding wordt naar de gebruiker gestuurd om hen uit te"
+" nodigen het kanaal te joinen."
+msgstr ""
+
+#: ../../docs/chat/chat.rst:30
+msgid ""
+"**Ledenlijst weergeven** – Toont een lijst van alle leden samen met hun "
+"actieve status."
+msgstr ""
+
+#: ../../docs/chat/chat.rst:31
+msgid ""
+"**Oproepinstellingen weergeven** - Hiermee kun je de oproepinstellingen "
+"aanpassen."
+msgstr ""
+
+#: ../../docs/chat/chat.rst:35
+msgid ""
+"Je kunt ook **voeg een reactie toe** in de vorm van een emoji, "
+"**bewerken**, **beantwoorden**, **markeren als nog Te Doen** en een reeds"
+" verzonden bericht **verwijderen**."
+msgstr ""
+
+#: ../../docs/chat/chat.rst:40
+msgid ""
+"Door **\"Markeren als nog te doen\"** op een bericht te klikken, wordt "
+"het toegevoegd aan de **\"Met Ster\"** pagina, die in de linkerbovenhoek "
+"te vinden is, samen met het aantal gemarkeerde berichten."
+msgstr ""
+
+#: ../../docs/chat/chat.rst:45
+msgid ""
+"Je kunt ook een audio- of videogesprek starten zonder **kanalen** of "
+"**directe berichten** te openen door op de knop **een afspraak Starten** "
+"in de rechterbovenhoek te klikken. Bij het klikken verschijnt er een "
+"oproepvenster op het scherm, samen met een dialoogvenster om **mensen "
+"uitnodigen** die je wilt laten deelnemen aan de oproep."
+msgstr ""
+
+#: ../../docs/chat/chat.rst:52
+msgid ""
+"Je kunt ook de status van gebruikers bekijken onder de lijst met "
+"**Directe Berichten** in de linkerzijbalk. De status wordt weergegeven "
+"door verschillende kleuren en iconen:"
+msgstr ""
+
+#: ../../docs/chat/chat.rst:55
+msgid "**Groen** = Online"
+msgstr ""
+
+#: ../../docs/chat/chat.rst:56
+msgid "**Oranje** = Afwezig"
+msgstr ""
+
+#: ../../docs/chat/chat.rst:57
+msgid "**Wit** = Offline"
+msgstr ""
+
+#: ../../docs/chat/chat.rst:58
+msgid "**Vliegtuig** = Niet op kantoor"
+msgstr ""
+
+#: ../../docs/chat/chat.rst:62
+msgid ""
+"In de linkerbovenhoek zie je een gesprekken spictogram. Door erop te "
+"klikken, worden drie opties weergegeven: **Alle, Chat en Kanalen**."
+msgstr ""
+
+#: ../../docs/chat/chat.rst:64
+msgid "**Alle**: Bekijk alle chats."
+msgstr ""
+
+#: ../../docs/chat/chat.rst:65
+msgid "**Chat**: Bekijk alleen directe bericht-chats."
+msgstr ""
+
+#: ../../docs/chat/chat.rst:66
+msgid "**Kanalen**: Bekijk groepschats."
+msgstr ""

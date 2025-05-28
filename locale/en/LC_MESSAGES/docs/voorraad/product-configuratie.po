@@ -1,0 +1,497 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2025, Onestein
+# This file is distributed under the same license as the CURQ package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2025.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: CURQ \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-05-28 09:55+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: en\n"
+"Language-Team: en <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.17.0\n"
+
+#: ../../docs/voorraad/product-configuratie.rst:3
+msgid "Product configuratie"
+msgstr ""
+
+#: ../../docs/voorraad/product-configuratie.rst:6
+msgid ""
+"Een doordachte productconfiguratie is van cruciaal belang voor een "
+"naadloze werking van diverse CURQ modules, waaronder Inkoop, Voorraad, "
+"Verkoop, E-commerce en Verhuur. Met CURQ kun je producten gestructureerd "
+"categoriseren, waardoor het gemakkelijker wordt om specifieke producten "
+"te identificeren en aan te passen. In deze handleiding nemen we de "
+"mogelijke opties met je door."
+msgstr ""
+
+#: ../../docs/voorraad/product-configuratie.rst:14
+msgid "Toegang tot producten"
+msgstr ""
+
+#: ../../docs/voorraad/product-configuratie.rst:16
+msgid "Er zijn twee beste opties om toegang te krijgen tot je producten:"
+msgstr ""
+
+#: ../../docs/voorraad/product-configuratie.rst:18
+msgid "Via de Verkoop app > **Verkoop - Producten - Producten**"
+msgstr ""
+
+#: ../../docs/voorraad/product-configuratie.rst:20
+msgid "Via de Voorraad app > **Voorraad - Producten - Producten**"
+msgstr ""
+
+#: ../../docs/voorraad/product-configuratie.rst:22
+msgid ""
+"In dit voorbeeld maak ik gebruik van toegang via de Voorraad app. Als je "
+"deze procedure volgt, krijg je een overzicht te zien van enkele "
+"'standaard' geïnstalleerde producten."
+msgstr ""
+
+#: ../../docs/voorraad/product-configuratie.rst:31
+msgid "Rechtsboven (foto onder)vind je de zoekbalk:"
+msgstr ""
+
+#: ../../docs/voorraad/product-configuratie.rst:37
+msgid "**Filter optie:** hiermee kun je een aantal voorgeselecteerde filters"
+msgstr ""
+
+#: ../../docs/voorraad/product-configuratie.rst:38
+msgid ""
+"kiezen zoals 'kan verkocht worden', beschikbaar, product of dienst, enz. "
+"Tevens is het mogelijk om een aangepaste filter toe te voegen."
+msgstr ""
+
+#: ../../docs/voorraad/product-configuratie.rst:42
+msgid "**Zoekbalk:** de zoekbalk maakt het makkelijk om een product"
+msgstr ""
+
+#: ../../docs/voorraad/product-configuratie.rst:43
+msgid ""
+"rechtstreeks op te zoeken. Andere opties zijn productcategorie, "
+"kenmerken, locatie of magazijn."
+msgstr ""
+
+#: ../../docs/voorraad/product-configuratie.rst:46
+msgid "**Kanban view:** hiermee krijg je producten te zien als pictogram"
+msgstr ""
+
+#: ../../docs/voorraad/product-configuratie.rst:47
+msgid "overzicht"
+msgstr ""
+
+#: ../../docs/voorraad/product-configuratie.rst:49
+msgid "**List view:** hiermee krijg je de producten in lijst overzicht te"
+msgstr ""
+
+#: ../../docs/voorraad/product-configuratie.rst:50
+msgid "zien."
+msgstr ""
+
+#: ../../docs/voorraad/product-configuratie.rst:53
+msgid "Productblad"
+msgstr ""
+
+#: ../../docs/voorraad/product-configuratie.rst:55
+msgid "We gaan een nieuw product aanmaken en klikken op **NIEUW +**"
+msgstr ""
+
+#: ../../docs/voorraad/product-configuratie.rst:57
+msgid "Het productblad wordt geopend en heb een smartphone als voorbeeld genomen."
+msgstr ""
+
+#: ../../docs/voorraad/product-configuratie.rst:61
+msgid "Tab Algemene informatie"
+msgstr ""
+
+#: ../../docs/voorraad/product-configuratie.rst:63
+msgid "**Productsoort:**"
+msgstr ""
+
+#: ../../docs/voorraad/product-configuratie.rst:64
+msgid "Er zijn 3 verschillende opties >"
+msgstr ""
+
+#: ../../docs/voorraad/product-configuratie.rst:66
+msgid "Verbruiksartikel > een product waar geen voorraad van wordt"
+msgstr ""
+
+#: ../../docs/voorraad/product-configuratie.rst:67
+msgid "bijgehouden"
+msgstr ""
+
+#: ../../docs/voorraad/product-configuratie.rst:69
+msgid "Dienst > is een immaterieel product (niet tastbaar)"
+msgstr ""
+
+#: ../../docs/voorraad/product-configuratie.rst:71
+msgid "Voorraad Product > een product waarvan je de voorraad beheerd"
+msgstr ""
+
+#: ../../docs/voorraad/product-configuratie.rst:73
+msgid "**Facturatiebeleid:**"
+msgstr ""
+
+#: ../../docs/voorraad/product-configuratie.rst:75
+msgid ""
+"Je hebt de keuze tussen 'bestelde' en 'geleverde' hoeveelheden. Wanneer "
+"je voor 'geleverd' kiest, is het pas mogelijk om de factuur aan te maken "
+"nadat de pakbon volledig of gedeeltelijk is afgehandeld."
+msgstr ""
+
+#: ../../docs/voorraad/product-configuratie.rst:79
+msgid "**Maateenheid & inkoopmaateenheid:**"
+msgstr ""
+
+#: ../../docs/voorraad/product-configuratie.rst:81
+msgid ""
+"Staat standaard op stuks. Meerdere categorieën zijn beschikbaar zoals "
+"lengte, volume, werktijd, enz. De maateenheid van een product kan anders "
+"zijn dan de inkoopmaateenheid. Voorbeeld: ik kan een kabel verkopen van "
+"50cm en deze inkopen per 10m."
+msgstr ""
+
+#: ../../docs/voorraad/product-configuratie.rst:85
+msgid "**Verkoopprijs & Verkoop BTW:**"
+msgstr ""
+
+#: ../../docs/voorraad/product-configuratie.rst:87
+#, python-format
+msgid ""
+"De verkoopprijs wordt excl. BTW ingevuld, de BTW label heeft standaard "
+"keuzes uit 0%, 9%, 21% en export BTW (onderverdeeld in goederen en "
+"diensten)."
+msgstr ""
+
+#: ../../docs/voorraad/product-configuratie.rst:90
+msgid "**Kostprijs:**"
+msgstr ""
+
+#: ../../docs/voorraad/product-configuratie.rst:92
+msgid ""
+"Dit veld wordt gebruikt om de voorraad te waarderen en om marges op "
+"verkooporders te berekenen. De voorraadwaardering stel je in op "
+"productcategorie. Bij gemiddelde kostprijs en FIFO wordt de kostprijs "
+"automatisch berekend."
+msgstr ""
+
+#: ../../docs/voorraad/product-configuratie.rst:100
+msgid "**Productcategorie:**"
+msgstr ""
+
+#: ../../docs/voorraad/product-configuratie.rst:102
+msgid ""
+"De lijst met productcategorieën is te vinden in de Voorraad app onder "
+"**'Configuratie' > 'Productcategorieën'.** Dit is een essentiële "
+"instelling die je vooraf kan configureren om snel groepen producten te "
+"selecteren en optimaal gebruik te maken van rapportagemogelijkheden."
+msgstr ""
+
+#: ../../docs/voorraad/product-configuratie.rst:107
+msgid "In productcategorieën kun je de volgende settings instellen:"
+msgstr ""
+
+#: ../../docs/voorraad/product-configuratie.rst:109
+msgid ""
+"**Hoofdcategorie:** dit gebruik je als je een hoofd- en subcategorie wilt"
+" instellen."
+msgstr ""
+
+#: ../../docs/voorraad/product-configuratie.rst:112
+msgid ""
+"**Forceer verwijderingsstrategie:** De verwijderingsstrategie wordt "
+"gebruikt om te bepalen hoe en wanneer producten uit de voorraad moeten "
+"worden verwijderd of afgeschreven. Het heeft betrekking op het proces van"
+" het elimineren van verouderde, beschadigde, onverkoopbare of overtollige"
+" voorraad."
+msgstr ""
+
+#: ../../docs/voorraad/product-configuratie.rst:122
+msgid ""
+"**Kostprijsbepaling:** dit is de setting om je voorraad te waarderen en "
+"is een belangrijk aspect van de boekhouding en financieel beheer voor "
+"bedrijven die fysieke producten kopen, verkopen en opslaan. Het heeft "
+"meerdere doelen, waaronder winstbepaling en balanswaardering. Je hebt "
+"keuze uit 3 verschillende settings:"
+msgstr ""
+
+#: ../../docs/voorraad/product-configuratie.rst:125
+msgid ""
+"1. **Kostprijs:** dit is de vaste verrekenprijs van een artikel en moet "
+"handmatig worden aangepast indien de inkoopprijs en/of inkoopkosten "
+"veranderen van dit product."
+msgstr ""
+
+#: ../../docs/voorraad/product-configuratie.rst:127
+msgid ""
+"2 . **First in / First out (FIFO):** producten die het bedrijf als eerste"
+" binnenkomen, verlaten ook als eerste. De kostprijs wordt automatisch "
+"berekend vanaf het moment van leveren van het product."
+msgstr ""
+
+#: ../../docs/voorraad/product-configuratie.rst:131
+msgid ""
+"3. **Gemiddelde kostprijs (AVCO):** de kostprijs wordt berekend dmv een "
+"gewogen gemiddelde waarde van het product."
+msgstr ""
+
+#: ../../docs/voorraad/product-configuratie.rst:134
+msgid ""
+"**Voorraadwaardering:** hierbij de keuze om de voorraadberekening "
+"(boekingen) handmatig uit te voeren of geautomatiseerd."
+msgstr ""
+
+#: ../../docs/voorraad/product-configuratie.rst:141
+msgid "**Interne referentie / barcode**"
+msgstr ""
+
+#: ../../docs/voorraad/product-configuratie.rst:143
+msgid ""
+"De interne referentie wordt toegekend aan producten als een intern "
+"artikelnummer. De barcode wordt daarentegen gebruikt voor de EAN-code van"
+" een product. De barcode wordt weergegeven op verzamellijsten en "
+"pakbonnen."
+msgstr ""
+
+#: ../../docs/voorraad/product-configuratie.rst:148
+msgid "**Productlabels**"
+msgstr ""
+
+#: ../../docs/voorraad/product-configuratie.rst:150
+msgid ""
+"Dit is een handige tool waarmee je producten van extra kenmerken kunt "
+"voorzien. Bij het zoeken naar producten kun je indien nodig filteren op "
+"basis van deze kenmerken."
+msgstr ""
+
+#: ../../docs/voorraad/product-configuratie.rst:155
+msgid "Tab Kenmerken en varianten"
+msgstr ""
+
+#: ../../docs/voorraad/product-configuratie.rst:162
+msgid ""
+"Via tab Kenmerken en varianten kun je kenmerken instellen voor een "
+"product als deze in verschillende opties verkrijgbaar zijn. Kenmerk en "
+"waarde kun je zelf aanmaken via **Voorraad - configuratie - kenmerken.** "
+"Aan de hand van het aantal waarden maakt CURQ automatisch de "
+"verschillende varianten aan (zie 6 Varianten). Via 'configureren' in de "
+"regel kun je prijsverschillen instellen per waarde die is opgegeven."
+msgstr ""
+
+#: ../../docs/voorraad/product-configuratie.rst:169
+msgid ""
+"Tip! *Als je voor een product meerdere kenmerken en waarden instelt, wat "
+"resulteert in 1500 of meer varianten, overweeg dan om 'Dynamisch' te "
+"selecteren in de instellingen. Op deze manier worden varianten pas "
+"aangemaakt wanneer ze daadwerkelijk worden verkocht, wat geen invloed "
+"heeft op de database prestaties.*"
+msgstr ""
+
+#: ../../docs/voorraad/product-configuratie.rst:180
+msgid "Tab Verkoop"
+msgstr ""
+
+#: ../../docs/voorraad/product-configuratie.rst:188
+msgid ""
+"In het gedeelte Upsell & Cross-Sell zijn drie velden beschikbaar: "
+"**Optionele producten, Aanvullende producten en Alternatieve producten**."
+msgstr ""
+
+#: ../../docs/voorraad/product-configuratie.rst:193
+msgid ""
+"**'Optionele producten'** verschijnen op het scherm wanneer de klant op "
+"'Toevoegen aan winkelwagen' klikt. Het systeem stelt **'Aanvullende "
+"Producten'** voor wanneer de klant de winkelwagen bekijkt voordat hij "
+"betaalt, terwijl **'Alternatieve Producten'** op de productpagina "
+"verschijnen om alternatieven te verkopen."
+msgstr ""
+
+#: ../../docs/voorraad/product-configuratie.rst:199
+msgid ""
+"In het gedeelte voor de E-Commerce winkel kun je alle instellingen "
+"configureren die betrekking hebben op de online winkel. Hier kun je "
+"specifieke categorieën definiëren, aangeven of een product mag worden "
+"verkocht wanneer de voorraad op nul staat, en beslissen of de voorraad "
+"wel of niet wordt weergegeven."
+msgstr ""
+
+#: ../../docs/voorraad/product-configuratie.rst:203
+msgid ""
+"Bij 'niet op voorraad' kan een specifiek bericht worden weergegeven en "
+"met een lint gebruik maken om producten extra aandacht te geven. Denk aan"
+" 'Nieuw', 'Uitverkocht' of een ander label die je zelf kunt aanmaken."
+msgstr ""
+
+#: ../../docs/voorraad/product-configuratie.rst:206
+msgid ""
+"Extra afbeeldingen zijn toe te voegen via **'Extra product media'** en er"
+" is ruimte om een verkoopomschrijving op te stellen dat zichtbaar is op "
+"een offerte/order en facturen."
+msgstr ""
+
+#: ../../docs/voorraad/product-configuratie.rst:209
+msgid "Tab Inkoop"
+msgstr ""
+
+#: ../../docs/voorraad/product-configuratie.rst:215
+msgid ""
+"In dit overzicht kun je één of meerdere leveranciers koppelen met de "
+"bijbehorende inkoopprijzen en levertijden. Via de filterknop zijn "
+"meerdere 'standaard' velden zichtbaar te maken (zie onder)."
+msgstr ""
+
+#: ../../docs/voorraad/product-configuratie.rst:223
+msgid ""
+"Met **Inkoop BTW** kun je de standaard belastingtarieven instellen die "
+"van toepassing zijn bij de aankoop van het product. Onder "
+"**Controlebeleid** kun je kiezen of je de inkoopfactuur wilt baseren op "
+"de bestelde hoeveelheden of de ontvangen hoeveelheden. Daarnaast kun je "
+"notities toevoegen aan inkooporders met behulp van de **'Inkoop "
+"Beschrijving'.** Deze functies helpen bij het beheren van "
+"inkoopgerelateerde aspecten en het vastleggen van belangrijke informatie "
+"voor het inkoopproces."
+msgstr ""
+
+#: ../../docs/voorraad/product-configuratie.rst:233
+msgid "Tab Voorraad"
+msgstr ""
+
+#: ../../docs/voorraad/product-configuratie.rst:243
+msgid ""
+"Op basis van de geïnstalleerde modules is het mogelijk om met "
+"**'Routes'** het traject van het product vast te stellen, zoals of het "
+"wordt aangekocht, vervaardigd, op bestelling gemaakt, enzovoort. Meerdere"
+" routes zijn te activeren via **Voorraad - configuratie - Routes met "
+"meerdere stappen.**"
+msgstr ""
+
+#: ../../docs/voorraad/product-configuratie.rst:244
+msgid "Zodra dit gereed is verschijnt 'Routes' in het menu."
+msgstr ""
+
+#: ../../docs/voorraad/product-configuratie.rst:247
+msgid ""
+"*Tip! Via filters - gearchiveerd kun je 2 andere routes activeren. MTO "
+"(Make to order) kun je gebruiken als voor elke verkooporder automatisch "
+"een inkooporder moet worden aangemaakt.*"
+msgstr ""
+
+#: ../../docs/voorraad/product-configuratie.rst:253
+msgid ""
+"Binnen de **Logistiek** sectie kun je **'Verantwoordelijke'** veld "
+"invullen, dat aanduidt wie de verantwoordelijkheid draagt voor de verdere"
+" logistieke handelingen met betrekking tot het product. Indien het "
+"product is zonder varianten, dan heb je de optie om het gewicht en het "
+"volume van het product te vullen. Anders dien je dat te doen op variant "
+"niveau."
+msgstr ""
+
+#: ../../docs/voorraad/product-configuratie.rst:255
+msgid ""
+"Via de **'Traceerbaarheid'** optie kun je producten (+ varianten) "
+"koppelen aan een serienummer of een Lotnummer (partijen)."
+msgstr ""
+
+#: ../../docs/voorraad/product-configuratie.rst:260
+msgid ""
+"Definieer de specificaties van zowel de **'productielocatie'** als de "
+"**'voorraadlocatie'**, die in plaats van de gebruikelijke locaties zullen"
+" fungeren als bronlocatie voor voorraad verplaatsingen die voortkomen uit"
+" respectievelijk productieorders en inventarisatie operaties."
+msgstr ""
+
+#: ../../docs/voorraad/product-configuratie.rst:263
+msgid "Tab Boekhouding"
+msgstr ""
+
+#: ../../docs/voorraad/product-configuratie.rst:269
+msgid ""
+"Deze setting wordt vaak leeg gelaten. Advies is om de omzet- en "
+"kostenrekening in te stellen op de productcategorie."
+msgstr ""
+
+#: ../../docs/voorraad/product-configuratie.rst:273
+msgid "Slimme Knoppen"
+msgstr ""
+
+#: ../../docs/voorraad/product-configuratie.rst:275
+msgid ""
+"Met de slimme knoppen aan de bovenkant van het productblad heb je direct "
+"inzicht in overige productinformatie:"
+msgstr ""
+
+#: ../../docs/voorraad/product-configuratie.rst:282
+msgid "**Extra prijzen** > inzicht of het product op meerdere prijslijsten"
+msgstr ""
+
+#: ../../docs/voorraad/product-configuratie.rst:283
+msgid "staat en voor welke prijs"
+msgstr ""
+
+#: ../../docs/voorraad/product-configuratie.rst:285
+msgid "**Ga naar website** > hiermee kun je het product online (groen) of"
+msgstr ""
+
+#: ../../docs/voorraad/product-configuratie.rst:286
+msgid "offline (rood) zetten"
+msgstr ""
+
+#: ../../docs/voorraad/product-configuratie.rst:288
+msgid "**Varianten** > aantal varianten van het product"
+msgstr ""
+
+#: ../../docs/voorraad/product-configuratie.rst:290
+msgid "**Beschikbaar** > de aantallen die 'direct' beschikbaar zijn"
+msgstr ""
+
+#: ../../docs/voorraad/product-configuratie.rst:292
+msgid "**Virtueel** > de aantallen die beschikbaar zijn cumulatief berekend"
+msgstr ""
+
+#: ../../docs/voorraad/product-configuratie.rst:293
+msgid "met openstaande verkoop- en inkooporders"
+msgstr ""
+
+#: ../../docs/voorraad/product-configuratie.rst:295
+msgid "**In / uit:** Dit menu biedt volledige traceerbaarheid van alle"
+msgstr ""
+
+#: ../../docs/voorraad/product-configuratie.rst:296
+msgid ""
+"voorraad gerelateerde handelingen met betrekking tot een specifiek "
+"product."
+msgstr ""
+
+#: ../../docs/voorraad/product-configuratie.rst:299
+msgid "**Aanvulopdrachten:** met deze setting kun je de min/max instellen"
+msgstr ""
+
+#: ../../docs/voorraad/product-configuratie.rst:300
+msgid ""
+"voor het product. Inkooporders worden automatisch aangemaakt zodra de "
+"aantallen onder de 'min' komt."
+msgstr ""
+
+#: ../../docs/voorraad/product-configuratie.rst:303
+msgid "**Wegzetregels:** kan ingesteld worden als producten worden"
+msgstr ""
+
+#: ../../docs/voorraad/product-configuratie.rst:304
+msgid "binnengeboekt en op een specifieke locatie moet worden gezet."
+msgstr ""
+
+#: ../../docs/voorraad/product-configuratie.rst:306
+msgid "Aantal stuks 'verkocht' en 'in gekocht' geeft direct inzicht van de"
+msgstr ""
+
+#: ../../docs/voorraad/product-configuratie.rst:307
+msgid "laatste 365 dagen."
+msgstr ""

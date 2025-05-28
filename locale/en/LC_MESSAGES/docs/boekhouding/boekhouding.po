@@ -1,0 +1,137 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2025, Onestein
+# This file is distributed under the same license as the CURQ package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2025.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: CURQ \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-05-28 09:55+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: en\n"
+"Language-Team: en <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.17.0\n"
+
+#: ../../docs/boekhouding/boekhouding.rst:2
+msgid "Boekhouding"
+msgstr ""
+
+#: ../../docs/boekhouding/boekhouding.rst:4
+msgid ""
+"Een solide boekhouding is van essentieel belang voor elk bedrijf, "
+"ongeacht de omvang."
+msgstr ""
+
+#: ../../docs/boekhouding/boekhouding.rst:6
+msgid ""
+"In de meeste landen ben je wettelijk verplicht om een nauwkeurige "
+"boekhouding bij te houden en belastingaangiften te doen. Het niet naleven"
+" van deze verplichtingen kan leiden tot boetes en juridische problemen. "
+"Een goede boekhouding biedt financiële transparantie binnen je bedrijf en"
+" helpt bij het registreren van inkomsten, uitgaven, winsten en verliezen,"
+" wat cruciaal is voor het beheer van je financiën."
+msgstr ""
+
+#: ../../docs/boekhouding/boekhouding.rst:11
+msgid ""
+"Boekhoudgegevens verschaffen waardevolle informatie voor strategische "
+"besluitvorming. Het stelt je in staat om de financiële gezondheid van je "
+"bedrijf te beoordelen, budgetten op te stellen en te bepalen waar je "
+"middelen het beste kunt inzetten."
+msgstr ""
+
+#: ../../docs/boekhouding/boekhouding.rst:15
+msgid "CURQ"
+msgstr ""
+
+#: ../../docs/boekhouding/boekhouding.rst:17
+msgid ""
+"CURQ biedt verschillende voordelen voor je boekhouding, waardoor het een "
+"krachtig en veelzijdig hulpmiddel is."
+msgstr ""
+
+#: ../../docs/boekhouding/boekhouding.rst:19
+msgid ""
+"CURQ is een alles-in-één zakelijk softwareplatform met een geïntegreerde "
+"boekhoudmodule. Dit betekent dat je financiële gegevens naadloos kunnen "
+"samenwerken met andere bedrijfsprocessen, zoals verkoop, inkoop, "
+"voorraadbeheer en meer. CURQ automatiseert veel boekhoudprocessen, "
+"waardoor de kans op menselijke fouten wordt verminderd en de efficiëntie "
+"wordt verhoogd. Het systeem kan bijvoorbeeld herhaalde boekingen "
+"automatisch genereren."
+msgstr ""
+
+#: ../../docs/boekhouding/boekhouding.rst:24
+msgid ""
+"CURQ biedt real-time toegang tot financiële gegevens, waardoor je altijd "
+"up-to-date inzicht hebt in je financiële positie. Dit is waardevol voor "
+"snelle besluitvorming en rapportage. CURQ bevat krachtige rapportagetools"
+" waarmee je aangepaste financiële rapporten en analyses kunt genereren. "
+"Dit helpt je om financiële trends en prestaties te begrijpen en te "
+"communiceren."
+msgstr ""
+
+#: ../../docs/boekhouding/boekhouding.rst:29
+msgid ""
+"Door processen te automatiseren en efficiënter te werken, kun je kosten "
+"besparen in je boekhouding. CURQ kan worden geïntegreerd met andere "
+"systemen en is toegankelijk vanaf verschillende apparaten, waardoor je "
+"flexibiliteit hebt in waar en hoe je je boekhouding beheert."
+msgstr ""
+
+#: ../../docs/boekhouding/boekhouding.rst:33
+msgid ""
+"Al met al kan CURQ een waardevolle hulpbron zijn voor je boekhouding, "
+"ongeacht de omvang van je bedrijf, en kan het bijdragen aan een "
+"efficiënte, nauwkeurige en geïntegreerde financiële administratie. Het is"
+" echter belangrijk om ervoor te zorgen dat je de boekhoudmodule van CURQ "
+"goed configureert en onderhoudt om er maximaal van te profiteren."
+msgstr ""
+
+#: ../../docs/boekhouding/boekhouding.rst:38
+msgid "Dubbel boekhouden"
+msgstr ""
+
+#: ../../docs/boekhouding/boekhouding.rst:40
+msgid ""
+"CURQ hanteert het concept van dubbel boekhouden. Bij dubbel boekhouden "
+"worden alle transacties op minstens twee verschillende manieren "
+"geadministreerd. Elke transactie wordt geboekt op zowel de debet- als "
+"creditkant, op een of meer grootboekrekeningen. Het gevolg hiervan is dat"
+" het eindresultaat aan zowel de debet- als creditkant gelijk moet zijn, "
+"zodat beide zijden in balans zijn."
+msgstr ""
+
+#: ../../docs/boekhouding/boekhouding.rst:44
+msgid ""
+"**Wat is het onderscheid tussen debet en credit?** Debet en credit "
+"representeren de twee zijden van de balans: de debetzijde en de "
+"creditzijde."
+msgstr ""
+
+#: ../../docs/boekhouding/boekhouding.rst:47
+msgid ""
+"**Debet: linkerzijde** De linkerzijde wordt ook wel de debetzijde "
+"genoemd. Hier vind je alle bezittingen van een onderneming, ook wel "
+"activa genoemd. Deze activa kunnen verder worden onderverdeeld in vaste- "
+"en vlottende activa. Bovendien tref je in de debetzijde het geld aan dat "
+"jou nog verschuldigd is door andere bedrijven of klanten, ook bekend als "
+"debiteuren. Tot slot bevinden zich aan deze zijde de liquide middelen, "
+"waaronder jouw kas- en banksaldo."
+msgstr ""
+
+#: ../../docs/boekhouding/boekhouding.rst:53
+msgid ""
+"**Credit: rechterzijde** De rechterkant van de balans staat bekend als de"
+" creditzijde. Hier vind je het eigen vermogen van een onderneming en alle"
+" passiva (schulden). Dit omvat langlopende leningen zoals een hypotheek, "
+"maar ook crediteuren. Crediteuren zijn bedrijven of personen aan wie jij "
+"nog geld verschuldigd bent, wat valt onder kortlopende leningen."
+msgstr ""

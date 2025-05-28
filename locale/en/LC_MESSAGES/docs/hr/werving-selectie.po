@@ -1,0 +1,192 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2025, Onestein
+# This file is distributed under the same license as the CURQ package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2025.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: CURQ \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-05-28 09:55+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: en\n"
+"Language-Team: en <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.17.0\n"
+
+#: ../../docs/hr/werving-selectie.rst:2
+msgid "Werving en selectie"
+msgstr ""
+
+#: ../../docs/hr/werving-selectie.rst:4
+msgid ""
+"Binnen CURQ kan het wervings- en selectieproces worden vereenvoudigd en "
+"gestroomlijnd met de werving en selectie app. Leg de verschillende "
+"stappen binnen het wervingsproces vast en begeleid uw toekomstige "
+"werknemers door het selectieproces."
+msgstr ""
+
+#: ../../docs/hr/werving-selectie.rst:8
+msgid "Vacature plaatsen"
+msgstr ""
+
+#: ../../docs/hr/werving-selectie.rst:10
+msgid ""
+"Wanneer de werving en selectie app wordt geopend, komt u op de "
+"vacaturepagina. Hier kunnen alle openstaande vacatures worden gezien en "
+"via de 'Nieuw' knop kunnen er meer worden aangemaakt. Wanneer een nieuwe "
+"vacature wordt aangemaakt, moet eerst een naam worden opgegeven. Wanneer "
+"dit is gedaan, verschijnt deze op de applicatiepagina en via de drie "
+"puntjes rechtsboven in de vacaturevelden kan de vacature worden "
+"geconfigureerd."
+msgstr ""
+
+#: ../../docs/hr/werving-selectie.rst:17
+msgid ""
+"Binnen de configuratie van de vacature is bovenaan de naam te zien en "
+"deze kan hier ook worden aangepast. In het recruitmentvlak onder de naam "
+"kunnen verschillende velden worden ingevuld en aangepast:"
+msgstr ""
+
+#: ../../docs/hr/werving-selectie.rst:20
+msgid ""
+"**Afdeling:** Hier kan geselecteerd worden onder welke afdeling de baan "
+"waar de vacature voor is aangemaakt valt."
+msgstr ""
+
+#: ../../docs/hr/werving-selectie.rst:21
+msgid ""
+"**Locatie:** Onder de locatie wordt vermeld waar de baan zal worden "
+"uitgevoerd. Standaard is dit het adres van uw bedrijf."
+msgstr ""
+
+#: ../../docs/hr/werving-selectie.rst:22
+msgid ""
+"**Werknemerstype:** hier kan het type werknemer woeden toegevoegd zoals "
+"full-time, part-time en tijdelijk."
+msgstr ""
+
+#: ../../docs/hr/werving-selectie.rst:23
+msgid ""
+"**Doel:** Onder doel kan worden aangegeven hoeveel kandidaten gezocht "
+"worden voor deze applicatie."
+msgstr ""
+
+#: ../../docs/hr/werving-selectie.rst:24
+msgid ""
+"**Gepubliceerd:** Hier kan geselecteerd worden of de applicatie op de "
+"website gepubliceerd wordt onder de /jobs pagina."
+msgstr ""
+
+#: ../../docs/hr/werving-selectie.rst:25
+msgid ""
+"**Recruiter:** Bij de recruiter kan de verantwoordelijke recruiter aan de"
+" vacature worden toegewezen."
+msgstr ""
+
+#: ../../docs/hr/werving-selectie.rst:26
+msgid ""
+"**Interviewers:** Hier kunnen alle werknemers toegevoegd worden die "
+"meehelpen aan het interviewproces voor de vacature."
+msgstr ""
+
+#: ../../docs/hr/werving-selectie.rst:27
+msgid ""
+"**Process details:** In het detailveld wordt de informatie over het "
+"intakeproces dat op de webpagina te zien is, vertoond en aangepast."
+msgstr ""
+
+#: ../../docs/hr/werving-selectie.rst:31
+msgid ""
+"Rechtsboven aan de pagina staan drie links, met *Job applications* is te "
+"zien hoeveel mensen op de vacature hebben gereageerd en wordt u naar de "
+"pagina van de vacature gestuurd. Onder *trackers* kunnen alle locaties "
+"van de vacature gezien worden, dit is binnen en buiten CURQ, zoals "
+"LinkedIn. Met *go to website* wordt u naar de webpagina van de vacature "
+"gestuurd."
+msgstr ""
+
+#: ../../docs/hr/werving-selectie.rst:36
+msgid "Wervingsproces"
+msgstr ""
+
+#: ../../docs/hr/werving-selectie.rst:38
+msgid ""
+"De kandidaten kunnen op verschillende manieren binnenkomen: via de "
+"website, enkele externe bronnen of ze kunnen handmatig worden aangemaakt."
+" Wanneer de kandidaat in de vacaturepagina staat, kan deze van stap naar "
+"stap versleept worden in de kanbanvelden. Wanneer een kandidaat wordt "
+"geselecteerd, krijgt u het venster met alle beschikbare informatie over "
+"de kandidaat."
+msgstr ""
+
+#: ../../docs/hr/werving-selectie.rst:44
+msgid ""
+"Op de pagina staat bovenaan de naam van de vacature, direct hieronder is "
+"het veld voor de naam van de kandidaat. Onder de naam kunnen de "
+"contactgegevens worden ingevuld samen met het LinkedIn-profiel en het "
+"hoogste behaalde diploma. Rechts van deze informatie kunnen de "
+"interviewers en de verantwoordelijke recruiter worden ingevuld. Daaronder"
+" kan een eerste indruk worden aangegeven met het aantal sterren en de "
+"bron waar de kandidaat de vacature heeft gevonden, samen met het medium, "
+"dit is de manier van reageren op de vacature. Als laatste kan hier een "
+"label aan de kandidaat worden gehangen."
+msgstr ""
+
+#: ../../docs/hr/werving-selectie.rst:50
+msgid ""
+"Onder deze velden kan de informatie van de baan aangegeven worden, zoals "
+"of de vacature voor een ledenpositie is, hiermee wordt de kandidaat als "
+"lid toegevoegd als de kandidaat wordt aangenomen. De vacature kan "
+"geselecteerd en veranderd worden. Als laatste kan de afdeling waar de "
+"baan onder valt, worden aangegeven. Rechts hiervan kan informatie van het"
+" contract worden opgegeven. Hieronder vallen het verwachte en aangeboden "
+"salaris plus extra voordelen zoals een leaseauto en de startdatum kan "
+"worden opgegeven. Onder aan het scherm kan overige informatie worden "
+"opgegeven zoals de motivaties en ambities van de kandidaat."
+msgstr ""
+
+#: ../../docs/hr/werving-selectie.rst:57
+msgid ""
+"Linksboven in de hoek kan de kandidaat afgewezen worden met een reden, "
+"deze reden kan ook vanuit de kandidaat zelf komen."
+msgstr ""
+
+#: ../../docs/hr/werving-selectie.rst:60
+msgid "Configuratie"
+msgstr ""
+
+#: ../../docs/hr/werving-selectie.rst:62
+msgid ""
+"In configuratie kunnen verschillende velden binnen de werving en selectie"
+" app worden aangepast. In settings kan aangegeven worden of de vacatures "
+"online kunnen worden gezet, of er een enquête naar de kandidaat wordt "
+"gestuurd tijdens het wervingsproces en of het CV zichtbaar is op het "
+"kandidatenveld."
+msgstr ""
+
+#: ../../docs/hr/werving-selectie.rst:66
+msgid ""
+"Onder werknemerstype kunnen de verschillende types worden ingesteld. "
+"Onder *afwijzingsredenen* worden de verschillende redenen opgegeven "
+"waarom de kandidaat niet meer in het proces zit, dit kan van beide kanten"
+" komen. Onder afdelingen kunnen de verschillende afdelingen waar "
+"vacatures worden gemaakt, worden opgezet. In activiteitentypes kunnen de "
+"verschillende activiteiten die tijdens het wervingsproces worden "
+"gebruikt, worden opgegeven zoals een telefoongesprek of een meeting."
+msgstr ""
+
+#: ../../docs/hr/werving-selectie.rst:73
+msgid ""
+"Voor meer opties kan de developer mode aangezet worden. Wanneer deze aan "
+"staat, kunnen ook de stadia van het wervingsproces dat te zien is in de "
+"vacaturepagina met de kanbanweergave worden aangepast. UTM-sources en "
+"mediums waar de conecties met externe job-boards worden gemaakt. De "
+"soorten diploma's kunnen worden opgegeven en labels kunnen worden "
+"aangemaakt voor de kandidaten."
+msgstr ""

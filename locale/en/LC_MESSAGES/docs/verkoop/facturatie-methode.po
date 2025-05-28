@@ -1,0 +1,110 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2025, Onestein
+# This file is distributed under the same license as the CURQ package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2025.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: CURQ \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-05-28 09:55+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: en\n"
+"Language-Team: en <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.17.0\n"
+
+#: ../../docs/verkoop/facturatie-methode.rst:3
+msgid "Facturatie Methode"
+msgstr ""
+
+#: ../../docs/verkoop/facturatie-methode.rst:6
+msgid "Factuur op basis van geleverde of bestelde hoeveelheden"
+msgstr ""
+
+#: ../../docs/verkoop/facturatie-methode.rst:8
+msgid ""
+"Verschillende bedrijfsbeleidsregels kunnen verschillende opties voor "
+"facturering vereisen:"
+msgstr ""
+
+#: ../../docs/verkoop/facturatie-methode.rst:10
+msgid ""
+"De regel *Bestelde Hoeveelheden* wordt gebruikt als de standaardmodus in "
+"CURQ Verkoop, wat betekent dat klanten worden gefactureerd zodra de "
+"verkooporder is bevestigd."
+msgstr ""
+
+#: ../../docs/verkoop/facturatie-methode.rst:12
+msgid ""
+"De regel *Geleverde hoeveelheden* factureert klanten zodra de levering is"
+" voltooid. Deze regel wordt vaak gebruikt voor bedrijven die "
+"voorraadhoudende artikelen verkopen. In deze gevallen kan de bestelde "
+"hoeveelheid verschillen van de geleverde hoeveelheid, waardoor het de "
+"voorkeur heeft om de daadwerkelijk geleverde hoeveelheid te factureren."
+msgstr ""
+
+#: ../../docs/verkoop/facturatie-methode.rst:17
+msgid "Kenmerken van factureringsbeleid"
+msgstr ""
+
+#: ../../docs/verkoop/facturatie-methode.rst:19
+msgid ""
+"Om de benodigde functies voor factureringsbeleid te activeren, ga je naar"
+" **Verkoop  ‣ Configuratie ‣ Instellingen**, en onder de kop Facturering,"
+" selecteer een Factureringsbeleidsregel: *Factureer wat is besteld* of "
+"*Factureer wat is geleverd*."
+msgstr ""
+
+#: ../../docs/verkoop/facturatie-methode.rst:24
+msgid ""
+"Note: Als de regel *Factureer wat is geleverd* wordt gekozen, is het niet"
+" mogelijk om de functie voor *Automatische Facturering* te activeren, die"
+" automatisch facturen genereert wanneer een online betaling is bevestigd."
+msgstr ""
+
+#: ../../docs/verkoop/facturatie-methode.rst:28
+msgid "Factureringsbeleid op productformulier"
+msgstr ""
+
+#: ../../docs/verkoop/facturatie-methode.rst:30
+msgid ""
+"Op elke productpagina kan de optie *Factureringsbeleid* onder het tabblad"
+" Algemene informatie handmatig worden gewijzigd."
+msgstr ""
+
+#: ../../docs/verkoop/facturatie-methode.rst:35
+msgid "Impact op verkoopproces"
+msgstr ""
+
+#: ../../docs/verkoop/facturatie-methode.rst:37
+msgid ""
+"In CURQ Verkoop begint het basisverkoopproces met het aanmaken van een "
+"offerte. Vervolgens wordt die offerte naar een klant gestuurd. Daarna "
+"moet deze worden bevestigd, wat de offerte omzet in een verkooporder. Dit"
+" genereert op zijn beurt een factuur."
+msgstr ""
+
+#: ../../docs/verkoop/facturatie-methode.rst:40
+msgid ""
+"Hieronder volgt een uiteenzetting van hoe factureringsbeleidsregels van "
+"invloed zijn op het eerder genoemde verkoopproces:"
+msgstr ""
+
+#: ../../docs/verkoop/facturatie-methode.rst:42
+msgid ""
+"Factureren wat is besteld: Geen impact op het basisverkoopproces. Een "
+"factuur wordt aangemaakt zodra een verkoop is bevestigd."
+msgstr ""
+
+#: ../../docs/verkoop/facturatie-methode.rst:43
+msgid ""
+"Factureren wat is geleverd: Geringe impact op het verkoopproces, omdat "
+"eerst de hoeveelheid geleverd moet worden voordat er een factuur kan "
+"worden gemaakt. Wanneer dit niet gebeurd verschijnt er een foutmelding."
+msgstr ""

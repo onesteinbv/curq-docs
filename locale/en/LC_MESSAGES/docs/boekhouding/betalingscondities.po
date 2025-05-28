@@ -1,0 +1,77 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2025, Onestein
+# This file is distributed under the same license as the CURQ package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2025.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: CURQ \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-05-28 09:55+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: en\n"
+"Language-Team: en <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.17.0\n"
+
+#: ../../docs/boekhouding/betalingscondities.rst:2
+msgid "Betalingscondities"
+msgstr ""
+
+#: ../../docs/boekhouding/betalingscondities.rst:4
+msgid ""
+"Betalingscondities zijn opties voor wanneer een betaling moet worden "
+"afgerond. Dit kan per direct zijn, na een maand, aan het einde van de "
+"volgende maand of vele andere mogelijkheden. Om naar de "
+"betalingsconditiepagina te gaan, navigeer naar de "
+"facturatie/boekhoudingsmodule. Selecteer hier onder configuratie "
+"'betalingscondities'."
+msgstr ""
+
+#: ../../docs/boekhouding/betalingscondities.rst:10
+msgid ""
+"Hier zijn al een aantal standaard betalingscondities aangemaakt. Om een "
+"nieuwe aan te maken, selecteer 'nieuw' links boven in de hoek."
+msgstr ""
+
+#: ../../docs/boekhouding/betalingscondities.rst:14
+msgid ""
+"Op de nieuwe betalingsconditiepagina moet eerst een naam gegeven worden "
+"voor de betalingsconditie in het 'betalingscondities'-vak. Hieronder kan "
+"een omschrijving gegeven worden die op het factuur zichtbaar zal zijn "
+"wanneer de betalingsconditie geselecteerd wordt. Ook kan via het vinkje "
+"aangegeven worden of de voorwaarden op het factuur weergegeven moeten "
+"worden."
+msgstr ""
+
+#: ../../docs/boekhouding/betalingscondities.rst:18
+msgid ""
+"Onder het kopje 'voorwaarden' kunnen de regels voor de betalingsconditie "
+"gegeven worden door op 'regel toevoegen' te klikken. Selecteer eerst de "
+"vervalsoort. dit kan het saldo zijn, een percentage of een vast bedrag. "
+"Vul hierna de waarde van de vervalsoort in. Geef hierna het "
+"betalingstermijn op; dit kan in maanden zijn of in dagen. Ook kan de "
+"optie 'aan het einde van de maand' geselecteerd worden; dit is aan het "
+"einde na het opgegeven aantal maanden."
+msgstr ""
+
+#: ../../docs/boekhouding/betalingscondities.rst:23
+msgid ""
+"Wanneer de 'einde van de maand'-optie is geselecteerd, kan ook worden "
+"opgegeven hoeveel dagen na het einde van de maand de betaling moet zijn "
+"afgerond. Ook kan korting worden opgegeven en voor hoeveel dagen de "
+"korting geldt. Een voorbeeld is dat voor de eerste week 10% korting wordt"
+" gegeven en het resterende bedrag aan het einde van de maand moet worden "
+"betaald."
+msgstr ""
+
+#: ../../docs/boekhouding/betalingscondities.rst:29
+msgid ""
+"Onder aan de pagina onder 'voorbeeld' wordt laten zien hoe de betaling "
+"moet worden geleverd."
+msgstr ""

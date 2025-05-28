@@ -1,0 +1,161 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2025, Onestein
+# This file is distributed under the same license as the CURQ package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2025.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: CURQ \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-05-28 09:55+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: en\n"
+"Language-Team: en <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.17.0\n"
+
+#: ../../docs/projecten/projecten.rst:2
+msgid "Projecten"
+msgstr ""
+
+#: ../../docs/projecten/projecten.rst:4
+msgid ""
+"In de projectenapplicatie kunnen alle projecten van uw bedrijf worden "
+"beheerd, met statussen voor de projecten en de taken die onder het "
+"project vallen."
+msgstr ""
+
+#: ../../docs/projecten/projecten.rst:7
+msgid ""
+"Om een project aan te maken, opent u de projectenmodule en selecteert u "
+"op de projectenpagina +Nieuw. Hier verschijnt een pop-upmenu waar de naam"
+" van het project kan worden ingevoerd, of waarvoor uren en gebruikte "
+"materialen kunnen worden gefactureerd, en of er uren kunnen worden "
+"opgegeven in urenstaten."
+msgstr ""
+
+#: ../../docs/projecten/projecten.rst:13
+msgid ""
+"Wanneer een project is aangemaakt, verschijnt het op de projectpagina, "
+"dit is te zien linksboven in de hoek waar de naam zichtbaar is. Op de "
+"projectpagina kunnen de gewenste stadia worden aangemaakt. Dit kan "
+"handmatig worden gedaan door elk stadium een naam te geven of door een "
+"van de voorbeelden te importeren."
+msgstr ""
+
+#: ../../docs/projecten/projecten.rst:19
+msgid ""
+"Wanneer de stadia zijn aangemaakt, kunnen er taken worden aangemaakt door"
+" op de +Nieuw knop te drukken. Hier kan een naam aan de taak worden "
+"gegeven en personen aan de taak worden toegewezen. wanneer de taak goed "
+"is ingesteld kan die worden toegevoegd door op toevoegen te klikken."
+msgstr ""
+
+#: ../../docs/projecten/projecten.rst:25
+msgid ""
+"Wanneer de taak is aangemaakt kan deze worden aangepast door bijvoorbeeld"
+" de verantwoordelijke te selecteren, een deadline te geven en uren in te "
+"vullen. Voor meer informatie ga naar onze taken documentatie."
+msgstr ""
+
+#: ../../docs/projecten/projecten.rst:30
+msgid ""
+"Om de instellingen van het project aan te passen, ga naar de "
+"projectenpagina en selecteer de instellingen onder de drie verticale "
+"punten:"
+msgstr ""
+
+#: ../../docs/projecten/projecten.rst:34
+msgid ""
+"Binnen de instellingen van het project kunnen verschillende aanpassingen "
+"worden gedaan, zoals de naam van het project veranderen, de naam van de "
+"taken aanpassen, de klant voor wie het project wordt uitgevoerd opgeven, "
+"labels opgeven voor categorisatie, een projectmanager opgeven, een begin-"
+" en einddatum plannen en het maximum aantal te besteden uren opgeven."
+msgstr ""
+
+#: ../../docs/projecten/projecten.rst:40
+msgid ""
+"In de tabbladen onder de omschrijving kan een beschrijving van het "
+"project worden gegeven. In de instellingen kan de kostenplaats van het "
+"project worden opgegeven en voor welke gebruikers het project zichtbaar "
+"is:"
+msgstr ""
+
+#: ../../docs/projecten/projecten.rst:43
+msgid ""
+"Dit kan voor uitgenodigde interne gebruikers zijn, wanneer het project "
+"alleen voor specifieke gebruikers is zoals het management of een "
+"specifiek development team."
+msgstr ""
+
+#: ../../docs/projecten/projecten.rst:45
+msgid ""
+"Voor alle interne gebruikers, wanneer het hele bedrijf het project moet "
+"kunnen zien en eraan moet kunnen werken."
+msgstr ""
+
+#: ../../docs/projecten/projecten.rst:46
+msgid ""
+"Uitgenodigde portaalgebruikers en alle interne gebruikers, wanneer "
+"externe groepen het project moeten kunnen bekijken en eraan moeten kunnen"
+" werken."
+msgstr ""
+
+#: ../../docs/projecten/projecten.rst:49
+msgid ""
+"Hier kan ook worden geselecteerd of de urenstaten ingevuld moeten kunnen "
+"worden en of het project factureerbaar moet zijn."
+msgstr ""
+
+#: ../../docs/projecten/projecten.rst:51
+msgid ""
+"Onder aan de pagina kan worden geselecteerd of de toewijzingen geërfd "
+"kunnen worden en of de rollen gelimiteerd zijn aan de toewijzingen."
+msgstr ""
+
+#: ../../docs/projecten/projecten.rst:53
+msgid ""
+"Met website details kan worden ingesteld onder welke categorie het "
+"project op de website wordt weergegeven. Tevens kan een korte "
+"omschrijving worden gegeven en daaronder een meer uitgebreide "
+"omschrijving voor de website."
+msgstr ""
+
+#: ../../docs/projecten/projecten.rst:58
+msgid ""
+"Onder het tabblad \"Members\" kunnen de verschillende leden worden gezien"
+" die het project ondersteunen."
+msgstr ""
+
+#: ../../docs/projecten/projecten.rst:63
+msgid "Facturatie"
+msgstr ""
+
+#: ../../docs/projecten/projecten.rst:65
+msgid ""
+"Om de uren van projecten te factureren moet het project via een dienst "
+"product worden aangemaakt."
+msgstr ""
+
+#: ../../docs/projecten/projecten.rst:67
+msgid ""
+"De dienst kan worden aangemaakt via het productenmenu in de voorraad- en "
+"verkoopapplicaties. Maak een nieuw product aan en selecteer onder "
+"producttype de optie 'dienst'. Hier verschijnt de optie om een project, "
+"taak of een project en taak aan te maken. Ook kan de eenheid als uren "
+"worden ingesteld om de opgegeven uren te verkopen."
+msgstr ""
+
+#: ../../docs/projecten/projecten.rst:73
+msgid ""
+"Wanneer het product is aangemaakt, worden ook meteen de geselecteerde "
+"opties aangemaakt met de naam die aan het product is gegeven. Wanneer er "
+"uren op het project worden geschreven, kunnen deze gefactureerd worden "
+"via de verkoopmodule."
+msgstr ""

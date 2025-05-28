@@ -1,0 +1,257 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2025, Onestein
+# This file is distributed under the same license as the CURQ package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2025.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: CURQ \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-05-28 09:55+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: en\n"
+"Language-Team: en <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.17.0\n"
+
+#: ../../docs/voorraad/wegzetregels.rst:3
+msgid "Wegzetregels"
+msgstr ""
+
+#: ../../docs/voorraad/wegzetregels.rst:5
+msgid ""
+"Wegzetregels zijn essentieel voor het correct opslaan van voorraden "
+"binnen een bedrijf. Door gebruik te maken van Wegzetregels kun je "
+"producten 'automatisch' verplaatsen van ontvangstlocatiesnaar de meest "
+"geschikte plaatsen in het magazijn zelf."
+msgstr ""
+
+#: ../../docs/voorraad/wegzetregels.rst:9
+msgid ""
+"Om toegang te krijgen tot deze functie, ga je naar *Configuratie → "
+"Wegzetregels*. In dit venster zie je een lijst met wegzetregels die "
+"eventueel zijn aangemaakt. *Belangrijk: Wegzetregels kunnen worden "
+"gedefinieerd per 'product/productcategorie' en/of 'verpakkingssoort' (de "
+"instelling 'Verpakkingen' moet ingeschakeld zijn in de Voorraad app).*"
+msgstr ""
+
+#: ../../docs/voorraad/wegzetregels.rst:14
+msgid "Bij het aanmaken kun je de volgende velden vullen:"
+msgstr ""
+
+#: ../../docs/voorraad/wegzetregels.rst:16
+msgid "Wanneer een product aankomt in"
+msgstr ""
+
+#: ../../docs/voorraad/wegzetregels.rst:17
+#: ../../docs/voorraad/wegzetregels.rst:52
+msgid "Product"
+msgstr ""
+
+#: ../../docs/voorraad/wegzetregels.rst:18
+#: ../../docs/voorraad/wegzetregels.rst:53
+msgid "Productcategorie"
+msgstr ""
+
+#: ../../docs/voorraad/wegzetregels.rst:19
+#: ../../docs/voorraad/wegzetregels.rst:51
+msgid "Verpakkingstype"
+msgstr ""
+
+#: ../../docs/voorraad/wegzetregels.rst:23
+msgid "Opslaan naar sublocatie"
+msgstr ""
+
+#: ../../docs/voorraad/wegzetregels.rst:24
+msgid "Categorie hebben"
+msgstr ""
+
+#: ../../docs/voorraad/wegzetregels.rst:25
+msgid "Bedrijf"
+msgstr ""
+
+#: ../../docs/voorraad/wegzetregels.rst:29
+msgid ""
+"Het systeem verplaatst het product naar de locatie die is aangegeven in "
+"*Opslaan naar sublocatie* zodra het de locatie bereikt die is opgegeven "
+"in het veld *Wanneer product aankomt in*. Zie onderstaand voorbeeld:"
+msgstr ""
+
+#: ../../docs/voorraad/wegzetregels.rst:33
+msgid "In een magazijnlocatie, WH/Stock, zijn er de volgende sublocaties:"
+msgstr ""
+
+#: ../../docs/voorraad/wegzetregels.rst:35
+msgid "WH/Stock/Smartphones"
+msgstr ""
+
+#: ../../docs/voorraad/wegzetregels.rst:37
+msgid "WH/Stock/Laptops"
+msgstr ""
+
+#: ../../docs/voorraad/wegzetregels.rst:39
+msgid ""
+"Als beide artikelen binnenkomen op WH/Stock, dan worden deze automatisch "
+"opgeslagen op de sublocatie. Je kunt dit dus per product doen, maar ook "
+"per productcategorie."
+msgstr ""
+
+#: ../../docs/voorraad/wegzetregels.rst:45
+msgid "Prioriteit van wegzetregels"
+msgstr ""
+
+#: ../../docs/voorraad/wegzetregels.rst:47
+msgid ""
+"CURQ selecteert een wegzetregel op basis van de volgende "
+"prioriteitenlijst (van hoog naar laag) totdat een overeenkomst is "
+"gevonden:"
+msgstr ""
+
+#: ../../docs/voorraad/wegzetregels.rst:49
+msgid "Verpakkingstype en product"
+msgstr ""
+
+#: ../../docs/voorraad/wegzetregels.rst:50
+msgid "Verpakkingstype en productcategorie"
+msgstr ""
+
+#: ../../docs/voorraad/wegzetregels.rst:56
+#: ../../docs/voorraad/wegzetregels.rst:92
+msgid "Voorbeeld:"
+msgstr ""
+
+#: ../../docs/voorraad/wegzetregels.rst:58
+msgid "Voor product Volla Phone 22 zijn de volgende wegzetregels geconfigureerd:"
+msgstr ""
+
+#: ../../docs/voorraad/wegzetregels.rst:60
+msgid ""
+"Bij ontvangst van een Pallet (Verpakkingstype) met Volla Phone 22 "
+"smartphones wordt deze omgeleid naar WH/Stock/Pallets/PAL1."
+msgstr ""
+
+#: ../../docs/voorraad/wegzetregels.rst:61
+msgid ""
+"De Productcategorie van Volla Phone 22 is *All/Smartphones*, en bij "
+"ontvangst van een Box met een willekeurige smartphones uit deze "
+"productcategorie, worden de items omgeleid naar WH/Stock/Stelling A1."
+msgstr ""
+
+#: ../../docs/voorraad/wegzetregels.rst:63
+msgid "Elk product op een Pallet wordt omgeleid naar WH/Stock/Pallets."
+msgstr ""
+
+#: ../../docs/voorraad/wegzetregels.rst:64
+msgid "Een los product *Volla Phone 22* wordt omgeleid naar WH/Stock/Stelling B1."
+msgstr ""
+
+#: ../../docs/voorraad/wegzetregels.rst:65
+msgid ""
+"Items in de productcategorie All/Smartphones worden omgeleid naar "
+"WH/Stock/Stelling A2."
+msgstr ""
+
+#: ../../docs/voorraad/wegzetregels.rst:70
+msgid "Opslag Categorieën"
+msgstr ""
+
+#: ../../docs/voorraad/wegzetregels.rst:71
+msgid ""
+"De functie *Opslag Categorieën* biedt de meest efficiënte manier om "
+"opslaglocaties te beheren in de voorraadmodule, wat de soepele werking "
+"van *Wegzetregels* bevordert."
+msgstr ""
+
+#: ../../docs/voorraad/wegzetregels.rst:74
+msgid ""
+"Om deze functie te activeren, ga je naar het menu **Instellingen** en "
+"vink je de optie *Opslag Categorieën* aan onder *Magazijn*."
+msgstr ""
+
+#: ../../docs/voorraad/wegzetregels.rst:78
+msgid ""
+"Klik op de knop *Nieuw* om een nieuwe opslagcategorie toe te voegen. Geef"
+" het nieuwe record een naam in het veld *Opslagcategorie*. Kies "
+"vervolgens een van de drie opties:"
+msgstr ""
+
+#: ../../docs/voorraad/wegzetregels.rst:81
+msgid "Als de locatie leeg is"
+msgstr ""
+
+#: ../../docs/voorraad/wegzetregels.rst:82
+msgid "Als alle producten hetzelfde zijn"
+msgstr ""
+
+#: ../../docs/voorraad/wegzetregels.rst:83
+msgid ""
+"Gemengde producten toestaan, om aan te geven onder welke omstandigheden "
+"je een nieuw product wilt toestaan."
+msgstr ""
+
+#: ../../docs/voorraad/wegzetregels.rst:87
+msgid ""
+"Onder *Capaciteit per verpakking* kun je attributen zoals het type "
+"verpakking en de hoeveelheid definiëren."
+msgstr ""
+
+#: ../../docs/voorraad/wegzetregels.rst:89
+msgid ""
+"Onder *Capaciteit per product* kun je een product, de hoeveelheid en de "
+"maatteenheid specificeren."
+msgstr ""
+
+#: ../../docs/voorraad/wegzetregels.rst:94
+msgid ""
+"We maken een wegzetregel aan voor items die op pallets worden opgeslagen "
+"met een real-time opslagcapaciteitscontrole en de naam van de "
+"opslagcategorie in te stellen als \"Hoogfrequente pallets\". Selecteer "
+"*Als alle producten hetzelfde zijn* in het veld *Nieuw product toestaan*."
+msgstr ""
+
+#: ../../docs/voorraad/wegzetregels.rst:98
+msgid ""
+"Tevens stellen we de verpakkingscapaciteit in het tabblad *Capaciteit per"
+" verpakking*, waarbij het aantal verpakkingen voor het aangewezen "
+"verpakkingstype wordt gespecificeerd en een maximum van 2 pallets wordt "
+"ingesteld voor een specifieke locatie."
+msgstr ""
+
+#: ../../docs/voorraad/wegzetregels.rst:103
+msgid ""
+"Nadat de instellingen voor de opslagcategorie zijn opgeslagen, kan de "
+"opslagcategorie worden gekoppeld aan een locatie. Ga hiervoor naar de "
+"locatie (Configuratie -> Locaties), en selecteer de specifieke locatie. "
+"Klik op Bewerken en selecteer de aangemaakte categorie in het veld "
+"Opslagcategorie."
+msgstr ""
+
+#: ../../docs/voorraad/wegzetregels.rst:110
+msgid "Opslagcategorieën in wegzetregels"
+msgstr ""
+
+#: ../../docs/voorraad/wegzetregels.rst:112
+msgid ""
+"Om door te gaan met het voorbeeld hierboven, passen we de opslagcategorie"
+" \"Hoogfrequente Pallets\" toe op de locaties PAL1 en PAL2. Stel dat er "
+"één pallet met Volla Phones 22 wordt ontvangen:"
+msgstr ""
+
+#: ../../docs/voorraad/wegzetregels.rst:115
+msgid ""
+"Als PAL1 en PAL2 leeg zijn, wordt de pallet omgeleid naar "
+"WH/Stock/Pallets/PAL1."
+msgstr ""
+
+#: ../../docs/voorraad/wegzetregels.rst:116
+msgid "Als PAL1 vol is, wordt de pallet omgeleid naar WH/Stock/Pallets/PAL2."
+msgstr ""
+
+#: ../../docs/voorraad/wegzetregels.rst:117
+msgid "Als PAL1 en PAL2 vol zijn, wordt de pallet omgeleid naar WH/Stock/Pallets."
+msgstr ""

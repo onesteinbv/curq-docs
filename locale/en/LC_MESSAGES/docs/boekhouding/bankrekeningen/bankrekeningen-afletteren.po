@@ -1,0 +1,256 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2025, Onestein
+# This file is distributed under the same license as the CURQ package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2025.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: CURQ \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-05-28 09:55+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: en\n"
+"Language-Team: en <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.17.0\n"
+
+#: ../../docs/boekhouding/bankrekeningen/bankrekeningen-afletteren.rst:2
+msgid "Afletteren (reconciliatie) in CURQ"
+msgstr ""
+
+#: ../../docs/boekhouding/bankrekeningen/bankrekeningen-afletteren.rst:3
+msgid ""
+"Bank reconciliatie is het proces van het matchen van je banktransacties "
+"met je bedrijfsadministratie, zoals klantenfacturen, leveranciersfacturen"
+" en betalingen."
+msgstr ""
+
+#: ../../docs/boekhouding/bankrekeningen/bankrekeningen-afletteren.rst:7
+msgid ""
+"Dit is niet alleen verplicht voor de meeste bedrijven, maar het biedt ook"
+" verschillende voordelen, zoals minder risico op fouten in financiële "
+"rapporten, detectie van frauduleuze activiteiten en verbetert "
+"cashflowbeheer."
+msgstr ""
+
+#: ../../docs/boekhouding/bankrekeningen/bankrekeningen-afletteren.rst:11
+msgid ""
+"Dankzij de reconciliatiemodellen kan CURQ de overeenkomende boekingen "
+"automatisch vinden en afletteren."
+msgstr ""
+
+#: ../../docs/boekhouding/bankrekeningen/bankrekeningen-afletteren.rst:15
+msgid "Algemeen"
+msgstr ""
+
+#: ../../docs/boekhouding/bankrekeningen/bankrekeningen-afletteren.rst:16
+msgid ""
+"Via het boekhoud dashboard zie je via de banktegel(s) of er af te "
+"letteren regels zijn. Wij adviseren om gebruik te maken van de MyPonto "
+"koppeling waarmee je transactieregels automatisch vanuit je bankomgeving "
+"naar CURQ synchroniseert."
+msgstr ""
+
+#: ../../docs/boekhouding/bankrekeningen/bankrekeningen-afletteren.rst:21
+msgid ""
+"Naast automatisch synchroniseren is het ook mogelijk om een Camt bestand "
+"te downloaden in je bankapplicatie (CURQ ondersteunt de formaten "
+"camt.053.001.02, Camt.054.001.02). Deze download kun je vervolgens "
+"uploaden in het overeenkomstige bankdagboek in CURQ."
+msgstr ""
+
+#: ../../docs/boekhouding/bankrekeningen/bankrekeningen-afletteren.rst:26
+msgid ""
+"Het importeren van een .csv of .xls bestand is ook nog een alternatief "
+"voor de eerder genoemde opties."
+msgstr ""
+
+#: ../../docs/boekhouding/bankrekeningen/bankrekeningen-afletteren.rst:28
+msgid ""
+"Alle transactieregels zijn ook te benaderen via de drie puntjes rechts in"
+" de tegel:"
+msgstr ""
+
+#: ../../docs/boekhouding/bankrekeningen/bankrekeningen-afletteren.rst:37
+msgid ""
+"Klik bij het desbetreffende dagboek in het dashboard op de knop 'Afletter"
+" regels' om alle transacties weer te geven die CURQ vooraf heeft "
+"geselecteerd voor afstemming. Je kunt het standaard filter uit de "
+"zoekbalk verwijderen om ook eerder afgeletterde transacties weer te "
+"geven."
+msgstr ""
+
+#: ../../docs/boekhouding/bankrekeningen/bankrekeningen-afletteren.rst:45
+msgid ""
+"Bij het afletteren kan het zijn dat je een regel geheel of gedeeltelijk "
+"hebt afgeletterd en er op dat moment achter komt dat je een fout hebt "
+"gemaakt. Zorg er op dat moment altijd voor dat je eerst de verkeerd "
+"afgeletterde regels verwijderd. Je doet dit door die regels in de "
+"prullenbak te gooien."
+msgstr ""
+
+#: ../../docs/boekhouding/bankrekeningen/bankrekeningen-afletteren.rst:55
+msgid ""
+"In onderstaand schermvoorbeeld zie je dat de geselecteerde regel "
+"aangeklikt is en van kleur is veranderd. Dit betekent in CURQ dat de "
+"focus op de regel staat en je bijvoorbeeld de BTW code kan toevoegen. Let"
+" er dus op dat je altijd op de af te letteren regel klikt als je deze "
+"wilt verwerken."
+msgstr ""
+
+#: ../../docs/boekhouding/bankrekeningen/bankrekeningen-afletteren.rst:64
+msgid "Afletter scenario's"
+msgstr ""
+
+#: ../../docs/boekhouding/bankrekeningen/bankrekeningen-afletteren.rst:67
+msgid "Afletteren van een volledig betaalde factuur"
+msgstr ""
+
+#: ../../docs/boekhouding/bankrekeningen/bankrekeningen-afletteren.rst:69
+msgid ""
+"Wanneer bij de gekozen transactieregel de klant of leverancier staat "
+"ingevuld, het bedrag overeenkomt met een openstaande post en het "
+"overeenkomstige factuurnummer vermeld staat in de label omschrijving, dan"
+" zal CURQ de regel automatisch afletteren. Je kunt er voor kiezen ook "
+"deze laatste stap te automatiseren. CURQ zal dan de gevonden regel direct"
+" bevestigen. Stel dit in bij de aflettermodellen, je vind deze terug bij "
+"menu Facturatie > Configuratie > Afletterregels."
+msgstr ""
+
+#: ../../docs/boekhouding/bankrekeningen/bankrekeningen-afletteren.rst:84
+msgid "Afletteren niet volledig betaalde factuur"
+msgstr ""
+
+#: ../../docs/boekhouding/bankrekeningen/bankrekeningen-afletteren.rst:85
+msgid ""
+"Het kan zijn dat de betaalregel niet volledig overeenkomt met een af te "
+"letteren factuur (klant betaalt voor een aantal facturen tegelijk of "
+"betaalt een deelbedrag)."
+msgstr ""
+
+#: ../../docs/boekhouding/bankrekeningen/bankrekeningen-afletteren.rst:88
+msgid ""
+"Scenario 1: klant betaalt minder dan het factuurbedrag. CURQ zal het "
+"betaalde bedrag automatisch afletteren tegen de openstaande post."
+msgstr ""
+
+#: ../../docs/boekhouding/bankrekeningen/bankrekeningen-afletteren.rst:91
+msgid ""
+"Vervolgens kun je het restbedrag ook direct afboeken, je doet dit door de"
+" regel aan te klikken zoals je hieronder ziet in het schermvoorbeeld. "
+"Hiermee wordt de optie zichtbaar om de factuur op volledig betaald te "
+"zetten. Je kunt er vervolgens voor kiezen om het restbedrag af te "
+"schrijven op een andere grootboekrekening. Je kan hier ofwel een "
+"aflettermodel voor gebruiken ofwel je doet dit door de rekening handmatig"
+" op te zoeken."
+msgstr ""
+
+#: ../../docs/boekhouding/bankrekeningen/bankrekeningen-afletteren.rst:104
+msgid ""
+"Scenario 2: klant betaalt bijna de gehele factuur, maar een bedrag van "
+"een paar cent blijft open staan. Indien dit vaker voor komt dan kun je "
+"ervoor kiezen het standaard aflettermodel 'perfecte matching' iets aan te"
+" vullen. Wanneer je de tolerantie iets aanpast en vervolgens ook een "
+"grootboekrekening toevoegt aan het model, dan zal CURQ automatisch het "
+"restverschil wegboeken."
+msgstr ""
+
+#: ../../docs/boekhouding/bankrekeningen/bankrekeningen-afletteren.rst:113
+msgid ""
+"Scenario 3: klant betaalt meerdere facturen in 1 bedrag. in dit geval kun"
+" je de klant opzoeken en meerdere facturen achter elkaar aanklikken. Het "
+"kan zijn dat de klant ook een factuur betaalt die op een andere naam "
+"staat. Je kan een andere klant opzoeken en de openstaande post(en) "
+"toevoegen. In onderstaand schermvoorbeeld is eerst de factuur 1 voor "
+"klant 1 toegevoegd. Vervolgens is bij 'filter' gezocht op klant 2 en is "
+"een deel van factuur 2 aan de transactieregel toegevoegd."
+msgstr ""
+
+#: ../../docs/boekhouding/bankrekeningen/bankrekeningen-afletteren.rst:124
+msgid "Afletteren betaalregel zonder factuur"
+msgstr ""
+
+#: ../../docs/boekhouding/bankrekeningen/bankrekeningen-afletteren.rst:125
+msgid ""
+"Het kan voorkomen dat er een afschriftregel is met een betaling zonder "
+"onderliggende factuur. In dit scenario kun je op het tabblad handmatige "
+"werking zelf een grootboekrekening opzoeken."
+msgstr ""
+
+#: ../../docs/boekhouding/bankrekeningen/bankrekeningen-afletteren.rst:133
+msgid "Afletteren betaalregel zonder factuur met BTW"
+msgstr ""
+
+#: ../../docs/boekhouding/bankrekeningen/bankrekeningen-afletteren.rst:134
+msgid ""
+"Het kan voorkomen dat er een afschriftregel is met een betaling zonder "
+"onderliggende factuur, maar wel met BTW. Na kiezen van de juiste "
+"kostenrekening is het vervolgens mogelijk om in het BTW veld de juiste "
+"BTW code te selecteren. CURQ rekent dan automatisch de juiste bedragen "
+"uit. De extra regel die wordt aangemaakt voor verwerken van de BTW is "
+"terug te vinden op de BTW aangifte in de juiste rubriek."
+msgstr ""
+
+#: ../../docs/boekhouding/bankrekeningen/bankrekeningen-afletteren.rst:144
+msgid "Afletteren verstuurde SEPA betaalbatch"
+msgstr ""
+
+#: ../../docs/boekhouding/bankrekeningen/bankrekeningen-afletteren.rst:145
+msgid ""
+"Wanneer je gebruikt maakt van de SEPA functionaliteit (waarmee je direct "
+"een set van inkoopfacturen aan de bank kan aanbieden), dan kun je de "
+"afschriftregel van deze betaling kiezen om alle inkoopfacturen van de "
+"batch in 1 keer af te handelen. Na selecteren van de transactieregel zoek"
+" je de juiste betaalbatch op en lettert hierop af."
+msgstr ""
+
+#: ../../docs/boekhouding/bankrekeningen/bankrekeningen-afletteren.rst:154
+msgid "Terugdraaien aflettering"
+msgstr ""
+
+#: ../../docs/boekhouding/bankrekeningen/bankrekeningen-afletteren.rst:155
+msgid ""
+"Heb je een fout gemaakt, dan is het mogelijk om na bevestigen een "
+"afgeletterde regel terug te draaien. Klik hiervoor op de knop 'afletteren"
+" ongedaan maken'."
+msgstr ""
+
+#: ../../docs/boekhouding/bankrekeningen/bankrekeningen-afletteren.rst:163
+msgid "Overige functionaliteit"
+msgstr ""
+
+#: ../../docs/boekhouding/bankrekeningen/bankrekeningen-afletteren.rst:166
+msgid "Chatter"
+msgstr ""
+
+#: ../../docs/boekhouding/bankrekeningen/bankrekeningen-afletteren.rst:167
+msgid ""
+"De chatter fuctionaliteit is beschikbaar bij het afletteren van een "
+"regel. Hierdoor kun je direct een collega of een klant een bericht sturen"
+" bij een vraag over de betaalregel. Ook kun je in de chatter documenten "
+"koppelen. Denk hierbij bijvoorbeeld aan een gedownload bestand van je "
+"banktransacties."
+msgstr ""
+
+#: ../../docs/boekhouding/bankrekeningen/bankrekeningen-afletteren.rst:176
+msgid "Extra controle"
+msgstr ""
+
+#: ../../docs/boekhouding/bankrekeningen/bankrekeningen-afletteren.rst:177
+msgid ""
+"Wanneer je een extra controle wil uitvoeren op de af te letteren regel, "
+"dan kun je dat bij de regel aangeven met de knop ‘te controleren'. De na "
+"te kijken regel kan vervolgens op diverse plekken in de boekhouding "
+"nagekeken worden (zoals hieronder bij de boekingsregel)."
+msgstr ""
+
+#: ../../docs/boekhouding/bankrekeningen/bankrekeningen-afletteren.rst:185
+msgid ""
+"Na controle van de regel klik je op ‘stel in als gecontroleerd’ om aan te"
+" geven dat de regel gecontroleerd is."
+msgstr ""

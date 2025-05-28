@@ -1,0 +1,53 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2025, Onestein
+# This file is distributed under the same license as the CURQ package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2025.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: CURQ \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-05-28 09:55+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: en\n"
+"Language-Team: en <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.17.0\n"
+
+#: ../../docs/boekhouding/leveranciersfacturen/leveranciersfacturen-activa.rst:2
+msgid "Activa vanuit leveranciersfactuur"
+msgstr ""
+
+#: ../../docs/boekhouding/leveranciersfacturen/leveranciersfacturen-activa.rst:4
+msgid ""
+"Binnen CURQ kun je eenvoudig een activum aanmaken vanuit een "
+"leveranciersfactuur. Hiervoor dien je de factuur te boeken op een "
+"specifieke grootboekrekening voor activa. Zorg ervoor dat deze rekening "
+"is gekoppeld aan een bijbehorend activa profiel."
+msgstr ""
+
+#: ../../docs/boekhouding/leveranciersfacturen/leveranciersfacturen-activa.rst:10
+msgid ""
+"Genereer een nieuwe factuur via het menu Facturatie > Leveranciers > "
+"Leveranciersfacturen. Nadat je de leveranciersgegevens hebt ingevuld, "
+"voer je op de factuurregels de grootboekrekening voor activa in. Als de "
+"instellingen correct zijn, zal de kolom voor het Activa Profiel "
+"automatisch worden ingevuld."
+msgstr ""
+
+#: ../../docs/boekhouding/leveranciersfacturen/leveranciersfacturen-activa.rst:16
+msgid ""
+"Zodra de factuur wordt bevestigd, wordt het activum automatisch "
+"gegenereerd en aan jouw factuur gekoppeld."
+msgstr ""
+
+#: ../../docs/boekhouding/leveranciersfacturen/leveranciersfacturen-activa.rst:20
+msgid ""
+"Controleer vervolgens of het activum correct is aangemaakt. Activeer het "
+"actief daarna met de [BEVESTIG ACTIVA]-knop."
+msgstr ""

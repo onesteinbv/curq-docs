@@ -1,0 +1,320 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2025, Onestein
+# This file is distributed under the same license as the CURQ package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2025.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: CURQ \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-05-28 09:55+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: en\n"
+"Language-Team: en <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.17.0\n"
+
+#: ../../docs/boekhouding/verkoopfacturen/verkoopfacturen-omzetspreiding.rst:2
+msgid "Spreiden van omzet"
+msgstr ""
+
+#: ../../docs/boekhouding/verkoopfacturen/verkoopfacturen-omzetspreiding.rst:4
+msgid ""
+"Uitgestelde opbrengsten, ook wel bekend als \"deferred revenue\" in het "
+"Engels, verwijzen naar ontvangen betalingen voor goederen of diensten die"
+" nog niet zijn geleverd of voltooid. In boekhoudkundige termen worden "
+"uitgestelde opbrengsten behandeld als verplichtingen totdat de "
+"bijbehorende goederen of diensten zijn geleverd."
+msgstr ""
+
+#: ../../docs/boekhouding/verkoopfacturen/verkoopfacturen-omzetspreiding.rst:8
+msgid ""
+"Dit is vaak het geval bij abonnementen, vooruitbetalingen voor diensten "
+"of producten die over een bepaalde periode worden geleverd. Een bedrijf "
+"ontvangt geld van de klant, maar erkent het als opbrengst in de boeken op"
+" het moment dat de goederen zijn geleverd of de diensten zijn voltooid."
+msgstr ""
+
+#: ../../docs/boekhouding/verkoopfacturen/verkoopfacturen-omzetspreiding.rst:12
+msgid ""
+"Het boeken van uitgestelde opbrengsten is een manier om de timing van "
+"inkomstenherkenning in overeenstemming te brengen met de daadwerkelijke "
+"levering van goederen of diensten, wat belangrijk is voor een nauwkeurige"
+" financiële rapportage. Als de goederen of diensten eenmaal zijn "
+"geleverd, wordt het bedrag dat voorheen als uitgestelde opbrengst werd "
+"geboekt, overgebracht naar de opbrengstenrekening in de "
+"resultatenrekening."
+msgstr ""
+
+#: ../../docs/boekhouding/verkoopfacturen/verkoopfacturen-omzetspreiding.rst:17
+msgid ""
+"CURQ helpt bedrijven om langdurige omzet te spreiden, waardoor ze de "
+"effecten van dergelijke omzet over meerdere perioden kunnen verspreiden. "
+"Dit draagt bij aan een meer gedetailleerd financieel overzicht."
+msgstr ""
+
+#: ../../docs/boekhouding/verkoopfacturen/verkoopfacturen-omzetspreiding.rst:20
+msgid ""
+"Voorbeeld: Laten we aannemen dat je een jaarabonnement van €1200 vooruit "
+"factureert. Deze inkomsten zijn bedoeld voor het gebruik van het "
+"abonnement gedurende het hele jaar. Als je de volledige omzet in één "
+"maand zou boeken, lijkt het alsof het abonnement slechts geldig is voor "
+"die ene maand, wat resulteert in ongewoon hoge inkomsten voor die "
+"periode. Om een nauwkeuriger beeld te krijgen, is het raadzaam om deze "
+"omzet gelijkmatig over 12 maanden te verdelen. Op die manier registreer "
+"je elke maand €100 aan abonnementsinkomsten en boek je het totale bedrag "
+"op een vooruitgefactureerde grootboekrekening."
+msgstr ""
+
+#: ../../docs/boekhouding/verkoopfacturen/verkoopfacturen-omzetspreiding.rst:28
+msgid ""
+"Dit proces wordt in de financiële wereld op verschillende manieren "
+"aangeduid. Naast transitorisch boeken wordt het ook wel permanence "
+"boekhouden of uitgestelde opbrengsten genoemd."
+msgstr ""
+
+#: ../../docs/boekhouding/verkoopfacturen/verkoopfacturen-omzetspreiding.rst:32
+msgid "Sjablonen voor spreiden van omzet configureren"
+msgstr ""
+
+#: ../../docs/boekhouding/verkoopfacturen/verkoopfacturen-omzetspreiding.rst:33
+msgid ""
+"Je kunt een voorgedefinieerd sjabloon voor spreiding aanmaken via het "
+"menu Facturatie > Configuratie > Spreidingsjablonen. Dit sjabloon stelt "
+"je in staat om de juiste instellingen te definiëren wanneer je een "
+"spreiding wilt uitvoeren of een factuurregel wilt koppelen. Op basis van "
+"deze instellingen berekent en boekt CURQ vervolgens de juiste gegevens "
+"in."
+msgstr ""
+
+#: ../../docs/boekhouding/verkoopfacturen/verkoopfacturen-omzetspreiding.rst:39
+msgid "**Spreidingsjabloon Naam:** Geef het sjabloon een passende naam."
+msgstr ""
+
+#: ../../docs/boekhouding/verkoopfacturen/verkoopfacturen-omzetspreiding.rst:40
+msgid ""
+"**Spreiding Type:** Geef aan of de spreiding betrekking heeft op verkoop-"
+" of inkoopfacturen, en of het omzet- of kostengerelateerd is."
+msgstr ""
+
+#: ../../docs/boekhouding/verkoopfacturen/verkoopfacturen-omzetspreiding.rst:41
+msgid "**Aantal Herhalingen:** Bepaal hoe vaak de spreiding moet plaatsvinden."
+msgstr ""
+
+#: ../../docs/boekhouding/verkoopfacturen/verkoopfacturen-omzetspreiding.rst:42
+msgid ""
+"**Periode Type:** Kies of de spreiding maandelijks, per kwartaal of "
+"jaarlijks plaatsvindt."
+msgstr ""
+
+#: ../../docs/boekhouding/verkoopfacturen/verkoopfacturen-omzetspreiding.rst:43
+msgid ""
+"**Startdatum:** Vul de startdatum van het spreidingsjabloon in. Deze kan "
+"leeg blijven bij het maken van een sjabloon."
+msgstr ""
+
+#: ../../docs/boekhouding/verkoopfacturen/verkoopfacturen-omzetspreiding.rst:44
+msgid ""
+"**Bereken per dag:** Optie om de berekening te baseren op werkelijke "
+"dagen binnen een periode, in plaats van een vast bedrag per maand."
+msgstr ""
+
+#: ../../docs/boekhouding/verkoopfacturen/verkoopfacturen-omzetspreiding.rst:45
+msgid ""
+"**Balans grootboekrekening / Grootboekrekening Spreiding:** De "
+"grootboekrekening op de factuurregel dient als balansrekening voor de "
+"spreiding. Het bedrag wordt hier geparkeerd en periodiek overgeboekt naar"
+" de omzet- of kostenrekening."
+msgstr ""
+
+#: ../../docs/boekhouding/verkoopfacturen/verkoopfacturen-omzetspreiding.rst:47
+msgid ""
+"**Spreiding Balans Grootboekrekening:** Vul de grootboekrekening in die "
+"fungeert als balansrekening voor de spreiding."
+msgstr ""
+
+#: ../../docs/boekhouding/verkoopfacturen/verkoopfacturen-omzetspreiding.rst:48
+msgid ""
+"**Omzet Grootboekrekening:** Geef de kosten- of omzetrekening op waarop "
+"de periodieke bedragen worden geboekt."
+msgstr ""
+
+#: ../../docs/boekhouding/verkoopfacturen/verkoopfacturen-omzetspreiding.rst:49
+msgid ""
+"**Dagboek:** Specificeer het dagboek voor het registreren van de "
+"spreidingsboekingen."
+msgstr ""
+
+#: ../../docs/boekhouding/verkoopfacturen/verkoopfacturen-omzetspreiding.rst:50
+msgid ""
+"**Analytisch:** Voeg eventueel analytische gegevens toe aan het "
+"spreidingsjabloon."
+msgstr ""
+
+#: ../../docs/boekhouding/verkoopfacturen/verkoopfacturen-omzetspreiding.rst:51
+msgid ""
+"**Automatisch sjabloon toewijzen bij valideren factuur:** Schakel deze "
+"optie in om het sjabloon automatisch toe te passen bij het valideren van "
+"een factuur. Hierbij kun je verdere instellingen maken, zoals "
+"automatische toepassing op basis van product of rekening. Geef ook een "
+"naam op voor de regel die wordt toegepast."
+msgstr ""
+
+#: ../../docs/boekhouding/verkoopfacturen/verkoopfacturen-omzetspreiding.rst:58
+msgid "Verkoopfactuur omzet spreiden"
+msgstr ""
+
+#: ../../docs/boekhouding/verkoopfacturen/verkoopfacturen-omzetspreiding.rst:60
+msgid ""
+"We hebben de mogelijkheid om de omzet van een verkoopfactuur direct over "
+"meerdere maanden te spreiden. Deze spreiding wordt gekoppeld aan de "
+"factuurregel. Let op: spreiding is alleen mogelijk als de factuur zich "
+"nog in conceptstatus bevindt. Klik op het icoontje met de ronde pijl om "
+"deze regel te spreiden."
+msgstr ""
+
+#: ../../docs/boekhouding/verkoopfacturen/verkoopfacturen-omzetspreiding.rst:66
+msgid "In het nieuwe scherm krijg je een aantal opties te zien:"
+msgstr ""
+
+#: ../../docs/boekhouding/verkoopfacturen/verkoopfacturen-omzetspreiding.rst:70
+msgid "**Spreiding Actie Type:** Welke spreiding wil je uitvoeren."
+msgstr ""
+
+#: ../../docs/boekhouding/verkoopfacturen/verkoopfacturen-omzetspreiding.rst:72
+msgid ""
+"**Koppel Factuur Regel met Spreiding Tabel:** Als je handmatig al een "
+"spreiding hebt aangemaakt, kun je deze achteraf koppelen aan een factuur."
+msgstr ""
+
+#: ../../docs/boekhouding/verkoopfacturen/verkoopfacturen-omzetspreiding.rst:74
+msgid ""
+"**Spreidingsjabloon:** Hier kun je een bestaand spreidingsjabloon "
+"koppelen, waarbij de gegevens automatisch worden overgenomen vanuit het "
+"sjabloon."
+msgstr ""
+
+#: ../../docs/boekhouding/verkoopfacturen/verkoopfacturen-omzetspreiding.rst:76
+msgid ""
+"**Nieuwe Spreiding Tabel:** Je kunt hier een volledig nieuwe "
+"spreidingstabel aanmaken."
+msgstr ""
+
+#: ../../docs/boekhouding/verkoopfacturen/verkoopfacturen-omzetspreiding.rst:78
+msgid ""
+"Afhankelijk van je keuze bij **Spreiding Actie Type** worden "
+"verschillende opties weergegeven. Alleen bij de optie “Nieuwe "
+"Spreidingstabel” moet je je eigen omzet grootboekrekening, balansrekening"
+" en dagboek invoeren. Zodra je een optie hebt gekozen en bevestigd, word "
+"je doorgeleid naar het scherm van een Spreidingstabel."
+msgstr ""
+
+#: ../../docs/boekhouding/verkoopfacturen/verkoopfacturen-omzetspreiding.rst:84
+msgid "Spreidingstabel"
+msgstr ""
+
+#: ../../docs/boekhouding/verkoopfacturen/verkoopfacturen-omzetspreiding.rst:86
+msgid ""
+"Een spreidingstabel is de concrete verdeling van de omzet. Deze tabellen "
+"worden automatisch gegenereerd vanuit de factuur of kunnen handmatig "
+"worden aangemaakt. Je kunt alle spreidingstabellen terugvinden onder "
+"Facturatie > Boekhouding > Spreiding Kosten/Omzet."
+msgstr ""
+
+#: ../../docs/boekhouding/verkoopfacturen/verkoopfacturen-omzetspreiding.rst:92
+msgid ""
+"De uitleg van de meeste velden is al eerder gegeven bij de "
+"spreidingsjabloon hierboven."
+msgstr ""
+
+#: ../../docs/boekhouding/verkoopfacturen/verkoopfacturen-omzetspreiding.rst:94
+msgid "**Spreiding Tabel Naam:** Geef de spreidingstabel een passende naam."
+msgstr ""
+
+#: ../../docs/boekhouding/verkoopfacturen/verkoopfacturen-omzetspreiding.rst:95
+msgid "**Spreidingsjabloon:** Selecteer hier een geschikt spreidingsjabloon."
+msgstr ""
+
+#: ../../docs/boekhouding/verkoopfacturen/verkoopfacturen-omzetspreiding.rst:96
+msgid "**Factuur:** Dit is de gekoppelde factuur voor deze spreidingstabel."
+msgstr ""
+
+#: ../../docs/boekhouding/verkoopfacturen/verkoopfacturen-omzetspreiding.rst:97
+msgid ""
+"**Factuur regel:** De factuurregel die aan deze spreidingstabel is "
+"gekoppeld."
+msgstr ""
+
+#: ../../docs/boekhouding/verkoopfacturen/verkoopfacturen-omzetspreiding.rst:98
+msgid "**Totaal Bedrag:** Het totale bedrag dat gespreid moet worden."
+msgstr ""
+
+#: ../../docs/boekhouding/verkoopfacturen/verkoopfacturen-omzetspreiding.rst:99
+msgid ""
+"**Automatisch boeken regels:** Als deze optie is ingeschakeld, worden de "
+"regels automatisch geboekt. Anders blijven de boekingen in conceptstatus."
+msgstr ""
+
+#: ../../docs/boekhouding/verkoopfacturen/verkoopfacturen-omzetspreiding.rst:101
+msgid ""
+"**Startdatum:** Vul de eerste dag van de maand in als je wilt dat de "
+"eerste spreiding volledig in die periode valt."
+msgstr ""
+
+#: ../../docs/boekhouding/verkoopfacturen/verkoopfacturen-omzetspreiding.rst:103
+msgid ""
+"Zodra alle gegevens correct zijn ingevuld, kan de spreiding verder worden"
+" berekend en geboekt."
+msgstr ""
+
+#: ../../docs/boekhouding/verkoopfacturen/verkoopfacturen-omzetspreiding.rst:105
+msgid ""
+"**[HERBEREKEN ONGEBOEKTE REGELS]** Hiermee wordt de spreidingstabel "
+"opnieuw berekend voor alleen de ongeboekte regels. Dit kan handig zijn "
+"als je wijzigingen hebt aangebracht in de spreiding terwijl er al "
+"boekingen zijn gemaakt."
+msgstr ""
+
+#: ../../docs/boekhouding/verkoopfacturen/verkoopfacturen-omzetspreiding.rst:108
+msgid ""
+"**[HERBEREKEN VOLLEDIGE SPREIDING]** Deze optie berekent de "
+"spreidingstabel volledig opnieuw. Let op: zelfs geboekte regels worden "
+"verwijderd en opnieuw berekend. Gebruik dit alleen als het noodzakelijk "
+"is."
+msgstr ""
+
+#: ../../docs/boekhouding/verkoopfacturen/verkoopfacturen-omzetspreiding.rst:111
+msgid ""
+"**[SPREIDING ONGEDAAN MAKEN]** Hiermee worden alle spreidingsregels "
+"ongedaan gemaakt, zodat je opnieuw kunt beginnen of de volledige "
+"spreiding kunt verwijderen.."
+msgstr ""
+
+#: ../../docs/boekhouding/verkoopfacturen/verkoopfacturen-omzetspreiding.rst:114
+msgid ""
+"**[ONTKOPPEL FACTUUR REGEL]** Gebruik deze optie om de factuurregel te "
+"ontkoppelen. Handig als per ongeluk de verkeerde spreidingstabel is "
+"gekoppeld aan een factuur."
+msgstr ""
+
+#: ../../docs/boekhouding/verkoopfacturen/verkoopfacturen-omzetspreiding.rst:117
+msgid ""
+"Zodra de spreiding is berekend, worden de regels automatisch opgevuld in "
+"het tabblad [Spreiding Regels]. Dit is waar je alle details van de "
+"gespreide bedragen kunt vinden."
+msgstr ""
+
+#: ../../docs/boekhouding/verkoopfacturen/verkoopfacturen-omzetspreiding.rst:122
+msgid ""
+"Aan de rechterzijde van de spreidingsregel kun je de spreiding vastleggen"
+" door gebruik te maken van de knop [Maak mutatie]. Vervolgens kun je de "
+"financiële boeking bekijken en heb je de mogelijkheid om deze boeking te "
+"verwijderen. Als je alle spreidingen tegelijkertijd wilt boeken, kun je "
+"dit doen via [CREATE ALL MOVES]. Deze boekingen kunnen eveneens "
+"automatisch worden verwerkt via de automatische boekingsoptie."
+msgstr ""

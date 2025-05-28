@@ -1,0 +1,89 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2025, Onestein
+# This file is distributed under the same license as the CURQ package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2025.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: CURQ \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-05-28 09:55+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: en\n"
+"Language-Team: en <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.17.0\n"
+
+#: ../../docs/algemeen/zoeken-filtreren.rst:2
+msgid "Zoek- en filterfunctie"
+msgstr ""
+
+#: ../../docs/algemeen/zoeken-filtreren.rst:4
+msgid ""
+"Binnen CURQ zijn drie opties beschikbaar om specifiekere informatie te "
+"kunnen vinden: filteren, groeperen en de zoekbalk. Deze functionaliteit "
+"vind je bij alle menu's binnen CURQ terug en helpt je om sneller de uiste"
+" informatie te kunnen terugvinden."
+msgstr ""
+
+#: ../../docs/algemeen/zoeken-filtreren.rst:7
+msgid ""
+"**Zoeken**. In het zoekveld geef je een waarde in en CURQ zoekt op basis "
+"van die waarde de overeenkomstige records"
+msgstr ""
+
+#: ../../docs/algemeen/zoeken-filtreren.rst:8
+msgid ""
+"**Filteren**. Met de filterfunctie kun je specifiek zoeken op een waarde "
+"van een veld vanhet menu waarin je zoekt. Hiermee verklein je dus het "
+"zoekresultaat"
+msgstr ""
+
+#: ../../docs/algemeen/zoeken-filtreren.rst:10
+msgid "**Groeperen**, hiermee groepeer je het zoekresultaat."
+msgstr ""
+
+#: ../../docs/algemeen/zoeken-filtreren.rst:14
+msgid ""
+"Onder de filteroptie kan de weergegeven informatie worden gefilterd, "
+"zoals vanaf wanneer de informatie geldt of alleen de informatie van een "
+"specifieke werknemer."
+msgstr ""
+
+#: ../../docs/algemeen/zoeken-filtreren.rst:19
+msgid ""
+"Onder groeperen kan de manier waarop de informatie wordt getoond worden "
+"aangepast. Denk hierbij aan een lijndiagram met het aantal producten per "
+"maand, onderverdeeld onder productcategorieën, zoals in het voorbeeld "
+"bovenaan de pagina."
+msgstr ""
+
+#: ../../docs/algemeen/zoeken-filtreren.rst:24
+msgid ""
+"In de zoekbalk kan specifieker worden gezocht naar variabelen, zoals "
+"wanneer er gezocht wordt naar een specifiek product. Vul hierbij de naam "
+"in en selecteer de optie \"zoek product voor:\"."
+msgstr ""
+
+#: ../../docs/algemeen/zoeken-filtreren.rst:29
+msgid ""
+"Door het combineren van de verschillende opties kunnen de gewenste "
+"rapportages worden samengesteld. Wanneer deze rapportages zijn "
+"samengesteld, kunnen ze op verschillende manieren worden opgeslagen, "
+"bijvoorbeeld via \"huidige zoekopdracht opslaan\" en \"aan mijn dashboard"
+" toevoegen\". Bij \"huidige zoekopdracht opslaan\" kan de naam worden "
+"geselecteerd, evenals of de zoekopdracht als standaard getoond moet "
+"worden en of de zoekopdracht gedeeld mag worden met andere gebruikers "
+"binnen het bedrijf."
+msgstr ""
+
+#: ../../docs/algemeen/zoeken-filtreren.rst:36
+msgid ""
+"Bij \"aan mijn dashboard toevoegen\" kan de rapportage aan de "
+"dashboardapplicatie worden toegevoegd."
+msgstr ""

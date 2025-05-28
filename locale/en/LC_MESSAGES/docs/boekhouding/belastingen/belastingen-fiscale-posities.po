@@ -1,0 +1,249 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2025, Onestein
+# This file is distributed under the same license as the CURQ package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2025.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: CURQ \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-05-28 09:55+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: en\n"
+"Language-Team: en <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.17.0\n"
+
+#: ../../docs/boekhouding/belastingen/belastingen-fiscale-posities.rst:2
+msgid "BTW en Fiscale Posities"
+msgstr ""
+
+#: ../../docs/boekhouding/belastingen/belastingen-fiscale-posities.rst:4
+msgid ""
+"Het bepalen van de juiste BTW-belastingen kan een uitdaging zijn voor "
+"jouw boekhouding. Binnen CURQ maken we gebruik van BTW-codes en de "
+"Fiscale Posities om je hiermee te helpen."
+msgstr ""
+
+#: ../../docs/boekhouding/belastingen/belastingen-fiscale-posities.rst:7
+msgid ""
+"De BTW-codes zijn al voorgedefinieerd door CURQ. Met de Fiscale Posities "
+"bepaalt het systeem automatisch de juiste BTW op basis van slimme regels."
+" Deze slimme vertaling kan gebaseerd worden op de verplichting van het "
+"BTW-nummer en het land (geleverd of herkomst). De standaard BTW en "
+"Grootboekrekeningen kunnen via de regels van de Fiscale Posities vertaald"
+" worden naar een andere BTW of Grootboekrekeningen."
+msgstr ""
+
+#: ../../docs/boekhouding/belastingen/belastingen-fiscale-posities.rst:12
+msgid ""
+"Binnen CURQ zijn de standaard Fiscale Posities al ingericht. Afhankelijk "
+"van jouw bedrijfsvoering kun je in overleg met de Accountant dit verder "
+"aanpassen specifiek voor jouw bedrijf."
+msgstr ""
+
+#: ../../docs/boekhouding/belastingen/belastingen-fiscale-posities.rst:16
+msgid "BTW Codes"
+msgstr ""
+
+#: ../../docs/boekhouding/belastingen/belastingen-fiscale-posities.rst:18
+msgid ""
+"De BTW-codes vind je terug onder Facturatie > Configuratie > BTW. Je kunt"
+" ze hier aanpassen door op de BTW-code te klikken."
+msgstr ""
+
+#: ../../docs/boekhouding/belastingen/belastingen-fiscale-posities.rst:22
+msgid ""
+"**BTW naam:** Hier kun je een naam opgeven voor je BTW-code. Deze "
+"verschijnt overal binnen CURQ, dus geef een herkenbare naam mee."
+msgstr ""
+
+#: ../../docs/boekhouding/belastingen/belastingen-fiscale-posities.rst:24
+msgid "**BTW berekening:** Je krijgt hier een aantal opties."
+msgstr ""
+
+#: ../../docs/boekhouding/belastingen/belastingen-fiscale-posities.rst:26
+msgid ""
+"**Groep van BTW:** Hiermee kun je meerdere BTW-codes combineren in 1 BTW-"
+"code."
+msgstr ""
+
+#: ../../docs/boekhouding/belastingen/belastingen-fiscale-posities.rst:27
+msgid "**Vast:** Een vast bedrag als Belasting."
+msgstr ""
+
+#: ../../docs/boekhouding/belastingen/belastingen-fiscale-posities.rst:28
+msgid "**Percentage van prijs:** Een percentage als Belasting."
+msgstr ""
+
+#: ../../docs/boekhouding/belastingen/belastingen-fiscale-posities.rst:29
+msgid ""
+"**Percentage van prijs, inclusief BTW:** Een percentage als Belasting die"
+" rekening houdt met het totaalbedrag inclusief BTW."
+msgstr ""
+
+#: ../../docs/boekhouding/belastingen/belastingen-fiscale-posities.rst:31
+msgid ""
+"**BTW-soort:** Hiermee bepaal je waar deze BTW-code kan worden "
+"geselecteerd binnen CURQ."
+msgstr ""
+
+#: ../../docs/boekhouding/belastingen/belastingen-fiscale-posities.rst:32
+msgid ""
+"**BTW-over:** Hiermee bepaal je tot welke soort producten je deze BTW-"
+"code kunt toepassen."
+msgstr ""
+
+#: ../../docs/boekhouding/belastingen/belastingen-fiscale-posities.rst:33
+msgid ""
+"**Bedrag:** Afhankelijk van de instelling bij BTW berekening geef je hier"
+" het percentage of bedrag in."
+msgstr ""
+
+#: ../../docs/boekhouding/belastingen/belastingen-fiscale-posities.rst:37
+msgid ""
+"In het definitie tabblad leg je de belastingregels vast voor facturen of "
+"creditnota's. Het is verplicht om minimaal 1 regel te hebben voor "
+"grondslag en voor BTW. Je kunt hier bepalen welk percentage van de "
+"berekende BTW op de grootboekrekening en BTW-vak wordt geboekt. Bij de "
+"creditnota's worden de regels en vakken vaak omgedraaid."
+msgstr ""
+
+#: ../../docs/boekhouding/belastingen/belastingen-fiscale-posities.rst:43
+msgid "Bij Geavanceerde opties kun je de BTW-code nog verder instellen."
+msgstr ""
+
+#: ../../docs/boekhouding/belastingen/belastingen-fiscale-posities.rst:45
+msgid ""
+"**Label op facturen:** Dit is de omschrijving die op de facturen "
+"verschijnt."
+msgstr ""
+
+#: ../../docs/boekhouding/belastingen/belastingen-fiscale-posities.rst:46
+msgid ""
+"**BTW-groep:** Dit wordt onderaan in een factuur of order bij het totaal "
+"getoond. Het totaal van alle BTW-codes wordt opgeteld in deze groep."
+msgstr ""
+
+#: ../../docs/boekhouding/belastingen/belastingen-fiscale-posities.rst:48
+msgid ""
+"**In de analytische kost inbegrepen?:** Moet de berekende BTW ook worden "
+"opgenomen in de kostenplaats."
+msgstr ""
+
+#: ../../docs/boekhouding/belastingen/belastingen-fiscale-posities.rst:49
+msgid "**Land:** In welk land is deze BTW-code geldig."
+msgstr ""
+
+#: ../../docs/boekhouding/belastingen/belastingen-fiscale-posities.rst:50
+msgid "**Inclusief BTW:** Wordt de BTW inclusief berekend."
+msgstr ""
+
+#: ../../docs/boekhouding/belastingen/belastingen-fiscale-posities.rst:51
+msgid ""
+"**Beïnvloed grondslag van daarop volgende BTW's?:** Als er meerdere BTW-"
+"codes worden toegepast, beïnvloedt deze BTW-code de grondslag van de "
+"volgende BTW-code. Als er meerdere codes worden toegepast, houdt CURQ "
+"rekening met de volgorde van de BTW-codes. De codes met een hogere "
+"volgorde worden als eerst toegepast."
+msgstr ""
+
+#: ../../docs/boekhouding/belastingen/belastingen-fiscale-posities.rst:55
+msgid ""
+"In CURQ zijn de BTW-codes al voor je ingericht. Het kan zijn dat sommige "
+"BTW-codes niet van toepassing zijn. Deactiveer deze door de optie Actief "
+"uit te zetten."
+msgstr ""
+
+#: ../../docs/boekhouding/belastingen/belastingen-fiscale-posities.rst:59
+msgid "Fiscale Posities"
+msgstr ""
+
+#: ../../docs/boekhouding/belastingen/belastingen-fiscale-posities.rst:61
+msgid ""
+"De Fiscale Posities vind je terug onder Facturatie > Configuratie > "
+"Fiscale Posities. De BTW-regio's zijn reeds ingedeeld in CURQ. "
+"Bijvoorbeeld, voor zakenrelaties in de EU worden andere BTW-tarieven "
+"gehanteerd. CURQ zorgt op deze manier ervoor dat de correcte BTW op de "
+"orders en facturen staat."
+msgstr ""
+
+#: ../../docs/boekhouding/belastingen/belastingen-fiscale-posities.rst:67
+msgid ""
+"Op het tabblad [Vervangingstabel BTW] worden de BTW-codes vertaald naar "
+"de juiste. Aan de linkerkant vind je de standaard BTW die je op de "
+"producten kunt definiëren. Zodra deze Fiscale Positie is toegepast op "
+"jouw order of factuur, wordt eerst de standaard BTW herleidt. Vervolgens "
+"wordt de BTW-code aan de rechterkant toegepast op jouw order of factuur."
+msgstr ""
+
+#: ../../docs/boekhouding/belastingen/belastingen-fiscale-posities.rst:71
+msgid ""
+"Op het tabblad [Vervangingstabel Grootboekrekeningen] worden de "
+"grootboekrekeningen vertaald naar de juiste. Daar wordt hetzelfde "
+"principe toegepast."
+msgstr ""
+
+#: ../../docs/boekhouding/belastingen/belastingen-fiscale-posities.rst:75
+msgid "Automatische toepassing"
+msgstr ""
+
+#: ../../docs/boekhouding/belastingen/belastingen-fiscale-posities.rst:77
+msgid ""
+"Voor de automatische toepassing van een Fiscale Positie zijn de "
+"instellingen rechtsboven van belang. Deze zullen we hier even toelichten."
+msgstr ""
+
+#: ../../docs/boekhouding/belastingen/belastingen-fiscale-posities.rst:81
+msgid "**Automatisch detecteren:** Voor automatische toepassing aan of uit."
+msgstr ""
+
+#: ../../docs/boekhouding/belastingen/belastingen-fiscale-posities.rst:82
+msgid ""
+"**BTW verplicht:** De relatie moet voorzien zijn van een BTW-nummer voor "
+"automatische toepassing."
+msgstr ""
+
+#: ../../docs/boekhouding/belastingen/belastingen-fiscale-posities.rst:83
+msgid ""
+"**Landengroep:** De relatie of afleveradres bevindt zich in een land "
+"binnen de Landengroep."
+msgstr ""
+
+#: ../../docs/boekhouding/belastingen/belastingen-fiscale-posities.rst:84
+msgid "**Land:** De relatie of afleveradres bevindt zich in het opgegeven land."
+msgstr ""
+
+#: ../../docs/boekhouding/belastingen/belastingen-fiscale-posities.rst:86
+msgid ""
+"Als er meerdere Fiscale Posities automatisch worden toegepast dan is de "
+"volgorde waar deze in staat van belang. In de lijst van alle Fiscale "
+"Posities zie je in welke volgorde ze staan. Het is mogelijk om deze "
+"volgorde te wijzigen door ze te slepen."
+msgstr ""
+
+#: ../../docs/boekhouding/belastingen/belastingen-fiscale-posities.rst:92
+msgid "Handmatige toepassing"
+msgstr ""
+
+#: ../../docs/boekhouding/belastingen/belastingen-fiscale-posities.rst:94
+msgid ""
+"In sommige gevallen wil je afwijken van de automatisch voorgestelde "
+"Fiscale Positie. Dit kan voorkomen als de relatie waar je zaken mee doet "
+"in een apart BTW-regime valt. Je kunt de Fiscale Positie vastleggen bij "
+"een relatie of in een order / factuur. We adviseren om zoveel mogelijk "
+"dit in te stellen op de relatie. Zodra deze relatie wordt gebruikt bij "
+"een order / factuur, wordt de Fiscale Positie hiervan afgeleid. Je kunt "
+"dit instellen bij het contact."
+msgstr ""
+
+#: ../../docs/boekhouding/belastingen/belastingen-fiscale-posities.rst:101
+msgid ""
+"Wil je toch bij een order of factuur dit toepassen dan kan dit onder het "
+"tabblad [Overige info]."
+msgstr ""

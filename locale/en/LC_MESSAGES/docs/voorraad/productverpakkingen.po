@@ -1,0 +1,163 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2025, Onestein
+# This file is distributed under the same license as the CURQ package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2025.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: CURQ \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-05-28 09:55+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: en\n"
+"Language-Team: en <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.17.0\n"
+
+#: ../../docs/voorraad/productverpakkingen.rst:3
+msgid "Productverpakkingen"
+msgstr ""
+
+#: ../../docs/voorraad/productverpakkingen.rst:5
+msgid ""
+"De Voorraad module biedt een optie om methoden te definiëren voor het "
+"verpakken van de producten en het bijhouden van hun locatie"
+msgstr ""
+
+#: ../../docs/voorraad/productverpakkingen.rst:6
+msgid ""
+"In de Voorraadmodule kunt u twee soorten verpakkingsmethoden definiëren. "
+"U kunt meerdere verpakkingen maken voor één product, of één verpakking "
+"voor verschillende producten."
+msgstr ""
+
+#: ../../docs/voorraad/productverpakkingen.rst:9
+msgid ""
+"Om toegang te krijgen tot de instellingen van verpakkingen, navigeert u "
+"naar menu **Instelingen** van de module. Activeer vervolgens de optie "
+"*Verpakkingen* op het tabblad *Bewerkingen* en de optie "
+"*Productverpakkingen* op het tabblad **Producten**, zoals te zien is in "
+"de onderstaande schermafbeeldingen."
+msgstr ""
+
+#: ../../docs/voorraad/productverpakkingen.rst:17
+msgid ""
+"Hier worden de opties *Verpakkingen* en *Productverpakkingen* gebruikt "
+"voor verschillende functies. De optie *Verpakkingen* wordt gebruikt om "
+"verpakkingen te definiëren voor verschillende producten, terwijl "
+"*Productverpakkingen* je helpen bij het verpakken van verschillende "
+"hoeveelheden van hetzelfde product. Laten we deze opties in detail "
+"bekijken."
+msgstr ""
+
+#: ../../docs/voorraad/productverpakkingen.rst:22
+msgid "Verpakkingen"
+msgstr ""
+
+#: ../../docs/voorraad/productverpakkingen.rst:23
+msgid ""
+"Zodra de functie *Verpakkingen* is geactiveerd vanuit het menu "
+"**Instellingen** vind je het submenu *Verpakkingen* onder het menu "
+"*Producten*. Hier kun je reeds aangemaakte pakketten bekijken."
+msgstr ""
+
+#: ../../docs/voorraad/productverpakkingen.rst:26
+msgid ""
+"Om een nieuwe verpakking aan te maken, kun je de knop *Nieuw* gebruiken. "
+"Dit opent een nieuw formulier zoals hieronder weergegeven."
+msgstr ""
+
+#: ../../docs/voorraad/productverpakkingen.rst:30
+msgid ""
+"In het veld verpakking referentie verschijnt een opvolgend nummer van de "
+"verpakking. Tevens kun je een verpakkingstype selecteren uit de "
+"beschikbare opties. Standaard is er geen type aanwezig. Bij het aanmaken "
+"heb je de mogelijkheid om een aantal gegevens in te stellen, zoals LxBXH,"
+" gewicht en max. gewicht. Ook kan een barcode gekoppeld worden."
+msgstr ""
+
+#: ../../docs/voorraad/productverpakkingen.rst:36
+msgid ""
+"Het tabblad **Inhoud** toont de producten die in dit pakket zitten. "
+"Wanneer je dit pakket gebruikt voor het verplaatsen van de voorraad, kunt"
+" u de details van het product, het lot/serienummer, de hoeveelheid en de "
+"maateenheid bekijken."
+msgstr ""
+
+#: ../../docs/voorraad/productverpakkingen.rst:39
+msgid ""
+"Bij het bevestigen van een levering order krijg je de optie om meerdere "
+"producten in één pakket te stoppen, zoals hieronder getoond."
+msgstr ""
+
+#: ../../docs/voorraad/productverpakkingen.rst:43
+msgid ""
+"Op het tabblad **Gedetailleerde bewerkingen** van de levering order vind "
+"je de optie *Inpakken*. Wanneer je op deze knop klikt, worden alle "
+"producten in de levering order samengevoegd in één pakket."
+msgstr ""
+
+#: ../../docs/voorraad/productverpakkingen.rst:46
+msgid ""
+"De knop *Verpakkingen* kan worden gebruikt om de inhoud van de "
+"bijbehorende levering order te bekijken."
+msgstr ""
+
+#: ../../docs/voorraad/productverpakkingen.rst:51
+msgid "Product verpakking"
+msgstr ""
+
+#: ../../docs/voorraad/productverpakkingen.rst:52
+msgid ""
+"De Productverpakking Functie wordt gebruikt om diverse hoeveelheden van "
+"identieke producten te verpakken. Binnen een enkele verpakking kunnen "
+"meerdere eenheden van hetzelfde artikel worden opgenomen. Om toegang te "
+"krijgen tot deze settings, navigeer je naar het **Configuratie-menu - "
+"productverpakkingen**."
+msgstr ""
+
+#: ../../docs/voorraad/productverpakkingen.rst:58
+msgid "Klik op *Nieuw* om een productverpakking aan te maken."
+msgstr ""
+
+#: ../../docs/voorraad/productverpakkingen.rst:62
+msgid ""
+"In dit overzicht kun je de naam van de verpakking invoeren in het "
+"daarvoor bestemde veld. Selecteer vervolgens het product dat je aan deze "
+"verpakking wilt koppelen in het Product-veld. Als je van plan bent deze "
+"verpakking te gebruiken in inkoop- en verkooporders, kun je "
+"respectievelijk de Inkoop- en Verkoop-velden activeren. Kies uit de "
+"beschikbare opties een geschikt verpakkingstype voor deze verpakking. "
+"Geef de hoeveelheid van het product in de verpakking op in het "
+"Hoeveelheid-veld. Stel eventueel een barcode in voor de identificatie van"
+" de verpakking."
+msgstr ""
+
+#: ../../docs/voorraad/productverpakkingen.rst:69
+msgid "Soort verpakking"
+msgstr ""
+
+#: ../../docs/voorraad/productverpakkingen.rst:71
+msgid ""
+"Voor het configureren van meerdere soorten verpakkingen, navigeer je naar"
+" het configuratiemenu en selecteer u de optie verpakkingstype. Dit opent "
+"een overzicht waarin de verschillende verpakkingstypes zijn "
+"geconfigureerd."
+msgstr ""
+
+#: ../../docs/voorraad/productverpakkingen.rst:74
+msgid "Klik op *Nieuw* om een nieuw verpakkingstype aan te maken."
+msgstr ""
+
+#: ../../docs/voorraad/productverpakkingen.rst:78
+msgid ""
+"Geef de naam van het verpakkingstype op in het daarvoor bestemde veld, "
+"samen met de bijbehorende afmetingen. Vul vervolgens de velden in met "
+"informatie zoals het gewicht van het pakkettype, het maximale gewicht dat"
+" het kan dragen en de eventuele barcode."
+msgstr ""

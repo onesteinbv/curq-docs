@@ -1,0 +1,158 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2025, Onestein
+# This file is distributed under the same license as the CURQ package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2025.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: CURQ \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-05-28 09:55+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: en\n"
+"Language-Team: en <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.17.0\n"
+
+#: ../../docs/algemeen/rapportages.rst:2
+msgid "Rapportages"
+msgstr ""
+
+#: ../../docs/algemeen/rapportages.rst:4
+msgid ""
+"Binnen CURQ kan in elke applicatie gebruik worden gemaakt van de "
+"rapportagefunctionaliteit. Binnen deze functie kan met verschillende "
+"opties in één oogopslag de opgevraagde informatie worden waargenomen. Dit"
+" kan bijvoorbeeld handig zijn voor het genereren van een diagram dat de "
+"omzet van het afgelopen jaar weergeeft, of het aantal gewerkte uren per "
+"werknemer per project. De rapportagefunctionaliteit biedt twee manieren "
+"om de informatie te bekijken: via een diagram of een draaitabel."
+msgstr ""
+
+#: ../../docs/algemeen/rapportages.rst:12
+msgid "Diagrammen"
+msgstr ""
+
+#: ../../docs/algemeen/rapportages.rst:14
+msgid ""
+"Via de diagramfunctionaliteit kan geselecteerde informatie worden "
+"weergegeven in verschillende diagrammen:"
+msgstr ""
+
+#: ../../docs/algemeen/rapportages.rst:16
+msgid "Staafdiagram"
+msgstr ""
+
+#: ../../docs/algemeen/rapportages.rst:17
+msgid "Lijndiagram"
+msgstr ""
+
+#: ../../docs/algemeen/rapportages.rst:18
+msgid "Taartdiagram"
+msgstr ""
+
+#: ../../docs/algemeen/rapportages.rst:20
+msgid ""
+"Bovendien kan de informatie worden geëxporteerd als een spreadsheet. "
+"Onder het staafdiagram kan de informatie op verschillende manieren worden"
+" weergegeven:"
+msgstr ""
+
+#: ../../docs/algemeen/rapportages.rst:23
+msgid ""
+"Gestapeld: wanneer deze functie is geactiveerd, worden de gegevens op "
+"elkaar gestapeld (bijvoorbeeld verschillende inkomsten van diverse "
+"producten). Uitgeschakeld toont de informatie naast elkaar."
+msgstr ""
+
+#: ../../docs/algemeen/rapportages.rst:25
+msgid "Aflopend: hier worden de gegevens van hoog naar laag weergegeven."
+msgstr ""
+
+#: ../../docs/algemeen/rapportages.rst:26
+msgid "Oplopend: hier worden de gegevens van laag naar hoog weergegeven."
+msgstr ""
+
+#: ../../docs/algemeen/rapportages.rst:30
+msgid ""
+"In het lijndiagram zijn de opties vergelijkbaar met die van het "
+"staafdiagram. De gestapelde optie wordt iets anders weergegeven onder het"
+" lijndiagram. Bij uitschakeling van de gestapelde optie worden de "
+"verschillende lijnen naast elkaar weergegeven. Ook is de optie voor "
+"cumulatief aanwezig, waarbij alle informatie aan elkaar wordt toegevoegd."
+msgstr ""
+
+#: ../../docs/algemeen/rapportages.rst:36
+msgid ""
+"De functie voor de taartdiagram heeft geen van deze opties. Onder de "
+"afmetingenknop zijn diverse methoden beschikbaar om de grafieken te "
+"interpreteren."
+msgstr ""
+
+#: ../../docs/algemeen/rapportages.rst:40
+msgid "Draaitabel"
+msgstr ""
+
+#: ../../docs/algemeen/rapportages.rst:42
+msgid ""
+"In de draaitabel kunnen snel en specifieke spreadsheets worden "
+"gegenereerd. De draaitabel is onderverdeeld in twee assen. Wanneer de "
+"totaalknop wordt geselecteerd, verschijnt een dropdownmenu met "
+"verschillende opties om de velden te selecteren waarin de spreadsheet "
+"wordt onderverdeeld."
+msgstr ""
+
+#: ../../docs/algemeen/rapportages.rst:48
+msgid "Linksboven in het schema zijn tevens enkele opties beschikbaar:"
+msgstr ""
+
+#: ../../docs/algemeen/rapportages.rst:50
+msgid "As wisselen: hier worden de verticale en horizontale assen omgewisseld."
+msgstr ""
+
+#: ../../docs/algemeen/rapportages.rst:51
+msgid "Alles uitvouwen: alle velden worden zo ver mogelijk uitgebreid."
+msgstr ""
+
+#: ../../docs/algemeen/rapportages.rst:52
+msgid "Download xlsx: spreadsheets kunnen hier worden geïmporteerd."
+msgstr ""
+
+#: ../../docs/algemeen/rapportages.rst:53
+msgid ""
+"Toevoegen aan spreadsheet: een pop-upmenu wordt weergegeven met "
+"verschillende opties:"
+msgstr ""
+
+#: ../../docs/algemeen/rapportages.rst:55
+msgid ""
+"Spreadsheet maken: genereert een spreadsheet die vervolgens geëxporteerd "
+"kan worden."
+msgstr ""
+
+#: ../../docs/algemeen/rapportages.rst:56
+msgid ""
+"Toevoegen aan spreadsheet: voegt de draaitabel toe aan een bestaande "
+"spreadsheet."
+msgstr ""
+
+#: ../../docs/algemeen/rapportages.rst:57
+msgid ""
+"Blad toevoegen aan spreadsheet: voegt de draaitabel toe aan een nieuw "
+"blad van een bestaande spreadsheet."
+msgstr ""
+
+#: ../../docs/algemeen/rapportages.rst:58
+msgid "Naar dashboard: voegt de draaitabel toe aan een geselecteerd dashboard."
+msgstr ""
+
+#: ../../docs/algemeen/rapportages.rst:59
+msgid ""
+"Naar dashboard van een nieuw blad: genereert een nieuwe spreadsheet en "
+"voegt deze toe aan een nieuw blad."
+msgstr ""
