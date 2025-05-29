@@ -1,0 +1,56 @@
+﻿=======================
+v16.012 and v16.0.13
+=======================
+
+
+Major Releases
+-------------------------
+
+
+**1) Operating Units**:
+
+We hebben functionaliteit geïntroduceerd voor het beheren van Operationele Eenheden.
+Als je bedrijf een complexe structuur heeft met verschillende afdelingen, merken of deelbedrijven,
+kun je deze specifieke onderdelen nu apart beheren en analyseren binnen CURQ.
+Zo kun je bijvoorbeeld nu specifieke winst- en verliesrekeningen en balansrapporten per operationele eenheid genereren,
+in plaats van één rapport voor het hele bedrijf. Gegevens van de ene OE zijn ook gescheiden van die van een andere,
+wat je duidelijk inzicht geeft in de prestaties van elk onderdeel van je bedrijf.
+
+**2) Mollie & iDeal 2.0**:
+
+We hebben onze iDeal-integratie geüpdatet naar iDeal 2.0, dankzij de recente update van Mollie.
+Dit maakt betalingen voor je klanten eenvoudiger en sneller,
+met nieuwe functies zoals het scannen van een QR-code met elke bankapp om te betalen.
+Gebruikers hoeven bovendien niet langer hun bank te selecteren, omdat klanten nu een profiel kunnen aanmaken en gebruiken binnen iDeal voor
+toekomstige betalingen. Al met al betekent dit een soepelere checkout voor je klanten en dat jij sneller betaald krijgt.
+
+**3) Netherlands & Germany Localization Updates**:
+
+Voor bedrijven die actief zijn in of werken met klanten in Nederland en Duitsland,
+zorgen deze updates ervoor dat je boekhouding en belastingrapportage volledig voldoen aan de nieuwste lokale regelgeving.
+We hebben aparte bundels gemaakt voor Nederland en Duitsland, zodat gebruikers de gewenste lokalisatie kunnen selecteren.
+
+Minor Releases
+--------------------
+
+
+**1) Membership Group History**
+
+We hebben de mogelijkheid toegevoegd om de geschiedenis van wijzigingen binnen je ledengroepen bij te houden en te bekijken.
+Dit betekent dat organisaties die de module Lidmaatschapsbeheer gebruiken nu een overzicht hebben van hoe hun ledengroepen
+in de loop van de tijd zijn veranderd. Dit is vooral handig voor communitymanagers,
+omdat zij nu beter inzicht hebben en eerdere wijzigingen gemakkelijk kunnen begrijpen.
+
+**2) PDF Document Indexation**
+
+PDF-bestanden die binnen CURQ worden geüpload, worden nu geïndexeerd.
+Dit betekent dat de inhoud van je PDF-bestanden nu doorzoekbaar is binnen CURQ, zodat gebruikers niet langer handmatig documenten
+hoeven door te nemen om specifieke informatie te vinden. Je kunt nu snel vinden wat je zoekt, wat je tijd en moeite bespaart.
+
+Fixes
+----------
+
+
+We hebben onze kernmodules voor gegevensopslag verbeterd voor betere prestaties en stabiliteit.
+Daarnaast hebben we de logging voor e-mailverzendproblemen uitgebreid,
+waardoor we eventuele problemen met e-mailbezorging sneller en effectiever kunnen opsporen en oplossen.

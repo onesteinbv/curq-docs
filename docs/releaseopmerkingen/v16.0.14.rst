@@ -1,0 +1,18 @@
+﻿V16.0.14 - Reserveringssysteem
+----------------------------------
+
+Dit reserveringssysteem is ontworpen om het beheer en de planning van middelen te vereenvoudigen door een flexibele,
+geautomatiseerde en gebruiksvriendelijke ervaring te bieden. Of het nu via de backend of een partnerportaal gebeurt,
+gebruikers kunnen eenvoudig de beschikbaarheid bekijken, reserveringen maken en planningen beheren met minimale inspanning.
+
+Belangrijkste functionaliteiten:
+  • Definieer het type reservering met een kalender die beschikbaarheid toont
+  • Reserveer meerdere middelen tegelijk (alleen als ze allemaal beschikbaar zijn)
+  • Maak voorlopige reserveringen zodat anderen een tijdslot kunnen kiezen
+  • Klanten kunnen reserveren via hun portaal
+  • Tokenized URL’s geven toegang tot reserveringen voor Klanten zonder gebruikersaccount
+  • Backend-gebruikers kunnen reserveringen rechtstreeks vanuit de backend beheren
+  • Automatische reserveringscyclus met berekende statussen
+  • Automatisch aanmaken en verwijderen van vergaderingen
+  • Ingebouwde conflictdetectie bij overlappende reserveringen
+  • Stel deadlines in om verdere wijzigingen te blokkeren

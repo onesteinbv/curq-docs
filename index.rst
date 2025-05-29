@@ -1,5 +1,5 @@
-CURQ
-====
+﻿CURQ
+======
 
 .. toctree::
     :maxdepth: 2
@@ -24,7 +24,10 @@ CURQ
     docs/spreadsheets/index
     docs/marketing/emailmarketing
     docs/emailmarketing/externe-spam-filtering
-
+    docs/operationeleeenheid/operationeleeenheid
+    docs/reserveringssysteem/index
+    docs/releaseopmerkingen/index
+       
 Supportvragen CURQ
 ------------------
 
