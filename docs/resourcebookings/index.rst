@@ -1,5 +1,5 @@
 .. toctree::
     :maxdepth: 2
 
-    Resource Bookings
+    Reserveringen van Middelen
     Reservering van middelen in e-commerce
