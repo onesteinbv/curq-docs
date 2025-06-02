@@ -1,13 +1,4 @@
-**Hoi CURQ-community!**,
-
-We zijn hard aan het werk geweest om **CURQ** zo goed mogelijk te maken, en we zijn blij om de release van versies 16.0.12 en 16.0.13 aan te kondigen. Deze updates variëren van kleine verbeteringen tot drie belangrijke nieuwe functies, allemaal ontworpen om het beheer van je bedrijf nog eenvoudiger te maken. We hebben de wijzigingen onderverdeeld in Grote Releases, Kleine Releases en Oplossingen, zodat je in één oogopslag ziet wat er nieuw is. Laten we beginnen.
-
 **Major Releases**
-
-
-
-
-
 
 Operating Units:
 
@@ -34,6 +25,4 @@ PDF-bestanden die binnen CURQ worden geüpload, worden nu geïndexeerd. Dit bete
 Fixes
 
 We hebben onze kernmodules voor gegevensopslag verbeterd voor betere prestaties en stabiliteit. Daarnaast hebben we de logging voor e-mailverzendproblemen uitgebreid, waardoor we eventuele problemen met e-mailbezorging sneller en effectiever kunnen opsporen en oplossen.
-
-
 
