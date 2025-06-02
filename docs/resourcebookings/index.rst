@@ -2,4 +2,4 @@
     :maxdepth: 2
 
     Resource Bookings
-    16.0.14
+    Reservering van middelen in e-commerce
