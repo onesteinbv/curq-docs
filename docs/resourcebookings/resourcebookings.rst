@@ -24,7 +24,7 @@ Belangrijkste functionaliteiten:
 • Ga naar het tabblad Toegangsrechten.
 • Wijs de rol toe: Resource Booking > User.
 
-.. image:: media/reservations001.png
+.. image:: media/resourcebookings001.png
 
 **1.2 Om een backendgebruiker toe te staan boekingstypen en combinaties te configureren en achterstallige boekingen te wijzigen:**
 
@@ -33,7 +33,7 @@ Belangrijkste functionaliteiten:
 3. Ga naar het tabblad Toegangsrechten.
 4. Wijs de rol toe: Resource Booking > Manage.
 
-.. image:: media/reservations002.png
+.. image:: media/resourcebookings002.png
 
 **2) Vergadertypen configureren**
 
@@ -64,7 +64,7 @@ Deze waarden worden gebruikt wanneer automatisch een vergadering wordt aangemaak
 • **Beschikbare Middelencombinaties**: Stel combinaties van middelen in die tegelijk beschikbaar moeten zijn voor de boeking.
 • Klik op **Opslaan**.
 
-.. image:: media/reservations003.png
+.. image:: media/resourcebookings003.png
 
 **3) Boekingen aanmaken**
 
@@ -90,7 +90,7 @@ Deze waarden worden gebruikt wanneer automatisch een vergadering wordt aangemaak
 
 "**Deze boeking heeft de wijzigingsdeadline overschreden.**"
 
-.. image:: media/reservations004.png
+.. image:: media/resourcebookings004.png
 
 **3.2. Iemand uitnodigen om een middelencombinatie te reserveren via het portaal**
 
@@ -102,12 +102,12 @@ Met deze methode kunnen interne gebruikers een boekingsuitnodiging sturen naar e
 2. Selecteer het gewenste boekingstype (bijv. "Vergadering")
 3. Klik op de slimme knop **Aantal Boekingen** (Booking Count) om de bestaande boekingen te bekijken
 
-.. image:: media/reservations005.png
+.. image:: media/resourcebookings005.png
 
 4. Schakel over naar **Lijstweergave** door op het lijstpictogram rechtsboven te klikken
 5. Klik op **Aanmaken** om een nieuw boekingsformulier te openen
 
-.. image:: media/reservations006.png
+.. image:: media/resourcebookings006.png
 
 6. Vul de volgende gegevens in:
         ◦ **Aanvrager**: Voer de persoon in die je uitnodigt
@@ -121,14 +121,14 @@ Met deze methode kunnen interne gebruikers een boekingsuitnodiging sturen naar e
 9. Voeg indien nodig **notities** toe in de pop-up (optioneel)
 10. Je kunt ook de **boekingslink kopiëren** vanuit de pop-up en deze handmatig met de gebruiker delen
 
-.. image:: media/reservations007.png
+.. image:: media/resourcebookings007.png
 
-.. image:: media/reservations008.png
+.. image:: media/resourcebookings008.png
 
 11. De aanvrager ontvangt een e-mail met een link om de vergadergegevens te bekijken.
 
-.. image:: media/reservations009.png
+.. image:: media/resourcebookings009.png
 
 **Opmerking**: Als de aanvrager geen portaaltoegang heeft, wordt er een getokeniseerde link gegenereerd om de vergadergegevens te bekijken.
 
-.. image:: media/reservations010.png
+.. image:: media/resourcebookings010.png
