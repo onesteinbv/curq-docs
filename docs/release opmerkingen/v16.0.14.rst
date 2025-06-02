@@ -1,5 +1,1 @@
-Resource bookings:
-------------------
-
-Dit reserveringssysteem is ontworpen om het beheer en de planning van middelen te vereenvoudigen door een flexibele, geautomatiseerde en gebruiksvriendelijke ervaring te bieden. Of het nu via de backend of een partnerportaal gebeurt, gebruikers kunnen eenvoudig de beschikbaarheid bekijken, reserveringen maken en planningen beheren met minimale inspanning.
 
