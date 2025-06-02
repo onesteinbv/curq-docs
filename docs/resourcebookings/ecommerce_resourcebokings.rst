@@ -24,11 +24,9 @@ image
 2. Open een bestaand product of klik op **Nieuw** om een nieuw product aan te maken.
 3. Ga naar het tabblad **Verkoop** van het productformulier.
 4. Onder de sectie **Resource Bookings**:
-        ◦ Selecteer het Booking Type dat je eerder hebt aangemaakt.
-
-        ◦ Selecteer een Resource Combination om specifieke middelen automatisch toe te wijzen. (Optioneel)
-
-        ◦ Stel de Pre-booking Timeout (in hours): dit bepaalt hoe ver van tevoren gebruikers een tijdslot kunnen reserveren (bijvoorbeeld 2 uur betekent dat ze minimaal 2 uur voor de starttijd moeten boeken).
+        - Selecteer het Booking Type dat je eerder hebt aangemaakt.
+        - Selecteer een Resource Combination om specifieke middelen automatisch toe te wijzen. (Optioneel)
+        - Stel de Pre-booking Timeout (in hours): dit bepaalt hoe ver van tevoren gebruikers een tijdslot kunnen reserveren (bijvoorbeeld 2 uur betekent dat ze minimaal 2 uur voor de starttijd moeten boeken).
 
 5. Sla het product op.
 
@@ -59,7 +57,6 @@ image
 Image
 
 4. Een Confirm Booking pop-upvenster verschijnt. 
-
         - Voer de n Name en het Email in van de persoon die van de dienst gebruik zal maken.
         - Klik Confirm Booking.
         - Je kunt ook Cancel op dit moment als je nog niet wilt reserveren.
