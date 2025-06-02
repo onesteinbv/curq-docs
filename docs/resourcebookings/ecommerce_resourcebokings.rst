@@ -16,7 +16,7 @@ Om klanten in staat te stellen om middelen vooraf te reserveren via je e-commerc
 3. Vul de vereiste velden in, zoals **name, **duration**, **availability** **calendar**, etc.
 4. Sla de booking type.
 
-image
+.. image:: media/ecommerce_resourcebookings001.png
 
 **Stap 2: Maak een product aan of configureer het**
 
@@ -30,51 +30,51 @@ image
 
 5. Sla het product op.
 
-Image
+.. image:: media/ecommerce_resourcebookings002.png
 
 **Stap 3: Bekijk het product op je e-commercewebsite**
 
 1. Klik in het productformulier op de slimme knop **Ga naar website**.
 
-image
+.. image:: media/ecommerce_resourcebookings003.png
 
 2. Hierdoor wordt de e-commercepagina van het product geopend.
         - De informatie over de vooraf reserveringstijdslimiet wordt hier weergegeven.
 
 3. Klik Add to Cart.
 
-Image
+.. image:: media/ecommerce_resourcebookings004.png
 
 **Stap 4: Afrekenen en het tijdslot vooraf reserveren**
 
 1. Klik op de **Cart** icon en klik dan op **Process Checkout**
 
-image
+.. image:: media/ecommerce_resourcebookings005.png
 
 2. Er verschijnt een kalenderinterface die beschikbare tijdsloten toont.
 3. Selecteer de gewenste datum en tijd.
 
-Image
+.. image:: media/ecommerce_resourcebookings006.png
 
 4. Een Confirm Booking pop-upvenster verschijnt. 
         - Voer de n Name en het Email in van de persoon die van de dienst gebruik zal maken.
         - Klik Confirm Booking.
         - Je kunt ook Cancel op dit moment als je nog niet wilt reserveren.
 
-image
+.. image:: media/ecommerce_resourcebookings007.png
 
 **Stap 5: Rond de bestelling af**
 
 1. Ga verder om de **Shipping en Billing Address**.
 
-image
+.. image:: media/ecommerce_resourcebookings008.png
 
 2. Kies een betaalmethode en voltooi de bestelling.
        Opmerking: Zorg ervoor dat de betaling is gedaan voordat de voorafgaande reserveringen verlopen.
 
 3. Voor elk proces worden de stappen hier op de afrekenpagina dienovereenkomstig bijgewerkt.
 
-image
+.. image:: media/ecommerce_resourcebookings009.png
 
 Dit proces stelt je in staat om diensten of productgebaseerde middelen aan te bieden met **geautomatiseerde reservering** tijdens het online verkoopproces, waardoor een soepele ervaring ontstaat voor zowel jou als je klanten.
        
