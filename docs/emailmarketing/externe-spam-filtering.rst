@@ -1,8 +1,8 @@
-Big Tech Spamfiltering
-======================
+﻿Big Tech spamfiltering
+==========================
 
 1) Inleiding
-------------
+--------------
 
 In de digitale wereld van vandaag zijn grote technologiebedrijven zoals **Google**, **Microsoft**, **Meta** en **Yahoo** de
 poortwachters geworden van online communicatie. Hun strikte spamregels, door AI aangestuurde filtersystemen en verborgen
