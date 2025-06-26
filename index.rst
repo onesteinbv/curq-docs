@@ -23,6 +23,9 @@
     docs/dashboards/dashboards
     docs/spreadsheets/index
     docs/emailmarketing/index
+    docs/operationeleeenheid/operationeleeenheid
+    docs/reserveringssysteem/index
+    docs/releaseopmerkingen/index
 
 Supportvragen CURQ
 ------------------
