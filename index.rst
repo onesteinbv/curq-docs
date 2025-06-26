@@ -1,5 +1,9 @@
 ﻿CURQ
+<<<<<<< release-16.0.14
 ======
+=======
+=========
+>>>>>>> main
 
 .. toctree::
     :maxdepth: 2
@@ -22,12 +26,17 @@
     docs/chat/chat
     docs/dashboards/dashboards
     docs/spreadsheets/index
+<<<<<<< release-16.0.14
     docs/marketing/emailmarketing
     docs/emailmarketing/externe-spam-filtering
     docs/operationeleeenheid/operationeleeenheid
     docs/reserveringssysteem/index
     docs/releaseopmerkingen/index
        
+=======
+    docs/emailmarketing/index
+
+>>>>>>> main
 Supportvragen CURQ
 ------------------
 
