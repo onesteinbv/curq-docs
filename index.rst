@@ -1,5 +1,5 @@
-﻿CURQ
-=========
+CURQ
+====
 
 .. toctree::
     :maxdepth: 2
@@ -23,6 +23,8 @@
     docs/dashboards/dashboards
     docs/spreadsheets/index
     docs/emailmarketing/index
+    docs/operationeleeenheid/operationeleeenheid
+    docs/reserveringssysteem/index
 
 Supportvragen CURQ
 ------------------
