@@ -1,5 +1,5 @@
-﻿CURQ
-=========
+CURQ
+====
 
 .. toctree::
     :maxdepth: 2
