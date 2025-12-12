@@ -1,0 +1,3 @@
+sphinx-intl
+furo
+sphinx-multiversion

@@ -1,0 +1,5 @@
+build
+.idea
+.venv
+.vscode
+*.mo
