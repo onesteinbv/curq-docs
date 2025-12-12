@@ -3,7 +3,7 @@ name: ci
 on:
   push:
     branches:
-      - "main"
+      - "16.0"
     paths:
       - "Dockerfile"
       - "requirements.txt"
