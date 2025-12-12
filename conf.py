@@ -30,3 +30,4 @@ html_show_sphinx = False
 html_show_copyright = True
 html_show_sourcelink = False
 globaltoc_collapse = True
+smv_branch_whitelist = r'^(16\.0|18\.0)$'
