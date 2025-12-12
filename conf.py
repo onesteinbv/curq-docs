@@ -18,6 +18,9 @@ html_static_path = ["static"]
 html_css_files = ["custom.css"]
 html_theme_options = {
     "sidebar_hide_name": True,
+    "source_repository": "https://github.com/onesteinbv/curq-docs/",
+    "source_branch": "main",
+    "source_directory": "/",
 }
 html_logo = "logo.png"
 html_favicon = "favicon.png"
