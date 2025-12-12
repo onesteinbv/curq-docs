@@ -25,6 +25,15 @@ html:
 	cp -r $(BUILDDIR)/html/$(LATEST_VERSION)/* "$(BUILDDIR)/html"
 	cp -r $(BUILDDIR)/html/en/$(LATEST_VERSION)/* "$(BUILDDIR)/html/en"
 
+
+.PHONY: runboat Makefile
+runboat:
+	rm -rf "$(BUILDDIR)"/*;
+	@$(SPHINXBUILD) -M html "$(SOURCEDIR)" "$(BUILDDIR)/nl" $(SPHINXOPTS) -D language="nl" $(O)
+	@$(SPHINXBUILD) -M html "$(SOURCEDIR)" "$(BUILDDIR)/en" $(SPHINXOPTS) -D language="en" $(O)
+	mv "$(BUILDDIR)/nl/html" "$(BUILDDIR)/html"
+	mv "$(BUILDDIR)/en/html" "$(BUILDDIR)/html/en"
+
 .PHONY: update-po Makefile
 update-po:
 	$(MAKE) gettext && sphinx-intl update -p $(BUILDDIR)/gettext -l en -j 1
