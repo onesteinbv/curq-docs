@@ -2,7 +2,9 @@ project = "CURQ"
 copyright = "2025, Onestein"
 author = "Onestein"
 
-extensions = []
+extensions = [
+    "sphinx_multiversion"
+]
 
 templates_path = ["templates"]
 exclude_patterns = [".venv", "build"]

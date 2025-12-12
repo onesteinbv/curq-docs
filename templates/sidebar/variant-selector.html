@@ -1,3 +1,11 @@
 <div class="language-switcher">
     <a href="/">Dutch</a> / <a href="/en">English</a>
 </div>
+
+{% if versions %}
+<div class="version-switcher">
+  {%- for item in versions %}
+  <a href="{{ item.url }}">{{ item.name }}</a>
+  {%- endfor %}
+</div>
+{% endif %}

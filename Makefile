@@ -1,8 +1,10 @@
 SPHINXOPTS    ?=
 SPHINXBUILD   ?= sphinx-build
+SPHINX_MULTIVERSION ?= sphinx-multiversion
 SOURCEDIR     = .
 BUILDDIR      = build
 LOCALEDIR     = locale
+LATEST_VERSION = 16.0
 
 .PHONY: help Makefile
 help:
@@ -16,10 +18,12 @@ serve:
 .PHONY: html Makefile
 html:
 	rm -rf "$(BUILDDIR)"/*;
-	@$(SPHINXBUILD) -M html "$(SOURCEDIR)" "$(BUILDDIR)/nl" $(SPHINXOPTS) -D language="nl" $(O)
-	@$(SPHINXBUILD) -M html "$(SOURCEDIR)" "$(BUILDDIR)/en" $(SPHINXOPTS) -D language="en" $(O)
-	mv "$(BUILDDIR)/nl/html" "$(BUILDDIR)/html"
-	mv "$(BUILDDIR)/en/html" "$(BUILDDIR)/html/en"
+	@$(SPHINX_MULTIVERSION) "$(SOURCEDIR)" "$(BUILDDIR)/nl" $(SPHINXOPTS) -D language="nl" $(O)
+	@$(SPHINX_MULTIVERSION) "$(SOURCEDIR)" "$(BUILDDIR)/en" $(SPHINXOPTS) -D language="en" $(O)
+	mv "$(BUILDDIR)/nl" "$(BUILDDIR)/html"
+	mv "$(BUILDDIR)/en" "$(BUILDDIR)/html/en"
+	cp -r $(BUILDDIR)/html/$(LATEST_VERSION)/* "$(BUILDDIR)/html"
+	cp -r $(BUILDDIR)/html/en/$(LATEST_VERSION)/* "$(BUILDDIR)/html/en"
 
 .PHONY: update-po Makefile
 update-po:
